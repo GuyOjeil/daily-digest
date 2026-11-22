@@ -1,90 +1,38 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-22T20:16:11.781073+00:00  
+**Generated:** 2026-11-22T20:18:38.776955+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 28 · **High-signal candidates:** 0 · **Sources reporting:** 6
+**Distinct events:** 11 · **High-signal candidates:** 0 · **Sources reporting:** 2
 
 ## Executive brief
 
-The highest-ranked developments in this 24-hour window concentrate on Tech News (3), Energy Storage (2), Control and Automation (2), Semiconductors (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in this 24-hour window concentrate on Energy Storage (7), Renewable Energy (3). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
-### [Adafruit Weekly Editorial Round-Up: Can a Tek oscilloscope read Adabot’s mind? Adafruit LT8912B DSI to DVI Converter & More!](https://blog.adafruit.com/2026/11/22/adafruit-weekly-editorial-round-up-can-a-tek-oscilloscope-read-adabots-mind-adafruit-lt8912b-dsi-to-dvi-converter-more)
-
-**Tech News · Other developments · Score 8 · Adafruit Blog**
-
-ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. Can a Tek oscil
-
-### [TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes](https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips)
-
-**Semiconductors · Other developments · Score 8 · Tom's Hardware**
-
-The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.
-
-### [Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis](https://www.tomshardware.com/laptops/lenovo-pro-9n-review)
-
-**Energy Storage · Other developments · Score 7 · Tom's Hardware**
-
-The Lenovo Pro 9n is a lighter alternative to the Surface Laptop Ultra, offering a vivid OLED panel and lots of ports, though it shares similar weaknesses, like battery life.
-
 ### [Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery](https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery)
 
-**Tech News · Other developments · Score 7 · Electrek**
+**Energy Storage · Other developments · Score 7 · Electrek**
 
 For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…
 
 ### [Ford Begins Producing Its Own LFP Batteries](https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/)
 
-**Renewable Energy · Other developments · Score 7 · CleanTechnica**
+**Renewable Energy · Other developments · Score 6 · CleanTechnica**
 
 Ford is now a battery producer. Yes, it’s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles. In fact, it is reportedly doing so in a really fast, advanced way. “The BlueOval Battery Park Michigan assembly   ... [continued] T
 
-### [Sean Hodgins’ holographic Christmas tree](https://blog.adafruit.com/2026/11/22/sean-hodgins-holographic-christmas-tree)
+### [Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE](https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales)
 
-**Tech News · Other developments · Score 6 · Adafruit Blog**
+**Energy Storage · Other developments · Score 5 · Electrek**
 
-Do not attempt this project under any circumstances, Via Raspberrypi We weren’t planning on blogging between last week and Christmas, but then Sean Hodgins went and made this, and it would be unseasonably churlish of us not to share, especially given how much personal danger he put himself in while 
+As a red wave of Chinese-built electric vehicles breaks over Europe and Canada, Xiaomi is selling its electric cars outside of China for the first time ever – and its starting its push for global growth with the UAE in 2027. more…
 
-### [An under-desk headphone hanger with three charging ports (up to 20W) for less than $10](https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023)
+### [11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)](https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with)
 
-**Energy Storage · Other developments · Score 5 · Tom's Hardware**
+**Energy Storage · Other developments · Score 4 · Electrek**
 
-With two hanging hooks, notches for six cables and 20W of charging, Cozoo's quirky combo device has been a useful addition to my standing desk since 2023.
-
-### [Building a Single-Chip USB GPU](https://hackaday.com/2026/11/22/building-a-single-chip-usb-gpu)
-
-**Electronics · Other developments · Score 5 · Hackaday**
-
-Considering how powerful they’ve become and how many other tasks they’ve been repurposed for, it’s easy to forget that a GPU’s primary purpose is to generate graphics. With this definition …read more
-
-### [Maker builds Mad Max-inspired wall of 100 Noctua PC fans](https://www.tomshardware.com/pc-components/case-fans/maker-builds-mad-max-inspired-wall-of-100-noctua-pc-fans-stress-tests-usd2-355-open-source-openfan-xl-controller)
-
-**Control and Automation · Other developments · Score 5 · Tom's Hardware**
-
-A wall of 100 Noctua PC fans was built by maker Sasa Karanovic because "why not" and to demo his new OpenFAN XL fan controller.
-
-### [Neuralink trial participant ditches mouth stick to play GTA 6 with his mind](https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller)
-
-**Control and Automation · Other developments · Score 5 · Tom's Hardware**
-
-This is one of the most complicated games yet to be played using Neuralink, with the patient using imagined movements like tapping a finger or sliding a hand to simulate commands on the PS5 controller.
-
-## Renewable Energy — 4 distinct findings, 0 high-signal
-
-4 distinct renewable energy developments appeared in the last 24 hours. Highest-ranked topics: Ford Begins Producing Its Own LFP Batteries; Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!; The Insurance Affordability Crisis: Risks, Resilience, and Solutions. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [Ford Begins Producing Its Own LFP Batteries](https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/)
-
-**Renewable Energy · Other developments · Score 7 · CleanTechnica**
-
-Ford is now a battery producer. Yes, it’s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles. In fact, it is reportedly doing so in a really fast, advanced way. “The BlueOval Battery Park Michigan assembly   ... [continued] T
-
-### [Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!](https://cleantechnica.com/2026/11/21/who-needs-automatic-driving-you-love-to-drive-however-for-many-handicapped-teslas-full-self-driving-is-the-only-option-its-use-it-or-dont-drive/)
-
-**Renewable Energy · Other developments · Score 5 · CleanTechnica**
-
-Editor’s note: In my opinion, a person should not be using Tesla FSD to drive somewhere if they aren’t capable of driving the trip fully themselves. Fritz makes the argument here that it is easier to supervise FSD and that is why someone with a handicap can use it when   ... [continued] The post Who
+An 83 year old Congressional representative who sent an embarrassing letter to a well-meaning 10 year old constituent on the topic of electric cars and climate change, where she seems to brag about saddling his generation with debt through a recent climate rollback she voted for, has lost her seat. 
 
 ### [The Insurance Affordability Crisis: Risks, Resilience, and Solutions](https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/)
 
@@ -92,97 +40,79 @@ Editor’s note: In my opinion, a person should not be using Tesla FSD to drive 
 
 NRDC resources on insurance affordability, market availability, climate risk, resilience investments, and strategies to protect homeowners, businesses, and communities. For property owners, insurance provides a critical financial safety net that protects homes, businesses, and other assets from unex
 
-## Energy Storage — 2 distinct findings, 0 high-signal
+### [Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery](https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/)
 
-2 distinct energy storage developments appeared in the last 24 hours. Highest-ranked topics: Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis; An under-desk headphone hanger with three charging ports (up to 20W) for less than $10. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Renewable Energy · Other developments · Score 4 · CleanTechnica**
 
-### [Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis](https://www.tomshardware.com/laptops/lenovo-pro-9n-review)
+The incoming US Congress plans to call Elon Musk to account for manipulating SpaceX satellite services in Ukraine, crippling that country's ability to defend itself against Russian attacks. The post Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery appeared first on CleanTechn
 
-**Energy Storage · Other developments · Score 7 · Tom's Hardware**
+### [From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover](https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover)
 
-The Lenovo Pro 9n is a lighter alternative to the Surface Laptop Ultra, offering a vivid OLED panel and lots of ports, though it shares similar weaknesses, like battery life.
+**Energy Storage · Other developments · Score 4 · Electrek**
 
-### [An under-desk headphone hanger with three charging ports (up to 20W) for less than $10](https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023)
+The Illinois Clean Ports Program is putting $104 million behind efforts to help clean up its working waterfronts, funds earmarked for heavy-duty electric equipment assets that includes forklifts, giant reach stackers, switcher locomotives, and the charging equipment needed to support them. There’s e
 
-**Energy Storage · Other developments · Score 5 · Tom's Hardware**
+### [E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane](https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane)
 
-With two hanging hooks, notches for six cables and 20W of charging, Cozoo's quirky combo device has been a useful addition to my standing desk since 2023.
+**Energy Storage · Other developments · Score 4 · Electrek**
 
-## Control and Automation — 2 distinct findings, 0 high-signal
+Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last few months proving itself at NMG Italia’s job sites, where it’s been handling heavy loads in tight industrial spaces and improving efficiency by 50%. And now, you can buy on
 
-2 distinct control and automation developments appeared in the last 24 hours. Highest-ranked topics: Maker builds Mad Max-inspired wall of 100 Noctua PC fans; Neuralink trial participant ditches mouth stick to play GTA 6 with his mind. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+### [Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck](https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck)
 
-### [Maker builds Mad Max-inspired wall of 100 Noctua PC fans](https://www.tomshardware.com/pc-components/case-fans/maker-builds-mad-max-inspired-wall-of-100-noctua-pc-fans-stress-tests-usd2-355-open-source-openfan-xl-controller)
+**Energy Storage · Other developments · Score 4 · Electrek**
 
-**Control and Automation · Other developments · Score 5 · Tom's Hardware**
+The last time Hyundai announced a new work truck was 22 years ago, and the Hyundai Porter has proven itself as a dependable workhorse throughout Korea and Southeast Asia – but only the pyramids and the Chevy Express can last forever. Hyundai is reportedly getting ready to pull the wraps off an all-n
 
-A wall of 100 Noctua PC fans was built by maker Sasa Karanovic because "why not" and to demo his new OpenFAN XL fan controller.
+### [Here are 7 great reasons rural drivers SHOULD embrace EVs in 2027](https://electrek.co/2026/11/21/here-are-6-great-reasons-rural-drivers-should-embrace-evs-in-2026)
 
-### [Neuralink trial participant ditches mouth stick to play GTA 6 with his mind](https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller)
+**Energy Storage · Other developments · Score 4 · Electrek**
 
-**Control and Automation · Other developments · Score 5 · Tom's Hardware**
+America’s heartland is full of rural communities that are miles away from its major cities, both geographically and culturally – but that doesn’t mean these more sparsely populated regions can’t reap the benefits of electrification. In fact, EVs offer rural drivers even more benefits than they do to
 
-This is one of the most complicated games yet to be played using Neuralink, with the patient using imagined movements like tapping a finger or sliding a hand to simulate commands on the PS5 controller.
+## Renewable Energy — 4 distinct findings, 0 high-signal
 
-## Electronics — 8 distinct findings, 0 high-signal
+4 distinct renewable energy developments appeared in the last 24 hours. Highest-ranked topics: Ford Begins Producing Its Own LFP Batteries; The Insurance Affordability Crisis: Risks, Resilience, and Solutions; Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-8 distinct electronics developments appeared in the last 24 hours. Highest-ranked topics: Building a Single-Chip USB GPU; Energy companies deploy drones that can be recharged by straddling power lines; Quick WIFI Adapter Through USB. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+### [Ford Begins Producing Its Own LFP Batteries](https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/)
 
-### [Building a Single-Chip USB GPU](https://hackaday.com/2026/11/22/building-a-single-chip-usb-gpu)
+**Renewable Energy · Other developments · Score 6 · CleanTechnica**
 
-**Electronics · Other developments · Score 5 · Hackaday**
+Ford is now a battery producer. Yes, it’s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles. In fact, it is reportedly doing so in a really fast, advanced way. “The BlueOval Battery Park Michigan assembly   ... [continued] T
 
-Considering how powerful they’ve become and how many other tasks they’ve been repurposed for, it’s easy to forget that a GPU’s primary purpose is to generate graphics. With this definition …read more
+### [The Insurance Affordability Crisis: Risks, Resilience, and Solutions](https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/)
 
-### [Energy companies deploy drones that can be recharged by straddling power lines](https://www.tomshardware.com/tech-industry/drones/energy-companies-deploy-drones-that-can-be-recharged-by-straddling-power-lines-nomad-quadcopter-drones-can-monitor-the-grid-without-ever-returning-home)
+**Renewable Energy · Other developments · Score 4 · CleanTechnica**
 
-**Electronics · Other developments · Score 5 · Tom's Hardware**
+NRDC resources on insurance affordability, market availability, climate risk, resilience investments, and strategies to protect homeowners, businesses, and communities. For property owners, insurance provides a critical financial safety net that protects homes, businesses, and other assets from unex
 
-NOMADs are drones that can land on live high-voltage lines, charge from the line itself and relocate ready for their next task.
+### [Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery](https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/)
 
-### [Quick WIFI Adapter Through USB](https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb)
+**Renewable Energy · Other developments · Score 4 · CleanTechnica**
 
-**Electronics · Other developments · Score 5 · Hackaday**
+The incoming US Congress plans to call Elon Musk to account for manipulating SpaceX satellite services in Ukraine, crippling that country's ability to defend itself against Russian attacks. The post Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery appeared first on CleanTechn
 
-There’s breaking news! Quick, check your computer and look it up! What? Your computer doesn’t have internet right now because its WiFi chip fried itself? Well, it’s a good thing …read more
+## Energy Storage — 7 distinct findings, 0 high-signal
 
-## Semiconductors — 2 distinct findings, 0 high-signal
-
-2 distinct semiconductors developments appeared in the last 24 hours. Highest-ranked topics: TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes; Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes](https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips)
-
-**Semiconductors · Other developments · Score 8 · Tom's Hardware**
-
-The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.
-
-### [Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults](https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee)
-
-**Semiconductors · Other developments · Score 5 · Tom's Hardware**
-
-The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.
-
-## Tech News — 10 distinct findings, 0 high-signal
-
-10 distinct tech news developments appeared in the last 24 hours. Highest-ranked topics: Adafruit Weekly Editorial Round-Up: Can a Tek oscilloscope read Adabot’s mind? Adafruit LT8912B DSI to DVI Converter & More!; Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery; Sean Hodgins’ holographic Christmas tree. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [Adafruit Weekly Editorial Round-Up: Can a Tek oscilloscope read Adabot’s mind? Adafruit LT8912B DSI to DVI Converter & More!](https://blog.adafruit.com/2026/11/22/adafruit-weekly-editorial-round-up-can-a-tek-oscilloscope-read-adabots-mind-adafruit-lt8912b-dsi-to-dvi-converter-more)
-
-**Tech News · Other developments · Score 8 · Adafruit Blog**
-
-ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. Can a Tek oscil
+7 distinct energy storage developments appeared in the last 24 hours. Highest-ranked topics: Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery; Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE; 11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.). These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery](https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery)
 
-**Tech News · Other developments · Score 7 · Electrek**
+**Energy Storage · Other developments · Score 7 · Electrek**
 
 For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…
 
-### [Sean Hodgins’ holographic Christmas tree](https://blog.adafruit.com/2026/11/22/sean-hodgins-holographic-christmas-tree)
+### [Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE](https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales)
 
-**Tech News · Other developments · Score 6 · Adafruit Blog**
+**Energy Storage · Other developments · Score 5 · Electrek**
 
-Do not attempt this project under any circumstances, Via Raspberrypi We weren’t planning on blogging between last week and Christmas, but then Sean Hodgins went and made this, and it would be unseasonably churlish of us not to share, especially given how much personal danger he put himself in while 
+As a red wave of Chinese-built electric vehicles breaks over Europe and Canada, Xiaomi is selling its electric cars outside of China for the first time ever – and its starting its push for global growth with the UAE in 2027. more…
+
+### [11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)](https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with)
+
+**Energy Storage · Other developments · Score 4 · Electrek**
+
+An 83 year old Congressional representative who sent an embarrassing letter to a well-meaning 10 year old constituent on the topic of electric cars and climate change, where she seems to brag about saddling his generation with debt through a recent climate rollback she voted for, has lost her seat. 
 
 ---
 
