@@ -1,18 +1,34 @@
 {
-  "generated": "2026-11-22T20:51:17.063807+00:00",
+  "generated": "2026-11-22T21:08:19.031604+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-21T20:51:17.063807+00:00",
+  "window_start": "2026-11-21T21:08:19.031604+00:00",
   "stats": {
-    "events": 2,
+    "events": 3,
     "high": 0,
-    "sources_reporting": 2,
+    "sources_reporting": 3,
     "categories": 2,
-    "records_inserted": 0,
+    "records_inserted": 1,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
   },
   "top": [
+    {
+      "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
+      "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
+      "source": "Solar Power World",
+      "category": "Renewable Energy",
+      "published": "2026-11-22T20:55:11+00:00",
+      "summary": "DTE Energy recently announced plans to add up to 150 megawatts of new solar energy in Michigan, a move that will create construction jobs, support local communities, and save customers money on fuel costs, the company said. In addition, because solar generation does not require fuel, the new projects will help reduce the company’s exposure… The post DTE Energy plans up to 150 megawatts of Michigan-based solar generation appeared first on Solar Power World .",
+      "score": 8,
+      "priority": "Other developments",
+      "interests": [
+        "Power Systems",
+        "Renewable Energy"
+      ],
+      "event_id": "9a0257cd6dd6",
+      "coverage": []
+    },
     {
       "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
       "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery",
@@ -47,9 +63,25 @@
   "categories": [
     {
       "name": "Renewable Energy",
-      "count": 1,
+      "count": 2,
       "high": 0,
       "top": [
+        {
+          "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
+          "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
+          "source": "Solar Power World",
+          "category": "Renewable Energy",
+          "published": "2026-11-22T20:55:11+00:00",
+          "summary": "DTE Energy recently announced plans to add up to 150 megawatts of new solar energy in Michigan, a move that will create construction jobs, support local communities, and save customers money on fuel costs, the company said. In addition, because solar generation does not require fuel, the new projects will help reduce the company’s exposure… The post DTE Energy plans up to 150 megawatts of Michigan-based solar generation appeared first on Solar Power World .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "9a0257cd6dd6",
+          "coverage": []
+        },
         {
           "title": "Ford Begins Producing Its Own LFP Batteries",
           "url": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
@@ -68,6 +100,22 @@
       ],
       "items": [
         {
+          "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
+          "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
+          "source": "Solar Power World",
+          "category": "Renewable Energy",
+          "published": "2026-11-22T20:55:11+00:00",
+          "summary": "DTE Energy recently announced plans to add up to 150 megawatts of new solar energy in Michigan, a move that will create construction jobs, support local communities, and save customers money on fuel costs, the company said. In addition, because solar generation does not require fuel, the new projects will help reduce the company’s exposure… The post DTE Energy plans up to 150 megawatts of Michigan-based solar generation appeared first on Solar Power World .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "9a0257cd6dd6",
+          "coverage": []
+        },
+        {
           "title": "Ford Begins Producing Its Own LFP Batteries",
           "url": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
           "source": "CleanTechnica",
@@ -83,7 +131,7 @@
           "coverage": []
         }
       ],
-      "narrative": "1 distinct renewable energy developments appeared in the last 24 hours. Highest-ranked topics: Ford Begins Producing Its Own LFP Batteries. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "2 distinct renewable energy developments appeared in the last 24 hours. Highest-ranked topics: DTE Energy plans up to 150 megawatts of Michigan-based solar generation; Ford Begins Producing Its Own LFP Batteries. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
@@ -133,7 +181,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:22.857110+00:00",
+      "last_success": "2026-11-22T21:08:26.131388+00:00",
       "error": ""
     },
     {
@@ -142,7 +190,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:32.984497+00:00",
+      "last_success": "2026-11-22T21:08:37.859483+00:00",
       "error": ""
     },
     {
@@ -151,7 +199,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:19.319338+00:00",
+      "last_success": "2026-11-22T21:08:22.169214+00:00",
       "error": ""
     },
     {
@@ -160,7 +208,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:19.848135+00:00",
+      "last_success": "2026-11-22T21:08:22.910696+00:00",
       "error": ""
     },
     {
@@ -169,7 +217,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:19.643250+00:00",
+      "last_success": "2026-11-22T21:08:22.669890+00:00",
       "error": ""
     },
     {
@@ -178,7 +226,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:19.030899+00:00",
+      "last_success": "2026-11-22T21:08:21.691633+00:00",
       "error": ""
     },
     {
@@ -187,7 +235,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:18.836147+00:00",
+      "last_success": "2026-11-22T21:08:21.350342+00:00",
       "error": ""
     },
     {
@@ -196,7 +244,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:22.667522+00:00",
+      "last_success": "2026-11-22T21:08:25.853821+00:00",
       "error": ""
     },
     {
@@ -205,7 +253,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:17.557288+00:00",
+      "last_success": "2026-11-22T21:08:19.600902+00:00",
       "error": ""
     },
     {
@@ -214,7 +262,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:22.435152+00:00",
+      "last_success": "2026-11-22T21:08:25.580570+00:00",
       "error": ""
     },
     {
@@ -223,7 +271,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:21.995478+00:00",
+      "last_success": "2026-11-22T21:08:25.208585+00:00",
       "error": ""
     },
     {
@@ -232,7 +280,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:23.825210+00:00",
+      "last_success": "2026-11-22T21:08:28.593087+00:00",
       "error": ""
     },
     {
@@ -241,7 +289,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:23.739875+00:00",
+      "last_success": "2026-11-22T21:08:28.457367+00:00",
       "error": ""
     },
     {
@@ -250,7 +298,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:19.505155+00:00",
+      "last_success": "2026-11-22T21:08:22.459146+00:00",
       "error": ""
     },
     {
@@ -259,7 +307,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:26.898319+00:00",
+      "last_success": "2026-11-22T21:08:31.718049+00:00",
       "error": ""
     },
     {
@@ -268,7 +316,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:17.760002+00:00",
+      "last_success": "2026-11-22T21:08:19.876155+00:00",
       "error": ""
     },
     {
@@ -277,7 +325,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:23.864743+00:00",
+      "last_success": "2026-11-22T21:08:28.656282+00:00",
       "error": ""
     },
     {
@@ -286,7 +334,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:22.667502+00:00",
+      "last_success": "2026-11-22T21:08:25.853796+00:00",
       "error": ""
     },
     {
@@ -295,7 +343,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:21.485350+00:00",
+      "last_success": "2026-11-22T21:08:24.724313+00:00",
       "error": ""
     },
     {
@@ -304,7 +352,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:18.199041+00:00",
+      "last_success": "2026-11-22T21:08:20.354970+00:00",
       "error": ""
     },
     {
@@ -313,7 +361,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:29.942651+00:00",
+      "last_success": "2026-11-22T21:08:34.791109+00:00",
       "error": ""
     },
     {
@@ -322,7 +370,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:20.932701+00:00",
+      "last_success": "2026-11-22T21:08:24.206665+00:00",
       "error": ""
     },
     {
@@ -331,7 +379,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:18.472575+00:00",
+      "last_success": "2026-11-22T21:08:20.810983+00:00",
       "error": ""
     },
     {
@@ -340,7 +388,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:23.312586+00:00",
+      "last_success": "2026-11-22T21:08:28.195256+00:00",
       "error": ""
     },
     {
@@ -349,7 +397,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:17.639799+00:00",
+      "last_success": "2026-11-22T21:08:19.710663+00:00",
       "error": ""
     },
     {
@@ -358,7 +406,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:18.348641+00:00",
+      "last_success": "2026-11-22T21:08:20.570992+00:00",
       "error": ""
     },
     {
@@ -367,7 +415,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:21.229345+00:00",
+      "last_success": "2026-11-22T21:08:24.482223+00:00",
       "error": ""
     },
     {
@@ -376,7 +424,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:23.162440+00:00",
+      "last_success": "2026-11-22T21:08:26.605146+00:00",
       "error": ""
     },
     {
@@ -385,7 +433,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:22.666629+00:00",
+      "last_success": "2026-11-22T21:08:25.852830+00:00",
       "error": ""
     },
     {
@@ -394,7 +442,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:18.051501+00:00",
+      "last_success": "2026-11-22T21:08:20.200638+00:00",
       "error": ""
     },
     {
@@ -403,7 +451,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:51:21.727619+00:00",
+      "last_success": "2026-11-22T21:08:24.978519+00:00",
       "error": ""
     },
     {
@@ -411,7 +459,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 5,
+      "failures": 6,
       "last_success": null,
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -420,7 +468,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 5,
+      "failures": 6,
       "last_success": null,
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -461,5 +509,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in this 24-hour window concentrate on Energy Storage (1), Renewable Energy (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in this 24-hour window concentrate on Renewable Energy (2), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }
