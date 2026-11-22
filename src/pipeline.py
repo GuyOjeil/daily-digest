@@ -291,7 +291,12 @@ def main():
     # Email contains compact executive summary + up to 10 top source-linked stories, not all observations.
     wa=dashboard.whatsapp_message(report, os.getenv('SITE_URL','https://www.thelectricguy.com/#news'))
     (ROOT/'digest'/'whatsapp.txt').write_text(wa,encoding='utf-8')
-    if wa: send_email(wa, f"WhatsApp message ready — {NOW:%d %b %Y}")
+    if wa:
+        try: send_email(wa, f"WhatsApp message ready — {NOW:%d %b %Y}")
+        except Exception as exc:
+            # A wrong email password must not stop the website from updating.
+            print(f'::warning title=Email not sent::{type(exc).__name__}: check SMTP_USER, SMTP_PASSWORD and SMTP_HOST')
+            LOG.warning('Email failed: %s', exc)
     else: LOG.info('Email skipped: no stories in the last 24 hours')
 
 
