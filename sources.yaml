@@ -2,9 +2,6 @@ sources:
 - name: IEEE Spectrum Energy
   category: Power Systems
   url: https://spectrum.ieee.org/feeds/topic/energy.rss
-- name: IEEE Spectrum
-  category: Tech News
-  url: https://spectrum.ieee.org/feeds/feed.rss
 - name: Utility Dive
   category: Power Systems
   url: https://www.utilitydive.com/feeds/news/

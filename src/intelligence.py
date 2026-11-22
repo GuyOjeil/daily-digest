@@ -7,11 +7,11 @@ from collections import Counter, defaultdict
 CATEGORIES = ['Top stories','Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors','Research','Tools','Tech News']
 INTERESTS = {
  'Power Systems': ['power system','power grid','electric grid','grid','transmission line','transmission','distribution network','substation','transformer','protection relay','relay','blackout','outage','utility','utilities','load flow','power flow','frequency regulation','voltage control','smart grid','microgrid','smart meter','hvdc','switchgear','circuit breaker','electricity demand','electricity market','megawatt','gigawatt','interconnection'],
- 'Renewable Energy': ['solar','photovoltaic','pv ','wind turbine','wind farm','offshore wind','renewable','hydropower','geothermal','green hydrogen','electrolyzer','clean energy','net zero','decarbon','biomass','solar panel','perovskite'],
- 'Energy Storage': ['battery','batteries','energy storage','bess','lithium','solid-state battery','sodium-ion','flow battery','pumped hydro','grid storage','charging','ev charger','electric vehicle'],
- 'Control and Automation': ['control system','controller','pid','model predictive','mpc','state estimation','stability','plc','scada','automation','servo','motor control','feedback control','kalman','robust control','observer','drive'],
- 'Power Electronics': ['inverter','converter','power electronics','gan','sic','silicon carbide','gallium nitride','mosfet','igbt','rectifier','dc-dc','motor drive','wireless power','power supply','switching'],
- 'Electronics': ['circuit','analog','amplifier','sensor','pcb','capacitor','inductor','oscilloscope','signal processing','fpga','antenna','rf ','voltage','current'],
+ 'Renewable Energy': ['solar','photovoltaic','pv','wind turbine','wind farm','offshore wind','renewable','hydropower','geothermal','green hydrogen','electrolyzer','clean energy','net zero','decarbon','biomass','solar panel','perovskite'],
+ 'Energy Storage': ['battery','batteries','energy storage','bess','lithium','solid-state battery','sodium-ion','flow battery','pumped hydro','grid storage','ev charging','ev charger','charging station','electric vehicle'],
+ 'Control and Automation': ['control system','model predictive','mpc','state estimation','grid stability','power system stability','plc','scada','industrial automation','automation system','servo','motor control','feedback control','kalman filter','robust control','pid controller','control engineering'],
+ 'Power Electronics': ['inverter','converter','power electronics','gan','sic','silicon carbide','gallium nitride','mosfet','igbt','rectifier','dc-dc','motor drive','wireless power','power supply','switching converter'],
+ 'Electronics': ['circuit','analog','amplifier','sensor','pcb','capacitor','inductor','oscilloscope','signal processing','fpga','antenna','rf','voltage'],
  'Semiconductors': ['semiconductor','chip','foundry','wafer','transistor','lithography','packaging','tsmc','dram'],
  'Research': ['researchers','new study','prototype','breakthrough','university','experiment','laboratory']
 }
@@ -23,6 +23,15 @@ IMPACT = {
 LOW_VALUE = ['submitted by /u/', 'weekly roundup', 'discussion thread', 'sponsored']
 STOP = set('with from that this their where about using across into through which have more new paper study approach based results how why what for the and are to in of on by an as at'.split())
 
+
+def hit(term, text):
+    """True when the whole word or phrase appears in the text (plural allowed)."""
+    return re.search(r'(?<![a-z0-9])'+re.escape(term)+r'(?:s|es)?(?![a-z0-9])', text) is not None
+
+def electrical_hits(row):
+    text=(row.get('title','')+' '+row.get('summary','')[:400]).lower()
+    return {t for terms in INTERESTS.values() for t in terms if hit(t,text)}
+
 def tokens(title):
     return {t for t in re.findall(r'[a-z0-9]{3,}',title.lower()) if t not in STOP}
 
@@ -33,7 +42,7 @@ def classify(row):
     if cat in ('Tech News','Research','Tools'):
         best,bestn=None,0
         for label in ('Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors'):
-            hits=sum(w in title for w in INTERESTS[label])
+            hits=sum(hit(w,title) for w in INTERESTS[label])
             if hits>bestn: best,bestn=label,hits
         if best: return best
     return cat if cat in CATEGORIES else 'Tech News'
@@ -41,8 +50,8 @@ def classify(row):
 def score(row):
     title=row['title'].lower(); body=(title+' '+row.get('summary','')[:400].lower())
     category=classify(row)
-    relevant=sum(min(2, sum(1 for word in terms if word in body)) for key,terms in INTERESTS.items())
-    matched=[k for k,terms in INTERESTS.items() if any(term in body for term in terms)]
+    relevant=sum(min(2, sum(1 for word in terms if hit(word,body))) for key,terms in INTERESTS.items())
+    matched=[k for k,terms in INTERESTS.items() if any(hit(term,body) for term in terms)]
     source=row.get('source','').lower()
     trust=3 if any(v in source for v in ('ieee','eetimes','ee times','utility dive','power engineering','t&d world','semiconductor engineering')) else 1 if any(v in source for v in ('arxiv','reddit')) else 2
     importance=5 if any(k in body for k in IMPACT['critical']) else 3 if any(k in title for k in IMPACT['high']) else 2 if any(k in body for k in IMPACT['medium']) else 1
@@ -66,7 +75,7 @@ def group_events(rows, now, hours=24):
         if not within_window(row,now,hours): continue
         r=dict(row); r['category']=classify(r)
         r['score'],r['priority'],r['interests']=score(r)
-        if row.get('category') in ('Tech News','Research','Tools') and not r['interests']: continue  # not electrical engineering
+        if row.get('category') in ('Tech News','Research','Tools') and len(electrical_hits(r))<2: continue  # not electrical engineering
         ts=tokens(r['title']); r['event_id']=hashlib.sha256(r['url'].encode()).hexdigest()[:12]
         match=None
         for entry in seen:
