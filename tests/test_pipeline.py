@@ -21,5 +21,14 @@ class PipelineTests(unittest.TestCase):
         self.assertIn('[Sample](https://example.com/release)', content)
         self.assertIn('## Electronics',content)
 
+class WhatsAppTests(unittest.TestCase):
+    def test_message_has_link_and_stories(self):
+        from src.dashboard import whatsapp_message
+        report={'generated':'2026-11-22T20:00:00+00:00','top':[{'title':'Grid *adds* storage','source':'Utility Dive','category':'Power Systems'}]}
+        text=whatsapp_message(report,'https://example.com/#news')
+        self.assertIn('https://example.com/#news',text)
+        self.assertIn('Grid adds storage (Utility Dive)',text)
+        self.assertEqual(whatsapp_message({'generated':'x','top':[]},'https://example.com'),'')
+
 if __name__ == '__main__':
     unittest.main()

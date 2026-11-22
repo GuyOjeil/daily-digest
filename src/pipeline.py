@@ -229,13 +229,13 @@ def write_outputs(md):
     (ROOT/'docs'/'latest.md').write_text(md,encoding='utf-8')
 
 
-def send_email(md):
+def send_email(md, subject=None):
     host, sender, password, receiver = (os.getenv(k,'') for k in ('SMTP_HOST','SMTP_USER','SMTP_PASSWORD','DIGEST_TO'))
     if not all((host,sender,password,receiver)):
         LOG.info('Email skipped: configure SMTP_HOST, SMTP_USER, SMTP_PASSWORD and DIGEST_TO')
         return
     msg = EmailMessage()
-    msg['Subject'] = f"Daily Electrical Engineering News — {NOW:%Y-%m-%d}"
+    msg['Subject'] = subject or f"Daily Electrical Engineering News — {NOW:%Y-%m-%d}"
     msg['From'] = sender
     msg['To'] = receiver
     msg.set_content(md)
@@ -289,7 +289,10 @@ def main():
     (ROOT/'digest'/'source-health.md').write_text(health_md,encoding='utf-8')
     LOG.info('Fetched %s observations, inserted %s, unique published events in 24h %s, high signal %s, source issues %s',len(incoming),inserted,report['stats']['events'],report['stats']['high'],report['stats']['sources_failed'])
     # Email contains compact executive summary + up to 10 top source-linked stories, not all observations.
-    send_email(md.split('## '+report['categories'][0]['name']+' —')[0] if report['categories'] else md)
+    wa=dashboard.whatsapp_message(report, os.getenv('SITE_URL','https://www.thelectricguy.com/#news'))
+    (ROOT/'digest'/'whatsapp.txt').write_text(wa,encoding='utf-8')
+    if wa: send_email(wa, f"WhatsApp message ready — {NOW:%d %b %Y}")
+    else: LOG.info('Email skipped: no stories in the last 24 hours')
 
 
 if __name__ == '__main__':

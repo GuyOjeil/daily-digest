@@ -47,6 +47,7 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://www.thelectricguy.com/#news' }}
           TOP_STORIES: '10'
           LOOKBACK_HOURS: '24'
           MAX_PER_CATEGORY: '35'
@@ -59,7 +60,7 @@ jobs:
           if [ -f digest/latest.md ]; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            for file in README.md digest/latest.md digest/source-health.md docs/index.html docs/app.js docs/style.css docs/data.json docs/latest.md docs/source-health.md data/findings.sqlite; do
+            for file in README.md digest/latest.md digest/source-health.md digest/whatsapp.txt docs/whatsapp.txt docs/index.html docs/app.js docs/style.css docs/data.json docs/latest.md docs/source-health.md data/findings.sqlite; do
               if [ -f "$file" ]; then git add -- "$file"; fi
             done
             if ! git diff --cached --quiet; then
