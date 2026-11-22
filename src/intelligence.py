@@ -4,21 +4,21 @@ import hashlib
 import re
 from collections import Counter, defaultdict
 
-CATEGORIES = ['Top stories','Power and Energy','Electronics','Embedded','Semiconductors','Tech News','Research','Security','Open source','Regional']
+CATEGORIES = ['Top stories','Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors','Research','Tools','Tech News']
 INTERESTS = {
- 'Power and Energy': ['power grid','grid','solar','wind','battery','batteries','energy storage','inverter','transformer','substation','electric vehicle','ev charging','charger','nuclear','renewable','electricity','megawatt','gigawatt','hydrogen','smart meter','microgrid'],
- 'Electronics': ['circuit','pcb','analog','oscilloscope','sensor','amplifier','power supply','voltage','current','capacitor','resistor','led','display','kicad','soldering','fpga','signal'],
- 'Embedded': ['esp32','arduino','raspberry pi','pico','microcontroller','stm32','firmware','rtos','iot','risc-v','micropython','circuitpython','zephyr','bluetooth','wifi','lora','matter'],
- 'Semiconductors': ['chip','semiconductor','foundry','tsmc','wafer','transistor','nanometer','gpu','memory','dram','gan','sic','silicon carbide','lithography','packaging'],
- 'Security': ['vulnerability','exploit','attack','security','malware','ransomware','zero-day','firmware update','privacy','data leak'],
- 'Regional': ['lebanon','beirut','arabic','middle east','mena','gulf','saudi','uae'],
- 'Research': ['researchers','new study','prototype','breakthrough','paper','university','experiment'],
- 'Open source': ['open source','open-source','github','release','sdk','library','toolchain']
+ 'Power Systems': ['power system','power grid','electric grid','grid','transmission line','transmission','distribution network','substation','transformer','protection relay','relay','blackout','outage','utility','utilities','load flow','power flow','frequency regulation','voltage control','smart grid','microgrid','smart meter','hvdc','switchgear','circuit breaker','electricity demand','electricity market','megawatt','gigawatt','interconnection'],
+ 'Renewable Energy': ['solar','photovoltaic','pv ','wind turbine','wind farm','offshore wind','renewable','hydropower','geothermal','green hydrogen','electrolyzer','clean energy','net zero','decarbon','biomass','solar panel','perovskite'],
+ 'Energy Storage': ['battery','batteries','energy storage','bess','lithium','solid-state battery','sodium-ion','flow battery','pumped hydro','grid storage','charging','ev charger','electric vehicle'],
+ 'Control and Automation': ['control system','controller','pid','model predictive','mpc','state estimation','stability','plc','scada','automation','servo','motor control','feedback control','kalman','robust control','observer','drive'],
+ 'Power Electronics': ['inverter','converter','power electronics','gan','sic','silicon carbide','gallium nitride','mosfet','igbt','rectifier','dc-dc','motor drive','wireless power','power supply','switching'],
+ 'Electronics': ['circuit','analog','amplifier','sensor','pcb','capacitor','inductor','oscilloscope','signal processing','fpga','antenna','rf ','voltage','current'],
+ 'Semiconductors': ['semiconductor','chip','foundry','wafer','transistor','lithography','packaging','tsmc','dram'],
+ 'Research': ['researchers','new study','prototype','breakthrough','university','experiment','laboratory']
 }
 IMPACT = {
- 'critical': ['actively exploited','remote code execution','zero-day','emergency patch','major vulnerability','recall','blackout'],
- 'high': ['released','launch','release','breakthrough','record','new chip','announces','unveils','standard','efficiency','cost reduction','shortage','ban','investment'],
- 'medium':['research','prototype','design','test','review','guide','how to','project']
+ 'critical': ['blackout','grid failure','major outage','recall','fire at','emergency','cyberattack on grid'],
+ 'high': ['record','breakthrough','launch','announces','unveils','new standard','efficiency','commissioned','investment','approved','largest','milestone','regulation','tariff'],
+ 'medium':['research','prototype','design','study','test','review','guide','project','pilot']
 }
 LOW_VALUE = ['submitted by /u/', 'weekly roundup', 'discussion thread', 'sponsored']
 STOP = set('with from that this their where about using across into through which have more new paper study approach based results how why what for the and are to in of on by an as at'.split())
@@ -29,11 +29,11 @@ def tokens(title):
 def classify(row):
     cat=row.get('category','Tech News')
     title=(row.get('title','')+' '+row.get('summary','')[:240]).lower()
-    # Route general tech news into a specific topic when the words clearly match.
-    if cat in ('Tech News','Research','Open source'):
-        best,bestn=None,1
-        for label in ('Power and Energy','Semiconductors','Embedded','Electronics','Security','Regional'):
-            hits=sum(bool(re.search(r'\b'+re.escape(w)+r'\b',title)) for w in INTERESTS[label])
+    # Mixed sources are sorted into a specific electrical topic when the words clearly match.
+    if cat in ('Tech News','Research','Tools'):
+        best,bestn=None,0
+        for label in ('Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors'):
+            hits=sum(w in title for w in INTERESTS[label])
             if hits>bestn: best,bestn=label,hits
         if best: return best
     return cat if cat in CATEGORIES else 'Tech News'
@@ -44,7 +44,7 @@ def score(row):
     relevant=sum(min(2, sum(1 for word in terms if word in body)) for key,terms in INTERESTS.items())
     matched=[k for k,terms in INTERESTS.items() if any(term in body for term in terms)]
     source=row.get('source','').lower()
-    trust=3 if any(v in source for v in ('ieee','eetimes','ee times','semiconductor engineering','utility dive','cisa')) else 1 if any(v in source for v in ('arxiv','reddit')) else 2
+    trust=3 if any(v in source for v in ('ieee','eetimes','ee times','utility dive','power engineering','t&d world','semiconductor engineering')) else 1 if any(v in source for v in ('arxiv','reddit')) else 2
     importance=5 if any(k in body for k in IMPACT['critical']) else 3 if any(k in title for k in IMPACT['high']) else 2 if any(k in body for k in IMPACT['medium']) else 1
     penalty=3 if any(k in body for k in LOW_VALUE) else 0
     if category=='Research' and 'arxiv' in source: penalty+=2
@@ -66,6 +66,7 @@ def group_events(rows, now, hours=24):
         if not within_window(row,now,hours): continue
         r=dict(row); r['category']=classify(r)
         r['score'],r['priority'],r['interests']=score(r)
+        if row.get('category') in ('Tech News','Research','Tools') and not r['interests']: continue  # not electrical engineering
         ts=tokens(r['title']); r['event_id']=hashlib.sha256(r['url'].encode()).hexdigest()[:12]
         match=None
         for entry in seen:

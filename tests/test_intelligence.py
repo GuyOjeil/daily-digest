@@ -7,7 +7,7 @@ from src.dashboard import write_dashboard
 UTC=dt.timezone.utc
 NOW=dt.datetime(2026,10,21,8,0,tzinfo=UTC)
 def item(title, age=2, url=None,category='Research'):
- return {'title':title,'url':url or 'https://example.com/'+str(age)+title.replace(' ','-'), 'source':'arXiv AI','category':category,'published':(NOW-dt.timedelta(hours=age)).isoformat(),'summary':'Some research into agent security and evaluation.'}
+ return {'title':title,'url':url or 'https://example.com/'+str(age)+title.replace(' ','-'), 'source':'arXiv AI','category':category,'published':(NOW-dt.timedelta(hours=age)).isoformat(),'summary':'Some research into power grid stability and control.'}
 class IntelligenceTests(unittest.TestCase):
  def test_strict_24h(self):
   self.assertTrue(within_window(item('New',24),NOW))

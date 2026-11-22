@@ -1,12 +1,12 @@
-# Electric & Tech News Digest — start here (simple steps)
+# Electrical Engineering News Digest — start here (simple steps)
 
-This project collects electrical and tech news every day. It makes a web page, a news file for your website (`data.json`), and an optional email.
+This project collects electrical engineering news every day. It makes a web page, a news file for your website (`data.json`), and an optional email.
 
 1. On GitHub, make a new PUBLIC repository named `daily-digest` (branch `main`).
 2. Upload ALL the files of this folder (keep the `.github` and `src` folders).
 3. Settings -> Actions -> General -> Workflow permissions -> choose "Read and write permissions" -> Save.
 4. Settings -> Pages -> Build and deployment -> Source: choose "GitHub Actions".
-5. Actions tab -> "Daily Electric and Tech News Digest" -> Run workflow.
+5. Actions tab -> "Daily Electrical Engineering News Digest" -> Run workflow.
 6. Wait about 3 minutes. Then open: https://GuyOjeil.github.io/daily-digest/
 7. The news file for your website is: https://GuyOjeil.github.io/daily-digest/data.json
 

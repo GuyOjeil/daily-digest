@@ -31,7 +31,7 @@ LOOKBACK_HOURS = 24
 MAX_STORIES = int(os.getenv('MAX_STORIES', '25'))
 MAX_PER_SOURCE = int(os.getenv('MAX_PER_SOURCE', '35'))
 MAX_PER_CATEGORY = int(os.getenv('MAX_PER_CATEGORY', '7'))
-USER_AGENT = 'Electric-Tech-News-Digest/1.0 (personal research; contact: repository owner)'
+USER_AGENT = 'Electrical-Engineering-News-Digest/1.0 (personal research; contact: repository owner)'
 LOG = logging.getLogger('digest')
 
 
@@ -120,7 +120,7 @@ def fetch_github(config, conn=None):
                 when = dt.datetime.fromisoformat(raw_date.replace('Z','+00:00'))
                 rows.append({'title':f"{repo}: {release.get('name') or release.get('tag_name')}",
                              'url':release['html_url'], 'source':f'GitHub: {repo}',
-                             'category':'Open source', 'published':when.isoformat(),
+                             'category':'Tools', 'published':when.isoformat(),
                              'summary':clean(release.get('body',''))})
             if conn is not None: advanced.update_health(conn,repo,'github',f'https://github.com/{repo}',len(rows)-before)
         except Exception as ex:
@@ -193,7 +193,7 @@ def synthesize(items):
 
 def create_markdown(items, total, collected, narrative):
     stamp = NOW.strftime('%Y-%m-%d %H:%M UTC')
-    lines = ['# Daily Electric & Tech News Digest','',f'**Updated:** {stamp}  ',
+    lines = ['# Daily Electrical Engineering News Digest','',f'**Updated:** {stamp}  ',
              f'**Window:** last {LOOKBACK_HOURS} hours · **Stories in window:** {total} · **New database records:** {collected}', '',
              '> This page is replaced every run. Findings history is preserved in `data/findings.sqlite`.', '']
     if narrative:
@@ -224,7 +224,7 @@ def write_outputs(md):
     from urllib.parse import urlparse
     parser = MarkdownIt('commonmark', {'html':False, 'linkify':False})
     rendered = parser.render(md)
-    document = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src https: data:; base-uri 'none'; form-action 'none'"><title>Daily Electric & Tech News Digest</title><style>body{{font:16px/1.65 system-ui,Arial,sans-serif;color:#171a22;max-width:920px;margin:0 auto;padding:32px 22px;background:#fafafa}}h1{{font-size:2rem}}h2{{margin-top:2.2rem;border-bottom:1px solid #ddd;padding-bottom:.5rem}}h3{{font-size:1.05rem;margin-bottom:.2rem}}p{{margin:.6rem 0 1.1rem}}a{{color:#1556a5}}blockquote{{border-left:3px solid #777;padding-left:15px;color:#555}}code{{background:#eee;padding:2px 5px}}footer{{margin-top:50px}}</style></head><body>{rendered}</body></html>'''
+    document = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src https: data:; base-uri 'none'; form-action 'none'"><title>Daily Electrical Engineering News Digest</title><style>body{{font:16px/1.65 system-ui,Arial,sans-serif;color:#171a22;max-width:920px;margin:0 auto;padding:32px 22px;background:#fafafa}}h1{{font-size:2rem}}h2{{margin-top:2.2rem;border-bottom:1px solid #ddd;padding-bottom:.5rem}}h3{{font-size:1.05rem;margin-bottom:.2rem}}p{{margin:.6rem 0 1.1rem}}a{{color:#1556a5}}blockquote{{border-left:3px solid #777;padding-left:15px;color:#555}}code{{background:#eee;padding:2px 5px}}footer{{margin-top:50px}}</style></head><body>{rendered}</body></html>'''
     (ROOT/'docs'/'index.html').write_text(document,encoding='utf-8')
     (ROOT/'docs'/'latest.md').write_text(md,encoding='utf-8')
 
@@ -235,7 +235,7 @@ def send_email(md):
         LOG.info('Email skipped: configure SMTP_HOST, SMTP_USER, SMTP_PASSWORD and DIGEST_TO')
         return
     msg = EmailMessage()
-    msg['Subject'] = f"Daily Electric & Tech News — {NOW:%Y-%m-%d}"
+    msg['Subject'] = f"Daily Electrical Engineering News — {NOW:%Y-%m-%d}"
     msg['From'] = sender
     msg['To'] = receiver
     msg.set_content(md)

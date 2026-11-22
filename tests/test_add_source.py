@@ -6,8 +6,8 @@ from src.add_source import parse_submission, add_source
 
 class AddSourceTests(unittest.TestCase):
     def test_parses_valid(self):
-        s=parse_submission('URL: https://example.org/rss.xml\nCategory: Security\nName: Example Alerts')
-        self.assertEqual(s['category'], 'Security')
+        s=parse_submission('URL: https://example.org/rss.xml\nCategory: Power Systems\nName: Example Alerts')
+        self.assertEqual(s['category'], 'Power Systems')
         self.assertEqual(s['url'], 'https://example.org/rss.xml')
     def test_rejects_non_public_urls(self):
         for url in ['http://example.org/feed','https://localhost/x','https://127.0.0.1/x','https://example.com:444/feed','https://foo.internal/rss']:

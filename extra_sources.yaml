@@ -1,25 +1,33 @@
 extra_feeds:
-- name: Ars Technica
-  category: Tech News
-  url: https://feeds.arstechnica.com/arstechnica/index
 - name: arXiv Systems and Control
   category: Research
   url: https://export.arxiv.org/rss/eess.SY
 - name: arXiv Signal Processing
   category: Research
   url: https://export.arxiv.org/rss/eess.SP
-- name: CISA Alerts
-  category: Security
-  url: https://www.cisa.gov/cybersecurity-advisories/all.xml
-- name: Wamda
-  category: Regional
-  url: https://www.wamda.com/feed
+- name: CleanTechnica
+  category: Renewable Energy
+  url: https://cleantechnica.com/feed/
+- name: eeNews Europe
+  category: Electronics
+  url: https://www.eenewseurope.com/en/feed/
+- name: T&D World
+  category: Power Systems
+  url: https://www.tdworld.com/rss
 arxiv_queries:
-- name: Power Electronics
+- name: Power Systems
   category: Research
-  query: all:"power electronics" OR all:"inverter control"
+  query: all:"power system" OR all:"smart grid" OR all:"microgrid"
   limit: 8
-- name: Smart Grid and Batteries
+- name: Power Electronics and Drives
   category: Research
-  query: all:"smart grid" OR all:"battery management system"
+  query: all:"power electronics" OR all:"motor drive" OR all:"inverter control"
+  limit: 8
+- name: Renewables and Storage
+  category: Research
+  query: all:"photovoltaic" OR all:"wind power" OR all:"battery energy storage"
+  limit: 8
+- name: Control
+  category: Research
+  query: all:"model predictive control" OR all:"power system stability"
   limit: 8
