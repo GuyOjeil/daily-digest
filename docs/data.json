@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-22T20:12:08.868855+00:00",
+  "generated": "2026-11-22T20:16:11.781073+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-21T20:12:08.868855+00:00",
+  "window_start": "2026-11-21T20:16:11.781073+00:00",
   "stats": {
     "events": 28,
     "high": 0,
     "sources_reporting": 6,
     "categories": 6,
-    "records_inserted": 212,
+    "records_inserted": 0,
     "fetched": 335,
     "sources_failed": 3,
     "source_checks": 52
@@ -901,7 +901,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:16.301971+00:00",
+      "last_success": "2026-11-22T20:16:18.712689+00:00",
       "error": ""
     },
     {
@@ -910,7 +910,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:27.358806+00:00",
+      "last_success": "2026-11-22T20:16:28.928720+00:00",
       "error": ""
     },
     {
@@ -919,7 +919,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:12.846780+00:00",
+      "last_success": "2026-11-22T20:16:14.466058+00:00",
       "error": ""
     },
     {
@@ -928,7 +928,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:13.341057+00:00",
+      "last_success": "2026-11-22T20:16:15.210814+00:00",
       "error": ""
     },
     {
@@ -937,7 +937,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:13.140164+00:00",
+      "last_success": "2026-11-22T20:16:14.943253+00:00",
       "error": ""
     },
     {
@@ -946,7 +946,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:11.797177+00:00",
+      "last_success": "2026-11-22T20:16:14.050365+00:00",
       "error": ""
     },
     {
@@ -964,7 +964,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:11.605620+00:00",
+      "last_success": "2026-11-22T20:16:13.867776+00:00",
       "error": ""
     },
     {
@@ -973,7 +973,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:16.059477+00:00",
+      "last_success": "2026-11-22T20:16:18.515051+00:00",
       "error": ""
     },
     {
@@ -991,7 +991,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:10.294545+00:00",
+      "last_success": "2026-11-22T20:16:12.298232+00:00",
       "error": ""
     },
     {
@@ -1000,7 +1000,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:09.993974+00:00",
+      "last_success": "2026-11-22T20:16:12.134549+00:00",
       "error": ""
     },
     {
@@ -1009,7 +1009,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:15.772375+00:00",
+      "last_success": "2026-11-22T20:16:18.205272+00:00",
       "error": ""
     },
     {
@@ -1018,7 +1018,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:15.305726+00:00",
+      "last_success": "2026-11-22T20:16:17.668130+00:00",
       "error": ""
     },
     {
@@ -1036,7 +1036,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:13.013334+00:00",
+      "last_success": "2026-11-22T20:16:14.737519+00:00",
       "error": ""
     },
     {
@@ -1045,7 +1045,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:20.603646+00:00",
+      "last_success": "2026-11-22T20:16:22.691744+00:00",
       "error": ""
     },
     {
@@ -1054,7 +1054,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:10.486466+00:00",
+      "last_success": "2026-11-22T20:16:12.579279+00:00",
       "error": ""
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:17.153668+00:00",
+      "last_success": "2026-11-22T20:16:19.565239+00:00",
       "error": ""
     },
     {
@@ -1072,7 +1072,7 @@
       "status": "ok",
       "count": 228,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:16.059452+00:00",
+      "last_success": "2026-11-22T20:16:18.515035+00:00",
       "error": ""
     },
     {
@@ -1081,7 +1081,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:14.832264+00:00",
+      "last_success": "2026-11-22T20:16:17.089071+00:00",
       "error": ""
     },
     {
@@ -1099,7 +1099,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:11.034214+00:00",
+      "last_success": "2026-11-22T20:16:12.996783+00:00",
       "error": ""
     },
     {
@@ -1108,7 +1108,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:24.021060+00:00",
+      "last_success": "2026-11-22T20:16:25.811162+00:00",
       "error": ""
     },
     {
@@ -1117,7 +1117,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:14.342346+00:00",
+      "last_success": "2026-11-22T20:16:16.347381+00:00",
       "error": ""
     },
     {
@@ -1135,7 +1135,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:11.306865+00:00",
+      "last_success": "2026-11-22T20:16:13.332934+00:00",
       "error": ""
     },
     {
@@ -1153,7 +1153,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:10.374483+00:00",
+      "last_success": "2026-11-22T20:16:12.388857+00:00",
       "error": ""
     },
     {
@@ -1171,7 +1171,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:11.162960+00:00",
+      "last_success": "2026-11-22T20:16:13.152538+00:00",
       "error": ""
     },
     {
@@ -1198,7 +1198,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:14.629049+00:00",
+      "last_success": "2026-11-22T20:16:16.768182+00:00",
       "error": ""
     },
     {
@@ -1207,7 +1207,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:16.597203+00:00",
+      "last_success": "2026-11-22T20:16:19.156191+00:00",
       "error": ""
     },
     {
@@ -1234,7 +1234,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:16.058564+00:00",
+      "last_success": "2026-11-22T20:16:18.514193+00:00",
       "error": ""
     },
     {
@@ -1261,7 +1261,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:10.957346+00:00",
+      "last_success": "2026-11-22T20:16:12.874592+00:00",
       "error": ""
     },
     {
@@ -1270,7 +1270,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T20:12:15.081603+00:00",
+      "last_success": "2026-11-22T20:16:17.365862+00:00",
       "error": ""
     },
     {
@@ -1296,7 +1296,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 2,
+      "failures": 3,
       "last_success": null,
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1305,7 +1305,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 2,
+      "failures": 3,
       "last_success": null,
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1314,7 +1314,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 1,
+      "failures": 2,
       "last_success": null,
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
