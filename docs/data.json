@@ -1,18 +1,64 @@
 {
-  "generated": "2026-11-22T21:08:19.031604+00:00",
-  "window_hours": 24,
-  "window_start": "2026-11-21T21:08:19.031604+00:00",
+  "generated": "2026-11-22T21:09:45.221883+00:00",
+  "window_hours": 48,
+  "window_start": "2026-11-20T21:09:45.221883+00:00",
   "stats": {
-    "events": 3,
+    "events": 13,
     "high": 0,
-    "sources_reporting": 3,
-    "categories": 2,
-    "records_inserted": 1,
+    "sources_reporting": 5,
+    "categories": 3,
+    "records_inserted": 0,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
   },
   "top": [
+    {
+      "title": "Tariffs, taxes and a BESS price rise",
+      "url": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-21T05:00:00+00:00",
+      "summary": "Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post Tariffs, taxes and a BESS price rise appeared first on pv magazine Global .",
+      "score": 11,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy",
+        "Energy Storage"
+      ],
+      "event_id": "070a304d0ba9",
+      "coverage": []
+    },
+    {
+      "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+      "url": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-21T07:00:00+00:00",
+      "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward solid-state technologies. The post Battery patents: Solid-state filings surpass lithium-ion to hit record high appeared first on pv magazine Global .",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Energy Storage"
+      ],
+      "event_id": "12e45fb1817a",
+      "coverage": []
+    },
+    {
+      "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+      "url": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+      "source": "CleanTechnica",
+      "category": "Renewable Energy",
+      "published": "2026-11-21T02:34:38+00:00",
+      "summary": "JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company’s own cloud environment, giving the team direct responsibility for data policies, access permissions, and future updates. According to the EU   ... [continued] The post JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards appeared first on CleanTechnica .",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Energy Storage"
+      ],
+      "event_id": "b0c49d803c9e",
+      "coverage": []
+    },
     {
       "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
       "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
@@ -45,6 +91,54 @@
       "coverage": []
     },
     {
+      "title": "Spain approves new data center rules requiring 80% renewable electricity",
+      "url": "https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-21T08:00:00+00:00",
+      "summary": "The new framework introduces energy and water efficiency standards, renewable electricity procurement obligations, and grid flexibility requirements for data centers. A €17.14 billion transmission network plan will support 47.4 GW of new electricity demand through 2030. The post Spain approves new data center rules requiring 80% renewable electricity appeared first on pv magazine Global .",
+      "score": 8,
+      "priority": "Other developments",
+      "interests": [
+        "Power Systems",
+        "Renewable Energy"
+      ],
+      "event_id": "476abb9e2ec3",
+      "coverage": []
+    },
+    {
+      "title": "energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc",
+      "url": "https://cleantechnica.com/2026/11/20/energyre-agreed-to-sell-100-of-a-portfolio-of-utility-scale-solar-projects-in-south-carolina-to-enel-green-power-north-america-totaling-317-mwdc/",
+      "source": "CleanTechnica",
+      "category": "Renewable Energy",
+      "published": "2026-11-21T02:32:49+00:00",
+      "summary": "energyRe Will Continue as Construction Manager Through Commercial Operation; Sale Reflects Strength of the Company’s South Carolina Development Platform; Transaction Expected to Close in First Quarter of 2027 energyRe today announced that it has agreed to sell 100% of a portfolio of utility-scale solar projects in South Carolina to Enel   ... [continued] The post energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc appeared first on CleanTechnica .",
+      "score": 8,
+      "priority": "Other developments",
+      "interests": [
+        "Power Systems",
+        "Renewable Energy"
+      ],
+      "event_id": "f32fe3d39dc0",
+      "coverage": []
+    },
+    {
+      "title": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
+      "url": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-21T08:30:00+00:00",
+      "summary": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments. The post Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives appeared first on pv magazine Global .",
+      "score": 7,
+      "priority": "Other developments",
+      "interests": [
+        "Renewable Energy",
+        "Energy Storage"
+      ],
+      "event_id": "08067f0fdb4d",
+      "coverage": []
+    },
+    {
       "title": "Ford Begins Producing Its Own LFP Batteries",
       "url": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
       "source": "CleanTechnica",
@@ -58,48 +152,125 @@
       ],
       "event_id": "32033eb3a225",
       "coverage": []
+    },
+    {
+      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
+      "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-21T09:30:00+00:00",
+      "summary": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey. The post CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31 appeared first on pv magazine Global .",
+      "score": 6,
+      "priority": "Other developments",
+      "interests": [
+        "Renewable Energy",
+        "Energy Storage"
+      ],
+      "event_id": "d9db671286b0",
+      "coverage": []
     }
   ],
   "categories": [
     {
       "name": "Renewable Energy",
-      "count": 2,
+      "count": 11,
       "high": 0,
       "top": [
         {
-          "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
-          "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
-          "source": "Solar Power World",
+          "title": "Tariffs, taxes and a BESS price rise",
+          "url": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise",
+          "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-22T20:55:11+00:00",
-          "summary": "DTE Energy recently announced plans to add up to 150 megawatts of new solar energy in Michigan, a move that will create construction jobs, support local communities, and save customers money on fuel costs, the company said. In addition, because solar generation does not require fuel, the new projects will help reduce the company’s exposure… The post DTE Energy plans up to 150 megawatts of Michigan-based solar generation appeared first on Solar Power World .",
-          "score": 8,
-          "priority": "Other developments",
+          "published": "2026-11-21T05:00:00+00:00",
+          "summary": "Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post Tariffs, taxes and a BESS price rise appeared first on pv magazine Global .",
+          "score": 11,
+          "priority": "Worth watching",
           "interests": [
-            "Power Systems",
-            "Renewable Energy"
+            "Renewable Energy",
+            "Energy Storage"
           ],
-          "event_id": "9a0257cd6dd6",
+          "event_id": "070a304d0ba9",
           "coverage": []
         },
         {
-          "title": "Ford Begins Producing Its Own LFP Batteries",
-          "url": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
-          "source": "CleanTechnica",
+          "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+          "url": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high",
+          "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-22T04:49:26+00:00",
-          "summary": "Ford is now a battery producer. Yes, it’s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles. In fact, it is reportedly doing so in a really fast, advanced way. “The BlueOval Battery Park Michigan assembly   ... [continued] The post Ford Begins Producing Its Own LFP Batteries appeared first on CleanTechnica .",
-          "score": 6,
-          "priority": "Other developments",
+          "published": "2026-11-21T07:00:00+00:00",
+          "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward solid-state technologies. The post Battery patents: Solid-state filings surpass lithium-ion to hit record high appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
           "interests": [
             "Energy Storage"
           ],
-          "event_id": "32033eb3a225",
+          "event_id": "12e45fb1817a",
+          "coverage": []
+        },
+        {
+          "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+          "url": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+          "source": "CleanTechnica",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T02:34:38+00:00",
+          "summary": "JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company’s own cloud environment, giving the team direct responsibility for data policies, access permissions, and future updates. According to the EU   ... [continued] The post JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards appeared first on CleanTechnica .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "b0c49d803c9e",
           "coverage": []
         }
       ],
       "items": [
         {
+          "title": "Tariffs, taxes and a BESS price rise",
+          "url": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T05:00:00+00:00",
+          "summary": "Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post Tariffs, taxes and a BESS price rise appeared first on pv magazine Global .",
+          "score": 11,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "070a304d0ba9",
+          "coverage": []
+        },
+        {
+          "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+          "url": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T07:00:00+00:00",
+          "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward solid-state technologies. The post Battery patents: Solid-state filings surpass lithium-ion to hit record high appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "12e45fb1817a",
+          "coverage": []
+        },
+        {
+          "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+          "url": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+          "source": "CleanTechnica",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T02:34:38+00:00",
+          "summary": "JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company’s own cloud environment, giving the team direct responsibility for data policies, access permissions, and future updates. According to the EU   ... [continued] The post JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards appeared first on CleanTechnica .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "b0c49d803c9e",
+          "coverage": []
+        },
+        {
           "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
           "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
           "source": "Solar Power World",
@@ -116,6 +287,54 @@
           "coverage": []
         },
         {
+          "title": "Spain approves new data center rules requiring 80% renewable electricity",
+          "url": "https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T08:00:00+00:00",
+          "summary": "The new framework introduces energy and water efficiency standards, renewable electricity procurement obligations, and grid flexibility requirements for data centers. A €17.14 billion transmission network plan will support 47.4 GW of new electricity demand through 2030. The post Spain approves new data center rules requiring 80% renewable electricity appeared first on pv magazine Global .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "476abb9e2ec3",
+          "coverage": []
+        },
+        {
+          "title": "energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc",
+          "url": "https://cleantechnica.com/2026/11/20/energyre-agreed-to-sell-100-of-a-portfolio-of-utility-scale-solar-projects-in-south-carolina-to-enel-green-power-north-america-totaling-317-mwdc/",
+          "source": "CleanTechnica",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T02:32:49+00:00",
+          "summary": "energyRe Will Continue as Construction Manager Through Commercial Operation; Sale Reflects Strength of the Company’s South Carolina Development Platform; Transaction Expected to Close in First Quarter of 2027 energyRe today announced that it has agreed to sell 100% of a portfolio of utility-scale solar projects in South Carolina to Enel   ... [continued] The post energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc appeared first on CleanTechnica .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "f32fe3d39dc0",
+          "coverage": []
+        },
+        {
+          "title": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
+          "url": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T08:30:00+00:00",
+          "summary": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments. The post Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives appeared first on pv magazine Global .",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "08067f0fdb4d",
+          "coverage": []
+        },
+        {
           "title": "Ford Begins Producing Its Own LFP Batteries",
           "url": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
           "source": "CleanTechnica",
@@ -129,9 +348,56 @@
           ],
           "event_id": "32033eb3a225",
           "coverage": []
+        },
+        {
+          "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
+          "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T09:30:00+00:00",
+          "summary": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey. The post CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31 appeared first on pv magazine Global .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "d9db671286b0",
+          "coverage": []
+        },
+        {
+          "title": "Celebrating men, challenging stereotypes, building a stronger energy future together",
+          "url": "https://www.pv-magazine.com/2026/11/21/celebrating-men-challenging-stereotypes-building-a-stronger-energy-future-together",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T09:00:00+00:00",
+          "summary": "On International Men's Day, and as Movember raises awareness of men's health and wellbeing, Women in Solar+ Europe (WiSEu) and Solar+ Leaders celebrate the men across the solar and wider energy transition industries who are helping build a more inclusive future. Carmen Madrid, Founder of both initiatives, draws on perspectives shared throughout the network's pv magazine series to reflect on why gender equality is not about women versus men, but about creating workplaces where everyone can thrive, lead authentically and contribute their full potential to the energy transition. The post Celebrating men, challenging stereotypes, building a stronger energy future together appeared first on pv magazine Global .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "cb1c972744cf",
+          "coverage": []
+        },
+        {
+          "title": "The U.S. solar manufacturing landscape in 2026",
+          "url": "https://www.pv-magazine.com/2026/11/21/the-us-solar-manufacturing-landscape-in-2026-2",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-21T07:30:00+00:00",
+          "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow its demand for solar to be met by domestically made components. Finlay Colville examines the recent growth in US solar manufacturing. The post The U.S. solar manufacturing landscape in 2026 appeared first on pv magazine Global .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "ccf79e9fcc3e",
+          "coverage": []
         }
       ],
-      "narrative": "2 distinct renewable energy developments appeared in the last 24 hours. Highest-ranked topics: DTE Energy plans up to 150 megawatts of Michigan-based solar generation; Ford Begins Producing Its Own LFP Batteries. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "11 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Tariffs, taxes and a BESS price rise; Battery patents: Solid-state filings surpass lithium-ion to hit record high; JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
@@ -171,7 +437,43 @@
           "coverage": []
         }
       ],
-      "narrative": "1 distinct energy storage developments appeared in the last 24 hours. Highest-ranked topics: Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "1 distinct energy storage developments appeared in this time window. Highest-ranked topics: Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+    },
+    {
+      "name": "Electronics",
+      "count": 1,
+      "high": 0,
+      "top": [
+        {
+          "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+          "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-20T22:23:32+00:00",
+          "summary": "Playground Global is searching CEA laboratories for technologies that could create new markets—but global capital complicates European sovereignty. The post Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies appeared first on EE Times .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "0e84740d259a",
+          "coverage": []
+        }
+      ],
+      "items": [
+        {
+          "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+          "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-20T22:23:32+00:00",
+          "summary": "Playground Global is searching CEA laboratories for technologies that could create new markets—but global capital complicates European sovereignty. The post Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies appeared first on EE Times .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "0e84740d259a",
+          "coverage": []
+        }
+      ],
+      "narrative": "1 distinct electronics developments appeared in this time window. Highest-ranked topics: Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -181,7 +483,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:26.131388+00:00",
+      "last_success": "2026-11-22T21:09:52.704410+00:00",
       "error": ""
     },
     {
@@ -190,7 +492,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:37.859483+00:00",
+      "last_success": "2026-11-22T21:10:03.414936+00:00",
       "error": ""
     },
     {
@@ -199,7 +501,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:22.169214+00:00",
+      "last_success": "2026-11-22T21:09:48.159298+00:00",
       "error": ""
     },
     {
@@ -208,7 +510,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:22.910696+00:00",
+      "last_success": "2026-11-22T21:09:49.033806+00:00",
       "error": ""
     },
     {
@@ -217,7 +519,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:22.669890+00:00",
+      "last_success": "2026-11-22T21:09:48.729360+00:00",
       "error": ""
     },
     {
@@ -226,7 +528,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:21.691633+00:00",
+      "last_success": "2026-11-22T21:09:47.846609+00:00",
       "error": ""
     },
     {
@@ -235,7 +537,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:21.350342+00:00",
+      "last_success": "2026-11-22T21:09:47.564923+00:00",
       "error": ""
     },
     {
@@ -244,7 +546,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:25.853821+00:00",
+      "last_success": "2026-11-22T21:09:52.376361+00:00",
       "error": ""
     },
     {
@@ -253,7 +555,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:19.600902+00:00",
+      "last_success": "2026-11-22T21:09:45.701415+00:00",
       "error": ""
     },
     {
@@ -262,7 +564,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:25.580570+00:00",
+      "last_success": "2026-11-22T21:09:51.947281+00:00",
       "error": ""
     },
     {
@@ -271,7 +573,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:25.208585+00:00",
+      "last_success": "2026-11-22T21:09:51.469787+00:00",
       "error": ""
     },
     {
@@ -280,7 +582,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:28.593087+00:00",
+      "last_success": "2026-11-22T21:09:54.009881+00:00",
       "error": ""
     },
     {
@@ -289,7 +591,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:28.457367+00:00",
+      "last_success": "2026-11-22T21:09:53.837925+00:00",
       "error": ""
     },
     {
@@ -298,7 +600,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:22.459146+00:00",
+      "last_success": "2026-11-22T21:09:48.516484+00:00",
       "error": ""
     },
     {
@@ -307,7 +609,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:31.718049+00:00",
+      "last_success": "2026-11-22T21:09:57.207512+00:00",
       "error": ""
     },
     {
@@ -316,7 +618,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:19.876155+00:00",
+      "last_success": "2026-11-22T21:09:46.029980+00:00",
       "error": ""
     },
     {
@@ -325,7 +627,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:28.656282+00:00",
+      "last_success": "2026-11-22T21:09:54.112697+00:00",
       "error": ""
     },
     {
@@ -334,7 +636,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:25.853796+00:00",
+      "last_success": "2026-11-22T21:09:52.376342+00:00",
       "error": ""
     },
     {
@@ -343,7 +645,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:24.724313+00:00",
+      "last_success": "2026-11-22T21:09:50.862367+00:00",
       "error": ""
     },
     {
@@ -352,7 +654,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:20.354970+00:00",
+      "last_success": "2026-11-22T21:09:46.642964+00:00",
       "error": ""
     },
     {
@@ -361,7 +663,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:34.791109+00:00",
+      "last_success": "2026-11-22T21:10:00.314999+00:00",
       "error": ""
     },
     {
@@ -370,7 +672,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:24.206665+00:00",
+      "last_success": "2026-11-22T21:09:50.127274+00:00",
       "error": ""
     },
     {
@@ -379,7 +681,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:20.810983+00:00",
+      "last_success": "2026-11-22T21:09:47.220431+00:00",
       "error": ""
     },
     {
@@ -388,7 +690,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:28.195256+00:00",
+      "last_success": "2026-11-22T21:09:53.546003+00:00",
       "error": ""
     },
     {
@@ -397,7 +699,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:19.710663+00:00",
+      "last_success": "2026-11-22T21:09:45.849557+00:00",
       "error": ""
     },
     {
@@ -406,7 +708,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:20.570992+00:00",
+      "last_success": "2026-11-22T21:09:46.880192+00:00",
       "error": ""
     },
     {
@@ -415,7 +717,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:24.482223+00:00",
+      "last_success": "2026-11-22T21:09:50.573827+00:00",
       "error": ""
     },
     {
@@ -424,7 +726,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:26.605146+00:00",
+      "last_success": "2026-11-22T21:09:53.379013+00:00",
       "error": ""
     },
     {
@@ -433,7 +735,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:25.852830+00:00",
+      "last_success": "2026-11-22T21:09:52.375396+00:00",
       "error": ""
     },
     {
@@ -442,7 +744,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:20.200638+00:00",
+      "last_success": "2026-11-22T21:09:46.468952+00:00",
       "error": ""
     },
     {
@@ -451,7 +753,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-22T21:08:24.978519+00:00",
+      "last_success": "2026-11-22T21:09:51.137438+00:00",
       "error": ""
     },
     {
@@ -459,7 +761,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 6,
+      "failures": 7,
       "last_success": null,
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -468,7 +770,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 6,
+      "failures": 7,
       "last_success": null,
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -509,5 +811,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in this 24-hour window concentrate on Renewable Energy (2), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 48 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }
