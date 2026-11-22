@@ -11,9 +11,6 @@ extra_feeds:
 - name: eeNews Europe
   category: Electronics
   url: https://www.eenewseurope.com/en/feed/
-- name: T&D World
-  category: Power Systems
-  url: https://www.tdworld.com/rss
 arxiv_queries:
 - name: Power Systems
   category: Research
