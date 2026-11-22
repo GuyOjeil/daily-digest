@@ -6,6 +6,6 @@ Failures are recorded; failing sources do not stop the digest. Check Actions log
 
 | Source | Type | Failed runs | Error |
 |---|---|---:|---|
+| arXiv Signal Processing | feed | 2 | No RSS/Atom entries found (check source endpoint) |
+| arXiv Systems and Control | feed | 2 | No RSS/Atom entries found (check source endpoint) |
 | T&D World | feed | 1 | 404 Client Error: Not Found for url: https://www.tdworld.com/rss |
-| arXiv Signal Processing | feed | 1 | No RSS/Atom entries found (check source endpoint) |
-| arXiv Systems and Control | feed | 1 | No RSS/Atom entries found (check source endpoint) |
