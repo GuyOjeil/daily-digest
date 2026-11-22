@@ -229,7 +229,7 @@ def write_outputs(md):
     (ROOT/'docs'/'latest.md').write_text(md,encoding='utf-8')
 
 
-def send_email(md, subject=None):
+def send_email(md, subject=None, html=None):
     host, sender, password, receiver = (os.getenv(k,'') for k in ('SMTP_HOST','SMTP_USER','SMTP_PASSWORD','DIGEST_TO'))
     if not all((host,sender,password,receiver)):
         LOG.info('Email skipped: configure SMTP_HOST, SMTP_USER, SMTP_PASSWORD and DIGEST_TO')
@@ -239,6 +239,7 @@ def send_email(md, subject=None):
     msg['From'] = sender
     msg['To'] = receiver
     msg.set_content(md)
+    if html: msg.add_alternative(html, subtype='html')
     port = int(os.getenv('SMTP_PORT','465'))
     if port == 465:
         with smtplib.SMTP_SSL(host,port,context=ssl.create_default_context(),timeout=35) as s:
@@ -251,6 +252,30 @@ def send_email(md, subject=None):
             s.send_message(msg)
     LOG.info('Email sent to configured recipient')
     return True
+
+
+def build_email_html(wa, fresh, site_url, pages_url, now):
+    """A clean, professional HTML email. The message to copy is in a box."""
+    from html import escape as h
+    items=''.join(
+        f'<tr><td style="padding:10px 0;border-bottom:1px solid #e5e9f0;font-size:14px;line-height:1.45">'
+        f'<a href="{h(e["url"],quote=True)}" style="color:#0b3d91;text-decoration:none;font-weight:600">{h(e["title"])}</a>'
+        f'<br><span style="color:#6b7280;font-size:12px">{h(e.get("source",""))} · {h(e.get("category",""))}</span></td></tr>' for e in fresh)
+    box=h(wa).replace('\n','<br>')
+    return f'''<!doctype html><html><body style="margin:0;background:#f3f5f9;font-family:Segoe UI,Helvetica,Arial,sans-serif;color:#111827">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr><td align="center" style="padding:24px 12px">
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;background:#ffffff;border-radius:12px;overflow:hidden;border:1px solid #e5e9f0">
+<tr><td style="background:#0b1f3a;padding:22px 28px;color:#ffffff"><div style="font-size:12px;letter-spacing:2px;color:#f5b301;font-weight:700">THE ELECTRIC GUY</div>
+<div style="font-size:22px;font-weight:700;margin-top:6px">Electrical Engineering News</div>
+<div style="font-size:13px;color:#b8c4d6;margin-top:4px">{now:%A, %d %B %Y}</div></td></tr>
+<tr><td style="padding:26px 28px 8px"><p style="margin:0 0 6px;font-size:15px;line-height:1.5">Your community message is ready. Copy the text in the box and paste it into WhatsApp.</p></td></tr>
+<tr><td style="padding:8px 28px 4px"><div style="background:#f0fdf4;border:1px solid #bbf7d0;border-left:4px solid #25d366;border-radius:8px;padding:16px 18px;font-size:15px;line-height:1.6;color:#111827">{box}</div></td></tr>
+<tr><td style="padding:18px 28px 6px" align="left"><a href="{h(pages_url,quote=True)}" style="display:inline-block;background:#0b3d91;color:#ffffff;text-decoration:none;font-weight:600;font-size:14px;padding:11px 20px;border-radius:8px">Open the copy page</a>
+<a href="{h(site_url,quote=True)}" style="display:inline-block;color:#0b3d91;text-decoration:none;font-weight:600;font-size:14px;padding:11px 14px">View on website</a></td></tr>
+<tr><td style="padding:20px 28px 4px"><div style="font-size:12px;letter-spacing:1.5px;color:#6b7280;font-weight:700">STORIES IN THIS MESSAGE ({len(fresh)})</div></td></tr>
+<tr><td style="padding:0 28px 8px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">{items}</table></td></tr>
+<tr><td style="padding:18px 28px 24px;font-size:12px;color:#9ca3af;line-height:1.5">Sent automatically by your daily news digest. Only stories you have not received before are included.</td></tr>
+</table></td></tr></table></body></html>'''
 
 
 def pick_fresh(events, done, count=5):
@@ -314,7 +339,10 @@ def main():
     (ROOT/'digest'/'whatsapp.txt').write_text(wa or 'No new stories since the last message.\n',encoding='utf-8')
     if wa:
         try:
-            if send_email(wa, f"WhatsApp message ready — {NOW:%d %b %Y}"):
+            repo=os.getenv('GITHUB_REPOSITORY','GuyOjeil/daily-digest')
+            pages_url='https://%s.github.io/%s/'%tuple(repo.split('/'))
+            html=build_email_html(wa,fresh,site_url,pages_url,NOW)
+            if send_email(wa, f"⚡ {len(fresh)} electrical engineering stories ready to share — {NOW:%d %b %Y}", html):
                 with sqlite3.connect(DB) as c3:  # remember what was sent, so the next message has new stories
                     c3.executemany('INSERT OR IGNORE INTO shared (url, day) VALUES (?,?)',[(e['url'],NOW.strftime('%Y-%m-%d')) for e in fresh])
         except Exception as exc:
