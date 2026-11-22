@@ -100,7 +100,7 @@ def group_events(rows, now, hours=24):
     seen.sort(key=lambda x:(x['score'],x['published']),reverse=True)
     return seen
 
-def build_report(events, fetched, inserted, now, health=None, narratives=None):
+def build_report(events, fetched, inserted, now, health=None, narratives=None, hours=24):
     groups=defaultdict(list)
     for item in events: groups[item['category']].append(item)
     limit=int(__import__('os').getenv('TOP_STORIES','10'))
@@ -120,20 +120,20 @@ def build_report(events, fetched, inserted, now, health=None, narratives=None):
             'narrative':(narratives or {}).get(category) or evidence_summary(category,items)})
     health=health or []
     failed=sum(x.get('status')!='ok' for x in health)
-    return {'generated':now.isoformat(),'window_hours':24,'window_start':(now-dt.timedelta(hours=24)).isoformat(),
+    return {'generated':now.isoformat(),'window_hours':hours,'window_start':(now-dt.timedelta(hours=hours)).isoformat(),
       'stats':{'events':len(events),'high':sum(x['priority']=='High signal' for x in events),
         'sources_reporting':len({x['source'] for x in events}), 'categories':len(cats), 'records_inserted':inserted,
         'fetched':fetched,'sources_failed':failed,'source_checks':len(health)},
       'top':top,'categories':cats,'health':health,
-      'executive':(narratives or {}).get('executive') or executive_summary(top)}
+      'executive':(narratives or {}).get('executive') or executive_summary(top,hours)}
 
 def evidence_summary(category,items):
     if not items: return 'No verified published findings during this window.'
     titles='; '.join(x['title'] for x in items[:3])
-    return f"{len(items)} distinct {category.lower()} developments appeared in the last 24 hours. Highest-ranked topics: {titles}. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+    return f"{len(items)} distinct {category.lower()} developments appeared in this time window. Highest-ranked topics: {titles}. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
 
-def executive_summary(top):
-    if not top:return 'No dated findings were collected for the last 24 hours. This may also indicate source failures; see Source health.'
+def executive_summary(top,hours=24):
+    if not top:return 'No dated findings were collected for the last '+str(hours)+' hours. This may also indicate source failures; see Source health.'
     count=Counter(x['category'] for x in top)
     focus=', '.join(f'{cat} ({n})' for cat,n in count.most_common(4))
-    return f'The highest-ranked developments in this 24-hour window concentrate on {focus}. Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.'
+    return f'The highest-ranked developments in the last {hours} hours concentrate on {focus}. Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.'

@@ -233,7 +233,7 @@ def send_email(md, subject=None):
     host, sender, password, receiver = (os.getenv(k,'') for k in ('SMTP_HOST','SMTP_USER','SMTP_PASSWORD','DIGEST_TO'))
     if not all((host,sender,password,receiver)):
         LOG.info('Email skipped: configure SMTP_HOST, SMTP_USER, SMTP_PASSWORD and DIGEST_TO')
-        return
+        return False
     msg = EmailMessage()
     msg['Subject'] = subject or f"Daily Electrical Engineering News — {NOW:%Y-%m-%d}"
     msg['From'] = sender
@@ -250,6 +250,20 @@ def send_email(md, subject=None):
             s.login(sender,password)
             s.send_message(msg)
     LOG.info('Email sent to configured recipient')
+    return True
+
+
+def pick_fresh(events, done, count=5):
+    """Top stories that were not sent before; at most 1 research paper."""
+    out=[];papers=0
+    for e in events:
+        if e['url'] in done: continue
+        if 'arxiv' in e.get('source','').lower():
+            if papers>=1: continue
+            papers+=1
+        out.append(e)
+        if len(out)>=count: break
+    return out
 
 
 def main():
@@ -270,34 +284,44 @@ def main():
         incoming=primary+releases+supplementary+arxiv
         # Preserve all historic observations, but daily report strictly uses publication time.
         inserted=store(conn,incoming)
-        cutoff=(NOW-dt.timedelta(hours=24)).isoformat()
-        rows=[dict(zip(('title','url','source','category','published','summary'),r)) for r in
-            conn.execute('SELECT title,url,source,category,published,summary FROM findings WHERE published>=? AND published<=? ORDER BY published DESC',(cutoff,NOW.isoformat()))]
-        events=intelligence.group_events(rows,NOW,hours=24)
+        # Quiet day? Look further back (48h, 72h, up to 7 days) until there are enough stories.
+        for window in (24,48,72,168):
+            cutoff=(NOW-dt.timedelta(hours=window)).isoformat()
+            rows=[dict(zip(('title','url','source','category','published','summary'),r)) for r in
+                conn.execute('SELECT title,url,source,category,published,summary FROM findings WHERE published>=? AND published<=? ORDER BY published DESC',(cutoff,NOW.isoformat()))]
+            events=intelligence.group_events(rows,NOW,hours=window)
+            if len(events)>=int(os.getenv('MIN_STORIES','5')): break
         health=advanced.source_status(conn)
     narratives=narration.create_narratives(events)
-    report=intelligence.build_report(events,len(incoming),inserted,NOW,health,narratives)
+    report=intelligence.build_report(events,len(incoming),inserted,NOW,health,narratives,hours=window)
+    site_url=os.getenv('SITE_URL','https://www.thelectricguy.com/#news')
+    with sqlite3.connect(DB) as c2:
+        c2.execute('CREATE TABLE IF NOT EXISTS shared (url TEXT PRIMARY KEY, day TEXT)')
+        done={r[0] for r in c2.execute('SELECT url FROM shared')}
+    fresh=pick_fresh(events,done)
+    wa=dashboard.whatsapp_message(report,site_url,rows=fresh) if fresh else ''
     md=dashboard.markdown(report)
     (ROOT/'digest').mkdir(exist_ok=True)
     (ROOT/'digest'/'latest.md').write_text(md,encoding='utf-8')
     (ROOT/'README.md').write_text(md+'\n[Configuration guide](SETUP.md)\n',encoding='utf-8')
     docs=ROOT/'docs'
-    dashboard.write_dashboard(docs,report)
+    dashboard.write_dashboard(docs,report,wa or 'No new stories since the last message. Check again tomorrow.\n')
     (docs/'latest.md').write_text(md,encoding='utf-8')
     health_md=advanced.status_markdown(health,top=200)
     (docs/'source-health.md').write_text(health_md,encoding='utf-8')
     (ROOT/'digest'/'source-health.md').write_text(health_md,encoding='utf-8')
     LOG.info('Fetched %s observations, inserted %s, unique published events in 24h %s, high signal %s, source issues %s',len(incoming),inserted,report['stats']['events'],report['stats']['high'],report['stats']['sources_failed'])
-    # Email contains compact executive summary + up to 10 top source-linked stories, not all observations.
-    wa=dashboard.whatsapp_message(report, os.getenv('SITE_URL','https://www.thelectricguy.com/#news'))
-    (ROOT/'digest'/'whatsapp.txt').write_text(wa,encoding='utf-8')
+    (ROOT/'digest'/'whatsapp.txt').write_text(wa or 'No new stories since the last message.\n',encoding='utf-8')
     if wa:
-        try: send_email(wa, f"WhatsApp message ready — {NOW:%d %b %Y}")
+        try:
+            if send_email(wa, f"WhatsApp message ready — {NOW:%d %b %Y}"):
+                with sqlite3.connect(DB) as c3:  # remember what was sent, so the next message has new stories
+                    c3.executemany('INSERT OR IGNORE INTO shared (url, day) VALUES (?,?)',[(e['url'],NOW.strftime('%Y-%m-%d')) for e in fresh])
         except Exception as exc:
             # A wrong email password must not stop the website from updating.
             print(f'::warning title=Email not sent::{type(exc).__name__}: check SMTP_USER, SMTP_PASSWORD and SMTP_HOST')
             LOG.warning('Email failed: %s', exc)
-    else: LOG.info('Email skipped: no stories in the last 24 hours')
+    else: LOG.info('Email skipped: no new stories since the last message')
 
 
 if __name__ == '__main__':
