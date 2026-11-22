@@ -4,7 +4,9 @@ import hashlib
 import re
 from collections import Counter, defaultdict
 
-CATEGORIES = ['Top stories','Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors','Research','Tools','Tech News']
+CATEGORIES = ['Top stories','Lebanon and Middle East','Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors','Research','Tools','Tech News']
+REGION = ['lebanon','lebanese','beirut','edl','electricite du liban','électricité du liban','middle east','mena','gulf','saudi','uae','dubai','abu dhabi','egypt','jordan','iraq','syria','oman','qatar','kuwait','morocco']
+LEBANON = ['lebanon','lebanese','beirut','edl','electricite du liban','électricité du liban']
 INTERESTS = {
  'Power Systems': ['power system','power grid','electric grid','grid','transmission line','transmission','distribution network','substation','transformer','protection relay','relay','blackout','outage','utility','utilities','load flow','power flow','frequency regulation','voltage control','smart grid','microgrid','smart meter','hvdc','switchgear','circuit breaker','electricity demand','electricity market','megawatt','gigawatt','interconnection'],
  'Renewable Energy': ['solar','photovoltaic','pv','wind turbine','wind farm','offshore wind','renewable','hydropower','geothermal','green hydrogen','electrolyzer','clean energy','net zero','decarbon','biomass','solar panel','perovskite'],
@@ -20,7 +22,7 @@ IMPACT = {
  'high': ['record','breakthrough','launch','announces','unveils','new standard','efficiency','commissioned','investment','approved','largest','milestone','regulation','tariff'],
  'medium':['research','prototype','design','study','test','review','guide','project','pilot']
 }
-BROAD_SOURCES = ('electrek','cleantechnica')  # general clean-tech sites: keep only stories with electrical words
+BROAD_SOURCES = ('electrek','cleantechnica','agbi','mercom','solarquarter','l\'orient')  # general clean-tech sites: keep only stories with electrical words
 LOW_VALUE = ['submitted by /u/', 'weekly roundup', 'discussion thread', 'sponsored']
 STOP = set('with from that this their where about using across into through which have more new paper study approach based results how why what for the and are to in of on by an as at'.split())
 
@@ -39,6 +41,7 @@ def tokens(title):
 def classify(row):
     cat=row.get('category','Tech News')
     title=(row.get('title','')+' '+row.get('summary','')[:240]).lower()
+    if any(hit(w,title) for w in REGION) and electrical_hits(row): return 'Lebanon and Middle East'
     # Mixed sources are sorted into a specific electrical topic when the words clearly match.
     if cat in ('Tech News','Research','Tools'):
         best,bestn=None,0
@@ -57,8 +60,9 @@ def score(row):
     trust=3 if any(v in source for v in ('ieee','eetimes','ee times','utility dive','power engineering','t&d world','semiconductor engineering')) else 1 if any(v in source for v in ('arxiv','reddit')) else 2
     importance=5 if any(k in body for k in IMPACT['critical']) else 3 if any(k in title for k in IMPACT['high']) else 2 if any(k in body for k in IMPACT['medium']) else 1
     penalty=3 if any(k in body for k in LOW_VALUE) else 0
+    region_boost=(5 if any(hit(w,body) for w in LEBANON) else 2 if any(hit(w,body) for w in REGION) else 0) if matched else 0
     if category=='Research' and 'arxiv' in source: penalty+=2
-    value=max(0, round(importance*2+min(relevant,6)+trust-penalty))
+    value=max(0, round(importance*2+min(relevant,6)+trust+region_boost-penalty))
     label='High signal' if value>=14 else 'Worth watching' if value>=10 else 'Other developments'
     return value,label,matched
 
@@ -99,7 +103,14 @@ def group_events(rows, now, hours=24):
 def build_report(events, fetched, inserted, now, health=None, narratives=None):
     groups=defaultdict(list)
     for item in events: groups[item['category']].append(item)
-    top=events[:int(__import__('os').getenv('TOP_STORIES','10'))]
+    limit=int(__import__('os').getenv('TOP_STORIES','10'))
+    top=[];papers=0
+    for e in events:
+        if len(top)>=limit: break
+        if 'arxiv' in e.get('source','').lower():
+            if papers>=2: continue  # keep research papers to 2 in the top list
+            papers+=1
+        top.append(e)
     cats=[]
     for category in CATEGORIES[1:]:
         items=groups.get(category,[])

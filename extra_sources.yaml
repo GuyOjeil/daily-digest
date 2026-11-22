@@ -11,6 +11,24 @@ extra_feeds:
 - name: eeNews Europe
   category: Electronics
   url: https://www.eenewseurope.com/en/feed/
+- name: Mercom MENA
+  category: Lebanon and Middle East
+  url: https://mercomindia.com/tag/mena/feed/
+- name: SolarQuarter Middle East
+  category: Lebanon and Middle East
+  url: https://solarquarter.com/tag/middle-east/feed/
+- name: AGBI
+  category: Lebanon and Middle East
+  url: https://agbi.com/feed/
+- name: L'Orient Today
+  category: Lebanon and Middle East
+  url: https://today.lorientlejour.com/rss
+- name: PV Tech
+  category: Renewable Energy
+  url: https://www.pv-tech.org/feed/
+- name: POWER Magazine
+  category: Power Systems
+  url: https://www.powermag.com/feed/
 arxiv_queries:
 - name: Power Systems
   category: Research

@@ -10,7 +10,7 @@ from urllib.parse import urlsplit, urlunsplit
 
 import yaml
 
-CATEGORIES = {'Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors','Research','Tools','Tech News'}
+CATEGORIES = {'Lebanon and Middle East','Power Systems','Renewable Energy','Energy Storage','Control and Automation','Power Electronics','Electronics','Semiconductors','Research','Tools','Tech News'}
 ROOT = Path(__file__).resolve().parent.parent
 
 
