@@ -42,14 +42,13 @@ def whatsapp_message(report, site_url, count=5, rows=None):
     except Exception: day=''
     rows=(rows if rows is not None else report.get('top',[]))[:count]
     if not rows: return ''
-    lines=[f"⚡ *Electrical Engineering News* — {day}",'']
-    for row in rows:
+    lines=['Electrical Engineering news:','']
+    for n,row in enumerate(rows,1):
         title=' '.join(row['title'].split())
         if len(title)>110: title=title[:107].rstrip()+'...'
         title=title.replace('*','').replace('_','')
-        lines.append(f"{EMOJI.get(row.get('category'),'•')} {title} ({row.get('source','')})")
-        lines.append('')
-    lines.append(f"🔗 Read all the news and links: {site_url}")
+        lines.append(f"{n}. {title}")
+    lines+=['',f"Read all the news and links: {site_url}"]
     return '\n'.join(lines)+'\n'
 
 def write_dashboard(docs:Path, report, wa_text=None):

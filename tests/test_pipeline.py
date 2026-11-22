@@ -27,7 +27,8 @@ class WhatsAppTests(unittest.TestCase):
         report={'generated':'2026-11-22T20:00:00+00:00','top':[{'title':'Grid *adds* storage','source':'Utility Dive','category':'Power Systems'}]}
         text=whatsapp_message(report,'https://example.com/#news')
         self.assertIn('https://example.com/#news',text)
-        self.assertIn('Grid adds storage (Utility Dive)',text)
+        self.assertIn('Electrical Engineering news:',text)
+        self.assertIn('1. Grid adds storage',text)
         self.assertEqual(whatsapp_message({'generated':'x','top':[]},'https://example.com'),'')
 
 if __name__ == '__main__':
