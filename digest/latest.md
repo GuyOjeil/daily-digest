@@ -1,6 +1,6 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-22T20:49:11.202651+00:00  
+**Generated:** 2026-11-22T20:51:17.063807+00:00  
 **Window: last 24 hours (UTC, rolling)**  
 **Distinct events:** 2 · **High-signal candidates:** 0 · **Sources reporting:** 2
 
