@@ -1,0 +1,49 @@
+sources:
+- name: IEEE Spectrum
+  category: Tech News
+  url: https://spectrum.ieee.org/feeds/feed.rss
+- name: EE Times
+  category: Electronics
+  url: https://www.eetimes.com/feed/
+- name: Hackaday
+  category: Electronics
+  url: https://hackaday.com/blog/feed/
+- name: Arduino Blog
+  category: Embedded
+  url: https://blog.arduino.cc/feed/
+- name: Adafruit Blog
+  category: Embedded
+  url: https://blog.adafruit.com/feed/
+- name: Raspberry Pi News
+  category: Embedded
+  url: https://www.raspberrypi.com/news/feed/
+- name: CNX Software
+  category: Embedded
+  url: https://www.cnx-software.com/feed/
+- name: Embedded.com
+  category: Embedded
+  url: https://www.embedded.com/feed/
+- name: Semiconductor Engineering
+  category: Semiconductors
+  url: https://semiengineering.com/feed/
+- name: Electrek
+  category: Power and Energy
+  url: https://electrek.co/feed/
+- name: Utility Dive
+  category: Power and Energy
+  url: https://www.utilitydive.com/feeds/news/
+- name: pv magazine
+  category: Power and Energy
+  url: https://www.pv-magazine.com/feed/
+- name: Tom's Hardware
+  category: Tech News
+  url: https://www.tomshardware.com/feeds/all
+github_repos:
+- espressif/arduino-esp32
+- espressif/esp-idf
+- arduino/arduino-ide
+- raspberrypi/pico-sdk
+- micropython/micropython
+- adafruit/circuitpython
+- zephyrproject-rtos/zephyr
+- platformio/platformio-core

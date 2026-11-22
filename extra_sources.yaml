@@ -1,0 +1,25 @@
+extra_feeds:
+- name: Ars Technica
+  category: Tech News
+  url: https://feeds.arstechnica.com/arstechnica/index
+- name: arXiv Systems and Control
+  category: Research
+  url: https://export.arxiv.org/rss/eess.SY
+- name: arXiv Signal Processing
+  category: Research
+  url: https://export.arxiv.org/rss/eess.SP
+- name: CISA Alerts
+  category: Security
+  url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+- name: Wamda
+  category: Regional
+  url: https://www.wamda.com/feed
+arxiv_queries:
+- name: Power Electronics
+  category: Research
+  query: all:"power electronics" OR all:"inverter control"
+  limit: 8
+- name: Smart Grid and Batteries
+  category: Research
+  query: all:"smart grid" OR all:"battery management system"
+  limit: 8
