@@ -1,32 +1,64 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-22T21:17:28.538197+00:00  
-**Window: last 48 hours (UTC, rolling)**  
-**Distinct events:** 13 · **High-signal candidates:** 0 · **Sources reporting:** 5
+**Generated:** 2026-11-23T08:32:43.091440+00:00  
+**Window: last 24 hours (UTC, rolling)**  
+**Distinct events:** 21 · **High-signal candidates:** 0 · **Sources reporting:** 8
 
 ## Executive brief
 
-The highest-ranked developments in the last 48 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Energy Storage (2), Semiconductors (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
-### [Tariffs, taxes and a BESS price rise](https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise)
+### [Briggs & Stratton launches 16 kWh battery scalable to 512 kWh](https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh)
 
 **Renewable Energy · Worth watching · Score 11 · pv magazine**
 
-Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post Tariffs, taxes and a BESS price rise appeared first on pv magazine Global .
+The lithium iron phosphate (LFP) battery features a minimum round-trip efficiency of 96%, a 12-year warranty, and integrated hardware designed to reduce installation and commissioning times. The post Briggs & Stratton launches 16 kWh battery scalable to 512 kWh appeared first on pv magazine Global .
 
-### [Battery patents: Solid-state filings surpass lithium-ion to hit record high](https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high)
+### [AI Changes What Chip Engineers Need To Learn](https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn)
 
-**Renewable Energy · Worth watching · Score 10 · pv magazine**
+**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
 
-Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward 
+AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .
 
-### [JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards](https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/)
+### [Daikin launches R32 retrofit solution for existing residential heat pump series](https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series)
 
-**Renewable Energy · Worth watching · Score 10 · CleanTechnica**
+**Renewable Energy · Other developments · Score 9 · pv magazine**
 
-JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company’s own cloud environment, giving the team direct responsibility for data policies, access permissions, 
+The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R
+
+### [US Senate passes permitting bill letting solar developers sue agencies](https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies)
+
+**Renewable Energy · Other developments · Score 8 · pv magazine**
+
+The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post 
+
+### [Ten innovative renewable energy startups give their pitch at RE+](https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re)
+
+**Renewable Energy · Other developments · Score 8 · pv magazine**
+
+California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging, and data center power. The post Ten innovative renewable energy startups give the
+
+### [20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide](https://arxiv.org/abs/2611.25409)
+
+**Energy Storage · Other developments · Score 8 · arXiv Signal Processing**
+
+arXiv:2611.25409v2 Announce Type: replace 
+Abstract: Surface acoustic wave (SAW) resonators above 15~GHz require a fast acoustic mode that retains strong electromechanical coupling ($k^2$). This work reports longitudinal SAW (L-SAW) resonators designed for high $k^2$ in 100-nm X-cut lithium niobate 
+
+### [$\mathcal{H}_\infty$ Grid-Forming Control in DC Microgrids](https://arxiv.org/abs/2611.26827)
+
+**Power Systems · Other developments · Score 8 · arXiv Systems and Control**
+
+arXiv:2611.26827v1 Announce Type: new 
+Abstract: The growing share of DC-based generation, storage and loads has increased interest in DC microgrids. As a result, DC-bus voltage regulation and stability have become active research topics, with considerable effort directed at improving the transient 
+
+### [Burden of proof](https://www.pv-magazine.com/2026/11/23/burden-of-proof)
+
+**Renewable Energy · Other developments · Score 8 · pv magazine**
+
+A ‘Made in USA’ label indicates where a product was manufactured but not who owns the factory, whose technology it licenses, or where the materials were sourced. For battery energy storage systems (BESS) claiming US federal tax credits in 2026 and beyond, those details, not the label, can determine 
 
 ### [DTE Energy plans up to 150 megawatts of Michigan-based solar generation](https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation)
 
@@ -40,61 +72,63 @@ DTE Energy recently announced plans to add up to 150 megawatts of new solar ener
 
 For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…
 
-### [Spain approves new data center rules requiring 80% renewable electricity](https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity)
+## Power Systems — 5 distinct findings, 0 high-signal
 
-**Renewable Energy · Other developments · Score 8 · pv magazine**
+5 distinct power systems developments appeared in this time window. Highest-ranked topics: $\mathcal{H}_\infty$ Grid-Forming Control in DC Microgrids; Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing; Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-The new framework introduces energy and water efficiency standards, renewable electricity procurement obligations, and grid flexibility requirements for data centers. A €17.14 billion transmission network plan will support 47.4 GW of new electricity demand through 2030. The post Spain approves new d
+### [$\mathcal{H}_\infty$ Grid-Forming Control in DC Microgrids](https://arxiv.org/abs/2611.26827)
 
-### [energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc](https://cleantechnica.com/2026/11/20/energyre-agreed-to-sell-100-of-a-portfolio-of-utility-scale-solar-projects-in-south-carolina-to-enel-green-power-north-america-totaling-317-mwdc/)
+**Power Systems · Other developments · Score 8 · arXiv Systems and Control**
 
-**Renewable Energy · Other developments · Score 8 · CleanTechnica**
+arXiv:2611.26827v1 Announce Type: new 
+Abstract: The growing share of DC-based generation, storage and loads has increased interest in DC microgrids. As a result, DC-bus voltage regulation and stability have become active research topics, with considerable effort directed at improving the transient 
 
-energyRe Will Continue as Construction Manager Through Commercial Operation; Sale Reflects Strength of the Company’s South Carolina Development Platform; Transaction Expected to Close in First Quarter of 2027 energyRe today announced that it has agreed to sell 100% of a portfolio of utility-scale so
+### [Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing](https://arxiv.org/abs/2510.06470)
 
-### [Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives](https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives)
+**Power Systems · Other developments · Score 5 · arXiv Systems and Control**
 
-**Renewable Energy · Other developments · Score 7 · pv magazine**
+arXiv:2510.06470v3 Announce Type: replace 
+Abstract: We investigate the use of a point cloud measurement in terrain-aided navigation. Our goal is to aid an inertial navigation system, by exploring ways to generate a useful measurement residual for effective nonlinear state estimation. We compare two
 
-CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments. The post Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives appeared first on pv magazine Global .
+### [Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets](https://arxiv.org/abs/2406.04889)
 
-### [Ford Begins Producing Its Own LFP Batteries](https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/)
+**Power Systems · Other developments · Score 5 · arXiv Systems and Control**
 
-**Renewable Energy · Other developments · Score 6 · CleanTechnica**
+arXiv:2406.04889v2 Announce Type: cross 
+Abstract: This paper investigates sequential flexibility markets consisting of a first market layer for distribution system operators (DSOs) to procure local flexibility to resolve their own needs (e.g., congestion management) followed by a second layer, in w
 
-Ford is now a battery producer. Yes, it’s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles. In fact, it is reportedly doing so in a really fast, advanced way. “The BlueOval Battery Park Michigan assembly   ... [continued] T
+## Renewable Energy — 7 distinct findings, 0 high-signal
 
-### [CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31](https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31)
+7 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Briggs & Stratton launches 16 kWh battery scalable to 512 kWh; Daikin launches R32 retrofit solution for existing residential heat pump series; US Senate passes permitting bill letting solar developers sue agencies. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-**Renewable Energy · Other developments · Score 6 · pv magazine**
-
-An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey. The post CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31 appeared first on pv magazine Global .
-
-## Renewable Energy — 11 distinct findings, 0 high-signal
-
-11 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Tariffs, taxes and a BESS price rise; Battery patents: Solid-state filings surpass lithium-ion to hit record high; JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [Tariffs, taxes and a BESS price rise](https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise)
+### [Briggs & Stratton launches 16 kWh battery scalable to 512 kWh](https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh)
 
 **Renewable Energy · Worth watching · Score 11 · pv magazine**
 
-Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post Tariffs, taxes and a BESS price rise appeared first on pv magazine Global .
+The lithium iron phosphate (LFP) battery features a minimum round-trip efficiency of 96%, a 12-year warranty, and integrated hardware designed to reduce installation and commissioning times. The post Briggs & Stratton launches 16 kWh battery scalable to 512 kWh appeared first on pv magazine Global .
 
-### [Battery patents: Solid-state filings surpass lithium-ion to hit record high](https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high)
+### [Daikin launches R32 retrofit solution for existing residential heat pump series](https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series)
 
-**Renewable Energy · Worth watching · Score 10 · pv magazine**
+**Renewable Energy · Other developments · Score 9 · pv magazine**
 
-Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward 
+The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R
 
-### [JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards](https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/)
+### [US Senate passes permitting bill letting solar developers sue agencies](https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies)
 
-**Renewable Energy · Worth watching · Score 10 · CleanTechnica**
+**Renewable Energy · Other developments · Score 8 · pv magazine**
 
-JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company’s own cloud environment, giving the team direct responsibility for data policies, access permissions, 
+The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post 
 
-## Energy Storage — 1 distinct findings, 0 high-signal
+## Energy Storage — 4 distinct findings, 0 high-signal
 
-1 distinct energy storage developments appeared in this time window. Highest-ranked topics: Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+4 distinct energy storage developments appeared in this time window. Highest-ranked topics: 20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide; Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery; PepDeTech: Anonymous Occupancy Monitoring on a Battery-Powered 2.3k-Zone dToF LiDAR Node with On-Chip Processing and Bluetooth LE Reporting. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide](https://arxiv.org/abs/2611.25409)
+
+**Energy Storage · Other developments · Score 8 · arXiv Signal Processing**
+
+arXiv:2611.25409v2 Announce Type: replace 
+Abstract: Surface acoustic wave (SAW) resonators above 15~GHz require a fast acoustic mode that retains strong electromechanical coupling ($k^2$). This work reports longitudinal SAW (L-SAW) resonators designed for high $k^2$ in 100-nm X-cut lithium niobate 
 
 ### [Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery](https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery)
 
@@ -102,15 +136,56 @@ JJA ESS has launched its own battery passport data platform to support lifecycle
 
 For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…
 
-## Electronics — 1 distinct findings, 0 high-signal
+### [PepDeTech: Anonymous Occupancy Monitoring on a Battery-Powered 2.3k-Zone dToF LiDAR Node with On-Chip Processing and Bluetooth LE Reporting](https://arxiv.org/abs/2611.27304)
 
-1 distinct electronics developments appeared in this time window. Highest-ranked topics: Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Energy Storage · Other developments · Score 5 · arXiv Signal Processing**
 
-### [Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies](https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies)
+arXiv:2611.27304v1 Announce Type: new 
+Abstract: As populations grow, society is increasingly required to shift towards systems of shared resources, which allow space, energy and time to be optimised. Facilitating this transition depends on data: how many people are present, when and where. From suc
+
+## Control and Automation — 1 distinct findings, 0 high-signal
+
+1 distinct control and automation developments appeared in this time window. Highest-ranked topics: Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents](https://arxiv.org/abs/2611.27435)
+
+**Control and Automation · Other developments · Score 5 · arXiv Systems and Control**
+
+arXiv:2611.27435v1 Announce Type: cross 
+Abstract: Model predictive control (MPC) of urban traffic signals relies on a model of how queues respond to signal decisions, which is hard to specify and calibrate in heterogeneous networks, particularly when incidents change capacities and turning shares. 
+
+## Electronics — 3 distinct findings, 0 high-signal
+
+3 distinct electronics developments appeared in this time window. Highest-ranked topics: EU targets advanced materials leadership by 2035; A Microwave-Photonics Formulation of the Rydberg-Atom Receiver; The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [EU targets advanced materials leadership by 2035](https://www.eenewseurope.com/en/eu-targets-advanced-materials-leadership-by-2035/)
+
+**Electronics · Other developments · Score 7 · eeNews Europe**
+
+The European Commission has unveiled a new initiative aimed at making the EU a global leader in the development, production and deployment of advanced materials by 2035. The Advanced Materials for Europe agenda sets ambitious targets for investment, startups and industrial adoption, with a focus on 
+
+### [A Microwave-Photonics Formulation of the Rydberg-Atom Receiver](https://arxiv.org/abs/2611.27942)
+
+**Electronics · Other developments · Score 6 · arXiv Signal Processing**
+
+arXiv:2611.27942v1 Announce Type: cross 
+Abstract: The performance of Rydberg-atom receivers is seldom stated as a radio-frequency (RF) link budget. The receiver is shown to be an intensity-modulated direct-detection analog optical link whose modulator is the laser-driven vapor. The transmission of 
+
+### [The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt](https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt)
 
 **Electronics · Other developments · Score 5 · EE Times**
 
-Playground Global is searching CEA laboratories for technologies that could create new markets—but global capital complicates European sovereignty. The post Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies appeared first on EE Times .
+Here is why it was a non-starter and what the story reveals about memory’s strategic appeal in the AI buildup. The post The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt appeared first on EE Times .
+
+## Semiconductors — 1 distinct findings, 0 high-signal
+
+1 distinct semiconductors developments appeared in this time window. Highest-ranked topics: AI Changes What Chip Engineers Need To Learn. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [AI Changes What Chip Engineers Need To Learn](https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn)
+
+**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
+
+AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .
 
 ---
 
