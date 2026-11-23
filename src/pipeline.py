@@ -323,20 +323,26 @@ def main():
     with sqlite3.connect(DB) as c2:
         c2.execute('CREATE TABLE IF NOT EXISTS shared (url TEXT PRIMARY KEY, day TEXT)')
         done={r[0] for r in c2.execute('SELECT url FROM shared')}
+        last_sent=c2.execute('SELECT max(day) FROM shared').fetchone()[0]
     fresh=pick_fresh(events,done)
     wa=dashboard.whatsapp_message(report,site_url,rows=fresh) if fresh else ''
+    # Backup runs later in the morning: if today's message was already sent, keep it on the copy page.
+    kept=ROOT/'digest'/'whatsapp.txt'
+    keep_today=(not wa) and last_sent==NOW.strftime('%Y-%m-%d') and kept.exists() and kept.read_text(encoding='utf-8').startswith('Electrical Engineering news:')
+    if keep_today: wa_page=kept.read_text(encoding='utf-8')
+    else: wa_page=wa or 'No new stories since the last message. Check again tomorrow.\n'
     md=dashboard.markdown(report)
     (ROOT/'digest').mkdir(exist_ok=True)
     (ROOT/'digest'/'latest.md').write_text(md,encoding='utf-8')
     (ROOT/'README.md').write_text(md+'\n[Configuration guide](SETUP.md)\n',encoding='utf-8')
     docs=ROOT/'docs'
-    dashboard.write_dashboard(docs,report,wa or 'No new stories since the last message. Check again tomorrow.\n')
+    dashboard.write_dashboard(docs,report,wa_page)
     (docs/'latest.md').write_text(md,encoding='utf-8')
     health_md=advanced.status_markdown(health,top=200)
     (docs/'source-health.md').write_text(health_md,encoding='utf-8')
     (ROOT/'digest'/'source-health.md').write_text(health_md,encoding='utf-8')
     LOG.info('Fetched %s observations, inserted %s, unique published events in 24h %s, high signal %s, source issues %s',len(incoming),inserted,report['stats']['events'],report['stats']['high'],report['stats']['sources_failed'])
-    (ROOT/'digest'/'whatsapp.txt').write_text(wa or 'No new stories since the last message.\n',encoding='utf-8')
+    kept.write_text(wa_page,encoding='utf-8')
     if wa:
         try:
             repo=os.getenv('GITHUB_REPOSITORY','GuyOjeil/daily-digest')

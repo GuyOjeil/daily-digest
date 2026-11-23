@@ -1,8 +1,12 @@
 name: Daily Electrical Engineering News Digest
 on:
   schedule:
-    - cron: '17 7 * * *'
-    - cron: '47 8 * * *'   # backup: GitHub sometimes skips a scheduled run; if stories were already sent, no second email is sent
+    # Lebanon winter time (UTC+2): 8:00, 8:30 and 9:00. GitHub sometimes skips or delays a run,
+    # so the later ones are backups. If the message was already sent, they send no second email.
+    # (In summer time, Lebanon is UTC+3: change 6/6/7 to 5/5/6.)
+    - cron: '0 6 * * *'
+    - cron: '30 6 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:
 permissions:
   contents: write
