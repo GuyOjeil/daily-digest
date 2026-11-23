@@ -1,9 +1,9 @@
 Electrical Engineering news:
 
-1. Briggs & Stratton launches 16 kWh battery scalable to 512 kWh
-2. AI Changes What Chip Engineers Need To Learn
-3. Daikin launches R32 retrofit solution for existing residential heat pump series
-4. US Senate passes permitting bill letting solar developers sue agencies
-5. Ten innovative renewable energy startups give their pitch at RE+
+1. 20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide
+2. Burden of proof
+3. EU targets advanced materials leadership by 2035
+4. The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt
+5. Thornova Solar and Nextpower strengthen strategic cooperation
 
 Read all the news and links: https://www.thelectricguy.com/#news
