@@ -310,7 +310,7 @@ def main():
         # Preserve all historic observations, but daily report strictly uses publication time.
         inserted=store(conn,incoming)
         # Quiet day? Look further back (48h, 72h, up to 7 days) until there are enough stories.
-        for window in (24,48,72,168):
+        for window in (24,48,72):
             cutoff=(NOW-dt.timedelta(hours=window)).isoformat()
             rows=[dict(zip(('title','url','source','category','published','summary'),r)) for r in
                 conn.execute('SELECT title,url,source,category,published,summary FROM findings WHERE published>=? AND published<=? ORDER BY published DESC',(cutoff,NOW.isoformat()))]
@@ -324,7 +324,8 @@ def main():
         c2.execute('CREATE TABLE IF NOT EXISTS shared (url TEXT PRIMARY KEY, day TEXT)')
         done={r[0] for r in c2.execute('SELECT url FROM shared')}
         last_sent=c2.execute('SELECT max(day) FROM shared').fetchone()[0]
-    fresh=pick_fresh(events,done)
+    already_today=last_sent==NOW.strftime('%Y-%m-%d')
+    fresh=[] if already_today else pick_fresh(events,done)  # one message per day
     wa=dashboard.whatsapp_message(report,site_url,rows=fresh) if fresh else ''
     # Backup runs later in the morning: if today's message was already sent, keep it on the copy page.
     kept=ROOT/'digest'/'whatsapp.txt'
