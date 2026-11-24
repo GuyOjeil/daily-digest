@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-24T18:09:25.554762+00:00",
+  "generated": "2026-11-24T18:34:16.279735+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-23T18:09:25.554762+00:00",
+  "window_start": "2026-11-23T18:34:16.279735+00:00",
   "stats": {
-    "events": 68,
+    "events": 69,
     "high": 0,
     "sources_reporting": 13,
     "categories": 7,
-    "records_inserted": 7,
+    "records_inserted": 3,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -81,8 +81,8 @@
       "coverage": []
     },
     {
-      "title": "TVA announces $1.7B data center deal under new large-load tariff",
-      "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630",
+      "title": "TVA touts $1.7B data center deal under new large-load tariff",
+      "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630",
       "source": "Utility Dive",
       "category": "Power Systems",
       "published": "2026-11-24T16:11:04+00:00",
@@ -92,8 +92,13 @@
       "interests": [
         "Power Systems"
       ],
-      "event_id": "b75001ee298d",
-      "coverage": []
+      "event_id": "5de1e900a3ad",
+      "coverage": [
+        {
+          "source": "Utility Dive",
+          "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630"
+        }
+      ]
     },
     {
       "title": "Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency",
@@ -159,19 +164,19 @@
       "coverage": []
     },
     {
-      "title": "Algeria’s solar capacity surpasses 1 GW",
-      "url": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw",
-      "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-24T13:45:31+00:00",
-      "summary": "Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar capacity surpasses 1 GW appeared first on pv magazine Global .",
+      "title": "System Check: What is your approach to circuit analysis?",
+      "url": "https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/",
+      "source": "eeNews Europe",
+      "category": "Electronics",
+      "published": "2026-11-24T18:08:52+00:00",
+      "summary": "System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look at the results. According to our community members, advanced RF semiconductor […] The post System Check: What is your approach to circuit analysis? appeared first on eeNews Europe .",
       "score": 9,
       "priority": "Other developments",
       "interests": [
-        "Power Systems",
-        "Renewable Energy"
+        "Electronics",
+        "Semiconductors"
       ],
-      "event_id": "11407240a438",
+      "event_id": "93d921b20146",
       "coverage": []
     }
   ],
@@ -218,12 +223,12 @@
     },
     {
       "name": "Power Systems",
-      "count": 6,
+      "count": 7,
       "high": 0,
       "top": [
         {
-          "title": "TVA announces $1.7B data center deal under new large-load tariff",
-          "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630",
+          "title": "TVA touts $1.7B data center deal under new large-load tariff",
+          "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630",
           "source": "Utility Dive",
           "category": "Power Systems",
           "published": "2026-11-24T16:11:04+00:00",
@@ -233,7 +238,27 @@
           "interests": [
             "Power Systems"
           ],
-          "event_id": "b75001ee298d",
+          "event_id": "5de1e900a3ad",
+          "coverage": [
+            {
+              "source": "Utility Dive",
+              "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630"
+            }
+          ]
+        },
+        {
+          "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
+          "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-24T17:26:49+00:00",
+          "summary": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "60e99f983b54",
           "coverage": []
         },
         {
@@ -250,27 +275,12 @@
           ],
           "event_id": "4a10540de4b3",
           "coverage": []
-        },
-        {
-          "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
-          "url": "https://www.utilitydive.com/news/spp-decision-to-prevent-transmission-competition-escalates-electric-prices/874143",
-          "source": "Utility Dive",
-          "category": "Power Systems",
-          "published": "2026-11-24T16:03:19+00:00",
-          "summary": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
-          "score": 7,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "c9e6c2a551a2",
-          "coverage": []
         }
       ],
       "items": [
         {
-          "title": "TVA announces $1.7B data center deal under new large-load tariff",
-          "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630",
+          "title": "TVA touts $1.7B data center deal under new large-load tariff",
+          "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630",
           "source": "Utility Dive",
           "category": "Power Systems",
           "published": "2026-11-24T16:11:04+00:00",
@@ -280,7 +290,27 @@
           "interests": [
             "Power Systems"
           ],
-          "event_id": "b75001ee298d",
+          "event_id": "5de1e900a3ad",
+          "coverage": [
+            {
+              "source": "Utility Dive",
+              "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630"
+            }
+          ]
+        },
+        {
+          "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
+          "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-24T17:26:49+00:00",
+          "summary": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "60e99f983b54",
           "coverage": []
         },
         {
@@ -355,7 +385,7 @@
           "coverage": []
         }
       ],
-      "narrative": "6 distinct power systems developments appeared in this time window. Highest-ranked topics: TVA announces $1.7B data center deal under new large-load tariff; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era; FERC must take action to protect ratepayers from higher transmission costs in SPP. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "7 distinct power systems developments appeared in this time window. Highest-ranked topics: TVA touts $1.7B data center deal under new large-load tariff; FirstEnergy utilities get approval for $2.5B gas plant in West Virginia; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Renewable Energy",
@@ -1137,6 +1167,22 @@
           "coverage": []
         },
         {
+          "title": "System Check: What is your approach to circuit analysis?",
+          "url": "https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/",
+          "source": "eeNews Europe",
+          "category": "Electronics",
+          "published": "2026-11-24T18:08:52+00:00",
+          "summary": "System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look at the results. According to our community members, advanced RF semiconductor […] The post System Check: What is your approach to circuit analysis? appeared first on eeNews Europe .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Electronics",
+            "Semiconductors"
+          ],
+          "event_id": "93d921b20146",
+          "coverage": []
+        },
+        {
           "title": "Semtech posts record Q3 sales as revenue surges 58%",
           "url": "https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/",
           "source": "eeNews Europe",
@@ -1149,21 +1195,6 @@
             "Semiconductors"
           ],
           "event_id": "bd7426f72e45",
-          "coverage": []
-        },
-        {
-          "title": "Solid state transformers at the heart of 800V AI datacentre power",
-          "url": "https://www.eenewseurope.com/en/solid-state-transformers-at-the-heart-of-800v-ai-datacentre-power/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-24T13:12:55+00:00",
-          "summary": "The move to 800V DC power in AI datacentres is a ‘once in a generation’ shift that can drive a fundamental change in power delivery systems. The 800V AI datacentre proposal by NVIDIA has been tweaked by Google and Microsoft to support both 0-800V and ±400V designs and now is being adopted by the Open […] The post Solid state transformers at the heart of 800V AI datacentre power appeared first on eeNews Europe .",
-          "score": 7,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "2acccefed123",
           "coverage": []
         }
       ],
@@ -1181,6 +1212,22 @@
             "Semiconductors"
           ],
           "event_id": "b162920c9385",
+          "coverage": []
+        },
+        {
+          "title": "System Check: What is your approach to circuit analysis?",
+          "url": "https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/",
+          "source": "eeNews Europe",
+          "category": "Electronics",
+          "published": "2026-11-24T18:08:52+00:00",
+          "summary": "System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look at the results. According to our community members, advanced RF semiconductor […] The post System Check: What is your approach to circuit analysis? appeared first on eeNews Europe .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Electronics",
+            "Semiconductors"
+          ],
+          "event_id": "93d921b20146",
           "coverage": []
         },
         {
@@ -1294,19 +1341,6 @@
           "coverage": []
         },
         {
-          "title": "Nvidia Board Reinstates Jensen Huang as CEO",
-          "url": "https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo",
-          "source": "EE Times",
-          "category": "Electronics",
-          "published": "2026-11-23T18:17:02+00:00",
-          "summary": "Nvidia goes back to business as usual following Huang's resignation and reinstatement after a week. The post Nvidia Board Reinstates Jensen Huang as CEO appeared first on EE Times .",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "f54abc090863",
-          "coverage": []
-        },
-        {
           "title": "IoT security advances are critical for smart home and smart city automation",
           "url": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation",
           "source": "EDN",
@@ -1359,7 +1393,7 @@
           "coverage": []
         }
       ],
-      "narrative": "13 distinct electronics developments appeared in this time window. Highest-ranked topics: TSMC Texas fab: $22.6bn investment proposed; Semtech posts record Q3 sales as revenue surges 58%; Solid state transformers at the heart of 800V AI datacentre power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "13 distinct electronics developments appeared in this time window. Highest-ranked topics: TSMC Texas fab: $22.6bn investment proposed; System Check: What is your approach to circuit analysis?; Semtech posts record Q3 sales as revenue surges 58%. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Semiconductors",
@@ -1574,7 +1608,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:31.515695+00:00",
+      "last_success": "2026-11-24T18:34:24.233154+00:00",
       "error": ""
     },
     {
@@ -1583,7 +1617,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:42.532361+00:00",
+      "last_success": "2026-11-24T18:34:34.621045+00:00",
       "error": ""
     },
     {
@@ -1592,7 +1626,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:27.895164+00:00",
+      "last_success": "2026-11-24T18:34:19.646825+00:00",
       "error": ""
     },
     {
@@ -1601,7 +1635,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:28.374697+00:00",
+      "last_success": "2026-11-24T18:34:20.563829+00:00",
       "error": ""
     },
     {
@@ -1610,7 +1644,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:28.232153+00:00",
+      "last_success": "2026-11-24T18:34:20.296500+00:00",
       "error": ""
     },
     {
@@ -1619,7 +1653,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:27.607496+00:00",
+      "last_success": "2026-11-24T18:34:19.159249+00:00",
       "error": ""
     },
     {
@@ -1628,7 +1662,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:27.482040+00:00",
+      "last_success": "2026-11-24T18:34:18.994743+00:00",
       "error": ""
     },
     {
@@ -1637,7 +1671,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:31.401445+00:00",
+      "last_success": "2026-11-24T18:34:24.050130+00:00",
       "error": ""
     },
     {
@@ -1646,7 +1680,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:25.822019+00:00",
+      "last_success": "2026-11-24T18:34:16.579952+00:00",
       "error": ""
     },
     {
@@ -1655,7 +1689,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:31.020470+00:00",
+      "last_success": "2026-11-24T18:34:23.732189+00:00",
       "error": ""
     },
     {
@@ -1664,7 +1698,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:30.559645+00:00",
+      "last_success": "2026-11-24T18:34:23.094744+00:00",
       "error": ""
     },
     {
@@ -1673,7 +1707,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:32.222515+00:00",
+      "last_success": "2026-11-24T18:34:25.191170+00:00",
       "error": ""
     },
     {
@@ -1682,7 +1716,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:32.151076+00:00",
+      "last_success": "2026-11-24T18:34:25.094831+00:00",
       "error": ""
     },
     {
@@ -1691,7 +1725,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:28.014816+00:00",
+      "last_success": "2026-11-24T18:34:19.933436+00:00",
       "error": ""
     },
     {
@@ -1700,7 +1734,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:35.843143+00:00",
+      "last_success": "2026-11-24T18:34:28.407270+00:00",
       "error": ""
     },
     {
@@ -1709,7 +1743,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:25.952870+00:00",
+      "last_success": "2026-11-24T18:34:16.972387+00:00",
       "error": ""
     },
     {
@@ -1718,7 +1752,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:32.526948+00:00",
+      "last_success": "2026-11-24T18:34:25.300773+00:00",
       "error": ""
     },
     {
@@ -1727,7 +1761,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:31.401385+00:00",
+      "last_success": "2026-11-24T18:34:24.050040+00:00",
       "error": ""
     },
     {
@@ -1736,7 +1770,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:29.878624+00:00",
+      "last_success": "2026-11-24T18:34:22.301893+00:00",
       "error": ""
     },
     {
@@ -1745,7 +1779,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:26.440341+00:00",
+      "last_success": "2026-11-24T18:34:17.980490+00:00",
       "error": ""
     },
     {
@@ -1754,7 +1788,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:39.138857+00:00",
+      "last_success": "2026-11-24T18:34:31.518229+00:00",
       "error": ""
     },
     {
@@ -1763,7 +1797,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:29.241173+00:00",
+      "last_success": "2026-11-24T18:34:21.569629+00:00",
       "error": ""
     },
     {
@@ -1772,7 +1806,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:27.283806+00:00",
+      "last_success": "2026-11-24T18:34:18.781172+00:00",
       "error": ""
     },
     {
@@ -1781,7 +1815,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:31.900041+00:00",
+      "last_success": "2026-11-24T18:34:24.868880+00:00",
       "error": ""
     },
     {
@@ -1790,7 +1824,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:25.861867+00:00",
+      "last_success": "2026-11-24T18:34:16.719045+00:00",
       "error": ""
     },
     {
@@ -1799,7 +1833,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:26.908497+00:00",
+      "last_success": "2026-11-24T18:34:18.613587+00:00",
       "error": ""
     },
     {
@@ -1808,7 +1842,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:29.568624+00:00",
+      "last_success": "2026-11-24T18:34:21.939507+00:00",
       "error": ""
     },
     {
@@ -1817,7 +1851,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:31.861966+00:00",
+      "last_success": "2026-11-24T18:34:24.791923+00:00",
       "error": ""
     },
     {
@@ -1826,7 +1860,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:31.400490+00:00",
+      "last_success": "2026-11-24T18:34:24.049114+00:00",
       "error": ""
     },
     {
@@ -1835,7 +1869,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:26.389903+00:00",
+      "last_success": "2026-11-24T18:34:17.726314+00:00",
       "error": ""
     },
     {
@@ -1844,7 +1878,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:09:30.261428+00:00",
+      "last_success": "2026-11-24T18:34:22.612007+00:00",
       "error": ""
     },
     {
@@ -1852,7 +1886,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 3,
+      "failures": 4,
       "last_success": "2026-11-23T08:54:55.206898+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1861,7 +1895,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 3,
+      "failures": 4,
       "last_success": "2026-11-23T08:54:55.178609+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1902,5 +1936,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Energy Storage (1), Power Systems (1), Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (5), Electronics (2), Energy Storage (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }

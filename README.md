@@ -1,12 +1,12 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-24T18:09:25.554762+00:00  
+**Generated:** 2026-11-24T18:34:16.279735+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 68 · **High-signal candidates:** 0 · **Sources reporting:** 13
+**Distinct events:** 69 · **High-signal candidates:** 0 · **Sources reporting:** 13
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Energy Storage (1), Power Systems (1), Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (5), Electronics (2), Energy Storage (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
@@ -34,7 +34,7 @@ Co-locating solar PV with BESS is necessary in Central and Eastern Europe, accor
 
 Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
 
-### [TVA announces $1.7B data center deal under new large-load tariff](https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630)
+### [TVA touts $1.7B data center deal under new large-load tariff](https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630)
 
 **Power Systems · Worth watching · Score 10 · Utility Dive**
 
@@ -64,11 +64,11 @@ Kansai Electric Power has partnered with Panasonic and Kansai University on a tw
 
 Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC 
 
-### [Algeria’s solar capacity surpasses 1 GW](https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw)
+### [System Check: What is your approach to circuit analysis?](https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/)
 
-**Renewable Energy · Other developments · Score 9 · pv magazine**
+**Electronics · Other developments · Score 9 · eeNews Europe**
 
-Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar
+System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look 
 
 ## Lebanon and Middle East — 1 distinct findings, 0 high-signal
 
@@ -80,27 +80,27 @@ Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity 
 
 Exports of Chinese solar PV modules to the Middle East rose sharply in October 2026, overtaking Europe as the leading destination for Chinese panels, according to analysis by the Shanghai Metals Market (SMM).
 
-## Power Systems — 6 distinct findings, 0 high-signal
+## Power Systems — 7 distinct findings, 0 high-signal
 
-6 distinct power systems developments appeared in this time window. Highest-ranked topics: TVA announces $1.7B data center deal under new large-load tariff; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era; FERC must take action to protect ratepayers from higher transmission costs in SPP. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+7 distinct power systems developments appeared in this time window. Highest-ranked topics: TVA touts $1.7B data center deal under new large-load tariff; FirstEnergy utilities get approval for $2.5B gas plant in West Virginia; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [TVA announces $1.7B data center deal under new large-load tariff](https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630)
+### [TVA touts $1.7B data center deal under new large-load tariff](https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630)
 
 **Power Systems · Worth watching · Score 10 · Utility Dive**
 
 Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.
+
+### [FirstEnergy utilities get approval for $2.5B gas plant in West Virginia](https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646)
+
+**Power Systems · Other developments · Score 8 · Utility Dive**
+
+Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.
 
 ### [When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era](https://www.powermag.com/when-commercial-demand-takes-the-lead-rethinking-grid-planning-for-a-new-load-era-2/)
 
 **Power Systems · Other developments · Score 8 · POWER Magazine**
 
 For decades, electric utilities have planned around a relatively predictable relationship between population growth, economic activity, weather and electricity consumption. Demand increased gradually, infrastructure investments followed long-term forecasts and utilities generally had time to prepare
-
-### [FERC must take action to protect ratepayers from higher transmission costs in SPP](https://www.utilitydive.com/news/spp-decision-to-prevent-transmission-competition-escalates-electric-prices/874143)
-
-**Power Systems · Other developments · Score 7 · Utility Dive**
-
-The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.
 
 ## Renewable Energy — 28 distinct findings, 0 high-signal
 
@@ -164,7 +164,7 @@ Diamond Foundry's 200-mm single-crystal diamond platform uses heteroepitaxy on i
 
 ## Electronics — 13 distinct findings, 0 high-signal
 
-13 distinct electronics developments appeared in this time window. Highest-ranked topics: TSMC Texas fab: $22.6bn investment proposed; Semtech posts record Q3 sales as revenue surges 58%; Solid state transformers at the heart of 800V AI datacentre power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+13 distinct electronics developments appeared in this time window. Highest-ranked topics: TSMC Texas fab: $22.6bn investment proposed; System Check: What is your approach to circuit analysis?; Semtech posts record Q3 sales as revenue surges 58%. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [TSMC Texas fab: $22.6bn investment proposed](https://www.eenewseurope.com/en/tsmc-texas-fab-investment/)
 
@@ -172,17 +172,17 @@ Diamond Foundry's 200-mm single-crystal diamond platform uses heteroepitaxy on i
 
 A proposed TSMC Texas fab would bring leading-edge semiconductor manufacturing to Brazos County, with an investment of $22.6 billion. The Taiwanese foundry is seeking property tax incentives from the state as it evaluates a site for a new advanced semiconductor manufacturing campus. TSMC Arizona Cor
 
+### [System Check: What is your approach to circuit analysis?](https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/)
+
+**Electronics · Other developments · Score 9 · eeNews Europe**
+
+System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look 
+
 ### [Semtech posts record Q3 sales as revenue surges 58%](https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/)
 
 **Electronics · Other developments · Score 9 · eeNews Europe**
 
 Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. F
-
-### [Solid state transformers at the heart of 800V AI datacentre power](https://www.eenewseurope.com/en/solid-state-transformers-at-the-heart-of-800v-ai-datacentre-power/)
-
-**Electronics · Other developments · Score 7 · eeNews Europe**
-
-The move to 800V DC power in AI datacentres is a ‘once in a generation’ shift that can drive a fundamental change in power delivery systems. The 800V AI datacentre proposal by NVIDIA has been tweaked by Google and Microsoft to support both 0-800V and ±400V designs and now is being adopted by the Ope
 
 ## Semiconductors — 10 distinct findings, 0 high-signal
 
