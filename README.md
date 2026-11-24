@@ -1,20 +1,20 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-24T08:45:21.903721+00:00  
+**Generated:** 2026-11-24T16:55:33.951271+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 60 · **High-signal candidates:** 0 · **Sources reporting:** 14
+**Distinct events:** 66 · **High-signal candidates:** 0 · **Sources reporting:** 13
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Lebanon and Middle East (1), Energy Storage (1), Power Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Energy Storage (1), Power Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
-### [Lebanon looks to ramp up solar, storage deployments](https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments)
+### [Differ Power unveils ‘9-in-1’ solar-storage heat pump](https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump)
 
-**Lebanon and Middle East · Worth watching · Score 13 · pv magazine**
+**Renewable Energy · Worth watching · Score 12 · pv magazine**
 
-Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .
+The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post D
 
 ### [Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit](https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit)
 
@@ -22,11 +22,29 @@ Lebanon is working towards adding at least 3 GW of electricity generation capaci
 
 The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongw
 
+### [Solar-plus-storage has a strong investment case in Central and Eastern Europe](https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/)
+
+**Renewable Energy · Worth watching · Score 11 · PV Tech**
+
+Co-locating solar PV with BESS is necessary in Central and Eastern Europe, according to speakers at SolarPlus Central Eastern Europe.
+
 ### [One of the world’s biggest zinc mines is getting Alaska’s largest solar farm](https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm)
 
 **Energy Storage · Worth watching · Score 11 · Electrek**
 
 Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
+
+### [Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency](https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency)
+
+**Renewable Energy · Worth watching · Score 10 · pv magazine**
+
+The Chinese manufacturer’s new double-glass, all-black modules are designed for high-end rooftop applications across Europe. They feature a temperature coefficient of -0.26% per C and a 30-year linear power output guarantee. The post Gokin Solar launches 510 W all-black BC panel with 25.0% efficienc
+
+### [TSMC Texas fab: $22.6bn investment proposed](https://www.eenewseurope.com/en/tsmc-texas-fab-investment/)
+
+**Electronics · Worth watching · Score 10 · eeNews Europe**
+
+A proposed TSMC Texas fab would bring leading-edge semiconductor manufacturing to Brazos County, with an investment of $22.6 billion. The Taiwanese foundry is seeking property tax incentives from the state as it evaluates a site for a new advanced semiconductor manufacturing campus. TSMC Arizona Cor
 
 ### [Japanese utility to forecast perovskite window output with AI](https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai)
 
@@ -40,49 +58,31 @@ Kansai Electric Power has partnered with Panasonic and Kansai University on a tw
 
 Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC 
 
-### [JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency](https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/)
+### [Algeria’s solar capacity surpasses 1 GW](https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw)
 
-**Renewable Energy · Worth watching · Score 10 · PV Tech**
+**Renewable Energy · Other developments · Score 9 · pv magazine**
 
-Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.24% for a TOPCon-based perovskite tandem cell.
+Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar
 
-### [SunPower launches 522W HJT solar panel, Q3 revenue rises](https://www.pv-tech.org/sunpower-q3-revenue-growth-launches-522w-hjt-solar-panel/)
+### [Semtech posts record Q3 sales as revenue surges 58%](https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/)
 
-**Renewable Energy · Worth watching · Score 10 · PV Tech**
+**Electronics · Other developments · Score 9 · eeNews Europe**
 
-US solar firm SunPower reported Q3 2026 revenue of US$65.1 million, up US$10.2 million from the previous quarter.
-
-### [First Solar CEO backs bipartisan support for Trump’s Section 232 tariffs](https://www.pv-tech.org/first-solar-ceo-backs-bipartisan-support-trump-section-232-tariffs/)
-
-**Renewable Energy · Worth watching · Score 10 · PV Tech**
-
-The CEO of US thin-film PV manufacturer First Solar has called for bipartisan policy support for US tariff programmes and praised the measures introduced by the Trump administration to limit non-US solar companies’ access to the US market.
-
-### [Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA](https://www.pv-tech.org/india-clean-energy-investment-gap-ieefa-greater-domestic-capital/)
-
-**Renewable Energy · Worth watching · Score 10 · PV Tech**
-
-IEEFA says India could unlock INR680 billion in renewable investment through life insurers, addressing domestic funding constraints.
-
-### [Why AI Struggles To Reuse Chip Designs](https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs)
-
-**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
-
-AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .
+Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. F
 
 ## Lebanon and Middle East — 1 distinct findings, 0 high-signal
 
-1 distinct lebanon and middle east developments appeared in this time window. Highest-ranked topics: Lebanon looks to ramp up solar, storage deployments. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+1 distinct lebanon and middle east developments appeared in this time window. Highest-ranked topics: Chinese solar exports to Middle East surge as Europe clears inventory. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [Lebanon looks to ramp up solar, storage deployments](https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments)
+### [Chinese solar exports to Middle East surge as Europe clears inventory](https://www.pv-tech.org/chinese-solar-exports-to-middle-east-surge-as-europe-clears-inventory/)
 
-**Lebanon and Middle East · Worth watching · Score 13 · pv magazine**
+**Lebanon and Middle East · Other developments · Score 8 · PV Tech**
 
-Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .
+Exports of Chinese solar PV modules to the Middle East rose sharply in October 2026, overtaking Europe as the leading destination for Chinese panels, according to analysis by the Shanghai Metals Market (SMM).
 
-## Power Systems — 7 distinct findings, 0 high-signal
+## Power Systems — 4 distinct findings, 0 high-signal
 
-7 distinct power systems developments appeared in this time window. Highest-ranked topics: Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO; FERC approves MISO plan to speed legacy interconnection study process; COP31 leaders warn grids and storage can’t keep pace with renewable energy growth. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+4 distinct power systems developments appeared in this time window. Highest-ranked topics: Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era; FERC must take action to protect ratepayers from higher transmission costs in SPP. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO](https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146)
 
@@ -90,21 +90,27 @@ Lebanon is working towards adding at least 3 GW of electricity generation capaci
 
 CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.
 
-### [FERC approves MISO plan to speed legacy interconnection study process](https://www.utilitydive.com/news/ferc-miso-interconnection-queue-study/875449)
+### [When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era](https://www.powermag.com/when-commercial-demand-takes-the-lead-rethinking-grid-planning-for-a-new-load-era-2/)
 
-**Power Systems · Other developments · Score 9 · Utility Dive**
+**Power Systems · Other developments · Score 8 · POWER Magazine**
 
-Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.
+For decades, electric utilities have planned around a relatively predictable relationship between population growth, economic activity, weather and electricity consumption. Demand increased gradually, infrastructure investments followed long-term forecasts and utilities generally had time to prepare
 
-### [COP31 leaders warn grids and storage can’t keep pace with renewable energy growth](https://www.power-eng.com/energy-storage/cop31-grids-storage-renewable-energy-growth)
+### [FERC must take action to protect ratepayers from higher transmission costs in SPP](https://www.utilitydive.com/news/spp-decision-to-prevent-transmission-competition-escalates-electric-prices/874143)
 
-**Power Systems · Other developments · Score 9 · Power Engineering**
+**Power Systems · Other developments · Score 7 · Utility Dive**
 
-With more than 2,000 GW of renewable projects awaiting grid connections, industry leaders say infrastructure bottlenecks — not generation costs — are becoming the biggest obstacle to the global energy transition.
+The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.
 
-## Renewable Energy — 22 distinct findings, 0 high-signal
+## Renewable Energy — 28 distinct findings, 0 high-signal
 
-22 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit; Japanese utility to forecast perovskite window output with AI; JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+28 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Differ Power unveils ‘9-in-1’ solar-storage heat pump; Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit; Solar-plus-storage has a strong investment case in Central and Eastern Europe. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [Differ Power unveils ‘9-in-1’ solar-storage heat pump](https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump)
+
+**Renewable Energy · Worth watching · Score 12 · pv magazine**
+
+The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post D
 
 ### [Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit](https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit)
 
@@ -112,21 +118,15 @@ With more than 2,000 GW of renewable projects awaiting grid connections, industr
 
 The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongw
 
-### [Japanese utility to forecast perovskite window output with AI](https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai)
+### [Solar-plus-storage has a strong investment case in Central and Eastern Europe](https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/)
 
-**Renewable Energy · Worth watching · Score 10 · pv magazine**
+**Renewable Energy · Worth watching · Score 11 · PV Tech**
 
-Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window ou
+Co-locating solar PV with BESS is necessary in Central and Eastern Europe, according to speakers at SolarPlus Central Eastern Europe.
 
-### [JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency](https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/)
+## Energy Storage — 8 distinct findings, 0 high-signal
 
-**Renewable Energy · Worth watching · Score 10 · PV Tech**
-
-Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.24% for a TOPCon-based perovskite tandem cell.
-
-## Energy Storage — 5 distinct findings, 0 high-signal
-
-5 distinct energy storage developments appeared in this time window. Highest-ranked topics: One of the world’s biggest zinc mines is getting Alaska’s largest solar farm; ‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer; Italy’s recent electricity market decree could reduce BESS revenues in 2027/28. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+8 distinct energy storage developments appeared in this time window. Highest-ranked topics: One of the world’s biggest zinc mines is getting Alaska’s largest solar farm; CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience; APA starts work on 104MWh solar-plus-storage project in Australia. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [One of the world’s biggest zinc mines is getting Alaska’s largest solar farm](https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm)
 
@@ -134,21 +134,21 @@ Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.
 
 Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
 
-### [‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer](https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer)
+### [CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience](https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience)
 
-**Energy Storage · Other developments · Score 8 · Energy Storage News**
+**Energy Storage · Other developments · Score 9 · Energy Storage News**
 
-BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.
+Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.
 
-### [Italy’s recent electricity market decree could reduce BESS revenues in 2027/28](https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28)
+### [APA starts work on 104MWh solar-plus-storage project in Australia](https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia)
 
-**Energy Storage · Other developments · Score 7 · Energy Storage News**
+**Energy Storage · Other developments · Score 9 · Energy Storage News**
 
-A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.
+APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.
 
-## Power Electronics — 3 distinct findings, 0 high-signal
+## Power Electronics — 2 distinct findings, 0 high-signal
 
-3 distinct power electronics developments appeared in this time window. Highest-ranked topics: The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights; Optimizing power delivery in AI data centers; AmberSemi Leads APEC 2027 Session on Vertical Power Delivery. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+2 distinct power electronics developments appeared in this time window. Highest-ranked topics: The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights; 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights](https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights)
 
@@ -156,39 +156,33 @@ A recent electricity market decree in Italy could reduce price spikes and theref
 
 Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC 
 
-### [Optimizing power delivery in AI data centers](https://www.powerelectronicsnews.com/optimizing-power-delivery-in-ai-data-centers)
+### [200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics](https://www.powerelectronicsnews.com/200-mm-single-crystal-diamond-opens-new-perspective-for-power-electronics)
 
 **Power Electronics · Other developments · Score 7 · Power Electronics News**
 
-How 800-VDC distribution, vertical power delivery, and backside power cut I²R losses from grid to transistor. The post Optimizing power delivery in AI data centers appeared first on Power Electronics News .
+Diamond Foundry's 200-mm single-crystal diamond platform uses heteroepitaxy on iridium/YSZ/silicon, advancing wafer-scale diamond for power electronics. The post 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics appeared first on Power Electronics News .
 
-### [AmberSemi Leads APEC 2027 Session on Vertical Power Delivery](https://www.powerelectronicsnews.com/ambersemi-leads-apec-2027-session-on-vertical-power-delivery)
+## Electronics — 13 distinct findings, 0 high-signal
 
-**Power Electronics · Other developments · Score 5 · Power Electronics News**
+13 distinct electronics developments appeared in this time window. Highest-ranked topics: TSMC Texas fab: $22.6bn investment proposed; Semtech posts record Q3 sales as revenue surges 58%; Solid state transformers at the heart of 800V AI datacentre power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-The APEC session explores power architectures as AI processor current demands exceed thousands of amperes. The post AmberSemi Leads APEC 2027 Session on Vertical Power Delivery appeared first on Power Electronics News .
+### [TSMC Texas fab: $22.6bn investment proposed](https://www.eenewseurope.com/en/tsmc-texas-fab-investment/)
 
-## Electronics — 12 distinct findings, 0 high-signal
+**Electronics · Worth watching · Score 10 · eeNews Europe**
 
-12 distinct electronics developments appeared in this time window. Highest-ranked topics: Secure Flash: A Practical Path to Cyber Resilience Act Compliance; Vehicle-to-Grid: Great Idea or Unrealistic Dream?; NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+A proposed TSMC Texas fab would bring leading-edge semiconductor manufacturing to Brazos County, with an investment of $22.6 billion. The Taiwanese foundry is seeking property tax incentives from the state as it evaluates a site for a new advanced semiconductor manufacturing campus. TSMC Arizona Cor
 
-### [Secure Flash: A Practical Path to Cyber Resilience Act Compliance](https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance)
+### [Semtech posts record Q3 sales as revenue surges 58%](https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/)
 
-**Electronics · Other developments · Score 7 · EE Times**
+**Electronics · Other developments · Score 9 · eeNews Europe**
 
-The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rol
+Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. F
 
-### [Vehicle-to-Grid: Great Idea or Unrealistic Dream?](https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream)
+### [Solid state transformers at the heart of 800V AI datacentre power](https://www.eenewseurope.com/en/solid-state-transformers-at-the-heart-of-800v-ai-datacentre-power/)
 
-**Electronics · Other developments · Score 6 · EE Times**
+**Electronics · Other developments · Score 7 · eeNews Europe**
 
-Vehicle-to-grid sounds like a partial solution for enhancing the grid, but the reality of the human factor may say otherwise. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? appeared first on EE Times .
-
-### [NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026](https://www.eetimes.com/nsing-featured-cra-ai-robotics-motor-control-and-digital-energy-at-electronica-2026)
-
-**Electronics · Other developments · Score 6 · EE Times**
-
-At electronica 2026 in Munich, NSING exhibited 35 solutions built on N32‑series MCUs, N32WB BLE SoCs and NS350 TPM, covering AI robotics, motor control and digital energy, and presented its CRA compliance offerings. The post NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electr
+The move to 800V DC power in AI datacentres is a ‘once in a generation’ shift that can drive a fundamental change in power delivery systems. The 800V AI datacentre proposal by NVIDIA has been tweaked by Google and Microsoft to support both 0-800V and ±400V designs and now is being adopted by the Ope
 
 ## Semiconductors — 10 distinct findings, 0 high-signal
 
