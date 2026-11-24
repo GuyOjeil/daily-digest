@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-24T16:55:33.951271+00:00",
+  "generated": "2026-11-24T18:09:25.554762+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-23T16:55:33.951271+00:00",
+  "window_start": "2026-11-23T18:09:25.554762+00:00",
   "stats": {
-    "events": 66,
+    "events": 68,
     "high": 0,
     "sources_reporting": 13,
     "categories": 7,
-    "records_inserted": 64,
+    "records_inserted": 7,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -78,6 +78,21 @@
         "Energy Storage"
       ],
       "event_id": "a2b9d4b6bf65",
+      "coverage": []
+    },
+    {
+      "title": "TVA announces $1.7B data center deal under new large-load tariff",
+      "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630",
+      "source": "Utility Dive",
+      "category": "Power Systems",
+      "published": "2026-11-24T16:11:04+00:00",
+      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Power Systems"
+      ],
+      "event_id": "b75001ee298d",
       "coverage": []
     },
     {
@@ -158,21 +173,6 @@
       ],
       "event_id": "11407240a438",
       "coverage": []
-    },
-    {
-      "title": "Semtech posts record Q3 sales as revenue surges 58%",
-      "url": "https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/",
-      "source": "eeNews Europe",
-      "category": "Electronics",
-      "published": "2026-11-24T12:58:08+00:00",
-      "summary": "Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. For eeNews Europe readers, the results highlight the growing […] The post Semtech posts record Q3 sales as revenue surges 58% appeared first on eeNews Europe .",
-      "score": 9,
-      "priority": "Other developments",
-      "interests": [
-        "Semiconductors"
-      ],
-      "event_id": "bd7426f72e45",
-      "coverage": []
     }
   ],
   "categories": [
@@ -218,22 +218,22 @@
     },
     {
       "name": "Power Systems",
-      "count": 4,
+      "count": 6,
       "high": 0,
       "top": [
         {
-          "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
-          "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146",
+          "title": "TVA announces $1.7B data center deal under new large-load tariff",
+          "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630",
           "source": "Utility Dive",
           "category": "Power Systems",
-          "published": "2026-11-23T18:00:00+00:00",
-          "summary": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.",
-          "score": 9,
-          "priority": "Other developments",
+          "published": "2026-11-24T16:11:04+00:00",
+          "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
+          "score": 10,
+          "priority": "Worth watching",
           "interests": [
             "Power Systems"
           ],
-          "event_id": "56e1ce6af2ef",
+          "event_id": "b75001ee298d",
           "coverage": []
         },
         {
@@ -269,18 +269,18 @@
       ],
       "items": [
         {
-          "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
-          "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146",
+          "title": "TVA announces $1.7B data center deal under new large-load tariff",
+          "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630",
           "source": "Utility Dive",
           "category": "Power Systems",
-          "published": "2026-11-23T18:00:00+00:00",
-          "summary": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.",
-          "score": 9,
-          "priority": "Other developments",
+          "published": "2026-11-24T16:11:04+00:00",
+          "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
+          "score": 10,
+          "priority": "Worth watching",
           "interests": [
             "Power Systems"
           ],
-          "event_id": "56e1ce6af2ef",
+          "event_id": "b75001ee298d",
           "coverage": []
         },
         {
@@ -327,9 +327,35 @@
           ],
           "event_id": "70a0de1899f0",
           "coverage": []
+        },
+        {
+          "title": "Landmark NRC Construction Permit Ushers in Next Phase for Dow’s Xe-100 HTGR Nuclear Project",
+          "url": "https://www.powermag.com/landmark-nrc-construction-permit-ushers-in-next-phase-for-dows-xe-100-htgr-nuclear-project/",
+          "source": "POWER Magazine",
+          "category": "Power Systems",
+          "published": "2026-11-24T17:06:43+00:00",
+          "summary": "The Nuclear Regulatory Commission (NRC) on Nov. 9 issued its first construction permit for a high-temperature gas-cooled reactor (HTGR) in nearly six decades, authorizing construction of four X-energy Xe-100 reactors that could supply electricity and high-temperature process steam to Dow’s chemical manufacturing operations on the Texas Gulf Coast. While the authorization follows nearly eight years […] The post Landmark NRC Construction Permit Ushers in Next Phase for Dow’s Xe-100 HTGR Nuclear Project appeared first on POWER Magazine .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "2de3fcdf1e39",
+          "coverage": []
+        },
+        {
+          "title": "Midterms provide clarity on data center development: Vistra CEO",
+          "url": "https://www.utilitydive.com/news/vistra-midterms-data-center-ercot-pjm/875626",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-24T15:54:55+00:00",
+          "summary": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "5c8dd49bf771",
+          "coverage": []
         }
       ],
-      "narrative": "4 distinct power systems developments appeared in this time window. Highest-ranked topics: Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era; FERC must take action to protect ratepayers from higher transmission costs in SPP. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "6 distinct power systems developments appeared in this time window. Highest-ranked topics: TVA announces $1.7B data center deal under new large-load tariff; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era; FERC must take action to protect ratepayers from higher transmission costs in SPP. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Renewable Energy",
@@ -1548,7 +1574,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:41.432739+00:00",
+      "last_success": "2026-11-24T18:09:31.515695+00:00",
       "error": ""
     },
     {
@@ -1557,7 +1583,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:54.664122+00:00",
+      "last_success": "2026-11-24T18:09:42.532361+00:00",
       "error": ""
     },
     {
@@ -1566,7 +1592,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:36.785937+00:00",
+      "last_success": "2026-11-24T18:09:27.895164+00:00",
       "error": ""
     },
     {
@@ -1575,7 +1601,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:37.581231+00:00",
+      "last_success": "2026-11-24T18:09:28.374697+00:00",
       "error": ""
     },
     {
@@ -1584,7 +1610,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:37.236756+00:00",
+      "last_success": "2026-11-24T18:09:28.232153+00:00",
       "error": ""
     },
     {
@@ -1593,7 +1619,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:36.295764+00:00",
+      "last_success": "2026-11-24T18:09:27.607496+00:00",
       "error": ""
     },
     {
@@ -1602,7 +1628,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:36.107235+00:00",
+      "last_success": "2026-11-24T18:09:27.482040+00:00",
       "error": ""
     },
     {
@@ -1611,7 +1637,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:41.202263+00:00",
+      "last_success": "2026-11-24T18:09:31.401445+00:00",
       "error": ""
     },
     {
@@ -1620,7 +1646,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:34.290028+00:00",
+      "last_success": "2026-11-24T18:09:25.822019+00:00",
       "error": ""
     },
     {
@@ -1629,7 +1655,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:40.813859+00:00",
+      "last_success": "2026-11-24T18:09:31.020470+00:00",
       "error": ""
     },
     {
@@ -1638,7 +1664,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:40.277199+00:00",
+      "last_success": "2026-11-24T18:09:30.559645+00:00",
       "error": ""
     },
     {
@@ -1647,7 +1673,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:44.252863+00:00",
+      "last_success": "2026-11-24T18:09:32.222515+00:00",
       "error": ""
     },
     {
@@ -1656,7 +1682,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:44.200361+00:00",
+      "last_success": "2026-11-24T18:09:32.151076+00:00",
       "error": ""
     },
     {
@@ -1665,7 +1691,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:36.943957+00:00",
+      "last_success": "2026-11-24T18:09:28.014816+00:00",
       "error": ""
     },
     {
@@ -1674,7 +1700,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:47.879009+00:00",
+      "last_success": "2026-11-24T18:09:35.843143+00:00",
       "error": ""
     },
     {
@@ -1683,7 +1709,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:34.617899+00:00",
+      "last_success": "2026-11-24T18:09:25.952870+00:00",
       "error": ""
     },
     {
@@ -1692,7 +1718,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:44.585850+00:00",
+      "last_success": "2026-11-24T18:09:32.526948+00:00",
       "error": ""
     },
     {
@@ -1701,7 +1727,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:41.202201+00:00",
+      "last_success": "2026-11-24T18:09:31.401385+00:00",
       "error": ""
     },
     {
@@ -1710,7 +1736,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:39.555662+00:00",
+      "last_success": "2026-11-24T18:09:29.878624+00:00",
       "error": ""
     },
     {
@@ -1719,7 +1745,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:35.027119+00:00",
+      "last_success": "2026-11-24T18:09:26.440341+00:00",
       "error": ""
     },
     {
@@ -1728,7 +1754,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:51.257156+00:00",
+      "last_success": "2026-11-24T18:09:39.138857+00:00",
       "error": ""
     },
     {
@@ -1737,7 +1763,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:38.728713+00:00",
+      "last_success": "2026-11-24T18:09:29.241173+00:00",
       "error": ""
     },
     {
@@ -1746,7 +1772,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:35.500093+00:00",
+      "last_success": "2026-11-24T18:09:27.283806+00:00",
       "error": ""
     },
     {
@@ -1755,7 +1781,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:43.921148+00:00",
+      "last_success": "2026-11-24T18:09:31.900041+00:00",
       "error": ""
     },
     {
@@ -1764,7 +1790,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:34.371126+00:00",
+      "last_success": "2026-11-24T18:09:25.861867+00:00",
       "error": ""
     },
     {
@@ -1773,7 +1799,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:35.228695+00:00",
+      "last_success": "2026-11-24T18:09:26.908497+00:00",
       "error": ""
     },
     {
@@ -1782,7 +1808,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:39.206913+00:00",
+      "last_success": "2026-11-24T18:09:29.568624+00:00",
       "error": ""
     },
     {
@@ -1791,7 +1817,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:41.792818+00:00",
+      "last_success": "2026-11-24T18:09:31.861966+00:00",
       "error": ""
     },
     {
@@ -1800,7 +1826,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:41.201216+00:00",
+      "last_success": "2026-11-24T18:09:31.400490+00:00",
       "error": ""
     },
     {
@@ -1809,7 +1835,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:34.900903+00:00",
+      "last_success": "2026-11-24T18:09:26.389903+00:00",
       "error": ""
     },
     {
@@ -1818,7 +1844,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T16:55:39.881606+00:00",
+      "last_success": "2026-11-24T18:09:30.261428+00:00",
       "error": ""
     },
     {
@@ -1826,7 +1852,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 2,
+      "failures": 3,
       "last_success": "2026-11-23T08:54:55.206898+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1835,7 +1861,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 2,
+      "failures": 3,
       "last_success": "2026-11-23T08:54:55.178609+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1876,5 +1902,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Energy Storage (1), Power Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Energy Storage (1), Power Systems (1), Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }

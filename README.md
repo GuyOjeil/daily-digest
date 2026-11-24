@@ -1,12 +1,12 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-24T16:55:33.951271+00:00  
+**Generated:** 2026-11-24T18:09:25.554762+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 66 · **High-signal candidates:** 0 · **Sources reporting:** 13
+**Distinct events:** 68 · **High-signal candidates:** 0 · **Sources reporting:** 13
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Energy Storage (1), Power Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Energy Storage (1), Power Systems (1), Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
@@ -33,6 +33,12 @@ Co-locating solar PV with BESS is necessary in Central and Eastern Europe, accor
 **Energy Storage · Worth watching · Score 11 · Electrek**
 
 Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
+
+### [TVA announces $1.7B data center deal under new large-load tariff](https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630)
+
+**Power Systems · Worth watching · Score 10 · Utility Dive**
+
+Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.
 
 ### [Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency](https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency)
 
@@ -64,12 +70,6 @@ Here’s a RoundUp of this week’s must-read articles – we’ll delve into th
 
 Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar
 
-### [Semtech posts record Q3 sales as revenue surges 58%](https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/)
-
-**Electronics · Other developments · Score 9 · eeNews Europe**
-
-Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. F
-
 ## Lebanon and Middle East — 1 distinct findings, 0 high-signal
 
 1 distinct lebanon and middle east developments appeared in this time window. Highest-ranked topics: Chinese solar exports to Middle East surge as Europe clears inventory. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
@@ -80,15 +80,15 @@ Semtech has reported record net sales of $423 million for the third quarter of f
 
 Exports of Chinese solar PV modules to the Middle East rose sharply in October 2026, overtaking Europe as the leading destination for Chinese panels, according to analysis by the Shanghai Metals Market (SMM).
 
-## Power Systems — 4 distinct findings, 0 high-signal
+## Power Systems — 6 distinct findings, 0 high-signal
 
-4 distinct power systems developments appeared in this time window. Highest-ranked topics: Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era; FERC must take action to protect ratepayers from higher transmission costs in SPP. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+6 distinct power systems developments appeared in this time window. Highest-ranked topics: TVA announces $1.7B data center deal under new large-load tariff; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era; FERC must take action to protect ratepayers from higher transmission costs in SPP. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO](https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146)
+### [TVA announces $1.7B data center deal under new large-load tariff](https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630)
 
-**Power Systems · Other developments · Score 9 · Utility Dive**
+**Power Systems · Worth watching · Score 10 · Utility Dive**
 
-CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.
+Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.
 
 ### [When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era](https://www.powermag.com/when-commercial-demand-takes-the-lead-rethinking-grid-planning-for-a-new-load-era-2/)
 
