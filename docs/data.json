@@ -1,417 +1,600 @@
 {
-  "generated": "2026-11-23T08:54:48.301572+00:00",
+  "generated": "2026-11-24T08:45:21.903721+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-22T08:54:48.301572+00:00",
+  "window_start": "2026-11-23T08:45:21.903721+00:00",
   "stats": {
-    "events": 21,
+    "events": 60,
     "high": 0,
-    "sources_reporting": 8,
-    "categories": 6,
-    "records_inserted": 0,
-    "fetched": 420,
-    "sources_failed": 4,
+    "sources_reporting": 14,
+    "categories": 7,
+    "records_inserted": 80,
+    "fetched": 328,
+    "sources_failed": 10,
     "source_checks": 37
   },
   "top": [
     {
-      "title": "Briggs & Stratton launches 16 kWh battery scalable to 512 kWh",
-      "url": "https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh",
+      "title": "Lebanon looks to ramp up solar, storage deployments",
+      "url": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments",
       "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-23T05:40:33+00:00",
-      "summary": "The lithium iron phosphate (LFP) battery features a minimum round-trip efficiency of 96%, a 12-year warranty, and integrated hardware designed to reduce installation and commissioning times. The post Briggs & Stratton launches 16 kWh battery scalable to 512 kWh appeared first on pv magazine Global .",
-      "score": 11,
+      "category": "Lebanon and Middle East",
+      "published": "2026-11-23T12:09:36+00:00",
+      "summary": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .",
+      "score": 13,
       "priority": "Worth watching",
       "interests": [
         "Renewable Energy",
         "Energy Storage"
       ],
-      "event_id": "d30226acf480",
+      "event_id": "efd70c19a147",
       "coverage": []
     },
     {
-      "title": "AI Changes What Chip Engineers Need To Learn",
-      "url": "https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn",
-      "source": "Semiconductor Engineering",
-      "category": "Semiconductors",
-      "published": "2026-11-23T08:01:13+00:00",
-      "summary": "AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .",
-      "score": 9,
-      "priority": "Other developments",
-      "interests": [
-        "Semiconductors"
-      ],
-      "event_id": "4e72c76fac40",
-      "coverage": []
-    },
-    {
-      "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
-      "url": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series",
+      "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
+      "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit",
       "source": "pv magazine",
       "category": "Renewable Energy",
-      "published": "2026-11-23T06:09:09+00:00",
-      "summary": "The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R32 retrofit solution for existing residential heat pump series appeared first on pv magazine Global .",
-      "score": 9,
-      "priority": "Other developments",
-      "interests": [
-        "Renewable Energy"
-      ],
-      "event_id": "5bb9a9b2c429",
-      "coverage": []
-    },
-    {
-      "title": "US Senate passes permitting bill letting solar developers sue agencies",
-      "url": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies",
-      "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-23T08:15:00+00:00",
-      "summary": "The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post US Senate passes permitting bill letting solar developers sue agencies appeared first on pv magazine Global .",
-      "score": 8,
-      "priority": "Other developments",
-      "interests": [
-        "Renewable Energy"
-      ],
-      "event_id": "d3a9c48a453b",
-      "coverage": []
-    },
-    {
-      "title": "Ten innovative renewable energy startups give their pitch at RE+",
-      "url": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re",
-      "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-23T05:40:55+00:00",
-      "summary": "California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging, and data center power. The post Ten innovative renewable energy startups give their pitch at RE+ appeared first on pv magazine Global .",
-      "score": 8,
-      "priority": "Other developments",
+      "published": "2026-11-24T07:00:00+00:00",
+      "summary": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit appeared first on pv magazine Global .",
+      "score": 12,
+      "priority": "Worth watching",
       "interests": [
         "Power Systems",
         "Renewable Energy",
         "Energy Storage"
       ],
-      "event_id": "007fd1043f55",
+      "event_id": "e1dc25c1c690",
       "coverage": []
     },
     {
-      "title": "20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide",
-      "url": "https://arxiv.org/abs/2611.25409",
-      "source": "arXiv Signal Processing",
-      "category": "Energy Storage",
-      "published": "2026-11-23T05:00:00+00:00",
-      "summary": "arXiv:2611.25409v2 Announce Type: replace \nAbstract: Surface acoustic wave (SAW) resonators above 15~GHz require a fast acoustic mode that retains strong electromechanical coupling ($k^2$). This work reports longitudinal SAW (L-SAW) resonators designed for high $k^2$ in 100-nm X-cut lithium niobate (LN) on 4H silicon carbide (SiC), operating up to 21.7~GHz and reaching a $k^2$ of 8.1\\%, a maximum Bode $Q$ of 70, and a figure of merit (FoM) of 5.7 at 20.24~GHz. In this thin-film waveguide, shrinking the wavelength ($\\lambda$) keeps the normalized LN thickness ($h_\\mathrm{LN}/\\lambda$) large, sustaining both $k^2$ and acoustic confinement. Conversely, increasing $\\lambda$ from 292 to 471~nm lowers $h_\\mathrm{LN}/\\lambda$ from 0.34 to 0.21 and raises the L-SAW phase velocity from 6.32 to 7.05~km/s, within 1.1\\% of the 7126-m/s shear-wave velocity of 4H-SiC. As the velocity approaches this limit, more of the acoustic energy spreads into the non-piezoelectric SiC, and $k^2$ falls from its 8",
-      "score": 8,
-      "priority": "Other developments",
-      "interests": [
-        "Energy Storage",
-        "Power Electronics"
-      ],
-      "event_id": "1fb2c79e020f",
-      "coverage": []
-    },
-    {
-      "title": "$\\mathcal{H}_\\infty$ Grid-Forming Control in DC Microgrids",
-      "url": "https://arxiv.org/abs/2611.26827",
-      "source": "arXiv Systems and Control",
-      "category": "Power Systems",
-      "published": "2026-11-23T05:00:00+00:00",
-      "summary": "arXiv:2611.26827v1 Announce Type: new \nAbstract: The growing share of DC-based generation, storage and loads has increased interest in DC microgrids. As a result, DC-bus voltage regulation and stability have become active research topics, with considerable effort directed at improving the transient performance of conventional droop control. Although numerous variants of droop algorithms have been proposed, many rely on increasingly complex control structures with multiple tuning parameters and measurements, thereby increasing the commissioning burden. Moreover, stable interaction with the surrounding microgrid is not guaranteed by design. To address these issues, this paper develops a passivity-constrained $\\mathcal{H}_\\infty$ synthesis method for the DC-bus voltage controller. The proposed $\\mathcal{H}_\\infty$ controller emulates the desired grid-forming behavior of the converter by minimizing the $\\mathcal{H}_\\infty$ error norm between device-level performance indices and their desir",
-      "score": 8,
-      "priority": "Other developments",
-      "interests": [
-        "Power Systems",
-        "Electronics"
-      ],
-      "event_id": "f200b5a9a557",
-      "coverage": []
-    },
-    {
-      "title": "Burden of proof",
-      "url": "https://www.pv-magazine.com/2026/11/23/burden-of-proof",
-      "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-23T05:00:00+00:00",
-      "summary": "A ‘Made in USA’ label indicates where a product was manufactured but not who owns the factory, whose technology it licenses, or where the materials were sourced. For battery energy storage systems (BESS) claiming US federal tax credits in 2026 and beyond, those details, not the label, can determine whether a project is financed as planned. Allan Oduor of Enertis Applus examines recent changes to BESS procurement in the United States. The post Burden of proof appeared first on pv magazine Global .",
-      "score": 8,
-      "priority": "Other developments",
-      "interests": [
-        "Energy Storage"
-      ],
-      "event_id": "6b3c57a6719d",
-      "coverage": []
-    },
-    {
-      "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
-      "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
-      "source": "Solar Power World",
-      "category": "Renewable Energy",
-      "published": "2026-11-22T20:55:11+00:00",
-      "summary": "DTE Energy recently announced plans to add up to 150 megawatts of new solar energy in Michigan, a move that will create construction jobs, support local communities, and save customers money on fuel costs, the company said. In addition, because solar generation does not require fuel, the new projects will help reduce the company’s exposure… The post DTE Energy plans up to 150 megawatts of Michigan-based solar generation appeared first on Solar Power World .",
-      "score": 8,
-      "priority": "Other developments",
-      "interests": [
-        "Power Systems",
-        "Renewable Energy"
-      ],
-      "event_id": "9a0257cd6dd6",
-      "coverage": []
-    },
-    {
-      "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
-      "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery",
+      "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
+      "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm",
       "source": "Electrek",
       "category": "Energy Storage",
-      "published": "2026-11-22T14:22:49+00:00",
-      "summary": "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…",
-      "score": 8,
-      "priority": "Other developments",
+      "published": "2026-11-23T23:10:07+00:00",
+      "summary": "Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…",
+      "score": 11,
+      "priority": "Worth watching",
       "interests": [
+        "Power Systems",
+        "Renewable Energy",
         "Energy Storage"
       ],
-      "event_id": "a12b5461d899",
+      "event_id": "a2b9d4b6bf65",
+      "coverage": []
+    },
+    {
+      "title": "Japanese utility to forecast perovskite window output with AI",
+      "url": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-24T08:30:00+00:00",
+      "summary": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window output with AI appeared first on pv magazine Global .",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Power Systems",
+        "Renewable Energy",
+        "Research"
+      ],
+      "event_id": "6137f1439497",
+      "coverage": []
+    },
+    {
+      "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
+      "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights",
+      "source": "Power Electronics News",
+      "category": "Power Electronics",
+      "published": "2026-11-23T19:43:41+00:00",
+      "summary": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights appeared first on Power Electronics News .",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Power Electronics",
+        "Semiconductors"
+      ],
+      "event_id": "e906b2751d9a",
+      "coverage": []
+    },
+    {
+      "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency",
+      "url": "https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/",
+      "source": "PV Tech",
+      "category": "Renewable Energy",
+      "published": "2026-11-23T16:22:15+00:00",
+      "summary": "Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.24% for a TOPCon-based perovskite tandem cell.",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy"
+      ],
+      "event_id": "8fa2b62b0b6c",
+      "coverage": []
+    },
+    {
+      "title": "SunPower launches 522W HJT solar panel, Q3 revenue rises",
+      "url": "https://www.pv-tech.org/sunpower-q3-revenue-growth-launches-522w-hjt-solar-panel/",
+      "source": "PV Tech",
+      "category": "Renewable Energy",
+      "published": "2026-11-23T14:55:39+00:00",
+      "summary": "US solar firm SunPower reported Q3 2026 revenue of US$65.1 million, up US$10.2 million from the previous quarter.",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy"
+      ],
+      "event_id": "a090d3ce396e",
+      "coverage": []
+    },
+    {
+      "title": "First Solar CEO backs bipartisan support for Trump’s Section 232 tariffs",
+      "url": "https://www.pv-tech.org/first-solar-ceo-backs-bipartisan-support-trump-section-232-tariffs/",
+      "source": "PV Tech",
+      "category": "Renewable Energy",
+      "published": "2026-11-23T12:48:05+00:00",
+      "summary": "The CEO of US thin-film PV manufacturer First Solar has called for bipartisan policy support for US tariff programmes and praised the measures introduced by the Trump administration to limit non-US solar companies’ access to the US market.",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy"
+      ],
+      "event_id": "cf4b5206f5f6",
+      "coverage": []
+    },
+    {
+      "title": "Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA",
+      "url": "https://www.pv-tech.org/india-clean-energy-investment-gap-ieefa-greater-domestic-capital/",
+      "source": "PV Tech",
+      "category": "Renewable Energy",
+      "published": "2026-11-23T10:47:20+00:00",
+      "summary": "IEEFA says India could unlock INR680 billion in renewable investment through life insurers, addressing domestic funding constraints.",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy"
+      ],
+      "event_id": "f0f121a326b4",
+      "coverage": []
+    },
+    {
+      "title": "Why AI Struggles To Reuse Chip Designs",
+      "url": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs",
+      "source": "Semiconductor Engineering",
+      "category": "Semiconductors",
+      "published": "2026-11-24T08:11:47+00:00",
+      "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+      "score": 9,
+      "priority": "Other developments",
+      "interests": [
+        "Semiconductors"
+      ],
+      "event_id": "96be6ebc5e54",
       "coverage": []
     }
   ],
   "categories": [
     {
-      "name": "Power Systems",
-      "count": 5,
+      "name": "Lebanon and Middle East",
+      "count": 1,
       "high": 0,
       "top": [
         {
-          "title": "$\\mathcal{H}_\\infty$ Grid-Forming Control in DC Microgrids",
-          "url": "https://arxiv.org/abs/2611.26827",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26827v1 Announce Type: new \nAbstract: The growing share of DC-based generation, storage and loads has increased interest in DC microgrids. As a result, DC-bus voltage regulation and stability have become active research topics, with considerable effort directed at improving the transient performance of conventional droop control. Although numerous variants of droop algorithms have been proposed, many rely on increasingly complex control structures with multiple tuning parameters and measurements, thereby increasing the commissioning burden. Moreover, stable interaction with the surrounding microgrid is not guaranteed by design. To address these issues, this paper develops a passivity-constrained $\\mathcal{H}_\\infty$ synthesis method for the DC-bus voltage controller. The proposed $\\mathcal{H}_\\infty$ controller emulates the desired grid-forming behavior of the converter by minimizing the $\\mathcal{H}_\\infty$ error norm between device-level performance indices and their desir",
-          "score": 8,
-          "priority": "Other developments",
+          "title": "Lebanon looks to ramp up solar, storage deployments",
+          "url": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments",
+          "source": "pv magazine",
+          "category": "Lebanon and Middle East",
+          "published": "2026-11-23T12:09:36+00:00",
+          "summary": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .",
+          "score": 13,
+          "priority": "Worth watching",
           "interests": [
-            "Power Systems",
-            "Electronics"
+            "Renewable Energy",
+            "Energy Storage"
           ],
-          "event_id": "f200b5a9a557",
-          "coverage": []
-        },
-        {
-          "title": "Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing",
-          "url": "https://arxiv.org/abs/2510.06470",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2510.06470v3 Announce Type: replace \nAbstract: We investigate the use of a point cloud measurement in terrain-aided navigation. Our goal is to aid an inertial navigation system, by exploring ways to generate a useful measurement residual for effective nonlinear state estimation. We compare two such measurement models that involve the scanning of a digital terrain elevation model: a) one that is based on typical ray-casting from a given pose, that returns the predicted point cloud measurement from that pose, and b) another computationally less intensive one that does not require raycasting and we refer to herein as a sliding grid. Besides requiring a pose, it requires the pattern of the point cloud measurement itself and returns a predicted point cloud measurement. We show that the sliding grid achieves comparable accuracy to raycasting, especially at higher altitudes, while being orders of magnitude faster computationally. By eliminating the need for raycasting, the sliding grid ",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems",
-            "Control and Automation"
-          ],
-          "event_id": "1003706cd626",
-          "coverage": []
-        },
-        {
-          "title": "Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets",
-          "url": "https://arxiv.org/abs/2406.04889",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2406.04889v2 Announce Type: cross \nAbstract: This paper investigates sequential flexibility markets consisting of a first market layer for distribution system operators (DSOs) to procure local flexibility to resolve their own needs (e.g., congestion management) followed by a second layer, in which the transmission system operator (TSO) procures remaining flexibility forwarded from the distribution system layer as well as flexibility from its own system for providing system services. As the TSO does not necessarily have full knowledge of the distribution grid constraints, this bid forwarding can cause an infeasibility problem for distribution systems, i.e., cleared distribution-level bids in the TSO layer might not satisfy local network constraints. To address this challenge, we introduce and examine three methods aiming to enable the grid-safe use of distribution-located resources in markets for system services, namely: a corrective three-layer market scheme, a bid prequalificati",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "32cd6036af9b",
+          "event_id": "efd70c19a147",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "$\\mathcal{H}_\\infty$ Grid-Forming Control in DC Microgrids",
-          "url": "https://arxiv.org/abs/2611.26827",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26827v1 Announce Type: new \nAbstract: The growing share of DC-based generation, storage and loads has increased interest in DC microgrids. As a result, DC-bus voltage regulation and stability have become active research topics, with considerable effort directed at improving the transient performance of conventional droop control. Although numerous variants of droop algorithms have been proposed, many rely on increasingly complex control structures with multiple tuning parameters and measurements, thereby increasing the commissioning burden. Moreover, stable interaction with the surrounding microgrid is not guaranteed by design. To address these issues, this paper develops a passivity-constrained $\\mathcal{H}_\\infty$ synthesis method for the DC-bus voltage controller. The proposed $\\mathcal{H}_\\infty$ controller emulates the desired grid-forming behavior of the converter by minimizing the $\\mathcal{H}_\\infty$ error norm between device-level performance indices and their desir",
-          "score": 8,
-          "priority": "Other developments",
+          "title": "Lebanon looks to ramp up solar, storage deployments",
+          "url": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments",
+          "source": "pv magazine",
+          "category": "Lebanon and Middle East",
+          "published": "2026-11-23T12:09:36+00:00",
+          "summary": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .",
+          "score": 13,
+          "priority": "Worth watching",
           "interests": [
-            "Power Systems",
-            "Electronics"
+            "Renewable Energy",
+            "Energy Storage"
           ],
-          "event_id": "f200b5a9a557",
-          "coverage": []
-        },
-        {
-          "title": "Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing",
-          "url": "https://arxiv.org/abs/2510.06470",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2510.06470v3 Announce Type: replace \nAbstract: We investigate the use of a point cloud measurement in terrain-aided navigation. Our goal is to aid an inertial navigation system, by exploring ways to generate a useful measurement residual for effective nonlinear state estimation. We compare two such measurement models that involve the scanning of a digital terrain elevation model: a) one that is based on typical ray-casting from a given pose, that returns the predicted point cloud measurement from that pose, and b) another computationally less intensive one that does not require raycasting and we refer to herein as a sliding grid. Besides requiring a pose, it requires the pattern of the point cloud measurement itself and returns a predicted point cloud measurement. We show that the sliding grid achieves comparable accuracy to raycasting, especially at higher altitudes, while being orders of magnitude faster computationally. By eliminating the need for raycasting, the sliding grid ",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems",
-            "Control and Automation"
-          ],
-          "event_id": "1003706cd626",
-          "coverage": []
-        },
-        {
-          "title": "Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets",
-          "url": "https://arxiv.org/abs/2406.04889",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2406.04889v2 Announce Type: cross \nAbstract: This paper investigates sequential flexibility markets consisting of a first market layer for distribution system operators (DSOs) to procure local flexibility to resolve their own needs (e.g., congestion management) followed by a second layer, in which the transmission system operator (TSO) procures remaining flexibility forwarded from the distribution system layer as well as flexibility from its own system for providing system services. As the TSO does not necessarily have full knowledge of the distribution grid constraints, this bid forwarding can cause an infeasibility problem for distribution systems, i.e., cleared distribution-level bids in the TSO layer might not satisfy local network constraints. To address this challenge, we introduce and examine three methods aiming to enable the grid-safe use of distribution-located resources in markets for system services, namely: a corrective three-layer market scheme, a bid prequalificati",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "32cd6036af9b",
-          "coverage": []
-        },
-        {
-          "title": "Bayesian Bias Learning-Enabled Probabilistic Voltage Estimation with Unknown Uncertainty Modeling of DERs in Distribution Grids",
-          "url": "https://arxiv.org/abs/2611.27866",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27866v1 Announce Type: new \nAbstract: One key challenge in distribution system state es- timation is unknown input statistics from the growing inte- gration of distributed energy resources (DERs), which may largely deviate from Gaussian uncertainty. Existing model-based estimators often rely on the assumption that all inputs follow known Gaussian distributions, while data-driven methods suffer from overfitting and failure in out-of-distribution scenarios. This paper proposes a Bayesian bias learning (BBL)-enabled probabilistic voltage estimation method in distribution systems with unknown DER generation statistics. The proposed learning- enabled method consists of two stages: probabilistic uncertainty inference and computationally efficient voltage estimation. First, a physics-constrained probabilistic density inference network is developed to learn Gaussian mixture representations of DER generation from historical data. Then, the resulting probabilistic representations, tre",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems",
-            "Electronics"
-          ],
-          "event_id": "11c2cd892448",
-          "coverage": []
-        },
-        {
-          "title": "Unlocking Heterogeneous Accelerator Flexibility in AI Data Centers: Sizing and Workload Allocation",
-          "url": "https://arxiv.org/abs/2611.27576",
-          "source": "arXiv Systems and Control",
-          "category": "Power Systems",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27576v1 Announce Type: new \nAbstract: AI data centers are an emerging electricity demand, but limited local grid capacity could delay their connection and expansion. While existing operational strategies consider spatio-temporal workload flexibility, few studies address the strategic sizing and allocation of diverse accelerator archetypes with different capital and energy-efficiency trade-offs. This paper unlocks the flexibility potential of heterogeneous accelerators by jointly sizing and allocating different AI workloads (training, delay-tolerant batch work, and online inference requests) across sites and hours to meet the time-varying grid constraint at minimum cost. Workload-specific throughput and energy coefficients link these decisions to facility power. In a representative two-site case, heterogeneous sizing reduces daily cost by 6.5% relative to spatio-temporal scheduling with fixed capacity. When evaluated using workload-specific performance, a capacity design base",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "f7c814ba44d4",
+          "event_id": "efd70c19a147",
           "coverage": []
         }
       ],
-      "narrative": "5 distinct power systems developments appeared in this time window. Highest-ranked topics: $\\mathcal{H}_\\infty$ Grid-Forming Control in DC Microgrids; Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing; Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "1 distinct lebanon and middle east developments appeared in this time window. Highest-ranked topics: Lebanon looks to ramp up solar, storage deployments. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
-      "name": "Renewable Energy",
+      "name": "Power Systems",
       "count": 7,
       "high": 0,
       "top": [
         {
-          "title": "Briggs & Stratton launches 16 kWh battery scalable to 512 kWh",
-          "url": "https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-23T05:40:33+00:00",
-          "summary": "The lithium iron phosphate (LFP) battery features a minimum round-trip efficiency of 96%, a 12-year warranty, and integrated hardware designed to reduce installation and commissioning times. The post Briggs & Stratton launches 16 kWh battery scalable to 512 kWh appeared first on pv magazine Global .",
-          "score": 11,
-          "priority": "Worth watching",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "d30226acf480",
-          "coverage": []
-        },
-        {
-          "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
-          "url": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-23T06:09:09+00:00",
-          "summary": "The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R32 retrofit solution for existing residential heat pump series appeared first on pv magazine Global .",
+          "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
+          "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-23T18:00:00+00:00",
+          "summary": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.",
           "score": 9,
           "priority": "Other developments",
           "interests": [
-            "Renewable Energy"
+            "Power Systems"
           ],
-          "event_id": "5bb9a9b2c429",
+          "event_id": "56e1ce6af2ef",
           "coverage": []
         },
         {
-          "title": "US Senate passes permitting bill letting solar developers sue agencies",
-          "url": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-23T08:15:00+00:00",
-          "summary": "The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post US Senate passes permitting bill letting solar developers sue agencies appeared first on pv magazine Global .",
-          "score": 8,
+          "title": "FERC approves MISO plan to speed legacy interconnection study process",
+          "url": "https://www.utilitydive.com/news/ferc-miso-interconnection-queue-study/875449",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-23T14:05:36+00:00",
+          "summary": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
+          "score": 9,
           "priority": "Other developments",
           "interests": [
+            "Power Systems"
+          ],
+          "event_id": "b7e0ee57968a",
+          "coverage": []
+        },
+        {
+          "title": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth",
+          "url": "https://www.power-eng.com/energy-storage/cop31-grids-storage-renewable-energy-growth",
+          "source": "Power Engineering",
+          "category": "Power Systems",
+          "published": "2026-11-23T12:38:10+00:00",
+          "summary": "With more than 2,000 GW of renewable projects awaiting grid connections, industry leaders say infrastructure bottlenecks — not generation costs — are becoming the biggest obstacle to the global energy transition.",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
             "Renewable Energy"
           ],
-          "event_id": "d3a9c48a453b",
+          "event_id": "a61ff8df45ec",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "Briggs & Stratton launches 16 kWh battery scalable to 512 kWh",
-          "url": "https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-23T05:40:33+00:00",
-          "summary": "The lithium iron phosphate (LFP) battery features a minimum round-trip efficiency of 96%, a 12-year warranty, and integrated hardware designed to reduce installation and commissioning times. The post Briggs & Stratton launches 16 kWh battery scalable to 512 kWh appeared first on pv magazine Global .",
-          "score": 11,
-          "priority": "Worth watching",
+          "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
+          "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-23T18:00:00+00:00",
+          "summary": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.",
+          "score": 9,
+          "priority": "Other developments",
           "interests": [
-            "Renewable Energy",
-            "Energy Storage"
+            "Power Systems"
           ],
-          "event_id": "d30226acf480",
+          "event_id": "56e1ce6af2ef",
           "coverage": []
         },
         {
-          "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
-          "url": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series",
+          "title": "FERC approves MISO plan to speed legacy interconnection study process",
+          "url": "https://www.utilitydive.com/news/ferc-miso-interconnection-queue-study/875449",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-23T14:05:36+00:00",
+          "summary": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "b7e0ee57968a",
+          "coverage": []
+        },
+        {
+          "title": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth",
+          "url": "https://www.power-eng.com/energy-storage/cop31-grids-storage-renewable-energy-growth",
+          "source": "Power Engineering",
+          "category": "Power Systems",
+          "published": "2026-11-23T12:38:10+00:00",
+          "summary": "With more than 2,000 GW of renewable projects awaiting grid connections, industry leaders say infrastructure bottlenecks — not generation costs — are becoming the biggest obstacle to the global energy transition.",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "a61ff8df45ec",
+          "coverage": []
+        },
+        {
+          "title": "New Jersey utilities have less than a year to implement virtual power plants",
+          "url": "https://www.utilitydive.com/news/new-jersey-utilities-have-less-than-a-year-to-implement-virtual-power-plant/875482",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-23T16:15:34+00:00",
+          "summary": "Data from the two-year interim version of PowerUp NJ will inform the development of a long-term, open-access virtual power plant tariff, state utility regulators said on Nov. 12.",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "0e188cb07581",
+          "coverage": []
+        },
+        {
+          "title": "The grid’s hidden bottleneck: engineering capacity",
+          "url": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-23T10:00:00+00:00",
+          "summary": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "c1ed58fb5af2",
+          "coverage": []
+        },
+        {
+          "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
+          "url": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-23T16:27:12+00:00",
+          "summary": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "a51cb95cd0ec",
+          "coverage": []
+        },
+        {
+          "title": "NERC: Resource additions, better generator performance improve winter outlook",
+          "url": "https://www.power-eng.com/operations-maintenance/nerc-resource-additions-better-generator-performance-improve-winter-outlook",
+          "source": "Power Engineering",
+          "category": "Power Systems",
+          "published": "2026-11-23T12:34:12+00:00",
+          "summary": "Batteries and gas help lead 26 GW of new winter capacity, outpacing a 21 GW rise in peak demand, but fuel supply for gas-only plants remains a key risk.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "266aa2a693d1",
+          "coverage": []
+        }
+      ],
+      "narrative": "7 distinct power systems developments appeared in this time window. Highest-ranked topics: Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO; FERC approves MISO plan to speed legacy interconnection study process; COP31 leaders warn grids and storage can’t keep pace with renewable energy growth. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+    },
+    {
+      "name": "Renewable Energy",
+      "count": 22,
+      "high": 0,
+      "top": [
+        {
+          "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
+          "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-23T06:09:09+00:00",
-          "summary": "The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R32 retrofit solution for existing residential heat pump series appeared first on pv magazine Global .",
+          "published": "2026-11-24T07:00:00+00:00",
+          "summary": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit appeared first on pv magazine Global .",
+          "score": 12,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "e1dc25c1c690",
+          "coverage": []
+        },
+        {
+          "title": "Japanese utility to forecast perovskite window output with AI",
+          "url": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T08:30:00+00:00",
+          "summary": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window output with AI appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy",
+            "Research"
+          ],
+          "event_id": "6137f1439497",
+          "coverage": []
+        },
+        {
+          "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency",
+          "url": "https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T16:22:15+00:00",
+          "summary": "Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.24% for a TOPCon-based perovskite tandem cell.",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "8fa2b62b0b6c",
+          "coverage": []
+        }
+      ],
+      "items": [
+        {
+          "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
+          "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T07:00:00+00:00",
+          "summary": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit appeared first on pv magazine Global .",
+          "score": 12,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "e1dc25c1c690",
+          "coverage": []
+        },
+        {
+          "title": "Japanese utility to forecast perovskite window output with AI",
+          "url": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T08:30:00+00:00",
+          "summary": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window output with AI appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy",
+            "Research"
+          ],
+          "event_id": "6137f1439497",
+          "coverage": []
+        },
+        {
+          "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency",
+          "url": "https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T16:22:15+00:00",
+          "summary": "Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.24% for a TOPCon-based perovskite tandem cell.",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "8fa2b62b0b6c",
+          "coverage": []
+        },
+        {
+          "title": "SunPower launches 522W HJT solar panel, Q3 revenue rises",
+          "url": "https://www.pv-tech.org/sunpower-q3-revenue-growth-launches-522w-hjt-solar-panel/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T14:55:39+00:00",
+          "summary": "US solar firm SunPower reported Q3 2026 revenue of US$65.1 million, up US$10.2 million from the previous quarter.",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "a090d3ce396e",
+          "coverage": []
+        },
+        {
+          "title": "First Solar CEO backs bipartisan support for Trump’s Section 232 tariffs",
+          "url": "https://www.pv-tech.org/first-solar-ceo-backs-bipartisan-support-trump-section-232-tariffs/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T12:48:05+00:00",
+          "summary": "The CEO of US thin-film PV manufacturer First Solar has called for bipartisan policy support for US tariff programmes and praised the measures introduced by the Trump administration to limit non-US solar companies’ access to the US market.",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "cf4b5206f5f6",
+          "coverage": []
+        },
+        {
+          "title": "Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA",
+          "url": "https://www.pv-tech.org/india-clean-energy-investment-gap-ieefa-greater-domestic-capital/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T10:47:20+00:00",
+          "summary": "IEEFA says India could unlock INR680 billion in renewable investment through life insurers, addressing domestic funding constraints.",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "f0f121a326b4",
+          "coverage": []
+        },
+        {
+          "title": "Chinese startup offers foldable off-grid solar EV charger",
+          "url": "https://www.pv-magazine.com/2026/11/24/gaotu-unveils-foldable-off-grid-solar-ev-charger",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T06:48:05+00:00",
+          "summary": "Gaotu Innovation, a manufacturer of portable and distributed PV hardware, has introduced a car-mounted EV charging solution into the Australian market that pairs a 1,600 W expandable solar array with a 2.5 kWh battery pack. The post Chinese startup offers foldable off-grid solar EV charger appeared first on pv magazine Global .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "f65f6357bef9",
+          "coverage": []
+        },
+        {
+          "title": "India’s launches pilot to help discoms manage distributed solar resources",
+          "url": "https://www.pv-tech.org/india-discom-pilot-distributed-energy-resource-management-rooftop-solar-surge/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T13:28:36+00:00",
+          "summary": "As rooftop solar in India surges, the country's energy ministry is offering grants of up to INR300 million to 15 discoms to deploy distributed energy management systems.",
           "score": 9,
           "priority": "Other developments",
           "interests": [
             "Renewable Energy"
           ],
-          "event_id": "5bb9a9b2c429",
+          "event_id": "de11fef72533",
           "coverage": []
         },
         {
-          "title": "US Senate passes permitting bill letting solar developers sue agencies",
-          "url": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies",
+          "title": "Researchers find up to 2.28% annual wave-induced losses in floating PV systems",
+          "url": "https://www.pv-magazine.com/2026/11/24/researchers-find-up-to-2-28-annual-wave-induced-losses-in-floating-pv-systems",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-23T08:15:00+00:00",
-          "summary": "The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post US Senate passes permitting bill letting solar developers sue agencies appeared first on pv magazine Global .",
+          "published": "2026-11-24T08:00:00+00:00",
+          "summary": "Researchers in Norway have expanded a modeling framework to assess the impact of wave motion on floating PV performance under realistic weather conditions. Their simulations show that electrical mismatch is the main contributor to energy losses, while changes in average irradiance can produce small gains. The post Researchers find up to 2.28% annual wave-induced losses in floating PV systems appeared first on pv magazine Global .",
           "score": 8,
           "priority": "Other developments",
           "interests": [
-            "Renewable Energy"
+            "Renewable Energy",
+            "Research"
           ],
-          "event_id": "d3a9c48a453b",
+          "event_id": "5f0d4fd2cf40",
           "coverage": []
         },
         {
-          "title": "Ten innovative renewable energy startups give their pitch at RE+",
-          "url": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re",
+          "title": "ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications",
+          "url": "https://www.pv-magazine.com/2026/11/24/eco2-systems-unveils-40-kw-co2-heat-pump-for-commercial-hot-water-applications",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-23T05:40:55+00:00",
-          "summary": "California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging, and data center power. The post Ten innovative renewable energy startups give their pitch at RE+ appeared first on pv magazine Global .",
+          "published": "2026-11-24T07:30:00+00:00",
+          "summary": "US-based ECO2 Systems has introduced a new 40 kW air-to-water heat pump for commercial hot water applications. The system uses natural CO2 refrigerant, delivers a heating coefficient of performance (COP) of 5.0 at an ambient temperature of 26.7 C, and can operate at outdoor temperatures as low as -31.7 C. The post ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications appeared first on pv magazine Global .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "ac8513582fb6",
+          "coverage": []
+        },
+        {
+          "title": "Golden State goes all in on VPPs",
+          "url": "https://www.pv-magazine.com/2026/11/24/golden-state-goes-all-in-on-vpps",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T05:00:00+00:00",
+          "summary": "California passed two virtual power plant (VPP) bills in 2026. SB 913 enables customer-sited batteries to compete for utility capacity contracts, and SB 905 requires the California Public Utilities Commission (CPUC) to create a grid utilization metric that will lead to VPPs based on distribution system savings. Brad Heavner, executive director of the California Solar & Storage Association (CALSSA), explains how these developments should pave the way for durable opportunities with significant value to the renewable energy industry. The post Golden State goes all in on VPPs appeared first on pv magazine Global .",
           "score": 8,
           "priority": "Other developments",
           "interests": [
@@ -419,354 +602,851 @@
             "Renewable Energy",
             "Energy Storage"
           ],
-          "event_id": "007fd1043f55",
+          "event_id": "3a08cd4d06d2",
           "coverage": []
         },
         {
-          "title": "Burden of proof",
-          "url": "https://www.pv-magazine.com/2026/11/23/burden-of-proof",
+          "title": "Honduras starts paying solar prosumers for excess power",
+          "url": "https://www.pv-magazine.com/2026/11/23/honduras-starts-paying-solar-prosumers-for-excess-power",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "A ‘Made in USA’ label indicates where a product was manufactured but not who owns the factory, whose technology it licenses, or where the materials were sourced. For battery energy storage systems (BESS) claiming US federal tax credits in 2026 and beyond, those details, not the label, can determine whether a project is financed as planned. Allan Oduor of Enertis Applus examines recent changes to BESS procurement in the United States. The post Burden of proof appeared first on pv magazine Global .",
+          "published": "2026-11-23T16:01:00+00:00",
+          "summary": "Honduras has begun compensating solar self-consumption customers for surplus electricity exported to the distribution grid, with the Zamorano University campus becoming the first eligible user under tariffs of $92.50/MWh to $111.27/MWh. The post Honduras starts paying solar prosumers for excess power appeared first on pv magazine Global .",
           "score": 8,
           "priority": "Other developments",
           "interests": [
-            "Energy Storage"
+            "Power Systems",
+            "Renewable Energy",
+            "Research"
           ],
-          "event_id": "6b3c57a6719d",
+          "event_id": "133079377ef5",
           "coverage": []
         },
         {
-          "title": "DTE Energy plans up to 150 megawatts of Michigan-based solar generation",
-          "url": "https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation",
+          "title": "Three Green Hydrogen Projects Slip Through The Trump Chopper",
+          "url": "https://cleantechnica.com/2026/11/23/green-hydrogen-us-energy-policy-plug-power-powercell/",
+          "source": "CleanTechnica",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T13:37:39+00:00",
+          "summary": "The startup Plug Power is among the green hydrogen stakeholders carving out more space for renewable energy in the US market, despite last year's sharp U-turn in federal energy policy. The post Three Green Hydrogen Projects Slip Through The Trump Chopper appeared first on CleanTechnica .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "5101e3ea031e",
+          "coverage": []
+        },
+        {
+          "title": "Steel solar panel frames hit the mainstream",
+          "url": "https://www.solarpowerworldonline.com/2026/11/steel-solar-panel-frames-hit-the-mainstream",
           "source": "Solar Power World",
           "category": "Renewable Energy",
-          "published": "2026-11-22T20:55:11+00:00",
-          "summary": "DTE Energy recently announced plans to add up to 150 megawatts of new solar energy in Michigan, a move that will create construction jobs, support local communities, and save customers money on fuel costs, the company said. In addition, because solar generation does not require fuel, the new projects will help reduce the company’s exposure… The post DTE Energy plans up to 150 megawatts of Michigan-based solar generation appeared first on Solar Power World .",
+          "published": "2026-11-23T12:00:30+00:00",
+          "summary": "Steel is considered the backbone of the American economy, critical for both national and economic security. It’s also the backbone of solar power construction, found commonly in the racking and mounting structures tilting solar panels toward the sun. And now, after years of tests and trials, an Ohio factory is roll-forming steel for a solar… The post Steel solar panel frames hit the mainstream appeared first on Solar Power World .",
           "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "ef497cda6f22",
+          "coverage": []
+        },
+        {
+          "title": "BloombergNEF forecasts 215 GW of solar in Australia by 2050",
+          "url": "https://www.pv-magazine.com/2026/11/24/bloombergnef-forecasts-215-gw-of-solar-in-australia-by-2050",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T06:46:42+00:00",
+          "summary": "Australia’s solar capacity is forecast to reach up to 215 GW by 2050, up from 43 GW in 2025, as falling costs continue to strengthen the economics of utility-scale renewables. The post BloombergNEF forecasts 215 GW of solar in Australia by 2050 appeared first on pv magazine Global .",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
             "Renewable Energy"
           ],
-          "event_id": "9a0257cd6dd6",
+          "event_id": "8cf7bf3370b1",
           "coverage": []
         },
         {
-          "title": "Thornova Solar and Nextpower strengthen strategic cooperation",
-          "url": "https://www.solarpowerworldonline.com/2026/11/thornova-solar-and-nextpower-strengthen-strategic-cooperation",
-          "source": "Solar Power World",
+          "title": "How modern system-on-chip (SoC) architectures are redefining the smart meter",
+          "url": "https://www.renewableenergyworld.com/power-grid/how-modern-system-on-chip-soc-architectures-are-redefining-the-smart-meter",
+          "source": "Renewable Energy World",
           "category": "Renewable Energy",
-          "published": "2026-11-22T22:38:12+00:00",
-          "summary": "Solar module manufacturer Thornova Solar and Nextpower, a provider of advanced solar tracker and structural solutions, marked a milestone in their growing strategic cooperation with the signing of a Master Supply Agreement (MSA). The agreement, announced at RE+ 2026, further strengthens the collaboration between the two companies, combining Thornova Solar’s U.S.-made solar modules with Nextpower’s… The post Thornova Solar and Nextpower strengthen strategic cooperation appeared first on Solar Power World .",
-          "score": 5,
+          "published": "2026-11-23T11:00:00+00:00",
+          "summary": "To support a modernized grid, electric meters need to utilize system-on-chip (SoC) architectures to evolve into intelligent edge hubs, which is something Texas Instruments is focused on enabling.",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Semiconductors"
+          ],
+          "event_id": "08f951d27512",
+          "coverage": []
+        },
+        {
+          "title": "JK Cement to acquire 27.03% stake in Hero Future Energies-backed solar SPV developing 126MW hybrid project",
+          "url": "https://www.pv-tech.org/jk-cement-acquires-27-03-stake-hero-future-energies-solar-spv/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T10:41:50+00:00",
+          "summary": "JK Cement will acquire a 27.03% stake in Hero Future Energies-backed SPV to secure solar power for its Karnataka plant.",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
             "Renewable Energy"
           ],
-          "event_id": "7e555a28b9aa",
+          "event_id": "b6d1b517fe6e",
+          "coverage": []
+        },
+        {
+          "title": "U.S. solar manufacturing enters the ‘Third Wave’",
+          "url": "https://www.pv-magazine.com/2026/11/24/u-s-solar-manufacturing-enters-the-third-wave",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T06:00:00+00:00",
+          "summary": "Beyond assembly, beyond announcements, U.S. solar manufacturing has entered a new stage of expansion in capital-intensive upstream processes. The post U.S. solar manufacturing enters the ‘Third Wave’ appeared first on pv magazine Global .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "c5f5ab2023aa",
+          "coverage": []
+        },
+        {
+          "title": "Is our solar really ‘American-made?’ — This Week in Cleantech",
+          "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/is-our-solar-really-american-made-this-week-in-cleantech",
+          "source": "Renewable Energy World",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T21:35:06+00:00",
+          "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg discusses how solar cell and wafer production is still mostly tied to China, and how developers are feeling after the midterms.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Semiconductors"
+          ],
+          "event_id": "c7a9b8721f7e",
+          "coverage": []
+        },
+        {
+          "title": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
+          "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage",
+          "source": "Renewable Energy World",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T20:43:07+00:00",
+          "summary": "The final cost estimate for Snowy 2.0 is A$22-25 billion, with completion expected in late 2029, according to Australian National University.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Energy Storage",
+            "Research"
+          ],
+          "event_id": "9913df822836",
+          "coverage": []
+        },
+        {
+          "title": "Timetable set for IPO of Chinese residential solar heavyweight Skyworth PV",
+          "url": "https://www.pv-tech.org/skyworth-pv-spinoff-ipo-hong-kong-stock-exchange/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-23T13:04:03+00:00",
+          "summary": "Chinese home-appliance giant Skyworth Group is aiming to initiate the spin-off and listing of its subsidiary, the leading residential solar firm Skyworth PV, by the end of this month.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "f5505669b623",
+          "coverage": []
+        },
+        {
+          "title": "CalWave and SKF join forces for deployment of fully submerged wave energy systems",
+          "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/calwave-and-skf-join-forces-for-deployment-of-fully-submerged-wave-energy-systems",
+          "source": "Renewable Energy World",
+          "category": "Renewable Energy",
+          "published": "2026-11-24T06:30:00+00:00",
+          "summary": "CalWave and SKF signed a Memorandum of Understanding at ICOE OEE 2026 in The Hague, Netherlands, to explore a commercial relationship for wave energy systems.",
+          "score": 4,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "731d21c6cb52",
           "coverage": []
         }
       ],
-      "narrative": "7 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Briggs & Stratton launches 16 kWh battery scalable to 512 kWh; Daikin launches R32 retrofit solution for existing residential heat pump series; US Senate passes permitting bill letting solar developers sue agencies. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "22 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit; Japanese utility to forecast perovskite window output with AI; JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
-      "count": 4,
+      "count": 5,
       "high": 0,
       "top": [
         {
-          "title": "20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide",
-          "url": "https://arxiv.org/abs/2611.25409",
-          "source": "arXiv Signal Processing",
+          "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
+          "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm",
+          "source": "Electrek",
           "category": "Energy Storage",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.25409v2 Announce Type: replace \nAbstract: Surface acoustic wave (SAW) resonators above 15~GHz require a fast acoustic mode that retains strong electromechanical coupling ($k^2$). This work reports longitudinal SAW (L-SAW) resonators designed for high $k^2$ in 100-nm X-cut lithium niobate (LN) on 4H silicon carbide (SiC), operating up to 21.7~GHz and reaching a $k^2$ of 8.1\\%, a maximum Bode $Q$ of 70, and a figure of merit (FoM) of 5.7 at 20.24~GHz. In this thin-film waveguide, shrinking the wavelength ($\\lambda$) keeps the normalized LN thickness ($h_\\mathrm{LN}/\\lambda$) large, sustaining both $k^2$ and acoustic confinement. Conversely, increasing $\\lambda$ from 292 to 471~nm lowers $h_\\mathrm{LN}/\\lambda$ from 0.34 to 0.21 and raises the L-SAW phase velocity from 6.32 to 7.05~km/s, within 1.1\\% of the 7126-m/s shear-wave velocity of 4H-SiC. As the velocity approaches this limit, more of the acoustic energy spreads into the non-piezoelectric SiC, and $k^2$ falls from its 8",
-          "score": 8,
-          "priority": "Other developments",
+          "published": "2026-11-23T23:10:07+00:00",
+          "summary": "Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…",
+          "score": 11,
+          "priority": "Worth watching",
           "interests": [
-            "Energy Storage",
-            "Power Electronics"
+            "Power Systems",
+            "Renewable Energy",
+            "Energy Storage"
           ],
-          "event_id": "1fb2c79e020f",
+          "event_id": "a2b9d4b6bf65",
           "coverage": []
         },
         {
-          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
-          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery",
-          "source": "Electrek",
+          "title": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer",
+          "url": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer",
+          "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-22T14:22:49+00:00",
-          "summary": "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…",
+          "published": "2026-11-23T09:07:38+00:00",
+          "summary": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
           "score": 8,
           "priority": "Other developments",
           "interests": [
             "Energy Storage"
           ],
-          "event_id": "a12b5461d899",
+          "event_id": "b8e3f72e6873",
           "coverage": []
         },
         {
-          "title": "PepDeTech: Anonymous Occupancy Monitoring on a Battery-Powered 2.3k-Zone dToF LiDAR Node with On-Chip Processing and Bluetooth LE Reporting",
-          "url": "https://arxiv.org/abs/2611.27304",
-          "source": "arXiv Signal Processing",
+          "title": "Italy’s recent electricity market decree could reduce BESS revenues in 2027/28",
+          "url": "https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28",
+          "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27304v1 Announce Type: new \nAbstract: As populations grow, society is increasingly required to shift towards systems of shared resources, which allow space, energy and time to be optimised. Facilitating this transition depends on data: how many people are present, when and where. From such information, schedules can be organised more efficiently and resources allocated where they matter. At the same time, privacy concerns and energy consumption limit deployment: cameras are frequently unacceptable, while simpler sensors miss people and cannot provide the full picture. This paper presents PepDeTech, a compact, battery-powered occupancy node that combines a 54 x 42-zone direct Time-of-Flight (dToF) Light Detection and Ranging (LiDAR) (VL53L9CX) with a Bluetooth Low Energy (BLE) System on Chip (SoC). Three deterministic algorithms, background subtraction, motion history and a track lifecycle, run on-chip and count the people simultaneously, providing real-time occupancy monitor",
-          "score": 5,
+          "published": "2026-11-23T14:00:55+00:00",
+          "summary": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
-            "Energy Storage",
-            "Semiconductors"
+            "Power Systems",
+            "Energy Storage"
           ],
-          "event_id": "82e105d2183e",
+          "event_id": "073d2b3eff52",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide",
-          "url": "https://arxiv.org/abs/2611.25409",
-          "source": "arXiv Signal Processing",
-          "category": "Energy Storage",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.25409v2 Announce Type: replace \nAbstract: Surface acoustic wave (SAW) resonators above 15~GHz require a fast acoustic mode that retains strong electromechanical coupling ($k^2$). This work reports longitudinal SAW (L-SAW) resonators designed for high $k^2$ in 100-nm X-cut lithium niobate (LN) on 4H silicon carbide (SiC), operating up to 21.7~GHz and reaching a $k^2$ of 8.1\\%, a maximum Bode $Q$ of 70, and a figure of merit (FoM) of 5.7 at 20.24~GHz. In this thin-film waveguide, shrinking the wavelength ($\\lambda$) keeps the normalized LN thickness ($h_\\mathrm{LN}/\\lambda$) large, sustaining both $k^2$ and acoustic confinement. Conversely, increasing $\\lambda$ from 292 to 471~nm lowers $h_\\mathrm{LN}/\\lambda$ from 0.34 to 0.21 and raises the L-SAW phase velocity from 6.32 to 7.05~km/s, within 1.1\\% of the 7126-m/s shear-wave velocity of 4H-SiC. As the velocity approaches this limit, more of the acoustic energy spreads into the non-piezoelectric SiC, and $k^2$ falls from its 8",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Energy Storage",
-            "Power Electronics"
-          ],
-          "event_id": "1fb2c79e020f",
-          "coverage": []
-        },
-        {
-          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
-          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery",
+          "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
+          "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm",
           "source": "Electrek",
           "category": "Energy Storage",
-          "published": "2026-11-22T14:22:49+00:00",
-          "summary": "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…",
+          "published": "2026-11-23T23:10:07+00:00",
+          "summary": "Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…",
+          "score": 11,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "a2b9d4b6bf65",
+          "coverage": []
+        },
+        {
+          "title": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer",
+          "url": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer",
+          "source": "Energy Storage News",
+          "category": "Energy Storage",
+          "published": "2026-11-23T09:07:38+00:00",
+          "summary": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
           "score": 8,
           "priority": "Other developments",
           "interests": [
             "Energy Storage"
           ],
-          "event_id": "a12b5461d899",
+          "event_id": "b8e3f72e6873",
           "coverage": []
         },
         {
-          "title": "PepDeTech: Anonymous Occupancy Monitoring on a Battery-Powered 2.3k-Zone dToF LiDAR Node with On-Chip Processing and Bluetooth LE Reporting",
-          "url": "https://arxiv.org/abs/2611.27304",
-          "source": "arXiv Signal Processing",
+          "title": "Italy’s recent electricity market decree could reduce BESS revenues in 2027/28",
+          "url": "https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28",
+          "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27304v1 Announce Type: new \nAbstract: As populations grow, society is increasingly required to shift towards systems of shared resources, which allow space, energy and time to be optimised. Facilitating this transition depends on data: how many people are present, when and where. From such information, schedules can be organised more efficiently and resources allocated where they matter. At the same time, privacy concerns and energy consumption limit deployment: cameras are frequently unacceptable, while simpler sensors miss people and cannot provide the full picture. This paper presents PepDeTech, a compact, battery-powered occupancy node that combines a 54 x 42-zone direct Time-of-Flight (dToF) Light Detection and Ranging (LiDAR) (VL53L9CX) with a Bluetooth Low Energy (BLE) System on Chip (SoC). Three deterministic algorithms, background subtraction, motion history and a track lifecycle, run on-chip and count the people simultaneously, providing real-time occupancy monitor",
-          "score": 5,
+          "published": "2026-11-23T14:00:55+00:00",
+          "summary": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
-            "Energy Storage",
-            "Semiconductors"
+            "Power Systems",
+            "Energy Storage"
           ],
-          "event_id": "82e105d2183e",
+          "event_id": "073d2b3eff52",
           "coverage": []
         },
         {
-          "title": "Load-Following Dynamics of an SMR-Powered All-Electric Ship with Battery Energy Storage",
-          "url": "https://arxiv.org/abs/2611.27957",
-          "source": "arXiv Systems and Control",
+          "title": "Japan’s expanding BESS market and its uncertain progress",
+          "url": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress",
+          "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27957v1 Announce Type: new \nAbstract: Small modular reactors (SMRs) are being considered as compact, high-energy-density power sources for future all-electric ships. In such systems, propulsion-load variations can propagate through the electrical network, turbine-generator set, steam generator, and reactor, producing coupled nuclear, thermal, mechanical, and electrical transients. This paper presents an integrated dynamic load-following analysis of an SMR-powered all-electric ship with and without battery energy storage system (BESS) support. The model couples an integral pressurized water reactor, a once-through moving-boundary steam generator, a simplified turbine model, a synchronous generator, an AC shipboard electrical network, an asynchronous propulsion motor, and a grid-connected BESS. A propulsion-load reduction is applied through the motor torque command, and the responses of the SMR-alone and SMR+BESS configurations are compared. The results show that, without BESS",
+          "published": "2026-11-24T00:04:52+00:00",
+          "summary": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "f5dbfcba30a9",
+          "coverage": []
+        },
+        {
+          "title": "BESS overbuild or augmentation: which strategy wins?",
+          "url": "https://www.energy-storage.news/bess-overbuild-or-augmentation-which-strategy-wins",
+          "source": "Energy Storage News",
+          "category": "Energy Storage",
+          "published": "2026-11-23T11:39:45+00:00",
+          "summary": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
           "score": 5,
           "priority": "Other developments",
           "interests": [
             "Energy Storage"
           ],
-          "event_id": "0185600fa992",
+          "event_id": "66a9005e2105",
           "coverage": []
         }
       ],
-      "narrative": "4 distinct energy storage developments appeared in this time window. Highest-ranked topics: 20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide; Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery; PepDeTech: Anonymous Occupancy Monitoring on a Battery-Powered 2.3k-Zone dToF LiDAR Node with On-Chip Processing and Bluetooth LE Reporting. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "5 distinct energy storage developments appeared in this time window. Highest-ranked topics: One of the world’s biggest zinc mines is getting Alaska’s largest solar farm; ‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer; Italy’s recent electricity market decree could reduce BESS revenues in 2027/28. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
-      "name": "Control and Automation",
-      "count": 1,
-      "high": 0,
-      "top": [
-        {
-          "title": "Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents",
-          "url": "https://arxiv.org/abs/2611.27435",
-          "source": "arXiv Systems and Control",
-          "category": "Control and Automation",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27435v1 Announce Type: cross \nAbstract: Model predictive control (MPC) of urban traffic signals relies on a model of how queues respond to signal decisions, which is hard to specify and calibrate in heterogeneous networks, particularly when incidents change capacities and turning shares. Measurements add a second limitation: the controlled lanes at the stop line are often short, so queues extending upstream of them fall outside lane-level measurements. We propose GNN-MPC, a receding-horizon controller that plans with action-conditioned network dynamics learned by graph neural networks. Phase sequences are coordinated across intersections by approximate best responses, with an acceptance test that keeps the predicted cost no higher than that of the initial plan. In microscopic simulation under non-recurrent incidents, GNN-MPC reduces travel time and increases completed trips relative to all tested controllers, on a homogeneous grid and a heterogeneous 21-intersection network.",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Control and Automation"
-          ],
-          "event_id": "582ebc46af31",
-          "coverage": []
-        }
-      ],
-      "items": [
-        {
-          "title": "Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents",
-          "url": "https://arxiv.org/abs/2611.27435",
-          "source": "arXiv Systems and Control",
-          "category": "Control and Automation",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27435v1 Announce Type: cross \nAbstract: Model predictive control (MPC) of urban traffic signals relies on a model of how queues respond to signal decisions, which is hard to specify and calibrate in heterogeneous networks, particularly when incidents change capacities and turning shares. Measurements add a second limitation: the controlled lanes at the stop line are often short, so queues extending upstream of them fall outside lane-level measurements. We propose GNN-MPC, a receding-horizon controller that plans with action-conditioned network dynamics learned by graph neural networks. Phase sequences are coordinated across intersections by approximate best responses, with an acceptance test that keeps the predicted cost no higher than that of the initial plan. In microscopic simulation under non-recurrent incidents, GNN-MPC reduces travel time and increases completed trips relative to all tested controllers, on a homogeneous grid and a heterogeneous 21-intersection network.",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [
-            "Control and Automation"
-          ],
-          "event_id": "582ebc46af31",
-          "coverage": []
-        }
-      ],
-      "narrative": "1 distinct control and automation developments appeared in this time window. Highest-ranked topics: Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
-    },
-    {
-      "name": "Electronics",
+      "name": "Power Electronics",
       "count": 3,
       "high": 0,
       "top": [
         {
-          "title": "EU targets advanced materials leadership by 2035",
-          "url": "https://www.eenewseurope.com/en/eu-targets-advanced-materials-leadership-by-2035/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-23T08:00:34+00:00",
-          "summary": "The European Commission has unveiled a new initiative aimed at making the EU a global leader in the development, production and deployment of advanced materials by 2035. The Advanced Materials for Europe agenda sets ambitious targets for investment, startups and industrial adoption, with a focus on accelerating the transition from laboratory research to commercial […] The post EU targets advanced materials leadership by 2035 appeared first on eeNews Europe .",
+          "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
+          "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights",
+          "source": "Power Electronics News",
+          "category": "Power Electronics",
+          "published": "2026-11-23T19:43:41+00:00",
+          "summary": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights appeared first on Power Electronics News .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Electronics",
+            "Semiconductors"
+          ],
+          "event_id": "e906b2751d9a",
+          "coverage": []
+        },
+        {
+          "title": "Optimizing power delivery in AI data centers",
+          "url": "https://www.powerelectronicsnews.com/optimizing-power-delivery-in-ai-data-centers",
+          "source": "Power Electronics News",
+          "category": "Power Electronics",
+          "published": "2026-11-23T16:14:58+00:00",
+          "summary": "How 800-VDC distribution, vertical power delivery, and backside power cut I²R losses from grid to transistor. The post Optimizing power delivery in AI data centers appeared first on Power Electronics News .",
           "score": 7,
           "priority": "Other developments",
           "interests": [
-            "Research"
-          ],
-          "event_id": "6cbaae0d9903",
-          "coverage": []
-        },
-        {
-          "title": "A Microwave-Photonics Formulation of the Rydberg-Atom Receiver",
-          "url": "https://arxiv.org/abs/2611.27942",
-          "source": "arXiv Signal Processing",
-          "category": "Electronics",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27942v1 Announce Type: cross \nAbstract: The performance of Rydberg-atom receivers is seldom stated as a radio-frequency (RF) link budget. The receiver is shown to be an intensity-modulated direct-detection analog optical link whose modulator is the laser-driven vapor. The transmission of a warm vapor is derived in closed form by averaging the four-level response over atomic velocities. The conversion gain, noise figure, bandwidth, intercept points, and spurious-free dynamic range follow from this one function. For a weak probe the instantaneous bandwidth is half the width of the transparency window in two-photon detuning. The local-oscillator beat places the second-order intercept near twice the local-oscillator field, so the local oscillator sets the even-order linearity. For a rubidium transition at 17.04 GHz the closed forms agree with a velocity-resolved density-matrix model to 1% for the slope and the intercepts and to 10% for the bandwidth. They underestimate the group",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
             "Power Systems",
-            "Electronics"
+            "Power Electronics",
+            "Semiconductors"
           ],
-          "event_id": "ec9282b13ba8",
+          "event_id": "127b71073897",
           "coverage": []
         },
         {
-          "title": "The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt",
-          "url": "https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt",
-          "source": "EE Times",
-          "category": "Electronics",
-          "published": "2026-11-23T08:30:00+00:00",
-          "summary": "Here is why it was a non-starter and what the story reveals about memory’s strategic appeal in the AI buildup. The post The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt appeared first on EE Times .",
+          "title": "AmberSemi Leads APEC 2027 Session on Vertical Power Delivery",
+          "url": "https://www.powerelectronicsnews.com/ambersemi-leads-apec-2027-session-on-vertical-power-delivery",
+          "source": "Power Electronics News",
+          "category": "Power Electronics",
+          "published": "2026-11-23T11:00:00+00:00",
+          "summary": "The APEC session explores power architectures as AI processor current demands exceed thousands of amperes. The post AmberSemi Leads APEC 2027 Session on Vertical Power Delivery appeared first on Power Electronics News .",
           "score": 5,
           "priority": "Other developments",
-          "interests": [],
-          "event_id": "244dbc7df781",
+          "interests": [
+            "Power Electronics"
+          ],
+          "event_id": "58dad2a21ed2",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "EU targets advanced materials leadership by 2035",
-          "url": "https://www.eenewseurope.com/en/eu-targets-advanced-materials-leadership-by-2035/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-23T08:00:34+00:00",
-          "summary": "The European Commission has unveiled a new initiative aimed at making the EU a global leader in the development, production and deployment of advanced materials by 2035. The Advanced Materials for Europe agenda sets ambitious targets for investment, startups and industrial adoption, with a focus on accelerating the transition from laboratory research to commercial […] The post EU targets advanced materials leadership by 2035 appeared first on eeNews Europe .",
+          "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
+          "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights",
+          "source": "Power Electronics News",
+          "category": "Power Electronics",
+          "published": "2026-11-23T19:43:41+00:00",
+          "summary": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights appeared first on Power Electronics News .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Electronics",
+            "Semiconductors"
+          ],
+          "event_id": "e906b2751d9a",
+          "coverage": []
+        },
+        {
+          "title": "Optimizing power delivery in AI data centers",
+          "url": "https://www.powerelectronicsnews.com/optimizing-power-delivery-in-ai-data-centers",
+          "source": "Power Electronics News",
+          "category": "Power Electronics",
+          "published": "2026-11-23T16:14:58+00:00",
+          "summary": "How 800-VDC distribution, vertical power delivery, and backside power cut I²R losses from grid to transistor. The post Optimizing power delivery in AI data centers appeared first on Power Electronics News .",
           "score": 7,
           "priority": "Other developments",
           "interests": [
-            "Research"
-          ],
-          "event_id": "6cbaae0d9903",
-          "coverage": []
-        },
-        {
-          "title": "A Microwave-Photonics Formulation of the Rydberg-Atom Receiver",
-          "url": "https://arxiv.org/abs/2611.27942",
-          "source": "arXiv Signal Processing",
-          "category": "Electronics",
-          "published": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.27942v1 Announce Type: cross \nAbstract: The performance of Rydberg-atom receivers is seldom stated as a radio-frequency (RF) link budget. The receiver is shown to be an intensity-modulated direct-detection analog optical link whose modulator is the laser-driven vapor. The transmission of a warm vapor is derived in closed form by averaging the four-level response over atomic velocities. The conversion gain, noise figure, bandwidth, intercept points, and spurious-free dynamic range follow from this one function. For a weak probe the instantaneous bandwidth is half the width of the transparency window in two-photon detuning. The local-oscillator beat places the second-order intercept near twice the local-oscillator field, so the local oscillator sets the even-order linearity. For a rubidium transition at 17.04 GHz the closed forms agree with a velocity-resolved density-matrix model to 1% for the slope and the intercepts and to 10% for the bandwidth. They underestimate the group",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
             "Power Systems",
-            "Electronics"
+            "Power Electronics",
+            "Semiconductors"
           ],
-          "event_id": "ec9282b13ba8",
+          "event_id": "127b71073897",
           "coverage": []
         },
         {
-          "title": "The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt",
-          "url": "https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt",
-          "source": "EE Times",
-          "category": "Electronics",
-          "published": "2026-11-23T08:30:00+00:00",
-          "summary": "Here is why it was a non-starter and what the story reveals about memory’s strategic appeal in the AI buildup. The post The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt appeared first on EE Times .",
+          "title": "AmberSemi Leads APEC 2027 Session on Vertical Power Delivery",
+          "url": "https://www.powerelectronicsnews.com/ambersemi-leads-apec-2027-session-on-vertical-power-delivery",
+          "source": "Power Electronics News",
+          "category": "Power Electronics",
+          "published": "2026-11-23T11:00:00+00:00",
+          "summary": "The APEC session explores power architectures as AI processor current demands exceed thousands of amperes. The post AmberSemi Leads APEC 2027 Session on Vertical Power Delivery appeared first on Power Electronics News .",
           "score": 5,
           "priority": "Other developments",
-          "interests": [],
-          "event_id": "244dbc7df781",
+          "interests": [
+            "Power Electronics"
+          ],
+          "event_id": "58dad2a21ed2",
           "coverage": []
         }
       ],
-      "narrative": "3 distinct electronics developments appeared in this time window. Highest-ranked topics: EU targets advanced materials leadership by 2035; A Microwave-Photonics Formulation of the Rydberg-Atom Receiver; The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "3 distinct power electronics developments appeared in this time window. Highest-ranked topics: The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights; Optimizing power delivery in AI data centers; AmberSemi Leads APEC 2027 Session on Vertical Power Delivery. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
-      "name": "Semiconductors",
-      "count": 1,
+      "name": "Electronics",
+      "count": 12,
       "high": 0,
       "top": [
         {
-          "title": "AI Changes What Chip Engineers Need To Learn",
-          "url": "https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-23T08:01:13+00:00",
-          "summary": "AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .",
-          "score": 9,
+          "title": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance",
+          "url": "https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-23T15:00:00+00:00",
+          "summary": "The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rollback prevention, and system recovery. It also highlights practical integration guidance, testing resources, and compliance-related documentation […] The post Secure Flash: A Practical Path to Cyber Resilience Act Compliance appeared first on EE Times .",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "cc7720dbb154",
+          "coverage": []
+        },
+        {
+          "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream?",
+          "url": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-24T08:40:49+00:00",
+          "summary": "Vehicle-to-grid sounds like a partial solution for enhancing the grid, but the reality of the human factor may say otherwise. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? appeared first on EE Times .",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
-            "Semiconductors"
+            "Power Systems"
           ],
-          "event_id": "4e72c76fac40",
+          "event_id": "d1f71216b3d6",
+          "coverage": []
+        },
+        {
+          "title": "NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026",
+          "url": "https://www.eetimes.com/nsing-featured-cra-ai-robotics-motor-control-and-digital-energy-at-electronica-2026",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-24T07:41:37+00:00",
+          "summary": "At electronica 2026 in Munich, NSING exhibited 35 solutions built on N32‑series MCUs, N32WB BLE SoCs and NS350 TPM, covering AI robotics, motor control and digital energy, and presented its CRA compliance offerings. The post NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026 appeared first on EE Times .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Control and Automation"
+          ],
+          "event_id": "cacdb7bbc326",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "AI Changes What Chip Engineers Need To Learn",
-          "url": "https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn",
+          "title": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance",
+          "url": "https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-23T15:00:00+00:00",
+          "summary": "The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rollback prevention, and system recovery. It also highlights practical integration guidance, testing resources, and compliance-related documentation […] The post Secure Flash: A Practical Path to Cyber Resilience Act Compliance appeared first on EE Times .",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "cc7720dbb154",
+          "coverage": []
+        },
+        {
+          "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream?",
+          "url": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-24T08:40:49+00:00",
+          "summary": "Vehicle-to-grid sounds like a partial solution for enhancing the grid, but the reality of the human factor may say otherwise. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? appeared first on EE Times .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "d1f71216b3d6",
+          "coverage": []
+        },
+        {
+          "title": "NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026",
+          "url": "https://www.eetimes.com/nsing-featured-cra-ai-robotics-motor-control-and-digital-energy-at-electronica-2026",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-24T07:41:37+00:00",
+          "summary": "At electronica 2026 in Munich, NSING exhibited 35 solutions built on N32‑series MCUs, N32WB BLE SoCs and NS350 TPM, covering AI robotics, motor control and digital energy, and presented its CRA compliance offerings. The post NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026 appeared first on EE Times .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Control and Automation"
+          ],
+          "event_id": "cacdb7bbc326",
+          "coverage": []
+        },
+        {
+          "title": "A holiday shopping guide for engineers: 2026 edition",
+          "url": "https://www.edn.com/a-holiday-shopping-guide-for-engineers-2026-edition",
+          "source": "EDN",
+          "category": "Electronics",
+          "published": "2026-11-23T13:00:57+00:00",
+          "summary": "It’s November, time for another year’s shopping list full of techie gift ideas for others or yourself, courtesy of a fellow engineer. The post A holiday shopping guide for engineers: 2026 edition appeared first on EDN .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "e9df32820080",
+          "coverage": []
+        },
+        {
+          "title": "NVIDIA expands supply chain commitments for AI infrastructure",
+          "url": "https://www.eenewseurope.com/en/nvidia-expands-supply-chain-commitments-for-ai-infrastructure/",
+          "source": "eeNews Europe",
+          "category": "Electronics",
+          "published": "2026-11-23T10:01:43+00:00",
+          "summary": "NVIDIA is stepping up its investments in semiconductor manufacturing and packaging capacity through expanded agreements with key supply chain partners in Taiwan, South Korea and the US. The commitments aim to secure production capacity for current and next-generation AI accelerators as demand for AI infrastructure continues to grow. The agreements highlight the growing importance of […] The post NVIDIA expands supply chain commitments for AI infrastructure appeared first on eeNews Europe .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "d14c1c385517",
+          "coverage": []
+        },
+        {
+          "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+          "url": "https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-23T18:17:02+00:00",
+          "summary": "Nvidia goes back to business as usual following Huang's resignation and reinstatement after a week. The post Nvidia Board Reinstates Jensen Huang as CEO appeared first on EE Times .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "f54abc090863",
+          "coverage": [
+            {
+              "source": "eeNews Europe",
+              "url": "https://www.eenewseurope.com/en/nvidia-reinstates-jensen-huang-ceo/"
+            }
+          ]
+        },
+        {
+          "title": "How embedded sensors are modernizing smart bathroom",
+          "url": "https://www.edn.com/how-embedded-sensors-are-modernizing-smart-bathroom",
+          "source": "EDN",
+          "category": "Electronics",
+          "published": "2026-11-23T16:16:06+00:00",
+          "summary": "Each embedded sensing technology contributes to a holistic ecosystem where hygiene, resource management, and wellness converge. The post How embedded sensors are modernizing smart bathroom appeared first on EDN .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [
+            "Electronics"
+          ],
+          "event_id": "c580298a9cdc",
+          "coverage": []
+        },
+        {
+          "title": "The Sovereign AI Paradox: Who Controls the Compute?",
+          "url": "https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-23T16:08:35+00:00",
+          "summary": "U.S. restrictions on overseas AI infrastructure could accelerate sovereign computing and weaken American technology dominance. The post The Sovereign AI Paradox: Who Controls the Compute? appeared first on EE Times .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "bef22161ec1f",
+          "coverage": []
+        },
+        {
+          "title": "SWISSto12 Taps DLR for HummingSat Flight Dynamics",
+          "url": "https://www.eenewseurope.com/en/swissto12-taps-dlr-for-hummingsat-flight-dynamics/",
+          "source": "eeNews Europe",
+          "category": "Electronics",
+          "published": "2026-11-23T13:35:36+00:00",
+          "summary": "Keeping a satellite in the right orbit requires more than propulsion. Precise calculations are needed to determine its position, plan maneuvers, and maintain antenna alignment throughout its operational life. For compact geostationary satellites, these tasks become particularly important when electric propulsion is involved. Swiss aerospace company SWISSto12 has selected the German Aerospace Center (DLR) as […] The post SWISSto12 Taps DLR for HummingSat Flight Dynamics appeared first on eeNews Europe .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [
+            "Electronics"
+          ],
+          "event_id": "fd5938e63b96",
+          "coverage": []
+        },
+        {
+          "title": "Preparing for the EU CRA with hardware security verification",
+          "url": "https://www.edn.com/preparing-for-the-eu-cra-with-hardware-security-verification",
+          "source": "EDN",
+          "category": "Electronics",
+          "published": "2026-11-24T07:33:00+00:00",
+          "summary": "Hardware security verification adds questions about where protected information can travel and what can influence it. The post Preparing for the EU CRA with hardware security verification appeared first on EDN .",
+          "score": 4,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "473556d3fece",
+          "coverage": []
+        },
+        {
+          "title": "Building smart environments with IoT development kits",
+          "url": "https://www.edn.com/building-smart-environments-with-iot-development-kits",
+          "source": "EDN",
+          "category": "Electronics",
+          "published": "2026-11-23T15:00:31+00:00",
+          "summary": "Build smart homes and smart cities faster with IoT development kits that combine heterogeneous connectivity, energy efficiency, and security. The post Building smart environments with IoT development kits appeared first on EDN .",
+          "score": 4,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "a7c836285a50",
+          "coverage": []
+        },
+        {
+          "title": "Longsys and Lexar Showcase Industrial, Automotive and Edge AI Storage at electronica 2026",
+          "url": "https://www.eenewseurope.com/en/longsys-and-lexar-showcase-industrial-automotive-and-edge-ai-storage-at-electronica-2026/",
+          "source": "eeNews Europe",
+          "category": "Electronics",
+          "published": "2026-11-23T12:12:20+00:00",
+          "summary": "Longsys(301308.SZ/09976.HK) and its International high-end consumer storage brand Lexar are exhibiting at electronica 2026 in Munich, Germany, from November 10 to 13. Under the theme “Integrated Storage Empowering Edge AI,” Longsys is launching an industrial-grade wide-temperature mSSD and showcasing automotive storage and Edge AI solutions for industrial equipment, intelligent vehicles and smart devices. Industrial Wide-Temperature […] The post Longsys and Lexar Showcase Industrial, Automotive and Edge AI Storage at electronica 2026 appeared first on eeNews Europe .",
+          "score": 4,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "223144761348",
+          "coverage": []
+        }
+      ],
+      "narrative": "12 distinct electronics developments appeared in this time window. Highest-ranked topics: Secure Flash: A Practical Path to Cyber Resilience Act Compliance; Vehicle-to-Grid: Great Idea or Unrealistic Dream?; NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+    },
+    {
+      "name": "Semiconductors",
+      "count": 10,
+      "high": 0,
+      "top": [
+        {
+          "title": "Why AI Struggles To Reuse Chip Designs",
+          "url": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs",
           "source": "Semiconductor Engineering",
           "category": "Semiconductors",
-          "published": "2026-11-23T08:01:13+00:00",
-          "summary": "AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .",
+          "published": "2026-11-24T08:11:47+00:00",
+          "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
           "score": 9,
           "priority": "Other developments",
           "interests": [
             "Semiconductors"
           ],
-          "event_id": "4e72c76fac40",
+          "event_id": "96be6ebc5e54",
+          "coverage": []
+        },
+        {
+          "title": "AI Vs. High-Level Synthesis",
+          "url": "https://semiengineering.com/ai-vs-high-level-synthesis",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:11:34+00:00",
+          "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "540e9b253e7d",
+          "coverage": []
+        },
+        {
+          "title": "AI Can Read The Code, But Can It Understand The Chip?",
+          "url": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:11:31+00:00",
+          "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "2f8496b5846e",
           "coverage": []
         }
       ],
-      "narrative": "1 distinct semiconductors developments appeared in this time window. Highest-ranked topics: AI Changes What Chip Engineers Need To Learn. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "items": [
+        {
+          "title": "Why AI Struggles To Reuse Chip Designs",
+          "url": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:11:47+00:00",
+          "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "96be6ebc5e54",
+          "coverage": []
+        },
+        {
+          "title": "AI Vs. High-Level Synthesis",
+          "url": "https://semiengineering.com/ai-vs-high-level-synthesis",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:11:34+00:00",
+          "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "540e9b253e7d",
+          "coverage": []
+        },
+        {
+          "title": "AI Can Read The Code, But Can It Understand The Chip?",
+          "url": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:11:31+00:00",
+          "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "2f8496b5846e",
+          "coverage": []
+        },
+        {
+          "title": "Why Photonic Design Is Becoming a System-Level Challenge",
+          "url": "https://semiengineering.com/why-photonic-design-is-becoming-a-system-level-challenge",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:07:22+00:00",
+          "summary": "A component can meet its individual design targets and still behave differently as part of a complete optical link. The post Why Photonic Design Is Becoming a System-Level Challenge appeared first on Semiconductor Engineering .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "2a1ad414dd2f",
+          "coverage": []
+        },
+        {
+          "title": "Designing A Microarchitecture From Formal Proof To Full-System",
+          "url": "https://semiengineering.com/designing-a-microarchitecture-from-formal-proof-to-full-system",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:06:57+00:00",
+          "summary": "Combining architectural proof, software-driven verification, simulation, emulation, and cloud-based compute infrastructure. The post Designing A Microarchitecture From Formal Proof To Full-System appeared first on Semiconductor Engineering .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "5599c27ada59",
+          "coverage": []
+        },
+        {
+          "title": "How Can AI Build Faster And Better Silicon For Physical AI?",
+          "url": "https://semiengineering.com/how-can-ai-build-faster-and-better-silicon-for-physical-ai",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:04:22+00:00",
+          "summary": "Shortening the path from design intent to verified implementation could put custom silicon within reach of more teams. The post How Can AI Build Faster And Better Silicon For Physical AI? appeared first on Semiconductor Engineering .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "25c3328189e2",
+          "coverage": []
+        },
+        {
+          "title": "Securing The Chiplet Future With A UCIe 4.0-Aware Verification Architecture",
+          "url": "https://semiengineering.com/securing-the-chiplet-future-with-a-ucie-4-0-aware-verification-architecture",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:03:00+00:00",
+          "summary": "Bring together compliance tests, protocol-aware monitoring, transaction recording, scoreboarding, error-injection callbacks, and targeted debug to support this work across multiple layers. The post Securing The Chiplet Future With A UCIe 4.0-Aware Verification Architecture appeared first on Semiconductor Engineering .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "b0b0d157dc76",
+          "coverage": []
+        },
+        {
+          "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+          "url": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:08:01+00:00",
+          "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "1078b412f4fc",
+          "coverage": []
+        },
+        {
+          "title": "A Link Is Not Architecture: Why Multi-Die Systems Need More Than Die-to-Die Connectivity",
+          "url": "https://semiengineering.com/a-link-is-not-architecture-why-multi-die-systems-need-more-than-die-to-die-connectivity",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:03:55+00:00",
+          "summary": "Maintaining consistent communication behavior, integration, and security across configurations. The post A Link Is Not Architecture: Why Multi-Die Systems Need More Than Die-to-Die Connectivity appeared first on Semiconductor Engineering .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "ff88a0cd024e",
+          "coverage": []
+        },
+        {
+          "title": "Verifying UCIe.mem: Flexible Verification For Compute And Memory Chiplets",
+          "url": "https://semiengineering.com/verifying-ucie-mem-flexible-verification-for-compute-and-memory-chiplets",
+          "source": "Semiconductor Engineering",
+          "category": "Semiconductors",
+          "published": "2026-11-24T08:02:43+00:00",
+          "summary": "Validate UCIe.mem implementations across development stages while reusing a common verification environment. The post Verifying UCIe.mem: Flexible Verification For Compute And Memory Chiplets appeared first on Semiconductor Engineering .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "5bbf9252f46d",
+          "coverage": []
+        }
+      ],
+      "narrative": "10 distinct semiconductors developments appeared in this time window. Highest-ranked topics: Why AI Struggles To Reuse Chip Designs; AI Vs. High-Level Synthesis; AI Can Read The Code, But Can It Understand The Chip?. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -776,16 +1456,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:55.373445+00:00",
-      "error": ""
-    },
-    {
-      "source": "Control",
-      "kind": "arxiv",
-      "status": "ok",
-      "count": 8,
-      "failures": 0,
-      "last_success": "2026-11-23T08:55:05.794743+00:00",
+      "last_success": "2026-11-24T08:45:27.857088+00:00",
       "error": ""
     },
     {
@@ -794,7 +1465,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:50.905086+00:00",
+      "last_success": "2026-11-24T08:45:23.777483+00:00",
       "error": ""
     },
     {
@@ -803,7 +1474,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:51.565698+00:00",
+      "last_success": "2026-11-24T08:45:24.212668+00:00",
       "error": ""
     },
     {
@@ -812,7 +1483,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:51.357278+00:00",
+      "last_success": "2026-11-24T08:45:24.039971+00:00",
       "error": ""
     },
     {
@@ -821,7 +1492,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:50.674428+00:00",
+      "last_success": "2026-11-24T08:45:23.564183+00:00",
       "error": ""
     },
     {
@@ -830,7 +1501,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:50.396594+00:00",
+      "last_success": "2026-11-24T08:45:23.368766+00:00",
       "error": ""
     },
     {
@@ -839,7 +1510,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:54.987969+00:00",
+      "last_success": "2026-11-24T08:45:27.657213+00:00",
       "error": ""
     },
     {
@@ -848,7 +1519,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:48.803933+00:00",
+      "last_success": "2026-11-24T08:45:22.264639+00:00",
       "error": ""
     },
     {
@@ -857,7 +1528,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:54.561726+00:00",
+      "last_success": "2026-11-24T08:45:27.297208+00:00",
       "error": ""
     },
     {
@@ -866,7 +1537,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:54.005396+00:00",
+      "last_success": "2026-11-24T08:45:26.831297+00:00",
       "error": ""
     },
     {
@@ -875,7 +1546,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:56.336364+00:00",
+      "last_success": "2026-11-24T08:45:28.563615+00:00",
       "error": ""
     },
     {
@@ -884,7 +1555,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:56.202272+00:00",
+      "last_success": "2026-11-24T08:45:28.486799+00:00",
       "error": ""
     },
     {
@@ -893,16 +1564,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:51.189599+00:00",
-      "error": ""
-    },
-    {
-      "source": "Power Electronics and Drives",
-      "kind": "arxiv",
-      "status": "ok",
-      "count": 8,
-      "failures": 0,
-      "last_success": "2026-11-23T08:54:59.576790+00:00",
+      "last_success": "2026-11-24T08:45:23.907814+00:00",
       "error": ""
     },
     {
@@ -911,16 +1573,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:49.116848+00:00",
-      "error": ""
-    },
-    {
-      "source": "Power Systems",
-      "kind": "arxiv",
-      "status": "ok",
-      "count": 8,
-      "failures": 0,
-      "last_success": "2026-11-23T08:54:56.475731+00:00",
+      "last_success": "2026-11-24T08:45:22.434939+00:00",
       "error": ""
     },
     {
@@ -929,7 +1582,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:54.987945+00:00",
+      "last_success": "2026-11-24T08:45:27.657194+00:00",
       "error": ""
     },
     {
@@ -938,7 +1591,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:53.298197+00:00",
+      "last_success": "2026-11-24T08:45:26.117690+00:00",
       "error": ""
     },
     {
@@ -947,16 +1600,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:49.552214+00:00",
-      "error": ""
-    },
-    {
-      "source": "Renewables and Storage",
-      "kind": "arxiv",
-      "status": "ok",
-      "count": 8,
-      "failures": 0,
-      "last_success": "2026-11-23T08:55:02.686514+00:00",
+      "last_success": "2026-11-24T08:45:22.901906+00:00",
       "error": ""
     },
     {
@@ -965,7 +1609,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:52.469766+00:00",
+      "last_success": "2026-11-24T08:45:25.341748+00:00",
       "error": ""
     },
     {
@@ -974,7 +1618,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:49.962690+00:00",
+      "last_success": "2026-11-24T08:45:23.094439+00:00",
       "error": ""
     },
     {
@@ -983,7 +1627,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:55.913256+00:00",
+      "last_success": "2026-11-24T08:45:28.225301+00:00",
       "error": ""
     },
     {
@@ -992,7 +1636,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:48.927177+00:00",
+      "last_success": "2026-11-24T08:45:22.342296+00:00",
       "error": ""
     },
     {
@@ -1001,25 +1645,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:49.738666+00:00",
-      "error": ""
-    },
-    {
-      "source": "arXiv Signal Processing",
-      "kind": "feed",
-      "status": "ok",
-      "count": 25,
-      "failures": 0,
-      "last_success": "2026-11-23T08:54:55.206898+00:00",
-      "error": ""
-    },
-    {
-      "source": "arXiv Systems and Control",
-      "kind": "feed",
-      "status": "ok",
-      "count": 35,
-      "failures": 0,
-      "last_success": "2026-11-23T08:54:55.178609+00:00",
+      "last_success": "2026-11-24T08:45:23.015640+00:00",
       "error": ""
     },
     {
@@ -1028,7 +1654,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:52.926326+00:00",
+      "last_success": "2026-11-24T08:45:25.707283+00:00",
       "error": ""
     },
     {
@@ -1037,7 +1663,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:55.787939+00:00",
+      "last_success": "2026-11-24T08:45:28.175082+00:00",
       "error": ""
     },
     {
@@ -1046,7 +1672,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:54.986992+00:00",
+      "last_success": "2026-11-24T08:45:27.656369+00:00",
       "error": ""
     },
     {
@@ -1055,7 +1681,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:49.396586+00:00",
+      "last_success": "2026-11-24T08:45:22.850626+00:00",
       "error": ""
     },
     {
@@ -1064,7 +1690,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-23T08:54:53.637375+00:00",
+      "last_success": "2026-11-24T08:45:26.453734+00:00",
       "error": ""
     },
     {
@@ -1075,6 +1701,15 @@
       "failures": 1,
       "last_success": null,
       "error": "405 Client Error: Not Allowed for url: https://agbi.com/feed/"
+    },
+    {
+      "source": "Control",
+      "kind": "arxiv",
+      "status": "error",
+      "count": 0,
+      "failures": 1,
+      "last_success": "2026-11-23T08:55:05.794743+00:00",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=25)"
     },
     {
       "source": "L'Orient Today",
@@ -1095,6 +1730,33 @@
       "error": "404 Client Error: Not Found for url: https://www.mercomindia.com/tag/mena/feed"
     },
     {
+      "source": "Power Electronics and Drives",
+      "kind": "arxiv",
+      "status": "error",
+      "count": 0,
+      "failures": 1,
+      "last_success": "2026-11-23T08:54:59.576790+00:00",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22power+electronics%22+OR+all%3A%22motor+drive%22+OR+all%3A%22inverter+control%22&start=0&max_results=8&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "Power Systems",
+      "kind": "arxiv",
+      "status": "error",
+      "count": 0,
+      "failures": 1,
+      "last_success": "2026-11-23T08:54:56.475731+00:00",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "source": "Renewables and Storage",
+      "kind": "arxiv",
+      "status": "error",
+      "count": 0,
+      "failures": 1,
+      "last_success": "2026-11-23T08:55:02.686514+00:00",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=25)"
+    },
+    {
       "source": "T&D World",
       "kind": "feed",
       "status": "error",
@@ -1102,7 +1764,25 @@
       "failures": 1,
       "last_success": null,
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
+    },
+    {
+      "source": "arXiv Signal Processing",
+      "kind": "feed",
+      "status": "error",
+      "count": 0,
+      "failures": 1,
+      "last_success": "2026-11-23T08:54:55.206898+00:00",
+      "error": "No RSS/Atom entries found (check source endpoint)"
+    },
+    {
+      "source": "arXiv Systems and Control",
+      "kind": "feed",
+      "status": "error",
+      "count": 0,
+      "failures": 1,
+      "last_success": "2026-11-23T08:54:55.178609+00:00",
+      "error": "No RSS/Atom entries found (check source endpoint)"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Energy Storage (2), Semiconductors (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Lebanon and Middle East (1), Energy Storage (1), Power Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }

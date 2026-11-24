@@ -1,191 +1,216 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-23T08:54:48.301572+00:00  
+**Generated:** 2026-11-24T08:45:21.903721+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 21 · **High-signal candidates:** 0 · **Sources reporting:** 8
+**Distinct events:** 60 · **High-signal candidates:** 0 · **Sources reporting:** 14
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Energy Storage (2), Semiconductors (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Lebanon and Middle East (1), Energy Storage (1), Power Electronics (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
-### [Briggs & Stratton launches 16 kWh battery scalable to 512 kWh](https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh)
+### [Lebanon looks to ramp up solar, storage deployments](https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments)
 
-**Renewable Energy · Worth watching · Score 11 · pv magazine**
+**Lebanon and Middle East · Worth watching · Score 13 · pv magazine**
 
-The lithium iron phosphate (LFP) battery features a minimum round-trip efficiency of 96%, a 12-year warranty, and integrated hardware designed to reduce installation and commissioning times. The post Briggs & Stratton launches 16 kWh battery scalable to 512 kWh appeared first on pv magazine Global .
+Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .
 
-### [AI Changes What Chip Engineers Need To Learn](https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn)
+### [Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit](https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit)
+
+**Renewable Energy · Worth watching · Score 12 · pv magazine**
+
+The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongw
+
+### [One of the world’s biggest zinc mines is getting Alaska’s largest solar farm](https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm)
+
+**Energy Storage · Worth watching · Score 11 · Electrek**
+
+Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
+
+### [Japanese utility to forecast perovskite window output with AI](https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai)
+
+**Renewable Energy · Worth watching · Score 10 · pv magazine**
+
+Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window ou
+
+### [The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights](https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights)
+
+**Power Electronics · Worth watching · Score 10 · Power Electronics News**
+
+Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC 
+
+### [JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency](https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/)
+
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
+
+Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.24% for a TOPCon-based perovskite tandem cell.
+
+### [SunPower launches 522W HJT solar panel, Q3 revenue rises](https://www.pv-tech.org/sunpower-q3-revenue-growth-launches-522w-hjt-solar-panel/)
+
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
+
+US solar firm SunPower reported Q3 2026 revenue of US$65.1 million, up US$10.2 million from the previous quarter.
+
+### [First Solar CEO backs bipartisan support for Trump’s Section 232 tariffs](https://www.pv-tech.org/first-solar-ceo-backs-bipartisan-support-trump-section-232-tariffs/)
+
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
+
+The CEO of US thin-film PV manufacturer First Solar has called for bipartisan policy support for US tariff programmes and praised the measures introduced by the Trump administration to limit non-US solar companies’ access to the US market.
+
+### [Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA](https://www.pv-tech.org/india-clean-energy-investment-gap-ieefa-greater-domestic-capital/)
+
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
+
+IEEFA says India could unlock INR680 billion in renewable investment through life insurers, addressing domestic funding constraints.
+
+### [Why AI Struggles To Reuse Chip Designs](https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs)
 
 **Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
 
-AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .
+AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .
 
-### [Daikin launches R32 retrofit solution for existing residential heat pump series](https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series)
+## Lebanon and Middle East — 1 distinct findings, 0 high-signal
 
-**Renewable Energy · Other developments · Score 9 · pv magazine**
+1 distinct lebanon and middle east developments appeared in this time window. Highest-ranked topics: Lebanon looks to ramp up solar, storage deployments. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R
+### [Lebanon looks to ramp up solar, storage deployments](https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments)
 
-### [US Senate passes permitting bill letting solar developers sue agencies](https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies)
+**Lebanon and Middle East · Worth watching · Score 13 · pv magazine**
 
-**Renewable Energy · Other developments · Score 8 · pv magazine**
+Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .
 
-The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post 
+## Power Systems — 7 distinct findings, 0 high-signal
 
-### [Ten innovative renewable energy startups give their pitch at RE+](https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re)
+7 distinct power systems developments appeared in this time window. Highest-ranked topics: Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO; FERC approves MISO plan to speed legacy interconnection study process; COP31 leaders warn grids and storage can’t keep pace with renewable energy growth. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-**Renewable Energy · Other developments · Score 8 · pv magazine**
+### [Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO](https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146)
 
-California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging, and data center power. The post Ten innovative renewable energy startups give the
+**Power Systems · Other developments · Score 9 · Utility Dive**
 
-### [20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide](https://arxiv.org/abs/2611.25409)
+CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.
 
-**Energy Storage · Other developments · Score 8 · arXiv Signal Processing**
+### [FERC approves MISO plan to speed legacy interconnection study process](https://www.utilitydive.com/news/ferc-miso-interconnection-queue-study/875449)
 
-arXiv:2611.25409v2 Announce Type: replace 
-Abstract: Surface acoustic wave (SAW) resonators above 15~GHz require a fast acoustic mode that retains strong electromechanical coupling ($k^2$). This work reports longitudinal SAW (L-SAW) resonators designed for high $k^2$ in 100-nm X-cut lithium niobate 
+**Power Systems · Other developments · Score 9 · Utility Dive**
 
-### [$\mathcal{H}_\infty$ Grid-Forming Control in DC Microgrids](https://arxiv.org/abs/2611.26827)
+Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.
 
-**Power Systems · Other developments · Score 8 · arXiv Systems and Control**
+### [COP31 leaders warn grids and storage can’t keep pace with renewable energy growth](https://www.power-eng.com/energy-storage/cop31-grids-storage-renewable-energy-growth)
 
-arXiv:2611.26827v1 Announce Type: new 
-Abstract: The growing share of DC-based generation, storage and loads has increased interest in DC microgrids. As a result, DC-bus voltage regulation and stability have become active research topics, with considerable effort directed at improving the transient 
+**Power Systems · Other developments · Score 9 · Power Engineering**
 
-### [Burden of proof](https://www.pv-magazine.com/2026/11/23/burden-of-proof)
+With more than 2,000 GW of renewable projects awaiting grid connections, industry leaders say infrastructure bottlenecks — not generation costs — are becoming the biggest obstacle to the global energy transition.
 
-**Renewable Energy · Other developments · Score 8 · pv magazine**
+## Renewable Energy — 22 distinct findings, 0 high-signal
 
-A ‘Made in USA’ label indicates where a product was manufactured but not who owns the factory, whose technology it licenses, or where the materials were sourced. For battery energy storage systems (BESS) claiming US federal tax credits in 2026 and beyond, those details, not the label, can determine 
+22 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit; Japanese utility to forecast perovskite window output with AI; JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [DTE Energy plans up to 150 megawatts of Michigan-based solar generation](https://www.solarpowerworldonline.com/2026/11/dte-energy-plans-up-to-150-megawatts-of-michigan-based-solar-generation)
+### [Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit](https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit)
 
-**Renewable Energy · Other developments · Score 8 · Solar Power World**
+**Renewable Energy · Worth watching · Score 12 · pv magazine**
 
-DTE Energy recently announced plans to add up to 150 megawatts of new solar energy in Michigan, a move that will create construction jobs, support local communities, and save customers money on fuel costs, the company said. In addition, because solar generation does not require fuel, the new project
+The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongw
 
-### [Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery](https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery)
+### [Japanese utility to forecast perovskite window output with AI](https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai)
 
-**Energy Storage · Other developments · Score 8 · Electrek**
+**Renewable Energy · Worth watching · Score 10 · pv magazine**
 
-For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…
+Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window ou
 
-## Power Systems — 5 distinct findings, 0 high-signal
+### [JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency](https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/)
 
-5 distinct power systems developments appeared in this time window. Highest-ranked topics: $\mathcal{H}_\infty$ Grid-Forming Control in DC Microgrids; Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing; Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
 
-### [$\mathcal{H}_\infty$ Grid-Forming Control in DC Microgrids](https://arxiv.org/abs/2611.26827)
+Chinese major PV producer JinkoSolar has set a new cell efficiency record of 35.24% for a TOPCon-based perovskite tandem cell.
 
-**Power Systems · Other developments · Score 8 · arXiv Systems and Control**
+## Energy Storage — 5 distinct findings, 0 high-signal
 
-arXiv:2611.26827v1 Announce Type: new 
-Abstract: The growing share of DC-based generation, storage and loads has increased interest in DC microgrids. As a result, DC-bus voltage regulation and stability have become active research topics, with considerable effort directed at improving the transient 
+5 distinct energy storage developments appeared in this time window. Highest-ranked topics: One of the world’s biggest zinc mines is getting Alaska’s largest solar farm; ‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer; Italy’s recent electricity market decree could reduce BESS revenues in 2027/28. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing](https://arxiv.org/abs/2510.06470)
+### [One of the world’s biggest zinc mines is getting Alaska’s largest solar farm](https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm)
 
-**Power Systems · Other developments · Score 5 · arXiv Systems and Control**
+**Energy Storage · Worth watching · Score 11 · Electrek**
 
-arXiv:2510.06470v3 Announce Type: replace 
-Abstract: We investigate the use of a point cloud measurement in terrain-aided navigation. Our goal is to aid an inertial navigation system, by exploring ways to generate a useful measurement residual for effective nonlinear state estimation. We compare two
+Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
 
-### [Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets](https://arxiv.org/abs/2406.04889)
+### [‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer](https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer)
 
-**Power Systems · Other developments · Score 5 · arXiv Systems and Control**
+**Energy Storage · Other developments · Score 8 · Energy Storage News**
 
-arXiv:2406.04889v2 Announce Type: cross 
-Abstract: This paper investigates sequential flexibility markets consisting of a first market layer for distribution system operators (DSOs) to procure local flexibility to resolve their own needs (e.g., congestion management) followed by a second layer, in w
+BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.
 
-## Renewable Energy — 7 distinct findings, 0 high-signal
+### [Italy’s recent electricity market decree could reduce BESS revenues in 2027/28](https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28)
 
-7 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Briggs & Stratton launches 16 kWh battery scalable to 512 kWh; Daikin launches R32 retrofit solution for existing residential heat pump series; US Senate passes permitting bill letting solar developers sue agencies. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Energy Storage · Other developments · Score 7 · Energy Storage News**
 
-### [Briggs & Stratton launches 16 kWh battery scalable to 512 kWh](https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh)
+A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.
 
-**Renewable Energy · Worth watching · Score 11 · pv magazine**
+## Power Electronics — 3 distinct findings, 0 high-signal
 
-The lithium iron phosphate (LFP) battery features a minimum round-trip efficiency of 96%, a 12-year warranty, and integrated hardware designed to reduce installation and commissioning times. The post Briggs & Stratton launches 16 kWh battery scalable to 512 kWh appeared first on pv magazine Global .
+3 distinct power electronics developments appeared in this time window. Highest-ranked topics: The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights; Optimizing power delivery in AI data centers; AmberSemi Leads APEC 2027 Session on Vertical Power Delivery. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [Daikin launches R32 retrofit solution for existing residential heat pump series](https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series)
+### [The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights](https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights)
 
-**Renewable Energy · Other developments · Score 9 · pv magazine**
+**Power Electronics · Worth watching · Score 10 · Power Electronics News**
 
-The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R
+Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC 
 
-### [US Senate passes permitting bill letting solar developers sue agencies](https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies)
+### [Optimizing power delivery in AI data centers](https://www.powerelectronicsnews.com/optimizing-power-delivery-in-ai-data-centers)
 
-**Renewable Energy · Other developments · Score 8 · pv magazine**
+**Power Electronics · Other developments · Score 7 · Power Electronics News**
 
-The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post 
+How 800-VDC distribution, vertical power delivery, and backside power cut I²R losses from grid to transistor. The post Optimizing power delivery in AI data centers appeared first on Power Electronics News .
 
-## Energy Storage — 4 distinct findings, 0 high-signal
+### [AmberSemi Leads APEC 2027 Session on Vertical Power Delivery](https://www.powerelectronicsnews.com/ambersemi-leads-apec-2027-session-on-vertical-power-delivery)
 
-4 distinct energy storage developments appeared in this time window. Highest-ranked topics: 20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide; Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery; PepDeTech: Anonymous Occupancy Monitoring on a Battery-Powered 2.3k-Zone dToF LiDAR Node with On-Chip Processing and Bluetooth LE Reporting. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Power Electronics · Other developments · Score 5 · Power Electronics News**
 
-### [20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide](https://arxiv.org/abs/2611.25409)
+The APEC session explores power architectures as AI processor current demands exceed thousands of amperes. The post AmberSemi Leads APEC 2027 Session on Vertical Power Delivery appeared first on Power Electronics News .
 
-**Energy Storage · Other developments · Score 8 · arXiv Signal Processing**
+## Electronics — 12 distinct findings, 0 high-signal
 
-arXiv:2611.25409v2 Announce Type: replace 
-Abstract: Surface acoustic wave (SAW) resonators above 15~GHz require a fast acoustic mode that retains strong electromechanical coupling ($k^2$). This work reports longitudinal SAW (L-SAW) resonators designed for high $k^2$ in 100-nm X-cut lithium niobate 
+12 distinct electronics developments appeared in this time window. Highest-ranked topics: Secure Flash: A Practical Path to Cyber Resilience Act Compliance; Vehicle-to-Grid: Great Idea or Unrealistic Dream?; NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery](https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery)
+### [Secure Flash: A Practical Path to Cyber Resilience Act Compliance](https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance)
 
-**Energy Storage · Other developments · Score 8 · Electrek**
+**Electronics · Other developments · Score 7 · EE Times**
 
-For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…
+The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rol
 
-### [PepDeTech: Anonymous Occupancy Monitoring on a Battery-Powered 2.3k-Zone dToF LiDAR Node with On-Chip Processing and Bluetooth LE Reporting](https://arxiv.org/abs/2611.27304)
+### [Vehicle-to-Grid: Great Idea or Unrealistic Dream?](https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream)
 
-**Energy Storage · Other developments · Score 5 · arXiv Signal Processing**
+**Electronics · Other developments · Score 6 · EE Times**
 
-arXiv:2611.27304v1 Announce Type: new 
-Abstract: As populations grow, society is increasingly required to shift towards systems of shared resources, which allow space, energy and time to be optimised. Facilitating this transition depends on data: how many people are present, when and where. From suc
+Vehicle-to-grid sounds like a partial solution for enhancing the grid, but the reality of the human factor may say otherwise. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? appeared first on EE Times .
 
-## Control and Automation — 1 distinct findings, 0 high-signal
+### [NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026](https://www.eetimes.com/nsing-featured-cra-ai-robotics-motor-control-and-digital-energy-at-electronica-2026)
 
-1 distinct control and automation developments appeared in this time window. Highest-ranked topics: Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Electronics · Other developments · Score 6 · EE Times**
 
-### [Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents](https://arxiv.org/abs/2611.27435)
+At electronica 2026 in Munich, NSING exhibited 35 solutions built on N32‑series MCUs, N32WB BLE SoCs and NS350 TPM, covering AI robotics, motor control and digital energy, and presented its CRA compliance offerings. The post NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electr
 
-**Control and Automation · Other developments · Score 5 · arXiv Systems and Control**
+## Semiconductors — 10 distinct findings, 0 high-signal
 
-arXiv:2611.27435v1 Announce Type: cross 
-Abstract: Model predictive control (MPC) of urban traffic signals relies on a model of how queues respond to signal decisions, which is hard to specify and calibrate in heterogeneous networks, particularly when incidents change capacities and turning shares. 
+10 distinct semiconductors developments appeared in this time window. Highest-ranked topics: Why AI Struggles To Reuse Chip Designs; AI Vs. High-Level Synthesis; AI Can Read The Code, But Can It Understand The Chip?. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-## Electronics — 3 distinct findings, 0 high-signal
-
-3 distinct electronics developments appeared in this time window. Highest-ranked topics: EU targets advanced materials leadership by 2035; A Microwave-Photonics Formulation of the Rydberg-Atom Receiver; The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [EU targets advanced materials leadership by 2035](https://www.eenewseurope.com/en/eu-targets-advanced-materials-leadership-by-2035/)
-
-**Electronics · Other developments · Score 7 · eeNews Europe**
-
-The European Commission has unveiled a new initiative aimed at making the EU a global leader in the development, production and deployment of advanced materials by 2035. The Advanced Materials for Europe agenda sets ambitious targets for investment, startups and industrial adoption, with a focus on 
-
-### [A Microwave-Photonics Formulation of the Rydberg-Atom Receiver](https://arxiv.org/abs/2611.27942)
-
-**Electronics · Other developments · Score 6 · arXiv Signal Processing**
-
-arXiv:2611.27942v1 Announce Type: cross 
-Abstract: The performance of Rydberg-atom receivers is seldom stated as a radio-frequency (RF) link budget. The receiver is shown to be an intensity-modulated direct-detection analog optical link whose modulator is the laser-driven vapor. The transmission of 
-
-### [The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt](https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt)
-
-**Electronics · Other developments · Score 5 · EE Times**
-
-Here is why it was a non-starter and what the story reveals about memory’s strategic appeal in the AI buildup. The post The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt appeared first on EE Times .
-
-## Semiconductors — 1 distinct findings, 0 high-signal
-
-1 distinct semiconductors developments appeared in this time window. Highest-ranked topics: AI Changes What Chip Engineers Need To Learn. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [AI Changes What Chip Engineers Need To Learn](https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn)
+### [Why AI Struggles To Reuse Chip Designs](https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs)
 
 **Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
 
-AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .
+AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .
+
+### [AI Vs. High-Level Synthesis](https://semiengineering.com/ai-vs-high-level-synthesis)
+
+**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
+
+AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .
+
+### [AI Can Read The Code, But Can It Understand The Chip?](https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip)
+
+**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
+
+Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .
 
 ---
 

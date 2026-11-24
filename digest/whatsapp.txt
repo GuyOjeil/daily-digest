@@ -1,9 +1,9 @@
 Electrical Engineering news:
 
-1. 20 GHz Longitudinal Surface Acoustic Wave Resonators in 100-nm X-Cut Lithium Niobate on Silicon Carbide
-2. Burden of proof
-3. EU targets advanced materials leadership by 2035
-4. The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt
-5. Thornova Solar and Nextpower strengthen strategic cooperation
+1. Lebanon looks to ramp up solar, storage deployments
+2. Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit
+3. One of the world’s biggest zinc mines is getting Alaska’s largest solar farm
+4. Japanese utility to forecast perovskite window output with AI
+5. The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT...
 
 Read all the news and links: https://www.thelectricguy.com/#news
