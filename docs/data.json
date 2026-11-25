@@ -1,49 +1,111 @@
 {
-  "generated": "2026-11-25T09:11:41.980162+00:00",
+  "generated": "2026-11-25T16:44:11.055563+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-24T09:11:41.980162+00:00",
+  "window_start": "2026-11-24T16:44:11.055563+00:00",
   "stats": {
-    "events": 55,
+    "events": 49,
     "high": 0,
-    "sources_reporting": 13,
-    "categories": 9,
-    "records_inserted": 30,
+    "sources_reporting": 12,
+    "categories": 6,
+    "records_inserted": 41,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
   },
   "top": [
     {
-      "title": "Differ Power unveils ‘9-in-1’ solar-storage heat pump",
-      "url": "https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump",
+      "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
+      "url": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage",
       "source": "pv magazine",
       "category": "Renewable Energy",
-      "published": "2026-11-24T12:29:38+00:00",
-      "summary": "The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post Differ Power unveils ‘9-in-1’ solar-storage heat pump appeared first on pv magazine Global .",
+      "published": "2026-11-25T13:22:48+00:00",
+      "summary": "Poweroad's new battery storage system is available in high- and low-voltage configurations and features 5.12 kWh lithium iron phosphate (LFP) battery modules based on CATL cells. The high-voltage version can also be equipped with a 20 kW electric vehicle charger. The post Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage appeared first on pv magazine Global .",
       "score": 12,
       "priority": "Worth watching",
       "interests": [
         "Renewable Energy",
         "Energy Storage",
-        "Power Electronics"
+        "Electronics"
       ],
-      "event_id": "4b9bdaebe4d5",
+      "event_id": "a548975a2965",
       "coverage": []
     },
     {
-      "title": "Solar-plus-storage has a strong investment case in Central and Eastern Europe",
-      "url": "https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/",
+      "title": "Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform",
+      "url": "https://www.pv-tech.org/grenergy-peru-largest-ppa-450mw-solar-pv-hybrid-platform/",
       "source": "PV Tech",
       "category": "Renewable Energy",
-      "published": "2026-11-24T14:28:18+00:00",
-      "summary": "Co-locating solar PV with BESS is necessary in Central and Eastern Europe, according to speakers at SolarPlus Central Eastern Europe.",
+      "published": "2026-11-25T11:26:09+00:00",
+      "summary": "Spanish independent power producer Grenergy has signed a 15-year solar PV power purchase agreement in Peru with an investment-grade utility.",
       "score": 11,
+      "priority": "Worth watching",
+      "interests": [
+        "Power Systems",
+        "Renewable Energy"
+      ],
+      "event_id": "5a94d1da3708",
+      "coverage": []
+    },
+    {
+      "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
+      "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-25T13:29:00+00:00",
+      "summary": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark. The module was tested at Germany’s Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE). The post UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module appeared first on pv magazine Global .",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy"
+      ],
+      "event_id": "007fb32cd89e",
+      "coverage": []
+    },
+    {
+      "title": "UK small-scale battery deployment set to double annual record in 2026",
+      "url": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-25T13:15:00+00:00",
+      "summary": "Deployment data from certification body MCS reveals small-scale battery storage installations in 2026 are close to doubling annual record set in 2026. Policy support expected to fuel further growth in 2027. The post UK small-scale battery deployment set to double annual record in 2026 appeared first on pv magazine Global .",
+      "score": 10,
       "priority": "Worth watching",
       "interests": [
         "Renewable Energy",
         "Energy Storage"
       ],
-      "event_id": "f83536b00f9a",
+      "event_id": "65c71e8ef100",
+      "coverage": []
+    },
+    {
+      "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
+      "url": "https://www.energy-storage.news/trina-storage-launches-genset-battery-hybrid-solution-targeting-ai-data-centre-power-demand",
+      "source": "Energy Storage News",
+      "category": "Energy Storage",
+      "published": "2026-11-25T13:12:33+00:00",
+      "summary": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Energy Storage"
+      ],
+      "event_id": "3f8dfba9a7ee",
+      "coverage": []
+    },
+    {
+      "title": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date",
+      "url": "https://www.pv-magazine.com/2026/11/25/greenvolt-power-breaks-ground-at-its-biggest-us-solar-and-battery-storage-project-to-date",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-25T12:00:00+00:00",
+      "summary": "Developer breaks ground at 100 MWac solar, 50 MW/200 MWh battery energy storage system (BESS) project in New Mexico. Commissioning is expected in summer 2028. The post Greenvolt Power breaks ground at its biggest US solar and battery storage project to date appeared first on pv magazine Global .",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy",
+        "Energy Storage"
+      ],
+      "event_id": "e221f8171f49",
       "coverage": []
     },
     {
@@ -80,170 +142,43 @@
       "coverage": []
     },
     {
-      "title": "TVA touts $1.7B data center deal under new large-load tariff",
-      "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630",
-      "source": "Utility Dive",
-      "category": "Power Systems",
-      "published": "2026-11-24T16:11:04+00:00",
-      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
-      "score": 10,
-      "priority": "Worth watching",
-      "interests": [
-        "Power Systems"
-      ],
-      "event_id": "5de1e900a3ad",
-      "coverage": [
-        {
-          "source": "Utility Dive",
-          "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630"
-        }
-      ]
-    },
-    {
-      "title": "Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency",
-      "url": "https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency",
+      "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
+      "url": "https://www.pv-magazine.com/2026/11/25/ress-6-provisional-results-solar-pv-ireland",
       "source": "pv magazine",
       "category": "Renewable Energy",
-      "published": "2026-11-24T13:30:17+00:00",
-      "summary": "The Chinese manufacturer’s new double-glass, all-black modules are designed for high-end rooftop applications across Europe. They feature a temperature coefficient of -0.26% per C and a 30-year linear power output guarantee. The post Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency appeared first on pv magazine Global .",
-      "score": 10,
-      "priority": "Worth watching",
-      "interests": [
-        "Renewable Energy"
-      ],
-      "event_id": "08df1c6e0f0a",
-      "coverage": []
-    },
-    {
-      "title": "TSMC Texas fab: $22.6bn investment proposed",
-      "url": "https://www.eenewseurope.com/en/tsmc-texas-fab-investment/",
-      "source": "eeNews Europe",
-      "category": "Electronics",
-      "published": "2026-11-24T11:47:33+00:00",
-      "summary": "A proposed TSMC Texas fab would bring leading-edge semiconductor manufacturing to Brazos County, with an investment of $22.6 billion. The Taiwanese foundry is seeking property tax incentives from the state as it evaluates a site for a new advanced semiconductor manufacturing campus. TSMC Arizona Corporation submitted an application under the state’s Jobs, Energy, Technology and Innovation […] The post TSMC Texas fab: $22.6bn investment proposed appeared first on eeNews Europe .",
-      "score": 10,
-      "priority": "Worth watching",
-      "interests": [
-        "Semiconductors"
-      ],
-      "event_id": "b162920c9385",
-      "coverage": []
-    },
-    {
-      "title": "Kyrgyzstan to build first utility-scale floating PV plant",
-      "url": "https://www.pv-magazine.com/2026/11/25/kyrgyzstan-to-build-first-utility-scale-floating-pv-plant",
-      "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-25T08:30:00+00:00",
-      "summary": "The Asian Development Bank is providing $20 million in financing for Kyrgyzstan’s first utility-scale floating solar project, to be built at a hydropower reservoir near the country’s capital. The post Kyrgyzstan to build first utility-scale floating PV plant appeared first on pv magazine Global .",
+      "published": "2026-11-25T15:37:20+00:00",
+      "summary": "Ireland’s sixth onshore renewables auction (RESS 6) provisionally greenlit a total of 1,367 MW of solar across 22 projects, according to provisional results published by the grid operator. The weighted average offer price for PV was €0.10242 ($0.1121)/kWh. The post Ireland approves 1,367 MW of solar in sixth renewables auction appeared first on pv magazine Global .",
       "score": 9,
       "priority": "Other developments",
       "interests": [
         "Power Systems",
         "Renewable Energy"
       ],
-      "event_id": "ee65ddc64eea",
+      "event_id": "c5e7952a30aa",
       "coverage": []
     },
     {
-      "title": "System Check: What is your approach to circuit analysis?",
-      "url": "https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/",
-      "source": "eeNews Europe",
-      "category": "Electronics",
-      "published": "2026-11-24T18:08:52+00:00",
-      "summary": "System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look at the results. According to our community members, advanced RF semiconductor […] The post System Check: What is your approach to circuit analysis? appeared first on eeNews Europe .",
-      "score": 9,
-      "priority": "Other developments",
-      "interests": [
-        "Electronics",
-        "Semiconductors"
-      ],
-      "event_id": "93d921b20146",
-      "coverage": []
-    },
-    {
-      "title": "Algeria’s solar capacity surpasses 1 GW",
-      "url": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw",
+      "title": "Afore unveils all-in-one propane heat pump for residential applications",
+      "url": "https://www.pv-magazine.com/2026/11/25/afore-unveils-all-in-one-propane-heat-pump-for-residential-applications",
       "source": "pv magazine",
       "category": "Renewable Energy",
-      "published": "2026-11-24T13:45:31+00:00",
-      "summary": "Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar capacity surpasses 1 GW appeared first on pv magazine Global .",
+      "published": "2026-11-25T13:09:16+00:00",
+      "summary": "The new air-to-water heat pump series features nominal heating capacities ranging from 8.03 kW to 11.75 kW and coefficients of performance of up to 5.70. The systems can achieve an outlet water temperature of up to 75 C. The post Afore unveils all-in-one propane heat pump for residential applications appeared first on pv magazine Global .",
       "score": 9,
       "priority": "Other developments",
       "interests": [
-        "Power Systems",
         "Renewable Energy"
       ],
-      "event_id": "11407240a438",
+      "event_id": "b993aeb0831b",
       "coverage": []
     }
   ],
   "categories": [
     {
-      "name": "Lebanon and Middle East",
-      "count": 1,
-      "high": 0,
-      "top": [
-        {
-          "title": "Chinese solar exports to Middle East surge as Europe clears inventory",
-          "url": "https://www.pv-tech.org/chinese-solar-exports-to-middle-east-surge-as-europe-clears-inventory/",
-          "source": "PV Tech",
-          "category": "Lebanon and Middle East",
-          "published": "2026-11-24T11:51:39+00:00",
-          "summary": "Exports of Chinese solar PV modules to the Middle East rose sharply in October 2026, overtaking Europe as the leading destination for Chinese panels, according to analysis by the Shanghai Metals Market (SMM).",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "7bce9f5dbc1d",
-          "coverage": []
-        }
-      ],
-      "items": [
-        {
-          "title": "Chinese solar exports to Middle East surge as Europe clears inventory",
-          "url": "https://www.pv-tech.org/chinese-solar-exports-to-middle-east-surge-as-europe-clears-inventory/",
-          "source": "PV Tech",
-          "category": "Lebanon and Middle East",
-          "published": "2026-11-24T11:51:39+00:00",
-          "summary": "Exports of Chinese solar PV modules to the Middle East rose sharply in October 2026, overtaking Europe as the leading destination for Chinese panels, according to analysis by the Shanghai Metals Market (SMM).",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "7bce9f5dbc1d",
-          "coverage": []
-        }
-      ],
-      "narrative": "1 distinct lebanon and middle east developments appeared in this time window. Highest-ranked topics: Chinese solar exports to Middle East surge as Europe clears inventory. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
-    },
-    {
       "name": "Power Systems",
-      "count": 7,
+      "count": 4,
       "high": 0,
       "top": [
-        {
-          "title": "TVA touts $1.7B data center deal under new large-load tariff",
-          "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630",
-          "source": "Utility Dive",
-          "category": "Power Systems",
-          "published": "2026-11-24T16:11:04+00:00",
-          "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "5de1e900a3ad",
-          "coverage": [
-            {
-              "source": "Utility Dive",
-              "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630"
-            }
-          ]
-        },
         {
           "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
           "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646",
@@ -260,43 +195,39 @@
           "coverage": []
         },
         {
-          "title": "When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era",
-          "url": "https://www.powermag.com/when-commercial-demand-takes-the-lead-rethinking-grid-planning-for-a-new-load-era-2/",
-          "source": "POWER Magazine",
+          "title": "Bright Horizon utility lands Microsoft data center deals amid Wyoming buildout",
+          "url": "https://www.utilitydive.com/news/cheyenne-light-microsoft-google-data-center-bright-horizon/875739",
+          "source": "Utility Dive",
           "category": "Power Systems",
-          "published": "2026-11-24T15:48:27+00:00",
-          "summary": "For decades, electric utilities have planned around a relatively predictable relationship between population growth, economic activity, weather and electricity consumption. Demand increased gradually, infrastructure investments followed long-term forecasts and utilities generally had time to prepare for changes in where and how electricity was consumed. That planning model is being tested. The U.S. Energy Information Administration […] The post When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era appeared first on POWER Magazine .",
-          "score": 8,
+          "published": "2026-11-25T15:00:39+00:00",
+          "summary": "Cheyenne Light — with a 439-MW peak load record — is working on a 3-GW near-term data center pipeline, with an additional 2.5 GW in emerging opportunities, per company officials.",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
             "Power Systems"
           ],
-          "event_id": "4a10540de4b3",
+          "event_id": "f0e9b6feef8d",
+          "coverage": []
+        },
+        {
+          "title": "How to Underwrite an Orbital Solar PPA",
+          "url": "https://www.powermag.com/how-to-underwrite-an-orbital-solar-ppa/",
+          "source": "POWER Magazine",
+          "category": "Power Systems",
+          "published": "2026-11-25T13:54:03+00:00",
+          "summary": "The first power purchase agreement (PPA) for space solar has been signed. Buyers, lenders, and insurers now need a way to price it. Virtus Solis recently signed a 20-year PPA with Brae Systems to supply utility-scale solar power from orbit to data center compute infrastructure. It is the first executed PPA for space solar. Most […] The post How to Underwrite an Orbital Solar PPA appeared first on POWER Magazine .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "4a1444cf96c9",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "TVA touts $1.7B data center deal under new large-load tariff",
-          "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630",
-          "source": "Utility Dive",
-          "category": "Power Systems",
-          "published": "2026-11-24T16:11:04+00:00",
-          "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "5de1e900a3ad",
-          "coverage": [
-            {
-              "source": "Utility Dive",
-              "url": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630"
-            }
-          ]
-        },
-        {
           "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
           "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646",
           "source": "Utility Dive",
@@ -312,48 +243,34 @@
           "coverage": []
         },
         {
-          "title": "When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era",
-          "url": "https://www.powermag.com/when-commercial-demand-takes-the-lead-rethinking-grid-planning-for-a-new-load-era-2/",
-          "source": "POWER Magazine",
-          "category": "Power Systems",
-          "published": "2026-11-24T15:48:27+00:00",
-          "summary": "For decades, electric utilities have planned around a relatively predictable relationship between population growth, economic activity, weather and electricity consumption. Demand increased gradually, infrastructure investments followed long-term forecasts and utilities generally had time to prepare for changes in where and how electricity was consumed. That planning model is being tested. The U.S. Energy Information Administration […] The post When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era appeared first on POWER Magazine .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems"
-          ],
-          "event_id": "4a10540de4b3",
-          "coverage": []
-        },
-        {
-          "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
-          "url": "https://www.utilitydive.com/news/spp-decision-to-prevent-transmission-competition-escalates-electric-prices/874143",
+          "title": "Bright Horizon utility lands Microsoft data center deals amid Wyoming buildout",
+          "url": "https://www.utilitydive.com/news/cheyenne-light-microsoft-google-data-center-bright-horizon/875739",
           "source": "Utility Dive",
           "category": "Power Systems",
-          "published": "2026-11-24T16:03:19+00:00",
-          "summary": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
-          "score": 7,
+          "published": "2026-11-25T15:00:39+00:00",
+          "summary": "Cheyenne Light — with a 439-MW peak load record — is working on a 3-GW near-term data center pipeline, with an additional 2.5 GW in emerging opportunities, per company officials.",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
             "Power Systems"
           ],
-          "event_id": "c9e6c2a551a2",
+          "event_id": "f0e9b6feef8d",
           "coverage": []
         },
         {
-          "title": "Data Centers Must Disclose Erratic Power Use, Regulators Say",
-          "url": "https://spectrum.ieee.org/nercs-data-center-power-rules",
-          "source": "IEEE Spectrum Energy",
+          "title": "How to Underwrite an Orbital Solar PPA",
+          "url": "https://www.powermag.com/how-to-underwrite-an-orbital-solar-ppa/",
+          "source": "POWER Magazine",
           "category": "Power Systems",
-          "published": "2026-11-24T13:00:02+00:00",
-          "summary": "As the data centers powering the AI boom grow larger and more numerous, they pose increasing challenges to the grid. Single facilities can draw as much power as a large city and their demand can lurch by hundreds of megawatts in seconds, straining the power grid . To rein in these wild electricity swings, U.S. regulators are beginning to write new rules. Their first step: Requiring data centers to disclose how their facilities interact with the grid, and just how wild their power swings are. To that end, the North American Electric Reliability Corporation (NERC), an international regulatory authority, in October adopted its first reliability standards for computational loads. If approved by the U.S. Federal Energy Regulatory Commission (FERC), data center operators will have to disclose to grid operators and utilities how their facilities respond to faults and other glitches on the grid,",
-          "score": 7,
+          "published": "2026-11-25T13:54:03+00:00",
+          "summary": "The first power purchase agreement (PPA) for space solar has been signed. Buyers, lenders, and insurers now need a way to price it. Virtus Solis recently signed a 20-year PPA with Brae Systems to supply utility-scale solar power from orbit to data center compute infrastructure. It is the first executed PPA for space solar. Most […] The post How to Underwrite an Orbital Solar PPA appeared first on POWER Magazine .",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
-            "Power Systems"
+            "Power Systems",
+            "Renewable Energy"
           ],
-          "event_id": "70a0de1899f0",
+          "event_id": "4a1444cf96c9",
           "coverage": []
         },
         {
@@ -368,143 +285,206 @@
           "interests": [],
           "event_id": "2de3fcdf1e39",
           "coverage": []
-        },
-        {
-          "title": "Midterms provide clarity on data center development: Vistra CEO",
-          "url": "https://www.utilitydive.com/news/vistra-midterms-data-center-ercot-pjm/875626",
-          "source": "Utility Dive",
-          "category": "Power Systems",
-          "published": "2026-11-24T15:54:55+00:00",
-          "summary": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "5c8dd49bf771",
-          "coverage": []
         }
       ],
-      "narrative": "7 distinct power systems developments appeared in this time window. Highest-ranked topics: TVA touts $1.7B data center deal under new large-load tariff; FirstEnergy utilities get approval for $2.5B gas plant in West Virginia; When Commercial Demand Takes the Lead: Rethinking Grid Planning for a New Load Era. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "4 distinct power systems developments appeared in this time window. Highest-ranked topics: FirstEnergy utilities get approval for $2.5B gas plant in West Virginia; Bright Horizon utility lands Microsoft data center deals amid Wyoming buildout; How to Underwrite an Orbital Solar PPA. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Renewable Energy",
-      "count": 23,
+      "count": 25,
       "high": 0,
       "top": [
         {
-          "title": "Differ Power unveils ‘9-in-1’ solar-storage heat pump",
-          "url": "https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump",
+          "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
+          "url": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-24T12:29:38+00:00",
-          "summary": "The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post Differ Power unveils ‘9-in-1’ solar-storage heat pump appeared first on pv magazine Global .",
+          "published": "2026-11-25T13:22:48+00:00",
+          "summary": "Poweroad's new battery storage system is available in high- and low-voltage configurations and features 5.12 kWh lithium iron phosphate (LFP) battery modules based on CATL cells. The high-voltage version can also be equipped with a 20 kW electric vehicle charger. The post Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage appeared first on pv magazine Global .",
           "score": 12,
           "priority": "Worth watching",
           "interests": [
             "Renewable Energy",
             "Energy Storage",
-            "Power Electronics"
+            "Electronics"
           ],
-          "event_id": "4b9bdaebe4d5",
+          "event_id": "a548975a2965",
           "coverage": []
         },
         {
-          "title": "Solar-plus-storage has a strong investment case in Central and Eastern Europe",
-          "url": "https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/",
+          "title": "Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform",
+          "url": "https://www.pv-tech.org/grenergy-peru-largest-ppa-450mw-solar-pv-hybrid-platform/",
           "source": "PV Tech",
           "category": "Renewable Energy",
-          "published": "2026-11-24T14:28:18+00:00",
-          "summary": "Co-locating solar PV with BESS is necessary in Central and Eastern Europe, according to speakers at SolarPlus Central Eastern Europe.",
+          "published": "2026-11-25T11:26:09+00:00",
+          "summary": "Spanish independent power producer Grenergy has signed a 15-year solar PV power purchase agreement in Peru with an investment-grade utility.",
           "score": 11,
           "priority": "Worth watching",
           "interests": [
-            "Renewable Energy",
-            "Energy Storage"
+            "Power Systems",
+            "Renewable Energy"
           ],
-          "event_id": "f83536b00f9a",
+          "event_id": "5a94d1da3708",
           "coverage": []
         },
         {
-          "title": "Researchers test new tech to help bring solar and storage to apartments",
-          "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments",
+          "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
+          "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-25T06:59:53+00:00",
-          "summary": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartments appeared first on pv magazine Global .",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage",
-            "Research"
-          ],
-          "event_id": "6d3b48755327",
-          "coverage": []
-        }
-      ],
-      "items": [
-        {
-          "title": "Differ Power unveils ‘9-in-1’ solar-storage heat pump",
-          "url": "https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T12:29:38+00:00",
-          "summary": "The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post Differ Power unveils ‘9-in-1’ solar-storage heat pump appeared first on pv magazine Global .",
-          "score": 12,
-          "priority": "Worth watching",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage",
-            "Power Electronics"
-          ],
-          "event_id": "4b9bdaebe4d5",
-          "coverage": []
-        },
-        {
-          "title": "Solar-plus-storage has a strong investment case in Central and Eastern Europe",
-          "url": "https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T14:28:18+00:00",
-          "summary": "Co-locating solar PV with BESS is necessary in Central and Eastern Europe, according to speakers at SolarPlus Central Eastern Europe.",
-          "score": 11,
-          "priority": "Worth watching",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "f83536b00f9a",
-          "coverage": []
-        },
-        {
-          "title": "Researchers test new tech to help bring solar and storage to apartments",
-          "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-25T06:59:53+00:00",
-          "summary": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartments appeared first on pv magazine Global .",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage",
-            "Research"
-          ],
-          "event_id": "6d3b48755327",
-          "coverage": []
-        },
-        {
-          "title": "Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency",
-          "url": "https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T13:30:17+00:00",
-          "summary": "The Chinese manufacturer’s new double-glass, all-black modules are designed for high-end rooftop applications across Europe. They feature a temperature coefficient of -0.26% per C and a 30-year linear power output guarantee. The post Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency appeared first on pv magazine Global .",
+          "published": "2026-11-25T13:29:00+00:00",
+          "summary": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark. The module was tested at Germany’s Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE). The post UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module appeared first on pv magazine Global .",
           "score": 10,
           "priority": "Worth watching",
           "interests": [
             "Renewable Energy"
           ],
-          "event_id": "08df1c6e0f0a",
+          "event_id": "007fb32cd89e",
+          "coverage": []
+        }
+      ],
+      "items": [
+        {
+          "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
+          "url": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T13:22:48+00:00",
+          "summary": "Poweroad's new battery storage system is available in high- and low-voltage configurations and features 5.12 kWh lithium iron phosphate (LFP) battery modules based on CATL cells. The high-voltage version can also be equipped with a 20 kW electric vehicle charger. The post Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage appeared first on pv magazine Global .",
+          "score": 12,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage",
+            "Electronics"
+          ],
+          "event_id": "a548975a2965",
+          "coverage": []
+        },
+        {
+          "title": "Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform",
+          "url": "https://www.pv-tech.org/grenergy-peru-largest-ppa-450mw-solar-pv-hybrid-platform/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T11:26:09+00:00",
+          "summary": "Spanish independent power producer Grenergy has signed a 15-year solar PV power purchase agreement in Peru with an investment-grade utility.",
+          "score": 11,
+          "priority": "Worth watching",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "5a94d1da3708",
+          "coverage": []
+        },
+        {
+          "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
+          "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T13:29:00+00:00",
+          "summary": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark. The module was tested at Germany’s Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE). The post UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "007fb32cd89e",
+          "coverage": []
+        },
+        {
+          "title": "UK small-scale battery deployment set to double annual record in 2026",
+          "url": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T13:15:00+00:00",
+          "summary": "Deployment data from certification body MCS reveals small-scale battery storage installations in 2026 are close to doubling annual record set in 2026. Policy support expected to fuel further growth in 2027. The post UK small-scale battery deployment set to double annual record in 2026 appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "65c71e8ef100",
+          "coverage": []
+        },
+        {
+          "title": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date",
+          "url": "https://www.pv-magazine.com/2026/11/25/greenvolt-power-breaks-ground-at-its-biggest-us-solar-and-battery-storage-project-to-date",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T12:00:00+00:00",
+          "summary": "Developer breaks ground at 100 MWac solar, 50 MW/200 MWh battery energy storage system (BESS) project in New Mexico. Commissioning is expected in summer 2028. The post Greenvolt Power breaks ground at its biggest US solar and battery storage project to date appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "e221f8171f49",
+          "coverage": []
+        },
+        {
+          "title": "Researchers test new tech to help bring solar and storage to apartments",
+          "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T06:59:53+00:00",
+          "summary": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartments appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage",
+            "Research"
+          ],
+          "event_id": "6d3b48755327",
+          "coverage": []
+        },
+        {
+          "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
+          "url": "https://www.pv-magazine.com/2026/11/25/ress-6-provisional-results-solar-pv-ireland",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T15:37:20+00:00",
+          "summary": "Ireland’s sixth onshore renewables auction (RESS 6) provisionally greenlit a total of 1,367 MW of solar across 22 projects, according to provisional results published by the grid operator. The weighted average offer price for PV was €0.10242 ($0.1121)/kWh. The post Ireland approves 1,367 MW of solar in sixth renewables auction appeared first on pv magazine Global .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "c5e7952a30aa",
+          "coverage": []
+        },
+        {
+          "title": "Afore unveils all-in-one propane heat pump for residential applications",
+          "url": "https://www.pv-magazine.com/2026/11/25/afore-unveils-all-in-one-propane-heat-pump-for-residential-applications",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T13:09:16+00:00",
+          "summary": "The new air-to-water heat pump series features nominal heating capacities ranging from 8.03 kW to 11.75 kW and coefficients of performance of up to 5.70. The systems can achieve an outlet water temperature of up to 75 C. The post Afore unveils all-in-one propane heat pump for residential applications appeared first on pv magazine Global .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "b993aeb0831b",
+          "coverage": []
+        },
+        {
+          "title": "German agrivoltaics developer launches free tool for project planning",
+          "url": "https://www.pv-magazine.com/2026/11/25/german-agrivoltaics-developer-launches-free-tool-for-project-planning",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T11:15:00+00:00",
+          "summary": "Ylektra has introduced an online calculator to help farmers and project developers assess whether category II systems meet key agricultural requirements under DIN SPEC 91434, a German technical specification for agrivoltaics. The post German agrivoltaics developer launches free tool for project planning appeared first on pv magazine Global .",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "4894ba82df34",
           "coverage": []
         },
         {
@@ -524,85 +504,82 @@
           "coverage": []
         },
         {
-          "title": "Algeria’s solar capacity surpasses 1 GW",
-          "url": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw",
-          "source": "pv magazine",
+          "title": "Timing of Polish regulatory reforms has created ‘a bit of a deathtrap’ for solar developers",
+          "url": "https://www.pv-tech.org/timing-polish-regulatory-reforms-bit-of-a-deathtrap-solar-pv-developers/",
+          "source": "PV Tech",
           "category": "Renewable Energy",
-          "published": "2026-11-24T13:45:31+00:00",
-          "summary": "Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar capacity surpasses 1 GW appeared first on pv magazine Global .",
-          "score": 9,
+          "published": "2026-11-25T12:50:24+00:00",
+          "summary": "A combination of recent grid and zoning reforms in Poland have created “a bit of a deathtrap” for project developers.",
+          "score": 8,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
             "Renewable Energy"
           ],
-          "event_id": "11407240a438",
+          "event_id": "c608e767f9b3",
           "coverage": []
         },
         {
-          "title": "Felicity Solar showcases 20 kWh low-voltage residential battery",
-          "url": "https://www.pv-magazine.com/2026/11/24/felicity-solar-showcases-20-kwh-low-voltage-residential-battery",
-          "source": "pv magazine",
+          "title": "Romanian solar acquisitions and the value of existing grid access",
+          "url": "https://www.pv-tech.org/romanian-solar-acquisitions-and-the-value-of-existing-grid-access/",
+          "source": "PV Tech",
           "category": "Renewable Energy",
-          "published": "2026-11-24T12:47:08+00:00",
-          "summary": "The Chinese manufacturer’s new lithium iron phosphate battery features a maximum charging power of 10.2 kW, a maximum discharging power of 12.8 kW, and a depth of discharge of 95%. Up to 15 units can be connected in parallel for a total storage capacity of 300 kWh. The post Felicity Solar showcases 20 kWh low-voltage residential battery appeared first on pv magazine Global .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage",
-            "Electronics"
-          ],
-          "event_id": "ab257edc9b16",
-          "coverage": []
-        },
-        {
-          "title": "Pilot line recovers high-purity silver, silicon from PV panels",
-          "url": "https://www.pv-magazine.com/2026/11/24/pilot-line-recovers-high-purity-silver-silicon-from-pv-panels",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T12:16:00+00:00",
-          "summary": "Researchers have tested two routes for separating the layers of end-of-life solar panels on a pilot recycling line, recovering silver and silicon at purities above 99.99% and finding that a shockwave-based process also preserves a layer the heat-based route destroys. The post Pilot line recovers high-purity silver, silicon from PV panels appeared first on pv magazine Global .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Research"
-          ],
-          "event_id": "3f712c7b9968",
-          "coverage": []
-        },
-        {
-          "title": "Cyprus plans to deploy over 300 MW of battery storage",
-          "url": "https://www.pv-magazine.com/2026/11/24/cyprus-plans-to-deploy-over-300-mw-of-battery-storage",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T11:15:00+00:00",
-          "summary": "With Cyprus having more than 1 GW of installed solar capacity against average electricity demand of around 650 MW, its government is looking to accelerate storage deployment to address rising solar curtailment and improve grid flexibility. The post Cyprus plans to deploy over 300 MW of battery storage appeared first on pv magazine Global .",
-          "score": 9,
+          "published": "2026-11-25T12:14:52+00:00",
+          "summary": "Romania's new grid-capacity allocation process reveals the true cost and timing of developing a replacement project, strengthening the case for investors to pursue ready-to-build opportunities already on the market, writes Horia Grigorescu.",
+          "score": 8,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
-            "Renewable Energy",
-            "Energy Storage"
+            "Renewable Energy"
           ],
-          "event_id": "68bcd121a871",
+          "event_id": "37d8564904f3",
           "coverage": []
         },
         {
-          "title": "Solar and storage insolvencies hit larger German companies",
-          "url": "https://www.pv-magazine.com/2026/11/24/solar-and-storage-insolvencies-hit-larger-german-companies",
-          "source": "pv magazine",
+          "title": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth",
+          "url": "https://www.renewableenergyworld.com/power-grid/cop31-leaders-warn-grids-and-storage-cant-keep-pace-with-renewable-energy-growth",
+          "source": "Renewable Energy World",
           "category": "Renewable Energy",
-          "published": "2026-11-24T10:00:00+00:00",
-          "summary": "Solar and storage companies accounted for 10 of Germany’s 103 major corporate insolvencies in the third quarter of 2026, with cases increasingly involving project developers and battery manufacturers alongside installers and distributors, according to consultancy Falkensteg. The post Solar and storage insolvencies hit larger German companies appeared first on pv magazine Global .",
-          "score": 9,
+          "published": "2026-11-25T11:00:00+00:00",
+          "summary": "With more than 2,000 GW of renewable projects awaiting grid connections, industry leaders say infrastructure bottlenecks — not generation costs — are becoming the biggest obstacle to the global energy transition.",
+          "score": 8,
           "priority": "Other developments",
           "interests": [
-            "Renewable Energy",
-            "Energy Storage"
+            "Power Systems",
+            "Renewable Energy"
           ],
-          "event_id": "efc89b2ed9b4",
+          "event_id": "37db2de14323",
+          "coverage": []
+        },
+        {
+          "title": "Campaign aims to bring solar-plus-storage to 50,000 Indigenous homes",
+          "url": "https://www.pv-magazine.com/2026/11/25/campaign-aims-to-bring-solar-plus-storage-to-50000-indigenous-homes",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T11:00:00+00:00",
+          "summary": "Indigenized Energy says solar-plus-storage projects have helped families reduce monthly bills by hundreds of dollars as it launches a $2.5 billion fundraising effort to support a further 50,000 Indigenous homes. The post Campaign aims to bring solar-plus-storage to 50,000 Indigenous homes appeared first on pv magazine Global .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "f67b04f175cd",
+          "coverage": []
+        },
+        {
+          "title": "ADB part-finances Kyrgyzstan’s first utility-scale floating PV project",
+          "url": "https://www.pv-tech.org/asian-development-bank-finance-first-utility-floating-pv-kyrgyzstan/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T10:44:59+00:00",
+          "summary": "The Asian Development Bank has approved US$20 million of financing for Kyrgyzstan’s first utility-scale floating PV power plant.",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "6e2ecd8e425d",
           "coverage": []
         },
         {
@@ -638,97 +615,97 @@
           "coverage": []
         },
         {
-          "title": "PV Tech Research: upstream sourcing at the root of inverter cybersecurity issue",
-          "url": "https://www.pv-tech.org/pv-tech-research-upstream-sourcing-inverter-cybersecurity/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T14:55:37+00:00",
-          "summary": "US and EU policies tackling inverter cybersecurity do not address the main issue of upstream sourcing, according to PV Tech Research analysis.",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Power Electronics"
-          ],
-          "event_id": "bbc3268e6561",
-          "coverage": []
-        },
-        {
-          "title": "Cybersecurity in the PV inverter and PCS market: From compliance issue to structural risk",
-          "url": "https://www.pv-tech.org/pv-inverter-pcs-cybersecurity-structural-risk/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T11:19:55+00:00",
-          "summary": "PV Tech Research writes about inverter cybersecurity and how the US, the EU and India have approached this issue and what gap still remains.",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Power Electronics"
-          ],
-          "event_id": "ccbba92c77f9",
-          "coverage": []
-        },
-        {
-          "title": "Residential solar linked to reduced health risks from extreme temperatures",
-          "url": "https://www.pv-magazine.com/2026/11/24/residential-solar-linked-to-reduced-health-risks-from-extreme-temperatures",
+          "title": "Belgium forecast to reach 28.6 GW of solar by 2035",
+          "url": "https://www.pv-magazine.com/2026/11/25/belgium-forecast-to-reach-28-6-gw-of-solar-by-2035",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-24T09:18:43+00:00",
-          "summary": "Research from Japan finds residential solar installations can offer protection against heat-related mortality by making electricity more affordable for households to run air conditioning. The post Residential solar linked to reduced health risks from extreme temperatures appeared first on pv magazine Global .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "7b8e7e47f42b",
-          "coverage": []
-        },
-        {
-          "title": "Finnish solar firms to develop 461MWp PV portfolio and explore hybridisation",
-          "url": "https://www.pv-tech.org/finnish-solar-461mwp-pv-portfolio-hybridisation/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T13:12:30+00:00",
-          "summary": "Finnish solar firms Solarigo Systems, Wisol and Ensto Maviko have signed a letter of intent to cooperate on the construction of 461MWp utility-scale solar PV plants in Finland.",
+          "published": "2026-11-25T13:00:00+00:00",
+          "summary": "GlobalData expects Belgium’s solar capacity to more than double from 2025 levels, with distributed installations leading growth amid rising electricity demand and declining nuclear capacity. The post Belgium forecast to reach 28.6 GW of solar by 2035 appeared first on pv magazine Global .",
           "score": 7,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
             "Renewable Energy"
           ],
-          "event_id": "ec698c6c73b3",
+          "event_id": "61a3d5d1fc32",
           "coverage": []
         },
         {
-          "title": "Standalone solar is ‘still doable’ in Central and Eastern Europe amid growing appetite for solar-plus-storage",
-          "url": "https://www.pv-tech.org/standalone-solar-central-eastern-europe-storage-demand-growth/",
+          "title": "ACEN Australia refers 1GW solar hybrid to EPBC Act as Neoen submits 600MW solar-plus-storage site",
+          "url": "https://www.pv-tech.org/acen-australia-refers-1gw-solar-hybrid-to-epbc-act-as-neoen-submits-600mw-solar-plus-storage-site/",
           "source": "PV Tech",
           "category": "Renewable Energy",
-          "published": "2026-11-24T11:45:08+00:00",
-          "summary": "Financing standalone solar projects is “not easy” but “still doable”, said Ewelina Walisiak, managing director at ERSTE Bank Polska Corporate and Investment Banking at SolarPlusCEE in Warsaw.",
+          "published": "2026-11-25T09:39:39+00:00",
+          "summary": "ACEN Australia refers its 1GW Belyando solar-wind-storage project and Neoen submits a 600MW solar-plus-storage plant under the EPBC Act.",
           "score": 7,
           "priority": "Other developments",
           "interests": [
             "Renewable Energy"
           ],
-          "event_id": "bb5d1ea85e5b",
+          "event_id": "8e46356d4e82",
           "coverage": []
         },
         {
-          "title": "Bangladesh developer plans 45 MW solar plant with foreign funding",
-          "url": "https://www.pv-magazine.com/2026/11/24/bangladesh-developer-plans-45-mw-solar-plant-with-foreign-funding",
+          "title": "Italy awards 16 GWh of battery storage in second auction",
+          "url": "https://www.pv-magazine.com/2026/11/25/italy-awards-16-gwh-of-battery-storage-in-second-auction",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-24T10:45:00+00:00",
-          "summary": "A Bangladeshi power producer and an international infrastructure investor plan to build a 45 MW solar plant in Chittagong district at a cost of about $45 million, with output sold to the state utility. The post Bangladesh developer plans 45 MW solar plant with foreign funding appeared first on pv magazine Global .",
-          "score": 7,
+          "published": "2026-11-25T15:32:57+00:00",
+          "summary": "Italy's second Electricity Storage Capacity Procurement Mechanism (MACSE) auction awarded all 16 GWh of capacity offered for delivery in 2029, with a weighted average price 12% below the level recorded in the previous auction. The post Italy awards 16 GWh of battery storage in second auction appeared first on pv magazine Global .",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
-            "Power Systems",
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "e01eb2e62e6c",
+          "coverage": []
+        },
+        {
+          "title": "What becomes of orphaned solar? | Q&A with Otovo",
+          "url": "https://www.renewableenergyworld.com/solar/residential/what-becomes-of-orphaned-solar-qa-with-otovo",
+          "source": "Renewable Energy World",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T15:28:29+00:00",
+          "summary": "Otovo has completed more than 1,000 inverter replacements using Tigo Energy technology, repowering orphaned solar systems at homes and businesses.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Power Electronics"
+          ],
+          "event_id": "f704b8b77592",
+          "coverage": []
+        },
+        {
+          "title": "JA Solar seeks injunction against LONGi over back contact patent",
+          "url": "https://www.pv-tech.org/ja-solar-longi-patent-back-contact-injunction-united-patent-court/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T09:43:37+00:00",
+          "summary": "PV manufacturer JA Solar has filed an application for an injunction against rival LONGi in the Unified Patent Court (UPC) in Europe.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
             "Renewable Energy"
           ],
-          "event_id": "f6d68e0b7a66",
+          "event_id": "5d4d1e768818",
+          "coverage": []
+        },
+        {
+          "title": "How Bulgaria became Europe’s ‘quiet overachiever’ in solar and storage",
+          "url": "https://www.pv-tech.org/streamlined-processes-tso-support-eu-backing-bulgaria-europes-quiet-overachiever-solar-storage/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T09:12:43+00:00",
+          "summary": "Streamlined permitting processes, TSO support and EU backing have been integral in enabling the growth of the solar and energy storage sectors in Bulgaria.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "2344c5adfc5b",
           "coverage": []
         },
         {
@@ -747,52 +724,6 @@
           "coverage": []
         },
         {
-          "title": "Enel buys 317MW South Carolina solar PV portfolio",
-          "url": "https://www.pv-tech.org/enel-317mw-south-carolina-solar-pv-portfolio-acquisition/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T15:57:31+00:00",
-          "summary": "Italian energy giant Enel has bought a 317MW portfolio of solar PV assets in South Carolina, US, from New York-headquartered renewables developer energyRe.",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "f528daa7e180",
-          "coverage": []
-        },
-        {
-          "title": "France may tie 5.5% solar VAT rate to RG5 hail resistance",
-          "url": "https://www.pv-magazine.com/2026/11/24/france-may-tie-5-5-solar-vat-rate-to-rg5-hail-resistance",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T14:30:04+00:00",
-          "summary": "A forthcoming French decree could require RG5 hail-resistant modules and qualified installation for residential PV systems up to 9 kW to qualify for the reduced 5.5% value-added tax (VAT) rate. The post France may tie 5.5% solar VAT rate to RG5 hail resistance appeared first on pv magazine Global .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "944aeaa9716a",
-          "coverage": []
-        },
-        {
-          "title": "German solar developers and battery manufacturers lead Q3 insolvencies",
-          "url": "https://www.pv-tech.org/german-insolvencies-solar-storage-q3-2026-financial-distress/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T12:38:21+00:00",
-          "summary": "German solar developers and battery manufacturers became a focal point of insolvency activity in the third quarter of 2026.",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "67adc973a04c",
-          "coverage": []
-        },
-        {
           "title": "Why the future of energy belongs to the lived experience, with Jessica O. Matthews",
           "url": "https://www.renewableenergyworld.com/power-grid/future-of-energy-jessica-o-matthews",
           "source": "Renewable Energy World",
@@ -806,196 +737,171 @@
           "coverage": []
         }
       ],
-      "narrative": "23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Differ Power unveils ‘9-in-1’ solar-storage heat pump; Solar-plus-storage has a strong investment case in Central and Eastern Europe; Researchers test new tech to help bring solar and storage to apartments. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "25 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage; Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform; UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
-      "count": 6,
+      "count": 7,
       "high": 0,
       "top": [
         {
-          "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
-          "url": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience",
+          "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
+          "url": "https://www.energy-storage.news/trina-storage-launches-genset-battery-hybrid-solution-targeting-ai-data-centre-power-demand",
           "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-24T12:42:40+00:00",
-          "summary": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
-          "score": 9,
+          "published": "2026-11-25T13:12:33+00:00",
+          "summary": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "3f8dfba9a7ee",
+          "coverage": []
+        },
+        {
+          "title": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS",
+          "url": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess",
+          "source": "Energy Storage News",
+          "category": "Energy Storage",
+          "published": "2026-11-25T14:13:13+00:00",
+          "summary": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
             "Energy Storage"
           ],
-          "event_id": "3e65d3d27942",
+          "event_id": "c83ba8285365",
           "coverage": []
         },
         {
-          "title": "APA starts work on 104MWh solar-plus-storage project in Australia",
-          "url": "https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia",
+          "title": "The eight procurement considerations when buying a sodium-ion BESS",
+          "url": "https://www.energy-storage.news/eight-procurement-considerations-buying-sodium-ion-bess",
           "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-24T09:24:23+00:00",
-          "summary": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "0f3c767518d2",
-          "coverage": []
-        },
-        {
-          "title": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%",
-          "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200",
-          "source": "Energy Storage News",
-          "category": "Energy Storage",
-          "published": "2026-11-24T11:43:36+00:00",
-          "summary": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
-          "score": 6,
+          "published": "2026-11-25T12:21:20+00:00",
+          "summary": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
             "Energy Storage"
           ],
-          "event_id": "33968904bf91",
+          "event_id": "5984721292b9",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
-          "url": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience",
+          "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
+          "url": "https://www.energy-storage.news/trina-storage-launches-genset-battery-hybrid-solution-targeting-ai-data-centre-power-demand",
           "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-24T12:42:40+00:00",
-          "summary": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
-          "score": 9,
+          "published": "2026-11-25T13:12:33+00:00",
+          "summary": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "3f8dfba9a7ee",
+          "coverage": []
+        },
+        {
+          "title": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS",
+          "url": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess",
+          "source": "Energy Storage News",
+          "category": "Energy Storage",
+          "published": "2026-11-25T14:13:13+00:00",
+          "summary": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
             "Energy Storage"
           ],
-          "event_id": "3e65d3d27942",
+          "event_id": "c83ba8285365",
           "coverage": []
         },
         {
-          "title": "APA starts work on 104MWh solar-plus-storage project in Australia",
-          "url": "https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia",
+          "title": "The eight procurement considerations when buying a sodium-ion BESS",
+          "url": "https://www.energy-storage.news/eight-procurement-considerations-buying-sodium-ion-bess",
           "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-24T09:24:23+00:00",
-          "summary": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "0f3c767518d2",
-          "coverage": []
-        },
-        {
-          "title": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%",
-          "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200",
-          "source": "Energy Storage News",
-          "category": "Energy Storage",
-          "published": "2026-11-24T11:43:36+00:00",
-          "summary": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
-          "score": 6,
+          "published": "2026-11-25T12:21:20+00:00",
+          "summary": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
             "Power Systems",
             "Energy Storage"
           ],
-          "event_id": "33968904bf91",
+          "event_id": "5984721292b9",
           "coverage": []
         },
         {
-          "title": "Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP capacity additions",
-          "url": "https://www.energy-storage.news/chinese-listed-energy-storage-firms-chint-power-eve-energy-announce-ups-lfp-capacity-additions",
-          "source": "Energy Storage News",
+          "title": "NIO targets 10,000 battery swap stations and $52B in batteries by 2030",
+          "url": "https://electrek.co/2026/11/25/nio-10000-battery-swap-stations-52-billion-batteries-2030",
+          "source": "Electrek",
           "category": "Energy Storage",
-          "published": "2026-11-24T09:44:39+00:00",
-          "summary": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
+          "published": "2026-11-25T14:43:33+00:00",
+          "summary": "NIO says its energy arm, NIO Power, will operate more than 10,000 battery swap stations and manage over RMB 350 billion ($52 billion) worth of battery packs by 2030. That’s more than double the swap network NIO runs in China today. And it comes from a company that already missed its last big swap station target. more…",
           "score": 6,
           "priority": "Other developments",
           "interests": [
             "Energy Storage"
           ],
-          "event_id": "0cf210ce8bde",
+          "event_id": "212727001603",
           "coverage": []
         },
         {
-          "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
-          "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges",
+          "title": "Fluence claims US production delays under control in first earnings call under transformation strategy",
+          "url": "https://www.energy-storage.news/fluence-claims-us-production-delays-under-control-in-first-earnings-call-under-transformation-strategy",
           "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-24T10:26:24+00:00",
-          "summary": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
+          "published": "2026-11-25T14:36:37+00:00",
+          "summary": "Fluence’s interim management team has provided details of the battery storage integrator’s transformation plan, following recent challenges and setbacks.",
           "score": 5,
           "priority": "Other developments",
           "interests": [
             "Energy Storage"
           ],
-          "event_id": "90061a519674",
+          "event_id": "7b20f4b9030f",
           "coverage": []
         },
         {
-          "title": "US Senate passes bipartisan permitting reform bill BAAJA, continues to House vote",
-          "url": "https://www.energy-storage.news/us-senate-passes-bipartisan-permitting-reform-bill-baaja-continues-to-house-vote",
+          "title": "Italy’s second MACSE auction clears 12% lower than first; Enel, BW ESS/A2A and Field among winners",
+          "url": "https://www.energy-storage.news/italys-second-macse-auction-clears-12-lower-than-first-enel-bw-ess-a2a-and-field-among-winners",
           "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-24T12:32:18+00:00",
-          "summary": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
-          "score": 4,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "6744b35ad0bc",
-          "coverage": []
-        }
-      ],
-      "narrative": "6 distinct energy storage developments appeared in this time window. Highest-ranked topics: CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience; APA starts work on 104MWh solar-plus-storage project in Australia; Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
-    },
-    {
-      "name": "Control and Automation",
-      "count": 1,
-      "high": 0,
-      "top": [
-        {
-          "title": "Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control",
-          "url": "https://arxiv.org/abs/2611.32558v1",
-          "source": "arXiv Search: Control",
-          "category": "Control and Automation",
-          "published": "2026-11-24T13:09:15+00:00",
-          "summary": "The computational burden of Model Predictive Control represents a bottleneck limiting its widespread deployment in real-time applications. The selection of the optimal control transcription strategy for a given MPC formulation is a key driver of computational efficiency. Identifying performant MPC transcriptions requires significant effort and domain knowledge. We propose an automated pipeline for the design and evaluation of performant optimal control transcriptions for a given MPC formulation. Custom multi-objective design metrics, such as computation time or closed-loop performance, can be specified and are minimized by the pipeline. As a transcription method, a pseudospectral Legendre-Gauss-Radau method is employed. We show that it incorporates forward Euler integration and implicit collocation methods of low and high order in one formulation, leveraging the pipeline to evaluate both numerical approaches. Furthermore, different mesh configurations can be parameterized. To identify ",
-          "score": 7,
+          "published": "2026-11-25T12:42:38+00:00",
+          "summary": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction.",
+          "score": 5,
           "priority": "Other developments",
           "interests": [
-            "Control and Automation"
+            "Energy Storage"
           ],
-          "event_id": "8fa8c8243a4b",
+          "event_id": "5764b534faac",
           "coverage": []
-        }
-      ],
-      "items": [
+        },
         {
-          "title": "Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control",
-          "url": "https://arxiv.org/abs/2611.32558v1",
-          "source": "arXiv Search: Control",
-          "category": "Control and Automation",
-          "published": "2026-11-24T13:09:15+00:00",
-          "summary": "The computational burden of Model Predictive Control represents a bottleneck limiting its widespread deployment in real-time applications. The selection of the optimal control transcription strategy for a given MPC formulation is a key driver of computational efficiency. Identifying performant MPC transcriptions requires significant effort and domain knowledge. We propose an automated pipeline for the design and evaluation of performant optimal control transcriptions for a given MPC formulation. Custom multi-objective design metrics, such as computation time or closed-loop performance, can be specified and are minimized by the pipeline. As a transcription method, a pseudospectral Legendre-Gauss-Radau method is employed. We show that it incorporates forward Euler integration and implicit collocation methods of low and high order in one formulation, leveraging the pipeline to evaluate both numerical approaches. Furthermore, different mesh configurations can be parameterized. To identify ",
-          "score": 7,
+          "title": "‘A flow-through effect’: Data centre demand reaches BESS equipment supply, says Eku Energy",
+          "url": "https://www.energy-storage.news/data-centre-demand-bess-equipment-supply-eku-energy",
+          "source": "Energy Storage News",
+          "category": "Energy Storage",
+          "published": "2026-11-25T09:19:04+00:00",
+          "summary": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
+          "score": 5,
           "priority": "Other developments",
           "interests": [
-            "Control and Automation"
+            "Energy Storage"
           ],
-          "event_id": "8fa8c8243a4b",
+          "event_id": "3fecf8913d39",
           "coverage": []
         }
       ],
-      "narrative": "1 distinct control and automation developments appeared in this time window. Highest-ranked topics: Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "7 distinct energy storage developments appeared in this time window. Highest-ranked topics: Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand; Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS; The eight procurement considerations when buying a sodium-ion BESS. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Power Electronics",
@@ -1003,63 +909,46 @@
       "high": 0,
       "top": [
         {
-          "title": "200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics",
-          "url": "https://www.powerelectronicsnews.com/200-mm-single-crystal-diamond-opens-new-perspective-for-power-electronics",
+          "title": "Hands-on with the Texas Instruments TPS563200 Synchronous Buck Converter",
+          "url": "https://www.powerelectronicsnews.com/hands-on-with-the-texas-instruments-tps563200-synchronous-buck-converter",
           "source": "Power Electronics News",
           "category": "Power Electronics",
-          "published": "2026-11-24T13:00:00+00:00",
-          "summary": "Diamond Foundry's 200-mm single-crystal diamond platform uses heteroepitaxy on iridium/YSZ/silicon, advancing wafer-scale diamond for power electronics. The post 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics appeared first on Power Electronics News .",
-          "score": 7,
+          "published": "2026-11-25T13:00:00+00:00",
+          "summary": "Two bench tests on TI's TPS563200EVM-652 verify 1.05-V synchronous buck conversion and measure no-load line regulation. The post Hands-on with the Texas Instruments TPS563200 Synchronous Buck Converter appeared first on Power Electronics News .",
+          "score": 8,
           "priority": "Other developments",
           "interests": [
-            "Power Electronics",
-            "Semiconductors"
+            "Power Electronics"
           ],
-          "event_id": "2da81d13c013",
+          "event_id": "82a2c771ef36",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics",
-          "url": "https://www.powerelectronicsnews.com/200-mm-single-crystal-diamond-opens-new-perspective-for-power-electronics",
+          "title": "Hands-on with the Texas Instruments TPS563200 Synchronous Buck Converter",
+          "url": "https://www.powerelectronicsnews.com/hands-on-with-the-texas-instruments-tps563200-synchronous-buck-converter",
           "source": "Power Electronics News",
           "category": "Power Electronics",
-          "published": "2026-11-24T13:00:00+00:00",
-          "summary": "Diamond Foundry's 200-mm single-crystal diamond platform uses heteroepitaxy on iridium/YSZ/silicon, advancing wafer-scale diamond for power electronics. The post 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics appeared first on Power Electronics News .",
-          "score": 7,
+          "published": "2026-11-25T13:00:00+00:00",
+          "summary": "Two bench tests on TI's TPS563200EVM-652 verify 1.05-V synchronous buck conversion and measure no-load line regulation. The post Hands-on with the Texas Instruments TPS563200 Synchronous Buck Converter appeared first on Power Electronics News .",
+          "score": 8,
           "priority": "Other developments",
           "interests": [
-            "Power Electronics",
-            "Semiconductors"
+            "Power Electronics"
           ],
-          "event_id": "2da81d13c013",
+          "event_id": "82a2c771ef36",
           "coverage": []
         }
       ],
-      "narrative": "1 distinct power electronics developments appeared in this time window. Highest-ranked topics: 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "1 distinct power electronics developments appeared in this time window. Highest-ranked topics: Hands-on with the Texas Instruments TPS563200 Synchronous Buck Converter. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Electronics",
-      "count": 13,
+      "count": 10,
       "high": 0,
       "top": [
         {
-          "title": "TSMC Texas fab: $22.6bn investment proposed",
-          "url": "https://www.eenewseurope.com/en/tsmc-texas-fab-investment/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-24T11:47:33+00:00",
-          "summary": "A proposed TSMC Texas fab would bring leading-edge semiconductor manufacturing to Brazos County, with an investment of $22.6 billion. The Taiwanese foundry is seeking property tax incentives from the state as it evaluates a site for a new advanced semiconductor manufacturing campus. TSMC Arizona Corporation submitted an application under the state’s Jobs, Energy, Technology and Innovation […] The post TSMC Texas fab: $22.6bn investment proposed appeared first on eeNews Europe .",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "b162920c9385",
-          "coverage": []
-        },
-        {
           "title": "System Check: What is your approach to circuit analysis?",
           "url": "https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/",
           "source": "eeNews Europe",
@@ -1073,69 +962,6 @@
             "Semiconductors"
           ],
           "event_id": "93d921b20146",
-          "coverage": []
-        },
-        {
-          "title": "Semtech posts record Q3 sales as revenue surges 58%",
-          "url": "https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-24T12:58:08+00:00",
-          "summary": "Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. For eeNews Europe readers, the results highlight the growing […] The post Semtech posts record Q3 sales as revenue surges 58% appeared first on eeNews Europe .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "bd7426f72e45",
-          "coverage": []
-        }
-      ],
-      "items": [
-        {
-          "title": "TSMC Texas fab: $22.6bn investment proposed",
-          "url": "https://www.eenewseurope.com/en/tsmc-texas-fab-investment/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-24T11:47:33+00:00",
-          "summary": "A proposed TSMC Texas fab would bring leading-edge semiconductor manufacturing to Brazos County, with an investment of $22.6 billion. The Taiwanese foundry is seeking property tax incentives from the state as it evaluates a site for a new advanced semiconductor manufacturing campus. TSMC Arizona Corporation submitted an application under the state’s Jobs, Energy, Technology and Innovation […] The post TSMC Texas fab: $22.6bn investment proposed appeared first on eeNews Europe .",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "b162920c9385",
-          "coverage": []
-        },
-        {
-          "title": "System Check: What is your approach to circuit analysis?",
-          "url": "https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-24T18:08:52+00:00",
-          "summary": "System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look at the results. According to our community members, advanced RF semiconductor […] The post System Check: What is your approach to circuit analysis? appeared first on eeNews Europe .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Electronics",
-            "Semiconductors"
-          ],
-          "event_id": "93d921b20146",
-          "coverage": []
-        },
-        {
-          "title": "Semtech posts record Q3 sales as revenue surges 58%",
-          "url": "https://www.eenewseurope.com/en/semtech-posts-record-q3-sales-as-revenue-surges-58/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-24T12:58:08+00:00",
-          "summary": "Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. For eeNews Europe readers, the results highlight the growing […] The post Semtech posts record Q3 sales as revenue surges 58% appeared first on eeNews Europe .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "bd7426f72e45",
           "coverage": []
         },
         {
@@ -1152,50 +978,119 @@
           "coverage": []
         },
         {
-          "title": "Solid state transformers at the heart of 800V AI datacentre power",
-          "url": "https://www.eenewseurope.com/en/solid-state-transformers-at-the-heart-of-800v-ai-datacentre-power/",
+          "title": "How ripple effect works on a large or small design",
+          "url": "https://www.edn.com/how-ripple-effect-works-on-a-large-or-small-design",
+          "source": "EDN",
+          "category": "Electronics",
+          "published": "2026-11-25T15:28:12+00:00",
+          "summary": "The “ripple effect” impact of a small change in an electronic design is often larger and more painful than anticipated. The post How ripple effect works on a large or small design appeared first on EDN .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "6837b5553d84",
+          "coverage": []
+        }
+      ],
+      "items": [
+        {
+          "title": "System Check: What is your approach to circuit analysis?",
+          "url": "https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/",
           "source": "eeNews Europe",
           "category": "Electronics",
-          "published": "2026-11-24T13:12:55+00:00",
-          "summary": "The move to 800V DC power in AI datacentres is a ‘once in a generation’ shift that can drive a fundamental change in power delivery systems. The 800V AI datacentre proposal by NVIDIA has been tweaked by Google and Microsoft to support both 0-800V and ±400V designs and now is being adopted by the Open […] The post Solid state transformers at the heart of 800V AI datacentre power appeared first on eeNews Europe .",
-          "score": 7,
+          "published": "2026-11-24T18:08:52+00:00",
+          "summary": "System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look at the results. According to our community members, advanced RF semiconductor […] The post System Check: What is your approach to circuit analysis? appeared first on eeNews Europe .",
+          "score": 9,
           "priority": "Other developments",
           "interests": [
-            "Power Systems"
+            "Electronics",
+            "Semiconductors"
           ],
-          "event_id": "2acccefed123",
+          "event_id": "93d921b20146",
           "coverage": []
         },
         {
-          "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream? (Part 2)",
-          "url": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream-part-2",
+          "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
+          "url": "https://www.eetimes.com/winbond-widens-edge-ai-reach-certifies-nor-flash",
           "source": "EE Times",
           "category": "Electronics",
-          "published": "2026-11-24T11:53:11+00:00",
-          "summary": "Vehicle-to-grid technology promises grid benefits but raises concerns over battery life, charging access, costs, and driver convenience. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? (Part 2) appeared first on EE Times .",
+          "published": "2026-11-25T08:59:51+00:00",
+          "summary": "Winbond is pairing bandwidth and density to meet the edge’s demand for faster, safer memory without the custom-design price tag. The post Winbond Widens Edge AI Reach, Certifies NOR Flash appeared first on EE Times .",
           "score": 7,
           "priority": "Other developments",
-          "interests": [
-            "Power Systems",
-            "Energy Storage"
-          ],
-          "event_id": "fc4642b6a381",
+          "interests": [],
+          "event_id": "6e622d65e3b1",
           "coverage": []
         },
         {
-          "title": "AIXTRON and Nokia scale InP photonics for AI infrastructure",
-          "url": "https://www.eenewseurope.com/en/aixtron-and-nokia-scale-inp-photonics-for-ai-infrastructure/",
+          "title": "How ripple effect works on a large or small design",
+          "url": "https://www.edn.com/how-ripple-effect-works-on-a-large-or-small-design",
+          "source": "EDN",
+          "category": "Electronics",
+          "published": "2026-11-25T15:28:12+00:00",
+          "summary": "The “ripple effect” impact of a small change in an electronic design is often larger and more painful than anticipated. The post How ripple effect works on a large or small design appeared first on EDN .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "6837b5553d84",
+          "coverage": []
+        },
+        {
+          "title": "AMD Tackles DRAM Shortages with AI and Flash Storage",
+          "url": "https://www.eetimes.com/amd-tackles-dram-shortages-with-ai-and-flash-storage",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-25T14:00:00+00:00",
+          "summary": "AMD MEXT uses AI to park cold memory pages in flash, cutting DRAM costs and easing data center shortages. The post AMD Tackles DRAM Shortages with AI and Flash Storage appeared first on EE Times .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "c85cae13d33d",
+          "coverage": []
+        },
+        {
+          "title": "Understanding Accuracy and Resolution for Magnetic Angle Sensors",
+          "url": "https://www.eetimes.com/understanding-accuracy-and-resolution-for-magnetic-angle-sensors",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-25T14:00:00+00:00",
+          "summary": "Learn how magnetic angle sensor accuracy and resolution affect position measurement, and explore key factors for precise, reliable sensing applications. The post Understanding Accuracy and Resolution for Magnetic Angle Sensors appeared first on EE Times .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Electronics"
+          ],
+          "event_id": "da410d5164cd",
+          "coverage": []
+        },
+        {
+          "title": "Opto-coupled three-phase AC power fault detection",
+          "url": "https://www.edn.com/opto-coupled-three-phase-ac-power-fault-detection",
+          "source": "EDN",
+          "category": "Electronics",
+          "published": "2026-11-25T13:00:39+00:00",
+          "summary": "Nikola Tesla’s brainchild is monitored opto-digitally in this revisit of an earlier \"magnetic\" Design Idea. The post Opto-coupled three-phase AC power fault detection appeared first on EDN .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "41a2f68d1004",
+          "coverage": []
+        },
+        {
+          "title": "Agile Analog delivers anti-tamper IP for ASPEED’s PQC-ready SoC",
+          "url": "https://www.eenewseurope.com/en/agile-analog-delivers-anti-tamper-ip-for-aspeeds-pqc-ready-soc/",
           "source": "eeNews Europe",
           "category": "Electronics",
-          "published": "2026-11-24T10:26:44+00:00",
-          "summary": "AIXTRON and Nokia are expanding their collaboration to accelerate the high-volume manufacturing of indium phosphide (InP) photonic integrated circuits (PICs) for AI infrastructure. Nokia has placed several repeat orders for AIXTRON’s G10-AsP systems, with deliveries scheduled throughout 2027, following the successful installation of its first system in 2025. For European semiconductor and photonics companies, the […] The post AIXTRON and Nokia scale InP photonics for AI infrastructure appeared first on eeNews Europe .",
+          "published": "2026-11-25T11:41:05+00:00",
+          "summary": "Agile Analog has supplied a suite of analog security and power IP to ASPEED Technology for its AST1080 Platform Root of Trust (PRoT) system-on-chip (SoC). The IP has been successfully integrated into ASPEED’s second-generation, post-quantum cryptography (PQC)-ready chip, targeting next-generation data centers and cloud infrastructure. The collaboration highlights the growing importance of mixed-signal IP in […] The post Agile Analog delivers anti-tamper IP for ASPEED’s PQC-ready SoC appeared first on eeNews Europe .",
           "score": 6,
           "priority": "Other developments",
           "interests": [
             "Electronics",
             "Semiconductors"
           ],
-          "event_id": "9c74835a6589",
+          "event_id": "c6919c147d3f",
           "coverage": []
         },
         {
@@ -1225,59 +1120,20 @@
           "coverage": []
         },
         {
-          "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
-          "url": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics",
-          "source": "EE Times",
-          "category": "Electronics",
-          "published": "2026-11-24T16:16:56+00:00",
-          "summary": "Edge AI and robotics bring greater precision and autonomy to agricultural machinery, from targeted spraying to harvesting. The post From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics appeared first on EE Times .",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "c97b8c77e310",
-          "coverage": []
-        },
-        {
-          "title": "IoT security advances are critical for smart home and smart city automation",
-          "url": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation",
+          "title": "Electronica 2026 spotlights robotics and physical AI as key industry trends",
+          "url": "https://www.edn.com/electronica-2026-spotlights-robotics-and-physical-ai-as-key-industry-trends",
           "source": "EDN",
           "category": "Electronics",
-          "published": "2026-11-24T15:00:56+00:00",
-          "summary": "Advances in IoT security protect connected devices, data, smart home systems, and smart city infrastructure from cyberattacks. The post IoT security advances are critical for smart home and smart city automation appeared first on EDN .",
+          "published": "2026-11-25T15:00:30+00:00",
+          "summary": "At electronica 2026, chipmakers emphasize platform approaches for MCU and MPU portfolios to simplify robotics and physical AI development. The post Electronica 2026 spotlights robotics and physical AI as key industry trends appeared first on EDN .",
           "score": 4,
           "priority": "Other developments",
           "interests": [],
-          "event_id": "91b33c58960f",
-          "coverage": []
-        },
-        {
-          "title": "Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies",
-          "url": "https://www.edn.com/power-tips-159-quieting-audible-noise-in-ac-dc-and-dc-dc-power-supplies",
-          "source": "EDN",
-          "category": "Electronics",
-          "published": "2026-11-24T13:00:13+00:00",
-          "summary": "Careful component selection and conscious magnetic construction can avoid many common burst-mode noise sources. The post Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies appeared first on EDN .",
-          "score": 4,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "cad493c91c85",
-          "coverage": []
-        },
-        {
-          "title": "Arrow and SECO team up to accelerate industrial edge AI",
-          "url": "https://www.eenewseurope.com/en/arrow-and-seco-team-up-to-accelerate-industrial-edge-ai/",
-          "source": "eeNews Europe",
-          "category": "Electronics",
-          "published": "2026-11-24T12:33:02+00:00",
-          "summary": "Arrow Electronics and SECO are expanding their strategic collaboration to accelerate the adoption of edge AI and physical AI across industrial markets. The companies have announced a memorandum of understanding (MoU) that combines SECO’s software and systems expertise with Arrow’s engineering resources, technology portfolio and global customer reach. For eeNews Europe readers, the collaboration highlights […] The post Arrow and SECO team up to accelerate industrial edge AI appeared first on eeNews Europe .",
-          "score": 4,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "f2da3e645ff0",
+          "event_id": "a61b56fedeb8",
           "coverage": []
         }
       ],
-      "narrative": "13 distinct electronics developments appeared in this time window. Highest-ranked topics: TSMC Texas fab: $22.6bn investment proposed; System Check: What is your approach to circuit analysis?; Semtech posts record Q3 sales as revenue surges 58%. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "10 distinct electronics developments appeared in this time window. Highest-ranked topics: System Check: What is your approach to circuit analysis?; Winbond Widens Edge AI Reach, Certifies NOR Flash; How ripple effect works on a large or small design. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Semiconductors",
@@ -1350,46 +1206,6 @@
         }
       ],
       "narrative": "2 distinct semiconductors developments appeared in this time window. Highest-ranked topics: Chip Industry Technical Paper Roundup: Nov. 25; Blog Review: Nov. 25. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
-    },
-    {
-      "name": "Research",
-      "count": 1,
-      "high": 0,
-      "top": [
-        {
-          "title": "MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation",
-          "url": "https://arxiv.org/abs/2611.32502v1",
-          "source": "arXiv Search: Control",
-          "category": "Research",
-          "published": "2026-11-24T12:33:05+00:00",
-          "summary": "Cooperative transportation of heavy payloads by heterogeneous mobile manipulators requires coordinated payload motion, force distribution, and compliant physical interaction. This paper presents MRCT, an object-centric two-layer control architecture for multi-robot transportation. At the object level, a model predictive controller (MPC) generates a coordinated contact-force reference for the payload. At the robot level, whole- body impedance control (WBIC) modules on individual robots realise the reference through a confidence-based blending of velocity-tracking and impedance torques. The blending mechanism emphasises tracking when the joint-velocity error is small and increases compliance when tracking degrades because of abrupt reference changes or physical disturbances. Simulation and hardware experiments with a heterogeneous team comprising a single-arm and a dual-arm mobile manipulator transporting a near-rated table payload demonstrate accurate object tracking, regulated contact ",
-          "score": 3,
-          "priority": "Other developments",
-          "interests": [
-            "Control and Automation"
-          ],
-          "event_id": "3141da593257",
-          "coverage": []
-        }
-      ],
-      "items": [
-        {
-          "title": "MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation",
-          "url": "https://arxiv.org/abs/2611.32502v1",
-          "source": "arXiv Search: Control",
-          "category": "Research",
-          "published": "2026-11-24T12:33:05+00:00",
-          "summary": "Cooperative transportation of heavy payloads by heterogeneous mobile manipulators requires coordinated payload motion, force distribution, and compliant physical interaction. This paper presents MRCT, an object-centric two-layer control architecture for multi-robot transportation. At the object level, a model predictive controller (MPC) generates a coordinated contact-force reference for the payload. At the robot level, whole- body impedance control (WBIC) modules on individual robots realise the reference through a confidence-based blending of velocity-tracking and impedance torques. The blending mechanism emphasises tracking when the joint-velocity error is small and increases compliance when tracking degrades because of abrupt reference changes or physical disturbances. Simulation and hardware experiments with a heterogeneous team comprising a single-arm and a dual-arm mobile manipulator transporting a near-rated table payload demonstrate accurate object tracking, regulated contact ",
-          "score": 3,
-          "priority": "Other developments",
-          "interests": [
-            "Control and Automation"
-          ],
-          "event_id": "3141da593257",
-          "coverage": []
-        }
-      ],
-      "narrative": "1 distinct research developments appeared in this time window. Highest-ranked topics: MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -1399,7 +1215,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:48.307259+00:00",
+      "last_success": "2026-11-25T16:44:18.931170+00:00",
       "error": ""
     },
     {
@@ -1408,7 +1224,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T09:12:00.016041+00:00",
+      "last_success": "2026-11-25T16:44:30.962958+00:00",
       "error": ""
     },
     {
@@ -1417,7 +1233,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:44.173068+00:00",
+      "last_success": "2026-11-25T16:44:13.999472+00:00",
       "error": ""
     },
     {
@@ -1426,7 +1242,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:44.839390+00:00",
+      "last_success": "2026-11-25T16:44:15.009874+00:00",
       "error": ""
     },
     {
@@ -1435,7 +1251,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:44.575038+00:00",
+      "last_success": "2026-11-25T16:44:14.528147+00:00",
       "error": ""
     },
     {
@@ -1444,7 +1260,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:43.937272+00:00",
+      "last_success": "2026-11-25T16:44:13.320153+00:00",
       "error": ""
     },
     {
@@ -1453,7 +1269,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:43.700507+00:00",
+      "last_success": "2026-11-25T16:44:13.086788+00:00",
       "error": ""
     },
     {
@@ -1462,7 +1278,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:48.132004+00:00",
+      "last_success": "2026-11-25T16:44:18.633283+00:00",
       "error": ""
     },
     {
@@ -1471,7 +1287,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:42.355157+00:00",
+      "last_success": "2026-11-25T16:44:11.455128+00:00",
       "error": ""
     },
     {
@@ -1480,7 +1296,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:47.807282+00:00",
+      "last_success": "2026-11-25T16:44:18.275955+00:00",
       "error": ""
     },
     {
@@ -1489,7 +1305,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:47.260218+00:00",
+      "last_success": "2026-11-25T16:44:17.768113+00:00",
       "error": ""
     },
     {
@@ -1498,7 +1314,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:49.145576+00:00",
+      "last_success": "2026-11-25T16:44:20.115144+00:00",
       "error": ""
     },
     {
@@ -1507,7 +1323,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:49.074761+00:00",
+      "last_success": "2026-11-25T16:44:20.046571+00:00",
       "error": ""
     },
     {
@@ -1516,7 +1332,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:44.403778+00:00",
+      "last_success": "2026-11-25T16:44:14.261632+00:00",
       "error": ""
     },
     {
@@ -1525,7 +1341,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:52.919004+00:00",
+      "last_success": "2026-11-25T16:44:23.901339+00:00",
       "error": ""
     },
     {
@@ -1534,7 +1350,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:42.553374+00:00",
+      "last_success": "2026-11-25T16:44:11.768938+00:00",
       "error": ""
     },
     {
@@ -1543,7 +1359,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:49.553579+00:00",
+      "last_success": "2026-11-25T16:44:20.544725+00:00",
       "error": ""
     },
     {
@@ -1552,7 +1368,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:48.131949+00:00",
+      "last_success": "2026-11-25T16:44:18.633229+00:00",
       "error": ""
     },
     {
@@ -1561,7 +1377,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:46.583996+00:00",
+      "last_success": "2026-11-25T16:44:17.155565+00:00",
       "error": ""
     },
     {
@@ -1570,7 +1386,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:42.885101+00:00",
+      "last_success": "2026-11-25T16:44:12.205836+00:00",
       "error": ""
     },
     {
@@ -1579,7 +1395,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:56.634659+00:00",
+      "last_success": "2026-11-25T16:44:27.375749+00:00",
       "error": ""
     },
     {
@@ -1588,7 +1404,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:45.905634+00:00",
+      "last_success": "2026-11-25T16:44:16.299931+00:00",
       "error": ""
     },
     {
@@ -1597,7 +1413,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:43.289106+00:00",
+      "last_success": "2026-11-25T16:44:12.788601+00:00",
       "error": ""
     },
     {
@@ -1606,7 +1422,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:48.824434+00:00",
+      "last_success": "2026-11-25T16:44:19.723645+00:00",
       "error": ""
     },
     {
@@ -1615,7 +1431,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:42.418125+00:00",
+      "last_success": "2026-11-25T16:44:11.599777+00:00",
       "error": ""
     },
     {
@@ -1624,7 +1440,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:43.064082+00:00",
+      "last_success": "2026-11-25T16:44:12.416973+00:00",
       "error": ""
     },
     {
@@ -1633,7 +1449,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:46.248651+00:00",
+      "last_success": "2026-11-25T16:44:16.794914+00:00",
       "error": ""
     },
     {
@@ -1642,7 +1458,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:48.727856+00:00",
+      "last_success": "2026-11-25T16:44:19.584195+00:00",
       "error": ""
     },
     {
@@ -1651,7 +1467,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:48.131046+00:00",
+      "last_success": "2026-11-25T16:44:18.632512+00:00",
       "error": ""
     },
     {
@@ -1660,7 +1476,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:42.816002+00:00",
+      "last_success": "2026-11-25T16:44:12.056122+00:00",
       "error": ""
     },
     {
@@ -1669,7 +1485,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T09:11:46.903131+00:00",
+      "last_success": "2026-11-25T16:44:17.465841+00:00",
       "error": ""
     },
     {
@@ -1677,7 +1493,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 5,
+      "failures": 6,
       "last_success": "2026-11-23T08:54:55.206898+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1686,7 +1502,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 5,
+      "failures": 6,
       "last_success": "2026-11-23T08:54:55.178609+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1727,5 +1543,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Semiconductors (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (8), Energy Storage (1), Semiconductors (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }
