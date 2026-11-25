@@ -1,12 +1,12 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-24T18:34:16.279735+00:00  
+**Generated:** 2026-11-25T09:11:41.980162+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 69 · **High-signal candidates:** 0 · **Sources reporting:** 13
+**Distinct events:** 55 · **High-signal candidates:** 0 · **Sources reporting:** 13
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (5), Electronics (2), Energy Storage (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Semiconductors (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
@@ -16,23 +16,23 @@ The highest-ranked developments in the last 24 hours concentrate on Renewable En
 
 The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post D
 
-### [Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit](https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit)
-
-**Renewable Energy · Worth watching · Score 12 · pv magazine**
-
-The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongw
-
 ### [Solar-plus-storage has a strong investment case in Central and Eastern Europe](https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/)
 
 **Renewable Energy · Worth watching · Score 11 · PV Tech**
 
 Co-locating solar PV with BESS is necessary in Central and Eastern Europe, according to speakers at SolarPlus Central Eastern Europe.
 
-### [One of the world’s biggest zinc mines is getting Alaska’s largest solar farm](https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm)
+### [Chip Industry Technical Paper Roundup: Nov. 25](https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2)
 
-**Energy Storage · Worth watching · Score 11 · Electrek**
+**Semiconductors · Worth watching · Score 10 · Semiconductor Engineering**
 
-Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
+Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T
+
+### [Researchers test new tech to help bring solar and storage to apartments](https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments)
+
+**Renewable Energy · Worth watching · Score 10 · pv magazine**
+
+An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartm
 
 ### [TVA touts $1.7B data center deal under new large-load tariff](https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630)
 
@@ -52,23 +52,23 @@ The Chinese manufacturer’s new double-glass, all-black modules are designed fo
 
 A proposed TSMC Texas fab would bring leading-edge semiconductor manufacturing to Brazos County, with an investment of $22.6 billion. The Taiwanese foundry is seeking property tax incentives from the state as it evaluates a site for a new advanced semiconductor manufacturing campus. TSMC Arizona Cor
 
-### [Japanese utility to forecast perovskite window output with AI](https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai)
+### [Kyrgyzstan to build first utility-scale floating PV plant](https://www.pv-magazine.com/2026/11/25/kyrgyzstan-to-build-first-utility-scale-floating-pv-plant)
 
-**Renewable Energy · Worth watching · Score 10 · pv magazine**
+**Renewable Energy · Other developments · Score 9 · pv magazine**
 
-Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window ou
-
-### [The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights](https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights)
-
-**Power Electronics · Worth watching · Score 10 · Power Electronics News**
-
-Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC 
+The Asian Development Bank is providing $20 million in financing for Kyrgyzstan’s first utility-scale floating solar project, to be built at a hydropower reservoir near the country’s capital. The post Kyrgyzstan to build first utility-scale floating PV plant appeared first on pv magazine Global .
 
 ### [System Check: What is your approach to circuit analysis?](https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/)
 
 **Electronics · Other developments · Score 9 · eeNews Europe**
 
 System Check! Circuit analysis is an essential skill for electronics engineers. Which test and measurement instruments do you rely on? Which circuit problems are the most challenging to diagnose? Past Results We recently asked our community members about industrial RF engineering. Let’s take a look 
+
+### [Algeria’s solar capacity surpasses 1 GW](https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw)
+
+**Renewable Energy · Other developments · Score 9 · pv magazine**
+
+Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar
 
 ## Lebanon and Middle East — 1 distinct findings, 0 high-signal
 
@@ -102,9 +102,9 @@ Consumer advocates and environmental groups opposed the project, citing concerns
 
 For decades, electric utilities have planned around a relatively predictable relationship between population growth, economic activity, weather and electricity consumption. Demand increased gradually, infrastructure investments followed long-term forecasts and utilities generally had time to prepare
 
-## Renewable Energy — 28 distinct findings, 0 high-signal
+## Renewable Energy — 23 distinct findings, 0 high-signal
 
-28 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Differ Power unveils ‘9-in-1’ solar-storage heat pump; Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit; Solar-plus-storage has a strong investment case in Central and Eastern Europe. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Differ Power unveils ‘9-in-1’ solar-storage heat pump; Solar-plus-storage has a strong investment case in Central and Eastern Europe; Researchers test new tech to help bring solar and storage to apartments. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [Differ Power unveils ‘9-in-1’ solar-storage heat pump](https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump)
 
@@ -112,27 +112,21 @@ For decades, electric utilities have planned around a relatively predictable rel
 
 The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post D
 
-### [Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit](https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit)
-
-**Renewable Energy · Worth watching · Score 12 · pv magazine**
-
-The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongw
-
 ### [Solar-plus-storage has a strong investment case in Central and Eastern Europe](https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/)
 
 **Renewable Energy · Worth watching · Score 11 · PV Tech**
 
 Co-locating solar PV with BESS is necessary in Central and Eastern Europe, according to speakers at SolarPlus Central Eastern Europe.
 
-## Energy Storage — 8 distinct findings, 0 high-signal
+### [Researchers test new tech to help bring solar and storage to apartments](https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments)
 
-8 distinct energy storage developments appeared in this time window. Highest-ranked topics: One of the world’s biggest zinc mines is getting Alaska’s largest solar farm; CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience; APA starts work on 104MWh solar-plus-storage project in Australia. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Renewable Energy · Worth watching · Score 10 · pv magazine**
 
-### [One of the world’s biggest zinc mines is getting Alaska’s largest solar farm](https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm)
+An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartm
 
-**Energy Storage · Worth watching · Score 11 · Electrek**
+## Energy Storage — 6 distinct findings, 0 high-signal
 
-Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…
+6 distinct energy storage developments appeared in this time window. Highest-ranked topics: CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience; APA starts work on 104MWh solar-plus-storage project in Australia; Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience](https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience)
 
@@ -146,15 +140,25 @@ Flow battery company CMBLU Energy and California public utility Imperial Irrigat
 
 APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.
 
-## Power Electronics — 2 distinct findings, 0 high-signal
+### [Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%](https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200)
 
-2 distinct power electronics developments appeared in this time window. Highest-ranked topics: The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights; 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+**Energy Storage · Other developments · Score 6 · Energy Storage News**
 
-### [The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights](https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights)
+Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.
 
-**Power Electronics · Worth watching · Score 10 · Power Electronics News**
+## Control and Automation — 1 distinct findings, 0 high-signal
 
-Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC 
+1 distinct control and automation developments appeared in this time window. Highest-ranked topics: Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control](https://arxiv.org/abs/2611.32558v1)
+
+**Control and Automation · Other developments · Score 7 · arXiv Search: Control**
+
+The computational burden of Model Predictive Control represents a bottleneck limiting its widespread deployment in real-time applications. The selection of the optimal control transcription strategy for a given MPC formulation is a key driver of computational efficiency. Identifying performant MPC t
+
+## Power Electronics — 1 distinct findings, 0 high-signal
+
+1 distinct power electronics developments appeared in this time window. Highest-ranked topics: 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics](https://www.powerelectronicsnews.com/200-mm-single-crystal-diamond-opens-new-perspective-for-power-electronics)
 
@@ -184,27 +188,31 @@ System Check! Circuit analysis is an essential skill for electronics engineers. 
 
 Semtech has reported record net sales of $423 million for the third quarter of fiscal year 2027, up 24% sequentially and 58% year-over-year. Strong demand across its AI data center and LoRa portfolios fueled growth, with the semiconductor supplier anticipating further gains in the coming quarters. F
 
-## Semiconductors — 10 distinct findings, 0 high-signal
+## Semiconductors — 2 distinct findings, 0 high-signal
 
-10 distinct semiconductors developments appeared in this time window. Highest-ranked topics: Why AI Struggles To Reuse Chip Designs; AI Vs. High-Level Synthesis; AI Can Read The Code, But Can It Understand The Chip?. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+2 distinct semiconductors developments appeared in this time window. Highest-ranked topics: Chip Industry Technical Paper Roundup: Nov. 25; Blog Review: Nov. 25. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [Why AI Struggles To Reuse Chip Designs](https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs)
+### [Chip Industry Technical Paper Roundup: Nov. 25](https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2)
 
-**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
+**Semiconductors · Worth watching · Score 10 · Semiconductor Engineering**
 
-AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .
+Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T
 
-### [AI Vs. High-Level Synthesis](https://semiengineering.com/ai-vs-high-level-synthesis)
+### [Blog Review: Nov. 25](https://semiengineering.com/blog-review-nov-25-3)
 
-**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
+**Semiconductors · Other developments · Score 8 · Semiconductor Engineering**
 
-AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .
+PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability. The post Blog Review: Nov. 25 appeared first on Semiconductor Engineering .
 
-### [AI Can Read The Code, But Can It Understand The Chip?](https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip)
+## Research — 1 distinct findings, 0 high-signal
 
-**Semiconductors · Other developments · Score 9 · Semiconductor Engineering**
+1 distinct research developments appeared in this time window. Highest-ranked topics: MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .
+### [MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation](https://arxiv.org/abs/2611.32502v1)
+
+**Research · Other developments · Score 3 · arXiv Search: Control**
+
+Cooperative transportation of heavy payloads by heterogeneous mobile manipulators requires coordinated payload motion, force distribution, and compliant physical interaction. This paper presents MRCT, an object-centric two-layer control architecture for multi-robot transportation. At the object leve
 
 ---
 

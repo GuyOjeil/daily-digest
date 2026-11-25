@@ -1,9 +1,9 @@
 Electrical Engineering news:
 
-1. Lebanon looks to ramp up solar, storage deployments
-2. Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit
-3. One of the world’s biggest zinc mines is getting Alaska’s largest solar farm
-4. Japanese utility to forecast perovskite window output with AI
-5. The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT...
+1. Differ Power unveils ‘9-in-1’ solar-storage heat pump
+2. Solar-plus-storage has a strong investment case in Central and Eastern Europe
+3. Chip Industry Technical Paper Roundup: Nov. 25
+4. Researchers test new tech to help bring solar and storage to apartments
+5. TVA touts $1.7B data center deal under new large-load tariff
 
 Read all the news and links: https://www.thelectricguy.com/#news

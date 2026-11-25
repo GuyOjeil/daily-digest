@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-24T18:34:16.279735+00:00",
+  "generated": "2026-11-25T09:11:41.980162+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-23T18:34:16.279735+00:00",
+  "window_start": "2026-11-24T09:11:41.980162+00:00",
   "stats": {
-    "events": 69,
+    "events": 55,
     "high": 0,
     "sources_reporting": 13,
-    "categories": 7,
-    "records_inserted": 3,
+    "categories": 9,
+    "records_inserted": 30,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -31,23 +31,6 @@
       "coverage": []
     },
     {
-      "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
-      "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit",
-      "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-24T07:00:00+00:00",
-      "summary": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit appeared first on pv magazine Global .",
-      "score": 12,
-      "priority": "Worth watching",
-      "interests": [
-        "Power Systems",
-        "Renewable Energy",
-        "Energy Storage"
-      ],
-      "event_id": "e1dc25c1c690",
-      "coverage": []
-    },
-    {
       "title": "Solar-plus-storage has a strong investment case in Central and Eastern Europe",
       "url": "https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/",
       "source": "PV Tech",
@@ -64,20 +47,36 @@
       "coverage": []
     },
     {
-      "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
-      "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm",
-      "source": "Electrek",
-      "category": "Energy Storage",
-      "published": "2026-11-23T23:10:07+00:00",
-      "summary": "Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…",
-      "score": 11,
+      "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+      "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2",
+      "source": "Semiconductor Engineering",
+      "category": "Semiconductors",
+      "published": "2026-11-25T08:01:01+00:00",
+      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry Technical Paper Roundup: Nov. 25 appeared first on Semiconductor Engineering .",
+      "score": 10,
       "priority": "Worth watching",
       "interests": [
-        "Power Systems",
-        "Renewable Energy",
-        "Energy Storage"
+        "Electronics",
+        "Semiconductors"
       ],
-      "event_id": "a2b9d4b6bf65",
+      "event_id": "46476572179b",
+      "coverage": []
+    },
+    {
+      "title": "Researchers test new tech to help bring solar and storage to apartments",
+      "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-25T06:59:53+00:00",
+      "summary": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartments appeared first on pv magazine Global .",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy",
+        "Energy Storage",
+        "Research"
+      ],
+      "event_id": "6d3b48755327",
       "coverage": []
     },
     {
@@ -131,36 +130,19 @@
       "coverage": []
     },
     {
-      "title": "Japanese utility to forecast perovskite window output with AI",
-      "url": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai",
+      "title": "Kyrgyzstan to build first utility-scale floating PV plant",
+      "url": "https://www.pv-magazine.com/2026/11/25/kyrgyzstan-to-build-first-utility-scale-floating-pv-plant",
       "source": "pv magazine",
       "category": "Renewable Energy",
-      "published": "2026-11-24T08:30:00+00:00",
-      "summary": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window output with AI appeared first on pv magazine Global .",
-      "score": 10,
-      "priority": "Worth watching",
+      "published": "2026-11-25T08:30:00+00:00",
+      "summary": "The Asian Development Bank is providing $20 million in financing for Kyrgyzstan’s first utility-scale floating solar project, to be built at a hydropower reservoir near the country’s capital. The post Kyrgyzstan to build first utility-scale floating PV plant appeared first on pv magazine Global .",
+      "score": 9,
+      "priority": "Other developments",
       "interests": [
         "Power Systems",
-        "Renewable Energy",
-        "Research"
+        "Renewable Energy"
       ],
-      "event_id": "6137f1439497",
-      "coverage": []
-    },
-    {
-      "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
-      "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights",
-      "source": "Power Electronics News",
-      "category": "Power Electronics",
-      "published": "2026-11-23T19:43:41+00:00",
-      "summary": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights appeared first on Power Electronics News .",
-      "score": 10,
-      "priority": "Worth watching",
-      "interests": [
-        "Power Electronics",
-        "Semiconductors"
-      ],
-      "event_id": "e906b2751d9a",
+      "event_id": "ee65ddc64eea",
       "coverage": []
     },
     {
@@ -177,6 +159,22 @@
         "Semiconductors"
       ],
       "event_id": "93d921b20146",
+      "coverage": []
+    },
+    {
+      "title": "Algeria’s solar capacity surpasses 1 GW",
+      "url": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-24T13:45:31+00:00",
+      "summary": "Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035. The post Algeria’s solar capacity surpasses 1 GW appeared first on pv magazine Global .",
+      "score": 9,
+      "priority": "Other developments",
+      "interests": [
+        "Power Systems",
+        "Renewable Energy"
+      ],
+      "event_id": "11407240a438",
       "coverage": []
     }
   ],
@@ -389,7 +387,7 @@
     },
     {
       "name": "Renewable Energy",
-      "count": 28,
+      "count": 23,
       "high": 0,
       "top": [
         {
@@ -410,23 +408,6 @@
           "coverage": []
         },
         {
-          "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
-          "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T07:00:00+00:00",
-          "summary": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit appeared first on pv magazine Global .",
-          "score": 12,
-          "priority": "Worth watching",
-          "interests": [
-            "Power Systems",
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "e1dc25c1c690",
-          "coverage": []
-        },
-        {
           "title": "Solar-plus-storage has a strong investment case in Central and Eastern Europe",
           "url": "https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/",
           "source": "PV Tech",
@@ -440,6 +421,23 @@
             "Energy Storage"
           ],
           "event_id": "f83536b00f9a",
+          "coverage": []
+        },
+        {
+          "title": "Researchers test new tech to help bring solar and storage to apartments",
+          "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T06:59:53+00:00",
+          "summary": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartments appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage",
+            "Research"
+          ],
+          "event_id": "6d3b48755327",
           "coverage": []
         }
       ],
@@ -462,23 +460,6 @@
           "coverage": []
         },
         {
-          "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
-          "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T07:00:00+00:00",
-          "summary": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization. The post Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit appeared first on pv magazine Global .",
-          "score": 12,
-          "priority": "Worth watching",
-          "interests": [
-            "Power Systems",
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "e1dc25c1c690",
-          "coverage": []
-        },
-        {
           "title": "Solar-plus-storage has a strong investment case in Central and Eastern Europe",
           "url": "https://www.pv-tech.org/solar-plus-storage-strong-investment-case-central-eastern-europe/",
           "source": "PV Tech",
@@ -492,6 +473,23 @@
             "Energy Storage"
           ],
           "event_id": "f83536b00f9a",
+          "coverage": []
+        },
+        {
+          "title": "Researchers test new tech to help bring solar and storage to apartments",
+          "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T06:59:53+00:00",
+          "summary": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments. The post Researchers test new tech to help bring solar and storage to apartments appeared first on pv magazine Global .",
+          "score": 10,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage",
+            "Research"
+          ],
+          "event_id": "6d3b48755327",
           "coverage": []
         },
         {
@@ -510,20 +508,19 @@
           "coverage": []
         },
         {
-          "title": "Japanese utility to forecast perovskite window output with AI",
-          "url": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai",
+          "title": "Kyrgyzstan to build first utility-scale floating PV plant",
+          "url": "https://www.pv-magazine.com/2026/11/25/kyrgyzstan-to-build-first-utility-scale-floating-pv-plant",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-24T08:30:00+00:00",
-          "summary": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window output with AI appeared first on pv magazine Global .",
-          "score": 10,
-          "priority": "Worth watching",
+          "published": "2026-11-25T08:30:00+00:00",
+          "summary": "The Asian Development Bank is providing $20 million in financing for Kyrgyzstan’s first utility-scale floating solar project, to be built at a hydropower reservoir near the country’s capital. The post Kyrgyzstan to build first utility-scale floating PV plant appeared first on pv magazine Global .",
+          "score": 9,
+          "priority": "Other developments",
           "interests": [
             "Power Systems",
-            "Renewable Energy",
-            "Research"
+            "Renewable Energy"
           ],
-          "event_id": "6137f1439497",
+          "event_id": "ee65ddc64eea",
           "coverage": []
         },
         {
@@ -609,20 +606,35 @@
           "coverage": []
         },
         {
-          "title": "Chinese startup offers foldable off-grid solar EV charger",
-          "url": "https://www.pv-magazine.com/2026/11/24/gaotu-unveils-foldable-off-grid-solar-ev-charger",
+          "title": "EU solar supply security could come at a $155/kW premium",
+          "url": "https://www.pv-magazine.com/2026/11/25/eu-solar-supply-security-could-come-at-a-155-kw-premium-as-domestic-modules-remain-twice-as-costly-as-chinese-imports",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-24T06:48:05+00:00",
-          "summary": "Gaotu Innovation, a manufacturer of portable and distributed PV hardware, has introduced a car-mounted EV charging solution into the Australian market that pairs a 1,600 W expandable solar array with a 2.5 kWh battery pack. The post Chinese startup offers foldable off-grid solar EV charger appeared first on pv magazine Global .",
-          "score": 9,
+          "published": "2026-11-25T09:00:00+00:00",
+          "summary": "Researchers in Austria identified 30 GW of domestic solar module manufacturing capacity and utilization rates above 90% as key targets for strengthening EU supply security by 2030. Achieving these levels would require sustained demand for European-made modules despite their persistent cost disadvantage against Chinese imports. The post EU solar supply security could come at a $155/kW premium appeared first on pv magazine Global .",
+          "score": 8,
           "priority": "Other developments",
           "interests": [
-            "Power Systems",
             "Renewable Energy",
-            "Energy Storage"
+            "Research"
           ],
-          "event_id": "f65f6357bef9",
+          "event_id": "f6ec9a1062dc",
+          "coverage": []
+        },
+        {
+          "title": "Research shows solar module ETFE frontsheets suffer higher soiling losses than glass",
+          "url": "https://www.pv-magazine.com/2026/11/25/research-shows-solar-module-ethylene-tetrafluoroethylene-frontsheets-suffer-higher-soiling-losses-than-glass",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T08:00:00+00:00",
+          "summary": "Researchers at TU Delft tested four ETFE frontsheet types under outdoor conditions over 12 months, examining the effects of surface texture and wettability on soiling. They found that hydrophilic and matte surfaces initially performed better, while glass showed superior recovery of light transmittance after rainfall. The post Research shows solar module ETFE frontsheets suffer higher soiling losses than glass appeared first on pv magazine Global .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Research"
+          ],
+          "event_id": "ffe22b1a7c55",
           "coverage": []
         },
         {
@@ -673,52 +685,6 @@
           "coverage": []
         },
         {
-          "title": "Researchers find up to 2.28% annual wave-induced losses in floating PV systems",
-          "url": "https://www.pv-magazine.com/2026/11/24/researchers-find-up-to-2-28-annual-wave-induced-losses-in-floating-pv-systems",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T08:00:00+00:00",
-          "summary": "Researchers in Norway have expanded a modeling framework to assess the impact of wave motion on floating PV performance under realistic weather conditions. Their simulations show that electrical mismatch is the main contributor to energy losses, while changes in average irradiance can produce small gains. The post Researchers find up to 2.28% annual wave-induced losses in floating PV systems appeared first on pv magazine Global .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Research"
-          ],
-          "event_id": "5f0d4fd2cf40",
-          "coverage": []
-        },
-        {
-          "title": "ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications",
-          "url": "https://www.pv-magazine.com/2026/11/24/eco2-systems-unveils-40-kw-co2-heat-pump-for-commercial-hot-water-applications",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T07:30:00+00:00",
-          "summary": "US-based ECO2 Systems has introduced a new 40 kW air-to-water heat pump for commercial hot water applications. The system uses natural CO2 refrigerant, delivers a heating coefficient of performance (COP) of 5.0 at an ambient temperature of 26.7 C, and can operate at outdoor temperatures as low as -31.7 C. The post ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications appeared first on pv magazine Global .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "ac8513582fb6",
-          "coverage": []
-        },
-        {
-          "title": "Golden State goes all in on VPPs",
-          "url": "https://www.pv-magazine.com/2026/11/24/golden-state-goes-all-in-on-vpps",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T05:00:00+00:00",
-          "summary": "California passed two virtual power plant (VPP) bills in 2026. SB 913 enables customer-sited batteries to compete for utility capacity contracts, and SB 905 requires the California Public Utilities Commission (CPUC) to create a grid utilization metric that will lead to VPPs based on distribution system savings. Brad Heavner, executive director of the California Solar & Storage Association (CALSSA), explains how these developments should pave the way for durable opportunities with significant value to the renewable energy industry. The post Golden State goes all in on VPPs appeared first on pv magazine Global .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Power Systems",
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "3a08cd4d06d2",
-          "coverage": []
-        },
-        {
           "title": "Finnish solar firms to develop 461MWp PV portfolio and explore hybridisation",
           "url": "https://www.pv-tech.org/finnish-solar-461mwp-pv-portfolio-hybridisation/",
           "source": "PV Tech",
@@ -766,19 +732,18 @@
           "coverage": []
         },
         {
-          "title": "BloombergNEF forecasts 215 GW of solar in Australia by 2050",
-          "url": "https://www.pv-magazine.com/2026/11/24/bloombergnef-forecasts-215-gw-of-solar-in-australia-by-2050",
+          "title": "French startup develops air-based photovoltaic-thermal solar dryer for agricultural, forestry applications",
+          "url": "https://www.pv-magazine.com/2026/11/25/french-startup-develops-air-based-photovoltaic-thermal-solar-dryer-for-agricultural-forestry-applications",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-24T06:46:42+00:00",
-          "summary": "Australia’s solar capacity is forecast to reach up to 215 GW by 2050, up from 43 GW in 2025, as falling costs continue to strengthen the economics of utility-scale renewables. The post BloombergNEF forecasts 215 GW of solar in Australia by 2050 appeared first on pv magazine Global .",
-          "score": 7,
+          "published": "2026-11-25T07:47:55+00:00",
+          "summary": "Thermasol Air Systems has developed a hybrid solar module with an electrical output of 550 W and a thermal output of nearly 1.4 kW. The company claims its technology can recover up to 80% of the heat generated beneath PV modules. The post French startup develops air-based photovoltaic-thermal solar dryer for agricultural, forestry applications appeared first on pv magazine Global .",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
-            "Power Systems",
             "Renewable Energy"
           ],
-          "event_id": "8cf7bf3370b1",
+          "event_id": "54b00d8e97e6",
           "coverage": []
         },
         {
@@ -828,90 +793,26 @@
           "coverage": []
         },
         {
-          "title": "U.S. solar manufacturing enters the ‘Third Wave’",
-          "url": "https://www.pv-magazine.com/2026/11/24/u-s-solar-manufacturing-enters-the-third-wave",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T06:00:00+00:00",
-          "summary": "Beyond assembly, beyond announcements, U.S. solar manufacturing has entered a new stage of expansion in capital-intensive upstream processes. The post U.S. solar manufacturing enters the ‘Third Wave’ appeared first on pv magazine Global .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "c5f5ab2023aa",
-          "coverage": []
-        },
-        {
-          "title": "Is our solar really ‘American-made?’ — This Week in Cleantech",
-          "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/is-our-solar-really-american-made-this-week-in-cleantech",
+          "title": "Why the future of energy belongs to the lived experience, with Jessica O. Matthews",
+          "url": "https://www.renewableenergyworld.com/power-grid/future-of-energy-jessica-o-matthews",
           "source": "Renewable Energy World",
           "category": "Renewable Energy",
-          "published": "2026-11-23T21:35:06+00:00",
-          "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg discusses how solar cell and wafer production is still mostly tied to China, and how developers are feeling after the midterms.",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Semiconductors"
-          ],
-          "event_id": "c7a9b8721f7e",
-          "coverage": []
-        },
-        {
-          "title": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
-          "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage",
-          "source": "Renewable Energy World",
-          "category": "Renewable Energy",
-          "published": "2026-11-23T20:43:07+00:00",
-          "summary": "The final cost estimate for Snowy 2.0 is A$22-25 billion, with completion expected in late 2029, according to Australian National University.",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Energy Storage",
-            "Research"
-          ],
-          "event_id": "9913df822836",
-          "coverage": []
-        },
-        {
-          "title": "CalWave and SKF join forces for deployment of fully submerged wave energy systems",
-          "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/calwave-and-skf-join-forces-for-deployment-of-fully-submerged-wave-energy-systems",
-          "source": "Renewable Energy World",
-          "category": "Renewable Energy",
-          "published": "2026-11-24T06:30:00+00:00",
-          "summary": "CalWave and SKF signed a Memorandum of Understanding at ICOE OEE 2026 in The Hague, Netherlands, to explore a commercial relationship for wave energy systems.",
+          "published": "2026-11-24T21:06:38+00:00",
+          "summary": "Jessica O. Matthews will showcase the importance of real-world perspectives in technology at DTECH 2027",
           "score": 4,
           "priority": "Other developments",
           "interests": [],
-          "event_id": "731d21c6cb52",
+          "event_id": "417a0e48b365",
           "coverage": []
         }
       ],
-      "narrative": "28 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Differ Power unveils ‘9-in-1’ solar-storage heat pump; Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit; Solar-plus-storage has a strong investment case in Central and Eastern Europe. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Differ Power unveils ‘9-in-1’ solar-storage heat pump; Solar-plus-storage has a strong investment case in Central and Eastern Europe; Researchers test new tech to help bring solar and storage to apartments. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
-      "count": 8,
+      "count": 6,
       "high": 0,
       "top": [
-        {
-          "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
-          "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm",
-          "source": "Electrek",
-          "category": "Energy Storage",
-          "published": "2026-11-23T23:10:07+00:00",
-          "summary": "Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…",
-          "score": 11,
-          "priority": "Worth watching",
-          "interests": [
-            "Power Systems",
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "a2b9d4b6bf65",
-          "coverage": []
-        },
         {
           "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
           "url": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience",
@@ -943,26 +844,25 @@
           ],
           "event_id": "0f3c767518d2",
           "coverage": []
+        },
+        {
+          "title": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%",
+          "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200",
+          "source": "Energy Storage News",
+          "category": "Energy Storage",
+          "published": "2026-11-24T11:43:36+00:00",
+          "summary": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Energy Storage"
+          ],
+          "event_id": "33968904bf91",
+          "coverage": []
         }
       ],
       "items": [
-        {
-          "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
-          "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm",
-          "source": "Electrek",
-          "category": "Energy Storage",
-          "published": "2026-11-23T23:10:07+00:00",
-          "summary": "Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. more…",
-          "score": 11,
-          "priority": "Worth watching",
-          "interests": [
-            "Power Systems",
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "a2b9d4b6bf65",
-          "coverage": []
-        },
         {
           "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
           "url": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience",
@@ -1027,21 +927,6 @@
           "coverage": []
         },
         {
-          "title": "Japan’s expanding BESS market and its uncertain progress",
-          "url": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress",
-          "source": "Energy Storage News",
-          "category": "Energy Storage",
-          "published": "2026-11-24T00:04:52+00:00",
-          "summary": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Energy Storage"
-          ],
-          "event_id": "f5dbfcba30a9",
-          "coverage": []
-        },
-        {
           "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
           "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges",
           "source": "Energy Storage News",
@@ -1070,29 +955,53 @@
           "coverage": []
         }
       ],
-      "narrative": "8 distinct energy storage developments appeared in this time window. Highest-ranked topics: One of the world’s biggest zinc mines is getting Alaska’s largest solar farm; CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience; APA starts work on 104MWh solar-plus-storage project in Australia. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "6 distinct energy storage developments appeared in this time window. Highest-ranked topics: CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience; APA starts work on 104MWh solar-plus-storage project in Australia; Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
-      "name": "Power Electronics",
-      "count": 2,
+      "name": "Control and Automation",
+      "count": 1,
       "high": 0,
       "top": [
         {
-          "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
-          "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights",
-          "source": "Power Electronics News",
-          "category": "Power Electronics",
-          "published": "2026-11-23T19:43:41+00:00",
-          "summary": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights appeared first on Power Electronics News .",
-          "score": 10,
-          "priority": "Worth watching",
+          "title": "Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control",
+          "url": "https://arxiv.org/abs/2611.32558v1",
+          "source": "arXiv Search: Control",
+          "category": "Control and Automation",
+          "published": "2026-11-24T13:09:15+00:00",
+          "summary": "The computational burden of Model Predictive Control represents a bottleneck limiting its widespread deployment in real-time applications. The selection of the optimal control transcription strategy for a given MPC formulation is a key driver of computational efficiency. Identifying performant MPC transcriptions requires significant effort and domain knowledge. We propose an automated pipeline for the design and evaluation of performant optimal control transcriptions for a given MPC formulation. Custom multi-objective design metrics, such as computation time or closed-loop performance, can be specified and are minimized by the pipeline. As a transcription method, a pseudospectral Legendre-Gauss-Radau method is employed. We show that it incorporates forward Euler integration and implicit collocation methods of low and high order in one formulation, leveraging the pipeline to evaluate both numerical approaches. Furthermore, different mesh configurations can be parameterized. To identify ",
+          "score": 7,
+          "priority": "Other developments",
           "interests": [
-            "Power Electronics",
-            "Semiconductors"
+            "Control and Automation"
           ],
-          "event_id": "e906b2751d9a",
+          "event_id": "8fa8c8243a4b",
           "coverage": []
-        },
+        }
+      ],
+      "items": [
+        {
+          "title": "Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control",
+          "url": "https://arxiv.org/abs/2611.32558v1",
+          "source": "arXiv Search: Control",
+          "category": "Control and Automation",
+          "published": "2026-11-24T13:09:15+00:00",
+          "summary": "The computational burden of Model Predictive Control represents a bottleneck limiting its widespread deployment in real-time applications. The selection of the optimal control transcription strategy for a given MPC formulation is a key driver of computational efficiency. Identifying performant MPC transcriptions requires significant effort and domain knowledge. We propose an automated pipeline for the design and evaluation of performant optimal control transcriptions for a given MPC formulation. Custom multi-objective design metrics, such as computation time or closed-loop performance, can be specified and are minimized by the pipeline. As a transcription method, a pseudospectral Legendre-Gauss-Radau method is employed. We show that it incorporates forward Euler integration and implicit collocation methods of low and high order in one formulation, leveraging the pipeline to evaluate both numerical approaches. Furthermore, different mesh configurations can be parameterized. To identify ",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Control and Automation"
+          ],
+          "event_id": "8fa8c8243a4b",
+          "coverage": []
+        }
+      ],
+      "narrative": "1 distinct control and automation developments appeared in this time window. Highest-ranked topics: Automated Design and Evaluation Pipeline for Optimal Control Transcriptions in Model Predictive Control. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+    },
+    {
+      "name": "Power Electronics",
+      "count": 1,
+      "high": 0,
+      "top": [
         {
           "title": "200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics",
           "url": "https://www.powerelectronicsnews.com/200-mm-single-crystal-diamond-opens-new-perspective-for-power-electronics",
@@ -1112,22 +1021,6 @@
       ],
       "items": [
         {
-          "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
-          "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights",
-          "source": "Power Electronics News",
-          "category": "Power Electronics",
-          "published": "2026-11-23T19:43:41+00:00",
-          "summary": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! The post The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights appeared first on Power Electronics News .",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Power Electronics",
-            "Semiconductors"
-          ],
-          "event_id": "e906b2751d9a",
-          "coverage": []
-        },
-        {
           "title": "200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics",
           "url": "https://www.powerelectronicsnews.com/200-mm-single-crystal-diamond-opens-new-perspective-for-power-electronics",
           "source": "Power Electronics News",
@@ -1144,7 +1037,7 @@
           "coverage": []
         }
       ],
-      "narrative": "2 distinct power electronics developments appeared in this time window. Highest-ranked topics: The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights; 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "1 distinct power electronics developments appeared in this time window. Highest-ranked topics: 200-mm Single-Crystal Diamond Opens New Perspective for Power Electronics. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Electronics",
@@ -1246,6 +1139,19 @@
           "coverage": []
         },
         {
+          "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
+          "url": "https://www.eetimes.com/winbond-widens-edge-ai-reach-certifies-nor-flash",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-25T08:59:51+00:00",
+          "summary": "Winbond is pairing bandwidth and density to meet the edge’s demand for faster, safer memory without the custom-design price tag. The post Winbond Widens Edge AI Reach, Certifies NOR Flash appeared first on EE Times .",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "6e622d65e3b1",
+          "coverage": []
+        },
+        {
           "title": "Solid state transformers at the heart of 800V AI datacentre power",
           "url": "https://www.eenewseurope.com/en/solid-state-transformers-at-the-heart-of-800v-ai-datacentre-power/",
           "source": "eeNews Europe",
@@ -1274,12 +1180,7 @@
             "Energy Storage"
           ],
           "event_id": "fc4642b6a381",
-          "coverage": [
-            {
-              "source": "EE Times",
-              "url": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream"
-            }
-          ]
+          "coverage": []
         },
         {
           "title": "AIXTRON and Nokia scale InP photonics for AI infrastructure",
@@ -1298,33 +1199,29 @@
           "coverage": []
         },
         {
-          "title": "Electric Powertrain: Vertical Aerospace Expands in Bristol",
-          "url": "https://www.eenewseurope.com/en/vertical-aerospace-electric-powertrain-centre/",
-          "source": "eeNews Europe",
+          "title": "Southchip Showcases Automotive Power, Charging, and Load-Control Solutions at electronica Munich",
+          "url": "https://www.eetimes.com/southchip-showcases-automotive-power-charging-and-load-control-solutions-at-electronica-munich",
+          "source": "EE Times",
           "category": "Electronics",
-          "published": "2026-11-24T09:00:43+00:00",
-          "summary": "As electric aviation moves closer to commercial production, developing reliable batteries and propulsion systems remains one of the industry’s biggest engineering challenges. Vertical Aerospace has completed construction of a new 30,000-square-foot Powertrain Centre in Bristol, UK, to support the certification and early production of its electric aircraft. The facility will bring battery manufacturing, power electronics, […] The post Electric Powertrain: Vertical Aerospace Expands in Bristol appeared first on eeNews Europe .",
-          "score": 6,
+          "published": "2026-11-25T08:32:46+00:00",
+          "summary": "Southchip presented its automotive PMICs, 240W USB charging, wireless charging, ambient lighting, and high-side drivers at electronica Munich. The post Southchip Showcases Automotive Power, Charging, and Load-Control Solutions at electronica Munich appeared first on EE Times .",
+          "score": 5,
           "priority": "Other developments",
-          "interests": [
-            "Energy Storage"
-          ],
-          "event_id": "3ff8a9cd7fa4",
+          "interests": [],
+          "event_id": "abac04861b1a",
           "coverage": []
         },
         {
-          "title": "NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026",
-          "url": "https://www.eetimes.com/nsing-featured-cra-ai-robotics-motor-control-and-digital-energy-at-electronica-2026",
+          "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
+          "url": "https://www.eetimes.com/from-ai-platforms-to-industry-innovation-how-nvidia-connects-startups-to-build-an-ai-ecosystem",
           "source": "EE Times",
           "category": "Electronics",
-          "published": "2026-11-24T07:41:37+00:00",
-          "summary": "At electronica 2026 in Munich, NSING exhibited 35 solutions built on N32‑series MCUs, N32WB BLE SoCs and NS350 TPM, covering AI robotics, motor control and digital energy, and presented its CRA compliance offerings. The post NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026 appeared first on EE Times .",
-          "score": 6,
+          "published": "2026-11-25T05:00:00+00:00",
+          "summary": "For AI startups, the real challenge is often not building AI itself, but getting it to work reliably in the real world. The post From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem appeared first on EE Times .",
+          "score": 5,
           "priority": "Other developments",
-          "interests": [
-            "Control and Automation"
-          ],
-          "event_id": "cacdb7bbc326",
+          "interests": [],
+          "event_id": "1dc1681a4279",
           "coverage": []
         },
         {
@@ -1378,227 +1275,121 @@
           "interests": [],
           "event_id": "f2da3e645ff0",
           "coverage": []
-        },
-        {
-          "title": "Preparing for the EU CRA with hardware security verification",
-          "url": "https://www.edn.com/preparing-for-the-eu-cra-with-hardware-security-verification",
-          "source": "EDN",
-          "category": "Electronics",
-          "published": "2026-11-24T07:33:00+00:00",
-          "summary": "Hardware security verification adds questions about where protected information can travel and what can influence it. The post Preparing for the EU CRA with hardware security verification appeared first on EDN .",
-          "score": 4,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "473556d3fece",
-          "coverage": []
         }
       ],
       "narrative": "13 distinct electronics developments appeared in this time window. Highest-ranked topics: TSMC Texas fab: $22.6bn investment proposed; System Check: What is your approach to circuit analysis?; Semtech posts record Q3 sales as revenue surges 58%. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Semiconductors",
-      "count": 10,
+      "count": 2,
       "high": 0,
       "top": [
         {
-          "title": "Why AI Struggles To Reuse Chip Designs",
-          "url": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs",
+          "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2",
           "source": "Semiconductor Engineering",
           "category": "Semiconductors",
-          "published": "2026-11-24T08:11:47+00:00",
-          "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-          "score": 9,
-          "priority": "Other developments",
+          "published": "2026-11-25T08:01:01+00:00",
+          "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry Technical Paper Roundup: Nov. 25 appeared first on Semiconductor Engineering .",
+          "score": 10,
+          "priority": "Worth watching",
           "interests": [
+            "Electronics",
             "Semiconductors"
           ],
-          "event_id": "96be6ebc5e54",
+          "event_id": "46476572179b",
           "coverage": []
         },
         {
-          "title": "AI Vs. High-Level Synthesis",
-          "url": "https://semiengineering.com/ai-vs-high-level-synthesis",
+          "title": "Blog Review: Nov. 25",
+          "url": "https://semiengineering.com/blog-review-nov-25-3",
           "source": "Semiconductor Engineering",
           "category": "Semiconductors",
-          "published": "2026-11-24T08:11:34+00:00",
-          "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-          "score": 9,
+          "published": "2026-11-25T08:01:39+00:00",
+          "summary": "PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability. The post Blog Review: Nov. 25 appeared first on Semiconductor Engineering .",
+          "score": 8,
           "priority": "Other developments",
           "interests": [
             "Semiconductors"
           ],
-          "event_id": "540e9b253e7d",
-          "coverage": []
-        },
-        {
-          "title": "AI Can Read The Code, But Can It Understand The Chip?",
-          "url": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:11:31+00:00",
-          "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "2f8496b5846e",
+          "event_id": "be29b22a7557",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "Why AI Struggles To Reuse Chip Designs",
-          "url": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs",
+          "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2",
           "source": "Semiconductor Engineering",
           "category": "Semiconductors",
-          "published": "2026-11-24T08:11:47+00:00",
-          "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-          "score": 9,
-          "priority": "Other developments",
+          "published": "2026-11-25T08:01:01+00:00",
+          "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry Technical Paper Roundup: Nov. 25 appeared first on Semiconductor Engineering .",
+          "score": 10,
+          "priority": "Worth watching",
           "interests": [
+            "Electronics",
             "Semiconductors"
           ],
-          "event_id": "96be6ebc5e54",
+          "event_id": "46476572179b",
           "coverage": []
         },
         {
-          "title": "AI Vs. High-Level Synthesis",
-          "url": "https://semiengineering.com/ai-vs-high-level-synthesis",
+          "title": "Blog Review: Nov. 25",
+          "url": "https://semiengineering.com/blog-review-nov-25-3",
           "source": "Semiconductor Engineering",
           "category": "Semiconductors",
-          "published": "2026-11-24T08:11:34+00:00",
-          "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "540e9b253e7d",
-          "coverage": []
-        },
-        {
-          "title": "AI Can Read The Code, But Can It Understand The Chip?",
-          "url": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:11:31+00:00",
-          "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "2f8496b5846e",
-          "coverage": []
-        },
-        {
-          "title": "Why Photonic Design Is Becoming a System-Level Challenge",
-          "url": "https://semiengineering.com/why-photonic-design-is-becoming-a-system-level-challenge",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:07:22+00:00",
-          "summary": "A component can meet its individual design targets and still behave differently as part of a complete optical link. The post Why Photonic Design Is Becoming a System-Level Challenge appeared first on Semiconductor Engineering .",
+          "published": "2026-11-25T08:01:39+00:00",
+          "summary": "PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability. The post Blog Review: Nov. 25 appeared first on Semiconductor Engineering .",
           "score": 8,
           "priority": "Other developments",
           "interests": [
             "Semiconductors"
           ],
-          "event_id": "2a1ad414dd2f",
-          "coverage": []
-        },
-        {
-          "title": "Designing A Microarchitecture From Formal Proof To Full-System",
-          "url": "https://semiengineering.com/designing-a-microarchitecture-from-formal-proof-to-full-system",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:06:57+00:00",
-          "summary": "Combining architectural proof, software-driven verification, simulation, emulation, and cloud-based compute infrastructure. The post Designing A Microarchitecture From Formal Proof To Full-System appeared first on Semiconductor Engineering .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "5599c27ada59",
-          "coverage": []
-        },
-        {
-          "title": "How Can AI Build Faster And Better Silicon For Physical AI?",
-          "url": "https://semiengineering.com/how-can-ai-build-faster-and-better-silicon-for-physical-ai",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:04:22+00:00",
-          "summary": "Shortening the path from design intent to verified implementation could put custom silicon within reach of more teams. The post How Can AI Build Faster And Better Silicon For Physical AI? appeared first on Semiconductor Engineering .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "25c3328189e2",
-          "coverage": []
-        },
-        {
-          "title": "Securing The Chiplet Future With A UCIe 4.0-Aware Verification Architecture",
-          "url": "https://semiengineering.com/securing-the-chiplet-future-with-a-ucie-4-0-aware-verification-architecture",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:03:00+00:00",
-          "summary": "Bring together compliance tests, protocol-aware monitoring, transaction recording, scoreboarding, error-injection callbacks, and targeted debug to support this work across multiple layers. The post Securing The Chiplet Future With A UCIe 4.0-Aware Verification Architecture appeared first on Semiconductor Engineering .",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "b0b0d157dc76",
-          "coverage": []
-        },
-        {
-          "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-          "url": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:08:01+00:00",
-          "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "1078b412f4fc",
-          "coverage": []
-        },
-        {
-          "title": "A Link Is Not Architecture: Why Multi-Die Systems Need More Than Die-to-Die Connectivity",
-          "url": "https://semiengineering.com/a-link-is-not-architecture-why-multi-die-systems-need-more-than-die-to-die-connectivity",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:03:55+00:00",
-          "summary": "Maintaining consistent communication behavior, integration, and security across configurations. The post A Link Is Not Architecture: Why Multi-Die Systems Need More Than Die-to-Die Connectivity appeared first on Semiconductor Engineering .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "ff88a0cd024e",
-          "coverage": []
-        },
-        {
-          "title": "Verifying UCIe.mem: Flexible Verification For Compute And Memory Chiplets",
-          "url": "https://semiengineering.com/verifying-ucie-mem-flexible-verification-for-compute-and-memory-chiplets",
-          "source": "Semiconductor Engineering",
-          "category": "Semiconductors",
-          "published": "2026-11-24T08:02:43+00:00",
-          "summary": "Validate UCIe.mem implementations across development stages while reusing a common verification environment. The post Verifying UCIe.mem: Flexible Verification For Compute And Memory Chiplets appeared first on Semiconductor Engineering .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "5bbf9252f46d",
+          "event_id": "be29b22a7557",
           "coverage": []
         }
       ],
-      "narrative": "10 distinct semiconductors developments appeared in this time window. Highest-ranked topics: Why AI Struggles To Reuse Chip Designs; AI Vs. High-Level Synthesis; AI Can Read The Code, But Can It Understand The Chip?. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "2 distinct semiconductors developments appeared in this time window. Highest-ranked topics: Chip Industry Technical Paper Roundup: Nov. 25; Blog Review: Nov. 25. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+    },
+    {
+      "name": "Research",
+      "count": 1,
+      "high": 0,
+      "top": [
+        {
+          "title": "MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation",
+          "url": "https://arxiv.org/abs/2611.32502v1",
+          "source": "arXiv Search: Control",
+          "category": "Research",
+          "published": "2026-11-24T12:33:05+00:00",
+          "summary": "Cooperative transportation of heavy payloads by heterogeneous mobile manipulators requires coordinated payload motion, force distribution, and compliant physical interaction. This paper presents MRCT, an object-centric two-layer control architecture for multi-robot transportation. At the object level, a model predictive controller (MPC) generates a coordinated contact-force reference for the payload. At the robot level, whole- body impedance control (WBIC) modules on individual robots realise the reference through a confidence-based blending of velocity-tracking and impedance torques. The blending mechanism emphasises tracking when the joint-velocity error is small and increases compliance when tracking degrades because of abrupt reference changes or physical disturbances. Simulation and hardware experiments with a heterogeneous team comprising a single-arm and a dual-arm mobile manipulator transporting a near-rated table payload demonstrate accurate object tracking, regulated contact ",
+          "score": 3,
+          "priority": "Other developments",
+          "interests": [
+            "Control and Automation"
+          ],
+          "event_id": "3141da593257",
+          "coverage": []
+        }
+      ],
+      "items": [
+        {
+          "title": "MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation",
+          "url": "https://arxiv.org/abs/2611.32502v1",
+          "source": "arXiv Search: Control",
+          "category": "Research",
+          "published": "2026-11-24T12:33:05+00:00",
+          "summary": "Cooperative transportation of heavy payloads by heterogeneous mobile manipulators requires coordinated payload motion, force distribution, and compliant physical interaction. This paper presents MRCT, an object-centric two-layer control architecture for multi-robot transportation. At the object level, a model predictive controller (MPC) generates a coordinated contact-force reference for the payload. At the robot level, whole- body impedance control (WBIC) modules on individual robots realise the reference through a confidence-based blending of velocity-tracking and impedance torques. The blending mechanism emphasises tracking when the joint-velocity error is small and increases compliance when tracking degrades because of abrupt reference changes or physical disturbances. Simulation and hardware experiments with a heterogeneous team comprising a single-arm and a dual-arm mobile manipulator transporting a near-rated table payload demonstrate accurate object tracking, regulated contact ",
+          "score": 3,
+          "priority": "Other developments",
+          "interests": [
+            "Control and Automation"
+          ],
+          "event_id": "3141da593257",
+          "coverage": []
+        }
+      ],
+      "narrative": "1 distinct research developments appeared in this time window. Highest-ranked topics: MRCT: An Object-Centric Two-Layer Control Architecture for Heavy-Payload Multi-Robot Transportation. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -1608,7 +1399,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:24.233154+00:00",
+      "last_success": "2026-11-25T09:11:48.307259+00:00",
       "error": ""
     },
     {
@@ -1617,7 +1408,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:34.621045+00:00",
+      "last_success": "2026-11-25T09:12:00.016041+00:00",
       "error": ""
     },
     {
@@ -1626,7 +1417,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:19.646825+00:00",
+      "last_success": "2026-11-25T09:11:44.173068+00:00",
       "error": ""
     },
     {
@@ -1635,7 +1426,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:20.563829+00:00",
+      "last_success": "2026-11-25T09:11:44.839390+00:00",
       "error": ""
     },
     {
@@ -1644,7 +1435,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:20.296500+00:00",
+      "last_success": "2026-11-25T09:11:44.575038+00:00",
       "error": ""
     },
     {
@@ -1653,7 +1444,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:19.159249+00:00",
+      "last_success": "2026-11-25T09:11:43.937272+00:00",
       "error": ""
     },
     {
@@ -1662,7 +1453,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:18.994743+00:00",
+      "last_success": "2026-11-25T09:11:43.700507+00:00",
       "error": ""
     },
     {
@@ -1671,7 +1462,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:24.050130+00:00",
+      "last_success": "2026-11-25T09:11:48.132004+00:00",
       "error": ""
     },
     {
@@ -1680,7 +1471,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:16.579952+00:00",
+      "last_success": "2026-11-25T09:11:42.355157+00:00",
       "error": ""
     },
     {
@@ -1689,7 +1480,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:23.732189+00:00",
+      "last_success": "2026-11-25T09:11:47.807282+00:00",
       "error": ""
     },
     {
@@ -1698,7 +1489,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:23.094744+00:00",
+      "last_success": "2026-11-25T09:11:47.260218+00:00",
       "error": ""
     },
     {
@@ -1707,7 +1498,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:25.191170+00:00",
+      "last_success": "2026-11-25T09:11:49.145576+00:00",
       "error": ""
     },
     {
@@ -1716,7 +1507,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:25.094831+00:00",
+      "last_success": "2026-11-25T09:11:49.074761+00:00",
       "error": ""
     },
     {
@@ -1725,7 +1516,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:19.933436+00:00",
+      "last_success": "2026-11-25T09:11:44.403778+00:00",
       "error": ""
     },
     {
@@ -1734,7 +1525,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:28.407270+00:00",
+      "last_success": "2026-11-25T09:11:52.919004+00:00",
       "error": ""
     },
     {
@@ -1743,7 +1534,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:16.972387+00:00",
+      "last_success": "2026-11-25T09:11:42.553374+00:00",
       "error": ""
     },
     {
@@ -1752,7 +1543,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:25.300773+00:00",
+      "last_success": "2026-11-25T09:11:49.553579+00:00",
       "error": ""
     },
     {
@@ -1761,7 +1552,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:24.050040+00:00",
+      "last_success": "2026-11-25T09:11:48.131949+00:00",
       "error": ""
     },
     {
@@ -1770,7 +1561,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:22.301893+00:00",
+      "last_success": "2026-11-25T09:11:46.583996+00:00",
       "error": ""
     },
     {
@@ -1779,7 +1570,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:17.980490+00:00",
+      "last_success": "2026-11-25T09:11:42.885101+00:00",
       "error": ""
     },
     {
@@ -1788,7 +1579,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:31.518229+00:00",
+      "last_success": "2026-11-25T09:11:56.634659+00:00",
       "error": ""
     },
     {
@@ -1797,7 +1588,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:21.569629+00:00",
+      "last_success": "2026-11-25T09:11:45.905634+00:00",
       "error": ""
     },
     {
@@ -1806,7 +1597,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:18.781172+00:00",
+      "last_success": "2026-11-25T09:11:43.289106+00:00",
       "error": ""
     },
     {
@@ -1815,7 +1606,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:24.868880+00:00",
+      "last_success": "2026-11-25T09:11:48.824434+00:00",
       "error": ""
     },
     {
@@ -1824,7 +1615,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:16.719045+00:00",
+      "last_success": "2026-11-25T09:11:42.418125+00:00",
       "error": ""
     },
     {
@@ -1833,7 +1624,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:18.613587+00:00",
+      "last_success": "2026-11-25T09:11:43.064082+00:00",
       "error": ""
     },
     {
@@ -1842,7 +1633,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:21.939507+00:00",
+      "last_success": "2026-11-25T09:11:46.248651+00:00",
       "error": ""
     },
     {
@@ -1851,7 +1642,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:24.791923+00:00",
+      "last_success": "2026-11-25T09:11:48.727856+00:00",
       "error": ""
     },
     {
@@ -1860,7 +1651,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:24.049114+00:00",
+      "last_success": "2026-11-25T09:11:48.131046+00:00",
       "error": ""
     },
     {
@@ -1869,7 +1660,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:17.726314+00:00",
+      "last_success": "2026-11-25T09:11:42.816002+00:00",
       "error": ""
     },
     {
@@ -1878,7 +1669,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-24T18:34:22.612007+00:00",
+      "last_success": "2026-11-25T09:11:46.903131+00:00",
       "error": ""
     },
     {
@@ -1886,7 +1677,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 4,
+      "failures": 5,
       "last_success": "2026-11-23T08:54:55.206898+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1895,7 +1686,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 4,
+      "failures": 5,
       "last_success": "2026-11-23T08:54:55.178609+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1936,5 +1727,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (5), Electronics (2), Energy Storage (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Semiconductors (1), Power Systems (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }
