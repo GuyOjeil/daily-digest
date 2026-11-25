@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-25T17:32:12.988710+00:00",
+  "generated": "2026-11-25T17:45:34.948679+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-24T17:32:12.988710+00:00",
+  "window_start": "2026-11-24T17:45:34.948679+00:00",
   "stats": {
-    "events": 50,
+    "events": 52,
     "high": 0,
-    "sources_reporting": 12,
+    "sources_reporting": 13,
     "categories": 6,
-    "records_inserted": 4,
+    "records_inserted": 2,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -295,7 +295,7 @@
     },
     {
       "name": "Renewable Energy",
-      "count": 26,
+      "count": 27,
       "high": 0,
       "top": [
         {
@@ -650,6 +650,22 @@
           "coverage": []
         },
         {
+          "title": "Europe’s Inland Shipping Models Underprice Green Fuels. Market Prices Favor Battery Swapping.",
+          "url": "https://cleantechnica.com/2026/11/25/inland-shipping-hvo-prices-battery-swapping/",
+          "source": "CleanTechnica",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T17:33:56+00:00",
+          "summary": "Europe’s inland-shipping models underprice renewable diesel. For a new 110-meter dry-cargo vessel, PLATINA4Action calculates HVO (hydrotreated vegetable oil) propulsion at €1,798/day against €1,964/day for battery swapping. Apply the observed October 2026 Dutch HVO market price, including delivery, and the HVO cost is €2,515/day. Battery swapping is €551/day cheaper. The model’s   ... [continued] The post Europe’s Inland Shipping Models Underprice Green Fuels. Market Prices Favor Battery Swapping. appeared first on CleanTechnica .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage"
+          ],
+          "event_id": "75960bc25cd0",
+          "coverage": []
+        },
+        {
           "title": "Policy reforms could accelerate Indonesia’s 100GW deployment target – Ember",
           "url": "https://www.pv-tech.org/indonesia-100gw-solar-deployment-target-policies-ember/",
           "source": "PV Tech",
@@ -756,7 +772,7 @@
           "coverage": []
         }
       ],
-      "narrative": "26 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage; Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform; UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "27 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage; Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform; UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
@@ -964,7 +980,7 @@
     },
     {
       "name": "Electronics",
-      "count": 10,
+      "count": 11,
       "high": 0,
       "top": [
         {
@@ -1113,6 +1129,19 @@
           "coverage": []
         },
         {
+          "title": "AI Makes Formal Verification Practical",
+          "url": "https://www.eetimes.com/ai-makes-formal-verification-practical",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-25T17:34:58+00:00",
+          "summary": "AI model startup Harmonic is expanding into formal verification for software and hardware. The post AI Makes Formal Verification Practical appeared first on EE Times .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "c7d666981536",
+          "coverage": []
+        },
+        {
           "title": "Southchip Showcases Automotive Power, Charging, and Load-Control Solutions at electronica Munich",
           "url": "https://www.eetimes.com/southchip-showcases-automotive-power-charging-and-load-control-solutions-at-electronica-munich",
           "source": "EE Times",
@@ -1152,7 +1181,7 @@
           "coverage": []
         }
       ],
-      "narrative": "10 distinct electronics developments appeared in this time window. Highest-ranked topics: System Check: What is your approach to circuit analysis?; Winbond Widens Edge AI Reach, Certifies NOR Flash; How ripple effect works on a large or small design. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "11 distinct electronics developments appeared in this time window. Highest-ranked topics: System Check: What is your approach to circuit analysis?; Winbond Widens Edge AI Reach, Certifies NOR Flash; How ripple effect works on a large or small design. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Semiconductors",
@@ -1234,7 +1263,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:19.888281+00:00",
+      "last_success": "2026-11-25T17:45:41.480433+00:00",
       "error": ""
     },
     {
@@ -1243,7 +1272,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:30.048271+00:00",
+      "last_success": "2026-11-25T17:45:53.310186+00:00",
       "error": ""
     },
     {
@@ -1252,7 +1281,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:15.462060+00:00",
+      "last_success": "2026-11-25T17:45:37.151437+00:00",
       "error": ""
     },
     {
@@ -1261,7 +1290,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:16.191689+00:00",
+      "last_success": "2026-11-25T17:45:37.861277+00:00",
       "error": ""
     },
     {
@@ -1270,7 +1299,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:15.899512+00:00",
+      "last_success": "2026-11-25T17:45:37.601251+00:00",
       "error": ""
     },
     {
@@ -1279,7 +1308,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:15.221390+00:00",
+      "last_success": "2026-11-25T17:45:36.853008+00:00",
       "error": ""
     },
     {
@@ -1288,7 +1317,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:14.985643+00:00",
+      "last_success": "2026-11-25T17:45:36.639844+00:00",
       "error": ""
     },
     {
@@ -1297,7 +1326,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:19.646068+00:00",
+      "last_success": "2026-11-25T17:45:41.178405+00:00",
       "error": ""
     },
     {
@@ -1306,7 +1335,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:13.409398+00:00",
+      "last_success": "2026-11-25T17:45:35.333985+00:00",
       "error": ""
     },
     {
@@ -1315,7 +1344,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:19.284373+00:00",
+      "last_success": "2026-11-25T17:45:40.765870+00:00",
       "error": ""
     },
     {
@@ -1324,7 +1353,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:18.676266+00:00",
+      "last_success": "2026-11-25T17:45:40.214965+00:00",
       "error": ""
     },
     {
@@ -1333,7 +1362,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:20.774727+00:00",
+      "last_success": "2026-11-25T17:45:42.407244+00:00",
       "error": ""
     },
     {
@@ -1342,7 +1371,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:20.700052+00:00",
+      "last_success": "2026-11-25T17:45:42.268418+00:00",
       "error": ""
     },
     {
@@ -1351,7 +1380,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:15.720405+00:00",
+      "last_success": "2026-11-25T17:45:37.410551+00:00",
       "error": ""
     },
     {
@@ -1360,7 +1389,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:23.923942+00:00",
+      "last_success": "2026-11-25T17:45:46.156214+00:00",
       "error": ""
     },
     {
@@ -1369,7 +1398,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:13.602313+00:00",
+      "last_success": "2026-11-25T17:45:35.613491+00:00",
       "error": ""
     },
     {
@@ -1378,7 +1407,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:20.863012+00:00",
+      "last_success": "2026-11-25T17:45:42.800213+00:00",
       "error": ""
     },
     {
@@ -1387,7 +1416,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:19.646009+00:00",
+      "last_success": "2026-11-25T17:45:41.178363+00:00",
       "error": ""
     },
     {
@@ -1396,7 +1425,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:17.950858+00:00",
+      "last_success": "2026-11-25T17:45:39.499847+00:00",
       "error": ""
     },
     {
@@ -1405,7 +1434,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:14.241047+00:00",
+      "last_success": "2026-11-25T17:45:36.045049+00:00",
       "error": ""
     },
     {
@@ -1414,7 +1443,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:26.987303+00:00",
+      "last_success": "2026-11-25T17:45:49.895553+00:00",
       "error": ""
     },
     {
@@ -1423,7 +1452,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:17.263751+00:00",
+      "last_success": "2026-11-25T17:45:38.710784+00:00",
       "error": ""
     },
     {
@@ -1432,7 +1461,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:14.708747+00:00",
+      "last_success": "2026-11-25T17:45:36.405453+00:00",
       "error": ""
     },
     {
@@ -1441,7 +1470,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:20.446993+00:00",
+      "last_success": "2026-11-25T17:45:42.028316+00:00",
       "error": ""
     },
     {
@@ -1450,7 +1479,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:13.481416+00:00",
+      "last_success": "2026-11-25T17:45:35.460125+00:00",
       "error": ""
     },
     {
@@ -1459,7 +1488,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:14.485775+00:00",
+      "last_success": "2026-11-25T17:45:36.197421+00:00",
       "error": ""
     },
     {
@@ -1468,7 +1497,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:17.664604+00:00",
+      "last_success": "2026-11-25T17:45:39.144639+00:00",
       "error": ""
     },
     {
@@ -1477,7 +1506,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:20.365104+00:00",
+      "last_success": "2026-11-25T17:45:41.891722+00:00",
       "error": ""
     },
     {
@@ -1486,7 +1515,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:19.645076+00:00",
+      "last_success": "2026-11-25T17:45:41.177539+00:00",
       "error": ""
     },
     {
@@ -1495,7 +1524,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:14.082457+00:00",
+      "last_success": "2026-11-25T17:45:35.919510+00:00",
       "error": ""
     },
     {
@@ -1504,7 +1533,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T17:32:18.277409+00:00",
+      "last_success": "2026-11-25T17:45:39.860064+00:00",
       "error": ""
     },
     {
@@ -1512,7 +1541,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 7,
+      "failures": 8,
       "last_success": "2026-11-23T08:54:55.206898+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1521,7 +1550,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 7,
+      "failures": 8,
       "last_success": "2026-11-23T08:54:55.178609+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },

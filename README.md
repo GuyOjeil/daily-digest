@@ -1,8 +1,8 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-25T17:32:12.988710+00:00  
+**Generated:** 2026-11-25T17:45:34.948679+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 50 · **High-signal candidates:** 0 · **Sources reporting:** 12
+**Distinct events:** 52 · **High-signal candidates:** 0 · **Sources reporting:** 13
 
 ## Executive brief
 
@@ -92,9 +92,9 @@ Cheyenne Light — with a 439-MW peak load record — is working on a 3-GW near-
 
 Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.
 
-## Renewable Energy — 26 distinct findings, 0 high-signal
+## Renewable Energy — 27 distinct findings, 0 high-signal
 
-26 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage; Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform; UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+27 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage; Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform; UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage](https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage)
 
@@ -146,9 +146,9 @@ Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what
 
 Two bench tests on TI's TPS563200EVM-652 verify 1.05-V synchronous buck conversion and measure no-load line regulation. The post Hands-on with the Texas Instruments TPS563200 Synchronous Buck Converter appeared first on Power Electronics News .
 
-## Electronics — 10 distinct findings, 0 high-signal
+## Electronics — 11 distinct findings, 0 high-signal
 
-10 distinct electronics developments appeared in this time window. Highest-ranked topics: System Check: What is your approach to circuit analysis?; Winbond Widens Edge AI Reach, Certifies NOR Flash; How ripple effect works on a large or small design. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+11 distinct electronics developments appeared in this time window. Highest-ranked topics: System Check: What is your approach to circuit analysis?; Winbond Widens Edge AI Reach, Certifies NOR Flash; How ripple effect works on a large or small design. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [System Check: What is your approach to circuit analysis?](https://www.eenewseurope.com/en/system-check-what-is-your-approach-to-circuit-analysis/)
 
