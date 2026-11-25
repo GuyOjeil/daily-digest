@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-25T16:44:11.055563+00:00",
+  "generated": "2026-11-25T17:32:12.988710+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-24T16:44:11.055563+00:00",
+  "window_start": "2026-11-24T17:32:12.988710+00:00",
   "stats": {
-    "events": 49,
+    "events": 50,
     "high": 0,
     "sources_reporting": 12,
     "categories": 6,
-    "records_inserted": 41,
+    "records_inserted": 4,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -44,6 +44,22 @@
         "Renewable Energy"
       ],
       "event_id": "5a94d1da3708",
+      "coverage": []
+    },
+    {
+      "title": "What is holding back bidirectional EV charging as a grid resource?",
+      "url": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766",
+      "source": "Utility Dive",
+      "category": "Power Systems",
+      "published": "2026-11-25T16:12:22+00:00",
+      "summary": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
+      "score": 10,
+      "priority": "Worth watching",
+      "interests": [
+        "Power Systems",
+        "Energy Storage"
+      ],
+      "event_id": "09e6f740d751",
       "coverage": []
     },
     {
@@ -156,21 +172,6 @@
       ],
       "event_id": "c5e7952a30aa",
       "coverage": []
-    },
-    {
-      "title": "Afore unveils all-in-one propane heat pump for residential applications",
-      "url": "https://www.pv-magazine.com/2026/11/25/afore-unveils-all-in-one-propane-heat-pump-for-residential-applications",
-      "source": "pv magazine",
-      "category": "Renewable Energy",
-      "published": "2026-11-25T13:09:16+00:00",
-      "summary": "The new air-to-water heat pump series features nominal heating capacities ranging from 8.03 kW to 11.75 kW and coefficients of performance of up to 5.70. The systems can achieve an outlet water temperature of up to 75 C. The post Afore unveils all-in-one propane heat pump for residential applications appeared first on pv magazine Global .",
-      "score": 9,
-      "priority": "Other developments",
-      "interests": [
-        "Renewable Energy"
-      ],
-      "event_id": "b993aeb0831b",
-      "coverage": []
     }
   ],
   "categories": [
@@ -180,18 +181,19 @@
       "high": 0,
       "top": [
         {
-          "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
-          "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646",
+          "title": "What is holding back bidirectional EV charging as a grid resource?",
+          "url": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766",
           "source": "Utility Dive",
           "category": "Power Systems",
-          "published": "2026-11-24T17:26:49+00:00",
-          "summary": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
-          "score": 8,
-          "priority": "Other developments",
+          "published": "2026-11-25T16:12:22+00:00",
+          "summary": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
+          "score": 10,
+          "priority": "Worth watching",
           "interests": [
-            "Power Systems"
+            "Power Systems",
+            "Energy Storage"
           ],
-          "event_id": "60e99f983b54",
+          "event_id": "09e6f740d751",
           "coverage": []
         },
         {
@@ -210,36 +212,36 @@
           "coverage": []
         },
         {
-          "title": "How to Underwrite an Orbital Solar PPA",
-          "url": "https://www.powermag.com/how-to-underwrite-an-orbital-solar-ppa/",
-          "source": "POWER Magazine",
+          "title": "2026 Q3 earnings roundup: Utilities seek to reassure investors amid election fallout",
+          "url": "https://www.utilitydive.com/news/2026-q3-roundup-utilities-seek-to-reassure-investors-amid-election-fallout/875726",
+          "source": "Utility Dive",
           "category": "Power Systems",
-          "published": "2026-11-25T13:54:03+00:00",
-          "summary": "The first power purchase agreement (PPA) for space solar has been signed. Buyers, lenders, and insurers now need a way to price it. Virtus Solis recently signed a 20-year PPA with Brae Systems to supply utility-scale solar power from orbit to data center compute infrastructure. It is the first executed PPA for space solar. Most […] The post How to Underwrite an Orbital Solar PPA appeared first on POWER Magazine .",
+          "published": "2026-11-25T14:22:42+00:00",
+          "summary": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
           "score": 6,
           "priority": "Other developments",
           "interests": [
-            "Power Systems",
-            "Renewable Energy"
+            "Power Systems"
           ],
-          "event_id": "4a1444cf96c9",
+          "event_id": "03f6ad734661",
           "coverage": []
         }
       ],
       "items": [
         {
-          "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
-          "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646",
+          "title": "What is holding back bidirectional EV charging as a grid resource?",
+          "url": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766",
           "source": "Utility Dive",
           "category": "Power Systems",
-          "published": "2026-11-24T17:26:49+00:00",
-          "summary": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
-          "score": 8,
-          "priority": "Other developments",
+          "published": "2026-11-25T16:12:22+00:00",
+          "summary": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
+          "score": 10,
+          "priority": "Worth watching",
           "interests": [
-            "Power Systems"
+            "Power Systems",
+            "Energy Storage"
           ],
-          "event_id": "60e99f983b54",
+          "event_id": "09e6f740d751",
           "coverage": []
         },
         {
@@ -258,6 +260,21 @@
           "coverage": []
         },
         {
+          "title": "2026 Q3 earnings roundup: Utilities seek to reassure investors amid election fallout",
+          "url": "https://www.utilitydive.com/news/2026-q3-roundup-utilities-seek-to-reassure-investors-amid-election-fallout/875726",
+          "source": "Utility Dive",
+          "category": "Power Systems",
+          "published": "2026-11-25T14:22:42+00:00",
+          "summary": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems"
+          ],
+          "event_id": "03f6ad734661",
+          "coverage": []
+        },
+        {
           "title": "How to Underwrite an Orbital Solar PPA",
           "url": "https://www.powermag.com/how-to-underwrite-an-orbital-solar-ppa/",
           "source": "POWER Magazine",
@@ -272,26 +289,13 @@
           ],
           "event_id": "4a1444cf96c9",
           "coverage": []
-        },
-        {
-          "title": "Landmark NRC Construction Permit Ushers in Next Phase for Dow’s Xe-100 HTGR Nuclear Project",
-          "url": "https://www.powermag.com/landmark-nrc-construction-permit-ushers-in-next-phase-for-dows-xe-100-htgr-nuclear-project/",
-          "source": "POWER Magazine",
-          "category": "Power Systems",
-          "published": "2026-11-24T17:06:43+00:00",
-          "summary": "The Nuclear Regulatory Commission (NRC) on Nov. 9 issued its first construction permit for a high-temperature gas-cooled reactor (HTGR) in nearly six decades, authorizing construction of four X-energy Xe-100 reactors that could supply electricity and high-temperature process steam to Dow’s chemical manufacturing operations on the Texas Gulf Coast. While the authorization follows nearly eight years […] The post Landmark NRC Construction Permit Ushers in Next Phase for Dow’s Xe-100 HTGR Nuclear Project appeared first on POWER Magazine .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "2de3fcdf1e39",
-          "coverage": []
         }
       ],
-      "narrative": "4 distinct power systems developments appeared in this time window. Highest-ranked topics: FirstEnergy utilities get approval for $2.5B gas plant in West Virginia; Bright Horizon utility lands Microsoft data center deals amid Wyoming buildout; How to Underwrite an Orbital Solar PPA. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "4 distinct power systems developments appeared in this time window. Highest-ranked topics: What is holding back bidirectional EV charging as a grid resource?; Bright Horizon utility lands Microsoft data center deals amid Wyoming buildout; 2026 Q3 earnings roundup: Utilities seek to reassure investors amid election fallout. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Renewable Energy",
-      "count": 25,
+      "count": 26,
       "high": 0,
       "top": [
         {
@@ -646,6 +650,21 @@
           "coverage": []
         },
         {
+          "title": "Policy reforms could accelerate Indonesia’s 100GW deployment target – Ember",
+          "url": "https://www.pv-tech.org/indonesia-100gw-solar-deployment-target-policies-ember/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-25T17:13:36+00:00",
+          "summary": "A report from think tank Ember has highlighted six policy reforms in Indonesia that would accelerate the country’s 100GW solar PV target.",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "f6c16f3311aa",
+          "coverage": []
+        },
+        {
           "title": "Italy awards 16 GWh of battery storage in second auction",
           "url": "https://www.pv-magazine.com/2026/11/25/italy-awards-16-gwh-of-battery-storage-in-second-auction",
           "source": "pv magazine",
@@ -737,7 +756,7 @@
           "coverage": []
         }
       ],
-      "narrative": "25 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage; Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform; UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "26 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage; Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform; UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
@@ -1215,7 +1234,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:18.931170+00:00",
+      "last_success": "2026-11-25T17:32:19.888281+00:00",
       "error": ""
     },
     {
@@ -1224,7 +1243,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:30.962958+00:00",
+      "last_success": "2026-11-25T17:32:30.048271+00:00",
       "error": ""
     },
     {
@@ -1233,7 +1252,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:13.999472+00:00",
+      "last_success": "2026-11-25T17:32:15.462060+00:00",
       "error": ""
     },
     {
@@ -1242,7 +1261,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:15.009874+00:00",
+      "last_success": "2026-11-25T17:32:16.191689+00:00",
       "error": ""
     },
     {
@@ -1251,7 +1270,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:14.528147+00:00",
+      "last_success": "2026-11-25T17:32:15.899512+00:00",
       "error": ""
     },
     {
@@ -1260,7 +1279,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:13.320153+00:00",
+      "last_success": "2026-11-25T17:32:15.221390+00:00",
       "error": ""
     },
     {
@@ -1269,7 +1288,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:13.086788+00:00",
+      "last_success": "2026-11-25T17:32:14.985643+00:00",
       "error": ""
     },
     {
@@ -1278,7 +1297,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:18.633283+00:00",
+      "last_success": "2026-11-25T17:32:19.646068+00:00",
       "error": ""
     },
     {
@@ -1287,7 +1306,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:11.455128+00:00",
+      "last_success": "2026-11-25T17:32:13.409398+00:00",
       "error": ""
     },
     {
@@ -1296,7 +1315,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:18.275955+00:00",
+      "last_success": "2026-11-25T17:32:19.284373+00:00",
       "error": ""
     },
     {
@@ -1305,7 +1324,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:17.768113+00:00",
+      "last_success": "2026-11-25T17:32:18.676266+00:00",
       "error": ""
     },
     {
@@ -1314,7 +1333,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:20.115144+00:00",
+      "last_success": "2026-11-25T17:32:20.774727+00:00",
       "error": ""
     },
     {
@@ -1323,7 +1342,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:20.046571+00:00",
+      "last_success": "2026-11-25T17:32:20.700052+00:00",
       "error": ""
     },
     {
@@ -1332,7 +1351,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:14.261632+00:00",
+      "last_success": "2026-11-25T17:32:15.720405+00:00",
       "error": ""
     },
     {
@@ -1341,7 +1360,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:23.901339+00:00",
+      "last_success": "2026-11-25T17:32:23.923942+00:00",
       "error": ""
     },
     {
@@ -1350,7 +1369,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:11.768938+00:00",
+      "last_success": "2026-11-25T17:32:13.602313+00:00",
       "error": ""
     },
     {
@@ -1359,7 +1378,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:20.544725+00:00",
+      "last_success": "2026-11-25T17:32:20.863012+00:00",
       "error": ""
     },
     {
@@ -1368,7 +1387,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:18.633229+00:00",
+      "last_success": "2026-11-25T17:32:19.646009+00:00",
       "error": ""
     },
     {
@@ -1377,7 +1396,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:17.155565+00:00",
+      "last_success": "2026-11-25T17:32:17.950858+00:00",
       "error": ""
     },
     {
@@ -1386,7 +1405,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:12.205836+00:00",
+      "last_success": "2026-11-25T17:32:14.241047+00:00",
       "error": ""
     },
     {
@@ -1395,7 +1414,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:27.375749+00:00",
+      "last_success": "2026-11-25T17:32:26.987303+00:00",
       "error": ""
     },
     {
@@ -1404,7 +1423,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:16.299931+00:00",
+      "last_success": "2026-11-25T17:32:17.263751+00:00",
       "error": ""
     },
     {
@@ -1413,7 +1432,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:12.788601+00:00",
+      "last_success": "2026-11-25T17:32:14.708747+00:00",
       "error": ""
     },
     {
@@ -1422,7 +1441,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:19.723645+00:00",
+      "last_success": "2026-11-25T17:32:20.446993+00:00",
       "error": ""
     },
     {
@@ -1431,7 +1450,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:11.599777+00:00",
+      "last_success": "2026-11-25T17:32:13.481416+00:00",
       "error": ""
     },
     {
@@ -1440,7 +1459,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:12.416973+00:00",
+      "last_success": "2026-11-25T17:32:14.485775+00:00",
       "error": ""
     },
     {
@@ -1449,7 +1468,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:16.794914+00:00",
+      "last_success": "2026-11-25T17:32:17.664604+00:00",
       "error": ""
     },
     {
@@ -1458,7 +1477,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:19.584195+00:00",
+      "last_success": "2026-11-25T17:32:20.365104+00:00",
       "error": ""
     },
     {
@@ -1467,7 +1486,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:18.632512+00:00",
+      "last_success": "2026-11-25T17:32:19.645076+00:00",
       "error": ""
     },
     {
@@ -1476,7 +1495,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:12.056122+00:00",
+      "last_success": "2026-11-25T17:32:14.082457+00:00",
       "error": ""
     },
     {
@@ -1485,7 +1504,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-25T16:44:17.465841+00:00",
+      "last_success": "2026-11-25T17:32:18.277409+00:00",
       "error": ""
     },
     {
@@ -1493,7 +1512,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 6,
+      "failures": 7,
       "last_success": "2026-11-23T08:54:55.206898+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1502,7 +1521,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 6,
+      "failures": 7,
       "last_success": "2026-11-23T08:54:55.178609+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1543,5 +1562,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (8), Energy Storage (1), Semiconductors (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (7), Power Systems (1), Energy Storage (1), Semiconductors (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }
