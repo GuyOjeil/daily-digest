@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-26T17:14:35.403122+00:00",
+  "generated": "2026-11-26T17:28:48.953463+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-25T17:14:35.403122+00:00",
+  "window_start": "2026-11-25T17:28:48.953463+00:00",
   "stats": {
-    "events": 57,
+    "events": 58,
     "high": 0,
     "sources_reporting": 11,
     "categories": 6,
-    "records_inserted": 4,
+    "records_inserted": 1,
     "fetched": 420,
     "sources_failed": 4,
     "source_checks": 37
@@ -1015,7 +1015,7 @@
     },
     {
       "name": "Electronics",
-      "count": 19,
+      "count": 20,
       "high": 0,
       "top": [
         {
@@ -1153,6 +1153,21 @@
             "Power Electronics"
           ],
           "event_id": "8ad4e5e7e4f7",
+          "coverage": []
+        },
+        {
+          "title": "Smart Bird Feeder: Wyze Introduces Window Bird Cam",
+          "url": "https://www.eenewseurope.com/en/wyze-smart-bird-feeder-window-camera/",
+          "source": "eeNews Europe",
+          "category": "Electronics",
+          "published": "2026-11-26T17:23:03+00:00",
+          "summary": "Battery life, wireless connectivity, and exposure to weather are familiar challenges when designing outdoor IoT devices. With its new Window Bird Cam, Wyze takes a different approach to the smart bird feeder by moving the camera and its electronics indoors while keeping the feeder outside. The company has also introduced Bird Watch, an optional subscription […] The post Smart Bird Feeder: Wyze Introduces Window Bird Cam appeared first on eeNews Europe .",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Energy Storage"
+          ],
+          "event_id": "c1e44a2abfe1",
           "coverage": []
         },
         {
@@ -1340,7 +1355,7 @@
           "coverage": []
         }
       ],
-      "narrative": "19 distinct electronics developments appeared in this time window. Highest-ranked topics: DisplayLink and InstantView: Multi-display kludge, or breakthrough?; Siemens digital twin targets 20% cut in hydrogen costs; Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "20 distinct electronics developments appeared in this time window. Highest-ranked topics: DisplayLink and InstantView: Multi-display kludge, or breakthrough?; Siemens digital twin targets 20% cut in hydrogen costs; Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -1350,7 +1365,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.582107+00:00",
+      "last_success": "2026-11-26T17:28:54.102441+00:00",
       "error": ""
     },
     {
@@ -1359,7 +1374,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:51.485060+00:00",
+      "last_success": "2026-11-26T17:29:04.282185+00:00",
       "error": ""
     },
     {
@@ -1368,7 +1383,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:37.681681+00:00",
+      "last_success": "2026-11-26T17:28:50.684932+00:00",
       "error": ""
     },
     {
@@ -1377,7 +1392,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:38.175907+00:00",
+      "last_success": "2026-11-26T17:28:51.097975+00:00",
       "error": ""
     },
     {
@@ -1386,7 +1401,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:37.994023+00:00",
+      "last_success": "2026-11-26T17:28:50.954926+00:00",
       "error": ""
     },
     {
@@ -1395,7 +1410,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:37.442481+00:00",
+      "last_success": "2026-11-26T17:28:50.463207+00:00",
       "error": ""
     },
     {
@@ -1404,7 +1419,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:37.242089+00:00",
+      "last_success": "2026-11-26T17:28:49.997597+00:00",
       "error": ""
     },
     {
@@ -1413,7 +1428,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.193115+00:00",
+      "last_success": "2026-11-26T17:28:53.968114+00:00",
       "error": ""
     },
     {
@@ -1422,7 +1437,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:35.805807+00:00",
+      "last_success": "2026-11-26T17:28:49.120360+00:00",
       "error": ""
     },
     {
@@ -1431,7 +1446,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:40.840345+00:00",
+      "last_success": "2026-11-26T17:28:53.673701+00:00",
       "error": ""
     },
     {
@@ -1440,7 +1455,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:40.422702+00:00",
+      "last_success": "2026-11-26T17:28:53.217008+00:00",
       "error": ""
     },
     {
@@ -1449,7 +1464,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:42.309879+00:00",
+      "last_success": "2026-11-26T17:28:54.665345+00:00",
       "error": ""
     },
     {
@@ -1458,7 +1473,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:42.215180+00:00",
+      "last_success": "2026-11-26T17:28:54.614171+00:00",
       "error": ""
     },
     {
@@ -1467,7 +1482,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:37.879689+00:00",
+      "last_success": "2026-11-26T17:28:50.838093+00:00",
       "error": ""
     },
     {
@@ -1476,7 +1491,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:45.410166+00:00",
+      "last_success": "2026-11-26T17:28:58.200729+00:00",
       "error": ""
     },
     {
@@ -1485,7 +1500,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:36.009069+00:00",
+      "last_success": "2026-11-26T17:28:49.254977+00:00",
       "error": ""
     },
     {
@@ -1494,7 +1509,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:42.363744+00:00",
+      "last_success": "2026-11-26T17:28:55.179174+00:00",
       "error": ""
     },
     {
@@ -1503,7 +1518,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.193048+00:00",
+      "last_success": "2026-11-26T17:28:53.968057+00:00",
       "error": ""
     },
     {
@@ -1512,7 +1527,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:39.860593+00:00",
+      "last_success": "2026-11-26T17:28:52.705664+00:00",
       "error": ""
     },
     {
@@ -1521,7 +1536,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:36.553268+00:00",
+      "last_success": "2026-11-26T17:28:49.506608+00:00",
       "error": ""
     },
     {
@@ -1530,7 +1545,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:48.447126+00:00",
+      "last_success": "2026-11-26T17:29:01.221705+00:00",
       "error": ""
     },
     {
@@ -1539,7 +1554,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:39.254037+00:00",
+      "last_success": "2026-11-26T17:28:52.134097+00:00",
       "error": ""
     },
     {
@@ -1548,7 +1563,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:36.905153+00:00",
+      "last_success": "2026-11-26T17:28:49.777852+00:00",
       "error": ""
     },
     {
@@ -1557,7 +1572,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.960065+00:00",
+      "last_success": "2026-11-26T17:28:54.421042+00:00",
       "error": ""
     },
     {
@@ -1566,7 +1581,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:35.891948+00:00",
+      "last_success": "2026-11-26T17:28:49.169604+00:00",
       "error": ""
     },
     {
@@ -1575,7 +1590,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:36.731939+00:00",
+      "last_success": "2026-11-26T17:28:49.586451+00:00",
       "error": ""
     },
     {
@@ -1584,7 +1599,7 @@
       "status": "ok",
       "count": 28,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.451044+00:00",
+      "last_success": "2026-11-26T17:28:54.020412+00:00",
       "error": ""
     },
     {
@@ -1593,7 +1608,7 @@
       "status": "ok",
       "count": 32,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.427118+00:00",
+      "last_success": "2026-11-26T17:28:54.004441+00:00",
       "error": ""
     },
     {
@@ -1602,7 +1617,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:39.561829+00:00",
+      "last_success": "2026-11-26T17:28:52.434884+00:00",
       "error": ""
     },
     {
@@ -1611,7 +1626,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.875482+00:00",
+      "last_success": "2026-11-26T17:28:54.393597+00:00",
       "error": ""
     },
     {
@@ -1620,7 +1635,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:41.191903+00:00",
+      "last_success": "2026-11-26T17:28:53.967124+00:00",
       "error": ""
     },
     {
@@ -1629,7 +1644,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:36.472656+00:00",
+      "last_success": "2026-11-26T17:28:49.442757+00:00",
       "error": ""
     },
     {
@@ -1638,7 +1653,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T17:14:40.147429+00:00",
+      "last_success": "2026-11-26T17:28:52.921288+00:00",
       "error": ""
     },
     {

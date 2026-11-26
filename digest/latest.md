@@ -1,8 +1,8 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-26T17:14:35.403122+00:00  
+**Generated:** 2026-11-26T17:28:48.953463+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 57 · **High-signal candidates:** 0 · **Sources reporting:** 11
+**Distinct events:** 58 · **High-signal candidates:** 0 · **Sources reporting:** 11
 
 ## Executive brief
 
@@ -167,9 +167,9 @@ Littelfuse's Martin Schulz explains how a direct liquid cooling power module cou
 
 The X1-certified MLCCs combine 305 VAC operation with 5 kV impulse capability for demanding power and EMI protection circuits. The post Vishay Extends Safety-Certified MLCC Ratings to 305 VAC appeared first on Power Electronics News .
 
-## Electronics — 19 distinct findings, 0 high-signal
+## Electronics — 20 distinct findings, 0 high-signal
 
-19 distinct electronics developments appeared in this time window. Highest-ranked topics: DisplayLink and InstantView: Multi-display kludge, or breakthrough?; Siemens digital twin targets 20% cut in hydrogen costs; Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+20 distinct electronics developments appeared in this time window. Highest-ranked topics: DisplayLink and InstantView: Multi-display kludge, or breakthrough?; Siemens digital twin targets 20% cut in hydrogen costs; Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [DisplayLink and InstantView: Multi-display kludge, or breakthrough?](https://www.edn.com/displaylink-and-instantview-multi-display-kludge-or-breakthrough)
 
