@@ -1,12 +1,12 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-26T16:19:07.602517+00:00  
+**Generated:** 2026-11-26T17:14:35.403122+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 56 · **High-signal candidates:** 0 · **Sources reporting:** 11
+**Distinct events:** 57 · **High-signal candidates:** 0 · **Sources reporting:** 11
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Power Systems (1), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (7), Power Systems (1), Electronics (1), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
@@ -41,6 +41,12 @@ The hybridization of solar PV plants, the evolution of arbitrage and ancillary s
 
 Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date. The post Estonian solar park energized with 55 MW/250 MWh battery appeared first on pv magazine Global .
 
+### [Solar under scrutiny in latest US trade tariff salvo](https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/)
+
+**Renewable Energy · Other developments · Score 9 · PV Tech**
+
+Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.
+
 ### [Rare periods of low PV generation can be managed with storage](https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage)
 
 **Renewable Energy · Other developments · Score 9 · pv magazine**
@@ -64,12 +70,6 @@ New energy storage platform Actuate Energy and inverter and BESS firm Sungrow ha
 **Renewable Energy · Other developments · Score 9 · pv magazine**
 
 Solarigo, Wisol and Ensto Maviko plan to combine their expertise in project development, construction and substation engineering to boost large-scale solar deployment in Finland. The post Finnish partners target 461 MW of solar by 2029 appeared first on pv magazine Global .
-
-### [Siemens digital twin targets 20% cut in hydrogen costs](https://www.eenewseurope.com/en/siemens-digital-twin-targets-20-cut-in-hydrogen-costs/)
-
-**Electronics · Other developments · Score 9 · eeNews Europe**
-
-Siemens is working with InterContinental Energy (ICE) and Australian solution partner Mescada to develop what the companies describe as a world-first digital twin for large-scale green hydrogen production and renewable-powered AI computing. The project aims to reduce hydrogen production costs by up 
 
 ## Power Systems — 5 distinct findings, 0 high-signal
 
@@ -96,9 +96,9 @@ Abstract: Symbol-level precoding (SLP) improves multiuser transmission by exploi
 arXiv:2611.33410v1 Announce Type: new 
 Abstract: Future wide-body all-electric aircraft require lightweight electrical distribution systems capable of delivering megawatt-scale propulsion power under demanding thermal and electrical conditions. This article reviews our research program on medium-vol
 
-## Renewable Energy — 23 distinct findings, 0 high-signal
+## Renewable Energy — 24 distinct findings, 0 high-signal
 
-23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Huawei launches Luterra S2 in Europe; Gambia signs four solar PPAs totalling 232 MW; Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+24 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Huawei launches Luterra S2 in Europe; Gambia signs four solar PPAs totalling 232 MW; Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [Huawei launches Luterra S2 in Europe](https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe)
 

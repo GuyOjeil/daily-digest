@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-26T16:19:07.602517+00:00",
+  "generated": "2026-11-26T17:14:35.403122+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-25T16:19:07.602517+00:00",
+  "window_start": "2026-11-25T17:14:35.403122+00:00",
   "stats": {
-    "events": 56,
+    "events": 57,
     "high": 0,
     "sources_reporting": 11,
     "categories": 6,
-    "records_inserted": 126,
+    "records_inserted": 4,
     "fetched": 420,
     "sources_failed": 4,
     "source_checks": 37
@@ -96,6 +96,21 @@
       "coverage": []
     },
     {
+      "title": "Solar under scrutiny in latest US trade tariff salvo",
+      "url": "https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/",
+      "source": "PV Tech",
+      "category": "Renewable Energy",
+      "published": "2026-11-26T17:09:24+00:00",
+      "summary": "Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.",
+      "score": 9,
+      "priority": "Other developments",
+      "interests": [
+        "Renewable Energy"
+      ],
+      "event_id": "6deb40b1c5c7",
+      "coverage": []
+    },
+    {
       "title": "Rare periods of low PV generation can be managed with storage",
       "url": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage",
       "source": "pv magazine",
@@ -156,22 +171,6 @@
         "Renewable Energy"
       ],
       "event_id": "c33f2ea64406",
-      "coverage": []
-    },
-    {
-      "title": "Siemens digital twin targets 20% cut in hydrogen costs",
-      "url": "https://www.eenewseurope.com/en/siemens-digital-twin-targets-20-cut-in-hydrogen-costs/",
-      "source": "eeNews Europe",
-      "category": "Electronics",
-      "published": "2026-11-26T09:51:18+00:00",
-      "summary": "Siemens is working with InterContinental Energy (ICE) and Australian solution partner Mescada to develop what the companies describe as a world-first digital twin for large-scale green hydrogen production and renewable-powered AI computing. The project aims to reduce hydrogen production costs by up to 20% while accelerating the deployment of gigawatt-scale clean energy infrastructure. For eeNews […] The post Siemens digital twin targets 20% cut in hydrogen costs appeared first on eeNews Europe .",
-      "score": 9,
-      "priority": "Other developments",
-      "interests": [
-        "Power Systems",
-        "Renewable Energy"
-      ],
-      "event_id": "b75dc9c0915b",
       "coverage": []
     }
   ],
@@ -319,7 +318,7 @@
     },
     {
       "name": "Renewable Energy",
-      "count": 23,
+      "count": 24,
       "high": 0,
       "top": [
         {
@@ -439,6 +438,21 @@
           "coverage": []
         },
         {
+          "title": "Solar under scrutiny in latest US trade tariff salvo",
+          "url": "https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/",
+          "source": "PV Tech",
+          "category": "Renewable Energy",
+          "published": "2026-11-26T17:09:24+00:00",
+          "summary": "Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.",
+          "score": 9,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "6deb40b1c5c7",
+          "coverage": []
+        },
+        {
           "title": "Rare periods of low PV generation can be managed with storage",
           "url": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage",
           "source": "pv magazine",
@@ -532,20 +546,25 @@
           "coverage": []
         },
         {
-          "title": "EU Chinese inverter ban could cut Eastern European PV deployments by 5%, says Woodmac",
-          "url": "https://www.pv-tech.org/eu-chinese-inverter-ban-could-cut-eastern-european-pv-deployments-by-5-says-woodmac/",
+          "title": "EU Chinese inverter ban could cut Eastern European PV deployments by 6%, says Woodmac",
+          "url": "https://www.pv-tech.org/eu-chinese-inverter-ban-could-cut-eastern-european-pv-deployments-by-6-says-woodmac/",
           "source": "PV Tech",
           "category": "Renewable Energy",
           "published": "2026-11-26T12:55:15+00:00",
-          "summary": "The European Union’s restrictions on Chinese power inverter supply could cut solar deployments for half of the continent by 5%, according to analysis by Wood Mackenzie.",
+          "summary": "The European Union’s restrictions on Chinese power inverter supply could cut solar deployments for half of the continent by 6%, according to analysis by Wood Mackenzie.",
           "score": 7,
           "priority": "Other developments",
           "interests": [
             "Renewable Energy",
             "Power Electronics"
           ],
-          "event_id": "b526f40a5f52",
-          "coverage": []
+          "event_id": "098f0295a168",
+          "coverage": [
+            {
+              "source": "PV Tech",
+              "url": "https://www.pv-tech.org/eu-chinese-inverter-ban-could-cut-eastern-european-pv-deployments-by-5-says-woodmac/"
+            }
+          ]
         },
         {
           "title": "Feds back $4B project to connect eastern and western electricity grids",
@@ -560,6 +579,21 @@
             "Power Systems"
           ],
           "event_id": "7d580d0a095d",
+          "coverage": []
+        },
+        {
+          "title": "France triples planned renewable energy auction volume to 1.5 GW",
+          "url": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-26T16:23:59+00:00",
+          "summary": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference price for calculating payments to generators. The post France triples planned renewable energy auction volume to 1.5 GW appeared first on pv magazine Global .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "8f5944cea2e7",
           "coverage": []
         },
         {
@@ -670,21 +704,6 @@
           "coverage": []
         },
         {
-          "title": "Policy reforms could accelerate Indonesia’s 100GW deployment target – Ember",
-          "url": "https://www.pv-tech.org/indonesia-100gw-solar-deployment-target-policies-ember/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-25T17:13:36+00:00",
-          "summary": "A report from think tank Ember has highlighted six policy reforms in Indonesia that would accelerate the country’s 100GW solar PV target.",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "f6c16f3311aa",
-          "coverage": []
-        },
-        {
           "title": "Beyond climate forecasting: AI’s growing role in distributed energy flexibility",
           "url": "https://www.pv-tech.org/tuya-smart-conow-ai-energy-renewables-respond-extreme-weather/",
           "source": "PV Tech",
@@ -728,7 +747,7 @@
           "coverage": []
         }
       ],
-      "narrative": "23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Huawei launches Luterra S2 in Europe; Gambia signs four solar PPAs totalling 232 MW; Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "24 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Huawei launches Luterra S2 in Europe; Gambia signs four solar PPAs totalling 232 MW; Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
@@ -1331,7 +1350,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:14.964726+00:00",
+      "last_success": "2026-11-26T17:14:41.582107+00:00",
       "error": ""
     },
     {
@@ -1340,7 +1359,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:26.794466+00:00",
+      "last_success": "2026-11-26T17:14:51.485060+00:00",
       "error": ""
     },
     {
@@ -1349,7 +1368,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:10.293961+00:00",
+      "last_success": "2026-11-26T17:14:37.681681+00:00",
       "error": ""
     },
     {
@@ -1358,7 +1377,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:11.296459+00:00",
+      "last_success": "2026-11-26T17:14:38.175907+00:00",
       "error": ""
     },
     {
@@ -1367,7 +1386,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:10.784120+00:00",
+      "last_success": "2026-11-26T17:14:37.994023+00:00",
       "error": ""
     },
     {
@@ -1376,7 +1395,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:09.879290+00:00",
+      "last_success": "2026-11-26T17:14:37.442481+00:00",
       "error": ""
     },
     {
@@ -1385,7 +1404,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:09.660836+00:00",
+      "last_success": "2026-11-26T17:14:37.242089+00:00",
       "error": ""
     },
     {
@@ -1394,7 +1413,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:14.656966+00:00",
+      "last_success": "2026-11-26T17:14:41.193115+00:00",
       "error": ""
     },
     {
@@ -1403,7 +1422,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:07.914514+00:00",
+      "last_success": "2026-11-26T17:14:35.805807+00:00",
       "error": ""
     },
     {
@@ -1412,7 +1431,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:14.288576+00:00",
+      "last_success": "2026-11-26T17:14:40.840345+00:00",
       "error": ""
     },
     {
@@ -1421,7 +1440,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:13.789266+00:00",
+      "last_success": "2026-11-26T17:14:40.422702+00:00",
       "error": ""
     },
     {
@@ -1430,7 +1449,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:16.005546+00:00",
+      "last_success": "2026-11-26T17:14:42.309879+00:00",
       "error": ""
     },
     {
@@ -1439,7 +1458,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:15.816212+00:00",
+      "last_success": "2026-11-26T17:14:42.215180+00:00",
       "error": ""
     },
     {
@@ -1448,7 +1467,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:10.545381+00:00",
+      "last_success": "2026-11-26T17:14:37.879689+00:00",
       "error": ""
     },
     {
@@ -1457,7 +1476,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:19.874017+00:00",
+      "last_success": "2026-11-26T17:14:45.410166+00:00",
       "error": ""
     },
     {
@@ -1466,7 +1485,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:08.151273+00:00",
+      "last_success": "2026-11-26T17:14:36.009069+00:00",
       "error": ""
     },
     {
@@ -1475,7 +1494,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:16.432359+00:00",
+      "last_success": "2026-11-26T17:14:42.363744+00:00",
       "error": ""
     },
     {
@@ -1484,7 +1503,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:14.656918+00:00",
+      "last_success": "2026-11-26T17:14:41.193048+00:00",
       "error": ""
     },
     {
@@ -1493,7 +1512,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:13.180419+00:00",
+      "last_success": "2026-11-26T17:14:39.860593+00:00",
       "error": ""
     },
     {
@@ -1502,7 +1521,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:08.577086+00:00",
+      "last_success": "2026-11-26T17:14:36.553268+00:00",
       "error": ""
     },
     {
@@ -1511,7 +1530,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:23.254634+00:00",
+      "last_success": "2026-11-26T17:14:48.447126+00:00",
       "error": ""
     },
     {
@@ -1520,7 +1539,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:12.371644+00:00",
+      "last_success": "2026-11-26T17:14:39.254037+00:00",
       "error": ""
     },
     {
@@ -1529,7 +1548,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:08.922500+00:00",
+      "last_success": "2026-11-26T17:14:36.905153+00:00",
       "error": ""
     },
     {
@@ -1538,7 +1557,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:15.513081+00:00",
+      "last_success": "2026-11-26T17:14:41.960065+00:00",
       "error": ""
     },
     {
@@ -1547,7 +1566,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:08.025490+00:00",
+      "last_success": "2026-11-26T17:14:35.891948+00:00",
       "error": ""
     },
     {
@@ -1556,7 +1575,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:08.760715+00:00",
+      "last_success": "2026-11-26T17:14:36.731939+00:00",
       "error": ""
     },
     {
@@ -1565,7 +1584,7 @@
       "status": "ok",
       "count": 28,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:14.854162+00:00",
+      "last_success": "2026-11-26T17:14:41.451044+00:00",
       "error": ""
     },
     {
@@ -1574,7 +1593,7 @@
       "status": "ok",
       "count": 32,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:14.825464+00:00",
+      "last_success": "2026-11-26T17:14:41.427118+00:00",
       "error": ""
     },
     {
@@ -1583,7 +1602,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:12.820720+00:00",
+      "last_success": "2026-11-26T17:14:39.561829+00:00",
       "error": ""
     },
     {
@@ -1592,7 +1611,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:15.369658+00:00",
+      "last_success": "2026-11-26T17:14:41.875482+00:00",
       "error": ""
     },
     {
@@ -1601,7 +1620,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:14.656111+00:00",
+      "last_success": "2026-11-26T17:14:41.191903+00:00",
       "error": ""
     },
     {
@@ -1610,7 +1629,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:08.463940+00:00",
+      "last_success": "2026-11-26T17:14:36.472656+00:00",
       "error": ""
     },
     {
@@ -1619,7 +1638,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-26T16:19:13.466615+00:00",
+      "last_success": "2026-11-26T17:14:40.147429+00:00",
       "error": ""
     },
     {
@@ -1659,5 +1678,5 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (6), Electronics (2), Power Systems (1), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (7), Power Systems (1), Electronics (1), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
 }
