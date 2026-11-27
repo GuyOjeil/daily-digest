@@ -1,45 +1,68 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-26T17:28:48.953463+00:00  
+**Generated:** 2026-11-27T16:03:54.930053+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 58 · **High-signal candidates:** 0 · **Sources reporting:** 11
+**Distinct events:** 40 · **High-signal candidates:** 0 · **Sources reporting:** 9
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (7), Power Systems (1), Electronics (1), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
-### [Huawei launches Luterra S2 in Europe](https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe)
-
-**Renewable Energy · Worth watching · Score 11 · pv magazine**
-
-The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh. The system occupies 0.15 m2 of floor space and 0.69 m2 of wall space. The
-
-### [Optimization of a Hybrid Solar-Biogas-Battery Energy Storage Microgrid: A Case Study](https://arxiv.org/abs/2611.33593)
-
-**Power Systems · Worth watching · Score 11 · arXiv Systems and Control**
-
-arXiv:2611.33593v1 Announce Type: new 
-Abstract: Low-income regions like eastern Uganda often lack reliable grid power. This paper presents the techno-economic optimization of the Soroti Integrated Renewable Energy Microgrid (SIREM), a hybrid renewable system for grid-access expansion where Soroti D
-
-### [Gambia signs four solar PPAs totalling 232 MW](https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw)
+### [The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant](https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant)
 
 **Renewable Energy · Worth watching · Score 10 · pv magazine**
 
-The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project. The post Gambia signs four solar PPAs totalling 232 MW appeared first on pv magazine Global .
+In other news, Australia and Germany are exploring hydrogen-based aviation, while Envision Energy and Greensteel Australia are considering a 400 MW green hydrogen system for low-carbon steelmaking. The post The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant a
 
-### [Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge](https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge)
+### [Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom](https://www.pv-tech.org/q3-2026-was-highest-on-record-for-indian-rooftop-solar-additions-says-mercom/)
+
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
+
+India added 4.7GW of new rooftop solar PV capacity in Q3 2026, more than double the figure added in the same period last year, according to figures from Mercom India.
+
+### [New record for UK rooftop solar, more growth predicted](https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted)
 
 **Renewable Energy · Worth watching · Score 10 · pv magazine**
 
-The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv magazine at Genera 2026. Experts anticipate strong growth in the Spanish market, t
+More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared
 
-### [Estonian solar park energized with 55 MW/250 MWh battery](https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery)
+### [Australia’s rooftop solar installs record 890MW in Q3 2026, says CER](https://www.pv-tech.org/australias-rooftop-solar-installs-record-890mw-q3-2026-cer/)
 
-**Renewable Energy · Worth watching · Score 10 · pv magazine**
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
 
-Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date. The post Estonian solar park energized with 55 MW/250 MWh battery appeared first on pv magazine Global .
+Australia's rooftop solar sector installed 890MW in its strongest third quarter on record, according to the Clean Energy Regulator (CER).
+
+### [Australia opens 5GW renewable energy tender under Capacity Investment Scheme](https://www.pv-tech.org/australia-opens-5gw-renewable-energy-tender-under-capacity-investment-scheme/)
+
+**Renewable Energy · Other developments · Score 9 · PV Tech**
+
+Australia opens 5GW renewable energy tender with new developer assessment and First Nations participation requirements.
+
+### [Elco launches propane air-to-water heat pumps for commercial applications](https://www.pv-magazine.com/2026/11/27/elco-launches-propane-air-to-water-heat-pumps-for-commercial-applications)
+
+**Renewable Energy · Other developments · Score 9 · pv magazine**
+
+The new heat pump series is available in seven versions with heating capacities ranging from 40.1 kW to 84.4 kW and seasonal coefficients of performance of up to 4.70. The systems can deliver flow temperatures of up to 75 C and be cascaded to reach a combined capacity of 1.35 MW. The post Elco launc
+
+### [EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie](https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie)
+
+**Renewable Energy · Other developments · Score 9 · pv magazine**
+
+Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030. Limited local product availability, rising costs, and supply chain constraints are among the ma
+
+### [Chinese PV Industry Brief: China hits 1.33 TW of cumulative solar capacity](https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity)
+
+**Renewable Energy · Other developments · Score 9 · pv magazine**
+
+In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar project, while TrendForce has reported further declines in wafer and cell prices. 
+
+### [‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar](https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar)
+
+**Energy Storage · Other developments · Score 9 · Energy Storage News**
+
+Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.
 
 ### [Solar under scrutiny in latest US trade tariff salvo](https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/)
 
@@ -47,147 +70,91 @@ Project developers say the battery energy storage system, which is tied to a 77.
 
 Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.
 
-### [Rare periods of low PV generation can be managed with storage](https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage)
+## Lebanon and Middle East — 1 distinct findings, 0 high-signal
 
-**Renewable Energy · Other developments · Score 9 · pv magazine**
+1 distinct lebanon and middle east developments appeared in this time window. Highest-ranked topics: PV Chart of the Week: Where are African solar cells and modules produced?. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged periods of low renewable output. The post Rare periods of low PV generation can be 
+### [PV Chart of the Week: Where are African solar cells and modules produced?](https://www.pv-tech.org/african-solar-cells-modules-production-us-exports/)
 
-### [DisplayLink and InstantView: Multi-display kludge, or breakthrough?](https://www.edn.com/displaylink-and-instantview-multi-display-kludge-or-breakthrough)
+**Lebanon and Middle East · Other developments · Score 8 · PV Tech**
 
-**Electronics · Other developments · Score 9 · EDN**
+This week's PV Chart of the Week looks at solar cell and module manufacturing in Africa and the Middle East and their export to the US.
 
-If your system’s graphics doesn’t natively support enough outputs for your needs, additional display hardware might help. But nothing’s free. The post DisplayLink and InstantView: Multi-display kludge, or breakthrough? appeared first on EDN .
+## Power Systems — 1 distinct findings, 0 high-signal
 
-### [Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain](https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain)
+1 distinct power systems developments appeared in this time window. Highest-ranked topics: Italy Taking Steps to Revive Use of Nuclear Power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-**Energy Storage · Other developments · Score 9 · Energy Storage News**
+### [Italy Taking Steps to Revive Use of Nuclear Power](https://www.powermag.com/italy-taking-steps-to-revive-use-of-nuclear-power/)
 
-New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.
+**Power Systems · Other developments · Score 4 · POWER Magazine**
 
-### [Finnish partners target 461 MW of solar by 2029](https://www.pv-magazine.com/2026/11/26/finnish-partners-target-461-mw-of-solar-by-2029)
+Lawmakers in Italy are paving the way to again have nuclear power as part of the country's energy mix. The post Italy Taking Steps to Revive Use of Nuclear Power appeared first on POWER Magazine .
 
-**Renewable Energy · Other developments · Score 9 · pv magazine**
+## Renewable Energy — 22 distinct findings, 0 high-signal
 
-Solarigo, Wisol and Ensto Maviko plan to combine their expertise in project development, construction and substation engineering to boost large-scale solar deployment in Finland. The post Finnish partners target 461 MW of solar by 2029 appeared first on pv magazine Global .
+22 distinct renewable energy developments appeared in this time window. Highest-ranked topics: The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom; New record for UK rooftop solar, more growth predicted. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-## Power Systems — 5 distinct findings, 0 high-signal
-
-5 distinct power systems developments appeared in this time window. Highest-ranked topics: Optimization of a Hybrid Solar-Biogas-Battery Energy Storage Microgrid: A Case Study; Symbol-Level Precoding With Microwave Linear Analog Computers (MiLACs): Performance Limits and Stem-Connected Hardware Design; MVDC Power Cables for Future Wide-Body All-Electric Aircraft: A Research Journey from System-Level Requirements to Modeling, Design, Fabrication, and Testing. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [Optimization of a Hybrid Solar-Biogas-Battery Energy Storage Microgrid: A Case Study](https://arxiv.org/abs/2611.33593)
-
-**Power Systems · Worth watching · Score 11 · arXiv Systems and Control**
-
-arXiv:2611.33593v1 Announce Type: new 
-Abstract: Low-income regions like eastern Uganda often lack reliable grid power. This paper presents the techno-economic optimization of the Soroti Integrated Renewable Energy Microgrid (SIREM), a hybrid renewable system for grid-access expansion where Soroti D
-
-### [Symbol-Level Precoding With Microwave Linear Analog Computers (MiLACs): Performance Limits and Stem-Connected Hardware Design](https://arxiv.org/abs/2611.33651)
-
-**Power Systems · Other developments · Score 8 · arXiv Signal Processing**
-
-arXiv:2611.33651v1 Announce Type: new 
-Abstract: Symbol-level precoding (SLP) improves multiuser transmission by exploiting constructive interference based on user symbols. A microwave linear analog computer (MiLAC) maps a reduced number of radio-frequency (RF) port input signals to a large antenna 
-
-### [MVDC Power Cables for Future Wide-Body All-Electric Aircraft: A Research Journey from System-Level Requirements to Modeling, Design, Fabrication, and Testing](https://arxiv.org/abs/2611.33410)
-
-**Power Systems · Other developments · Score 7 · arXiv Systems and Control**
-
-arXiv:2611.33410v1 Announce Type: new 
-Abstract: Future wide-body all-electric aircraft require lightweight electrical distribution systems capable of delivering megawatt-scale propulsion power under demanding thermal and electrical conditions. This article reviews our research program on medium-vol
-
-## Renewable Energy — 24 distinct findings, 0 high-signal
-
-24 distinct renewable energy developments appeared in this time window. Highest-ranked topics: Huawei launches Luterra S2 in Europe; Gambia signs four solar PPAs totalling 232 MW; Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [Huawei launches Luterra S2 in Europe](https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe)
-
-**Renewable Energy · Worth watching · Score 11 · pv magazine**
-
-The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh. The system occupies 0.15 m2 of floor space and 0.69 m2 of wall space. The
-
-### [Gambia signs four solar PPAs totalling 232 MW](https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw)
+### [The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant](https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant)
 
 **Renewable Energy · Worth watching · Score 10 · pv magazine**
 
-The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project. The post Gambia signs four solar PPAs totalling 232 MW appeared first on pv magazine Global .
+In other news, Australia and Germany are exploring hydrogen-based aviation, while Envision Energy and Greensteel Australia are considering a 400 MW green hydrogen system for low-carbon steelmaking. The post The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant a
 
-### [Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge](https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge)
+### [Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom](https://www.pv-tech.org/q3-2026-was-highest-on-record-for-indian-rooftop-solar-additions-says-mercom/)
+
+**Renewable Energy · Worth watching · Score 10 · PV Tech**
+
+India added 4.7GW of new rooftop solar PV capacity in Q3 2026, more than double the figure added in the same period last year, according to figures from Mercom India.
+
+### [New record for UK rooftop solar, more growth predicted](https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted)
 
 **Renewable Energy · Worth watching · Score 10 · pv magazine**
 
-The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv magazine at Genera 2026. Experts anticipate strong growth in the Spanish market, t
+More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared
 
-## Energy Storage — 6 distinct findings, 0 high-signal
+## Energy Storage — 5 distinct findings, 0 high-signal
 
-6 distinct energy storage developments appeared in this time window. Highest-ranked topics: Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain; ‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia; Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+5 distinct energy storage developments appeared in this time window. Highest-ranked topics: ‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar; This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus; BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-### [Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain](https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain)
+### [‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar](https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar)
 
 **Energy Storage · Other developments · Score 9 · Energy Storage News**
 
-New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.
+Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.
 
-### [‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia](https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia)
+### [This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus](https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm)
+
+**Energy Storage · Other developments · Score 8 · Electrek**
+
+Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason: Tesla won’t have enough AI5 chips for its cars until 2028. According to Commercial Times , Tesla’s chip design partner Glob
+
+### [BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss](https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss)
 
 **Energy Storage · Other developments · Score 8 · Energy Storage News**
 
-The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.
+Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.
 
-### [Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS](https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess)
+## Electronics — 11 distinct findings, 0 high-signal
 
-**Energy Storage · Other developments · Score 7 · Energy Storage News**
+11 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
-NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.
-
-## Control and Automation — 1 distinct findings, 0 high-signal
-
-1 distinct control and automation developments appeared in this time window. Highest-ranked topics: Model Predictive Control of a Multirotor UAV with a Cable-Suspended Payload: A Comparison of Shifted and Transformer-Based Warm Starts. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [Model Predictive Control of a Multirotor UAV with a Cable-Suspended Payload: A Comparison of Shifted and Transformer-Based Warm Starts](https://arxiv.org/abs/2611.33514)
-
-**Control and Automation · Other developments · Score 8 · arXiv Systems and Control**
-
-arXiv:2611.33514v1 Announce Type: cross 
-Abstract: This study investigates model predictive control (MPC) of a multirotor drone (unmanned aerial vehicle, UAV) carrying a cable-suspended payload, comparing conventional shifted initialization with Transformer-based warm starting of a sequential convex
-
-## Power Electronics — 2 distinct findings, 0 high-signal
-
-2 distinct power electronics developments appeared in this time window. Highest-ranked topics: Power Corner: Littelfuse’s Martin Schulz on Direct Liquid Cooling for Commercial-Vehicle Inverters; Vishay Extends Safety-Certified MLCC Ratings to 305 VAC. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [Power Corner: Littelfuse’s Martin Schulz on Direct Liquid Cooling for Commercial-Vehicle Inverters](https://www.powerelectronicsnews.com/power-corner-littelfuses-martin-schulz-on-direct-liquid-cooling-for-commercial-vehicle-inverters)
-
-**Power Electronics · Other developments · Score 6 · Power Electronics News**
-
-Littelfuse's Martin Schulz explains how a direct liquid cooling power module could extend truck inverter lifetime by 30x. The post Power Corner: Littelfuse’s Martin Schulz on Direct Liquid Cooling for Commercial-Vehicle Inverters appeared first on Power Electronics News .
-
-### [Vishay Extends Safety-Certified MLCC Ratings to 305 VAC](https://www.powerelectronicsnews.com/vishay-extends-safety-certified-mlcc-ratings-to-305-vac)
-
-**Power Electronics · Other developments · Score 6 · Power Electronics News**
-
-The X1-certified MLCCs combine 305 VAC operation with 5 kV impulse capability for demanding power and EMI protection circuits. The post Vishay Extends Safety-Certified MLCC Ratings to 305 VAC appeared first on Power Electronics News .
-
-## Electronics — 20 distinct findings, 0 high-signal
-
-20 distinct electronics developments appeared in this time window. Highest-ranked topics: DisplayLink and InstantView: Multi-display kludge, or breakthrough?; Siemens digital twin targets 20% cut in hydrogen costs; Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [DisplayLink and InstantView: Multi-display kludge, or breakthrough?](https://www.edn.com/displaylink-and-instantview-multi-display-kludge-or-breakthrough)
-
-**Electronics · Other developments · Score 9 · EDN**
-
-If your system’s graphics doesn’t natively support enough outputs for your needs, additional display hardware might help. But nothing’s free. The post DisplayLink and InstantView: Multi-display kludge, or breakthrough? appeared first on EDN .
-
-### [Siemens digital twin targets 20% cut in hydrogen costs](https://www.eenewseurope.com/en/siemens-digital-twin-targets-20-cut-in-hydrogen-costs/)
-
-**Electronics · Other developments · Score 9 · eeNews Europe**
-
-Siemens is working with InterContinental Energy (ICE) and Australian solution partner Mescada to develop what the companies describe as a world-first digital twin for large-scale green hydrogen production and renewable-powered AI computing. The project aims to reduce hydrogen production costs by up 
-
-### [Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry](https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry)
+### [NuVolta Technical Sharing: PCB Grounding Design and Return Path](https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path)
 
 **Electronics · Other developments · Score 8 · EE Times**
 
-Quantum computing, sovereign AI, ocean electronics, and advanced materials: six stories on how Canada is connecting its technology strengths—and confronting the challenge of scale. The post Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry appeared first on EE Times .
+Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca
+
+### [VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency](https://www.eenewseurope.com/en/vinfasts-net-zero-strategy/)
+
+**Electronics · Other developments · Score 8 · eeNews Europe**
+
+Reducing emissions in the automotive industry involves more than replacing combustion engines with electric drivetrains. Manufacturing processes, electricity consumption, and the materials used throughout the supply chain also contribute to a vehicle manufacturer’s environmental footprint. Vietnames
+
+### [Quantum computer scaling advances](https://www.eenewseurope.com/en/quantum-computer-scaling-advances/)
+
+**Electronics · Other developments · Score 8 · eeNews Europe**
+
+Several quantum computing firms are pushing hard to deliver large-scale systems over the next few years. In the last few weeks, IBM, Quantinuum, PsiQuantum and Universal Quantum have all shown technologies that will scale to thousands of qubits, while researchers are finding new technologies for int
 
 ---
 
