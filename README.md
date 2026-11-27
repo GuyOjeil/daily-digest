@@ -1,8 +1,8 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-27T16:03:54.930053+00:00  
+**Generated:** 2026-11-27T23:10:59.185446+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 40 · **High-signal candidates:** 0 · **Sources reporting:** 9
+**Distinct events:** 38 · **High-signal candidates:** 0 · **Sources reporting:** 9
 
 ## Executive brief
 
@@ -64,11 +64,11 @@ In other news, Jiangsu province has unveiled its 2027 renewable energy auction f
 
 Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.
 
-### [Solar under scrutiny in latest US trade tariff salvo](https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/)
+### [Co-locating solar and storage integral to minimise ‘disruptive’ impacts on Central and Eastern European grids](https://www.pv-tech.org/co-locating-solar-storage-integral-minimise-disruptive-impacts-central-eastern-european-grids/)
 
-**Renewable Energy · Other developments · Score 9 · PV Tech**
+**Renewable Energy · Other developments · Score 8 · PV Tech**
 
-Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.
+The co-location of solar PV and BESS was the key talking point at the 2026 SolarPlus Central Eastern Europe event.
 
 ## Lebanon and Middle East — 1 distinct findings, 0 high-signal
 
@@ -80,9 +80,15 @@ Solar manufacturing has been singled out in US government proposals for new tari
 
 This week's PV Chart of the Week looks at solar cell and module manufacturing in Africa and the Middle East and their export to the US.
 
-## Power Systems — 1 distinct findings, 0 high-signal
+## Power Systems — 2 distinct findings, 0 high-signal
 
-1 distinct power systems developments appeared in this time window. Highest-ranked topics: Italy Taking Steps to Revive Use of Nuclear Power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+2 distinct power systems developments appeared in this time window. Highest-ranked topics: Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry; Italy Taking Steps to Revive Use of Nuclear Power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry](https://www.powermag.com/babcock-wilcox-brillit-named-2026-best-places-to-work-in-the-power-industry/)
+
+**Power Systems · Other developments · Score 6 · POWER Magazine**
+
+There is a stark difference between the histories of the two companies named 2026 Best Places to Work in the Power Industry. Babcock & Wilcox (B&W) was founded in 1867 by two friends who designed the The post Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry appeared fir
 
 ### [Italy Taking Steps to Revive Use of Nuclear Power](https://www.powermag.com/italy-taking-steps-to-revive-use-of-nuclear-power/)
 
@@ -90,9 +96,9 @@ This week's PV Chart of the Week looks at solar cell and module manufacturing in
 
 Lawmakers in Italy are paving the way to again have nuclear power as part of the country's energy mix. The post Italy Taking Steps to Revive Use of Nuclear Power appeared first on POWER Magazine .
 
-## Renewable Energy — 22 distinct findings, 0 high-signal
+## Renewable Energy — 20 distinct findings, 0 high-signal
 
-22 distinct renewable energy developments appeared in this time window. Highest-ranked topics: The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom; New record for UK rooftop solar, more growth predicted. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+20 distinct renewable energy developments appeared in this time window. Highest-ranked topics: The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom; New record for UK rooftop solar, more growth predicted. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant](https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant)
 
@@ -134,9 +140,9 @@ Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it�
 
 Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.
 
-## Electronics — 11 distinct findings, 0 high-signal
+## Electronics — 10 distinct findings, 0 high-signal
 
-11 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+10 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [NuVolta Technical Sharing: PCB Grounding Design and Return Path](https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path)
 

@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-27T16:03:54.930053+00:00",
+  "generated": "2026-11-27T23:10:59.185446+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-26T16:03:54.930053+00:00",
+  "window_start": "2026-11-26T23:10:59.185446+00:00",
   "stats": {
-    "events": 40,
+    "events": 38,
     "high": 0,
     "sources_reporting": 9,
     "categories": 5,
-    "records_inserted": 49,
+    "records_inserted": 18,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -153,18 +153,20 @@
       "coverage": []
     },
     {
-      "title": "Solar under scrutiny in latest US trade tariff salvo",
-      "url": "https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/",
+      "title": "Co-locating solar and storage integral to minimise ‘disruptive’ impacts on Central and Eastern European grids",
+      "url": "https://www.pv-tech.org/co-locating-solar-storage-integral-minimise-disruptive-impacts-central-eastern-european-grids/",
       "source": "PV Tech",
       "category": "Renewable Energy",
-      "published": "2026-11-26T17:09:24+00:00",
-      "summary": "Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.",
-      "score": 9,
+      "published": "2026-11-27T15:50:35+00:00",
+      "summary": "The co-location of solar PV and BESS was the key talking point at the 2026 SolarPlus Central Eastern Europe event.",
+      "score": 8,
       "priority": "Other developments",
       "interests": [
-        "Renewable Energy"
+        "Power Systems",
+        "Renewable Energy",
+        "Energy Storage"
       ],
-      "event_id": "6deb40b1c5c7",
+      "event_id": "28e5d92500ef",
       "coverage": []
     }
   ],
@@ -211,9 +213,22 @@
     },
     {
       "name": "Power Systems",
-      "count": 1,
+      "count": 2,
       "high": 0,
       "top": [
+        {
+          "title": "Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry",
+          "url": "https://www.powermag.com/babcock-wilcox-brillit-named-2026-best-places-to-work-in-the-power-industry/",
+          "source": "POWER Magazine",
+          "category": "Power Systems",
+          "published": "2026-11-27T17:50:07+00:00",
+          "summary": "There is a stark difference between the histories of the two companies named 2026 Best Places to Work in the Power Industry. Babcock & Wilcox (B&W) was founded in 1867 by two friends who designed the The post Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry appeared first on POWER Magazine .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "c8eb528a8998",
+          "coverage": []
+        },
         {
           "title": "Italy Taking Steps to Revive Use of Nuclear Power",
           "url": "https://www.powermag.com/italy-taking-steps-to-revive-use-of-nuclear-power/",
@@ -230,6 +245,19 @@
       ],
       "items": [
         {
+          "title": "Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry",
+          "url": "https://www.powermag.com/babcock-wilcox-brillit-named-2026-best-places-to-work-in-the-power-industry/",
+          "source": "POWER Magazine",
+          "category": "Power Systems",
+          "published": "2026-11-27T17:50:07+00:00",
+          "summary": "There is a stark difference between the histories of the two companies named 2026 Best Places to Work in the Power Industry. Babcock & Wilcox (B&W) was founded in 1867 by two friends who designed the The post Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry appeared first on POWER Magazine .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "c8eb528a8998",
+          "coverage": []
+        },
+        {
           "title": "Italy Taking Steps to Revive Use of Nuclear Power",
           "url": "https://www.powermag.com/italy-taking-steps-to-revive-use-of-nuclear-power/",
           "source": "POWER Magazine",
@@ -243,11 +271,11 @@
           "coverage": []
         }
       ],
-      "narrative": "1 distinct power systems developments appeared in this time window. Highest-ranked topics: Italy Taking Steps to Revive Use of Nuclear Power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "2 distinct power systems developments appeared in this time window. Highest-ranked topics: Babcock & Wilcox, BrilliT Named 2026 Best Places to Work in the Power Industry; Italy Taking Steps to Revive Use of Nuclear Power. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Renewable Energy",
-      "count": 22,
+      "count": 20,
       "high": 0,
       "top": [
         {
@@ -421,21 +449,6 @@
           "coverage": []
         },
         {
-          "title": "Solar under scrutiny in latest US trade tariff salvo",
-          "url": "https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-26T17:09:24+00:00",
-          "summary": "Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "6deb40b1c5c7",
-          "coverage": []
-        },
-        {
           "title": "Co-locating solar and storage integral to minimise ‘disruptive’ impacts on Central and Eastern European grids",
           "url": "https://www.pv-tech.org/co-locating-solar-storage-integral-minimise-disruptive-impacts-central-eastern-european-grids/",
           "source": "PV Tech",
@@ -532,18 +545,18 @@
           "coverage": []
         },
         {
-          "title": "PROJECT ROUNDUP: Scatec withdraws 288MW solar project from REIPPPP, construction operations in US, Italy",
-          "url": "https://www.pv-tech.org/project-roundup-scatec-withdraws-288mw-solar-project-from-reipppp-construction-operations-in-us-italy/",
-          "source": "PV Tech",
+          "title": "Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter",
+          "url": "https://cleantechnica.com/2026/11/27/why-european-households-are-rushing-to-buy-solar-panels-ahead-of-a-dark-cold-winter/",
+          "source": "CleanTechnica",
           "category": "Renewable Energy",
-          "published": "2026-11-26T16:09:53+00:00",
-          "summary": "Norwegian independent power producer (IPP) Scatec has withdrawn a 288MW solar PV project from South Africa’s Renewable Energy Independent Power Producer Procurement Programme (REIPPPP) state procurement scheme and completed construction on a 126MW solar PV project through its local subsidiary. Lyra Energy, a renewable power trading platform owned 50/50 by Scatec and STANLIB Infrastructure Investments, […]",
-          "score": 8,
+          "published": "2026-11-27T22:35:21+00:00",
+          "summary": "Changes to solar incentives and long installation processes mean European homeowners could benefit from planning now. Winter is cold, dark, and grey. Yet for many Europeans, it’s a great time to switch to solar power. While many are focused on the holiday season, industry experts are urging homeowners considering a   ... [continued] The post Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter appeared first on CleanTechnica .",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
             "Renewable Energy"
           ],
-          "event_id": "1b6a88b23a75",
+          "event_id": "b13869842854",
           "coverage": []
         },
         {
@@ -607,21 +620,6 @@
           "coverage": []
         },
         {
-          "title": "France triples planned renewable energy auction volume to 1.5 GW",
-          "url": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-26T16:23:59+00:00",
-          "summary": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference price for calculating payments to generators. The post France triples planned renewable energy auction volume to 1.5 GW appeared first on pv magazine Global .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "8f5944cea2e7",
-          "coverage": []
-        },
-        {
           "title": "Vena Energy secures US$113 million loan for 114MW Indonesia portfolio",
           "url": "https://www.pv-tech.org/vena-energy-us113-million-loan-114mw-indonesia-portfolio/",
           "source": "PV Tech",
@@ -637,7 +635,7 @@
           "coverage": []
         }
       ],
-      "narrative": "22 distinct renewable energy developments appeared in this time window. Highest-ranked topics: The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom; New record for UK rooftop solar, more growth predicted. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "20 distinct renewable energy developments appeared in this time window. Highest-ranked topics: The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom; New record for UK rooftop solar, more growth predicted. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
@@ -773,7 +771,7 @@
     },
     {
       "name": "Electronics",
-      "count": 11,
+      "count": 10,
       "high": 0,
       "top": [
         {
@@ -895,18 +893,18 @@
           "coverage": []
         },
         {
-          "title": "Smart Bird Feeder: Wyze Introduces Window Bird Cam",
-          "url": "https://www.eenewseurope.com/en/wyze-smart-bird-feeder-window-camera/",
-          "source": "eeNews Europe",
+          "title": "Penguin Revives Retired DDR4 for AI Servers",
+          "url": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers",
+          "source": "EE Times",
           "category": "Electronics",
-          "published": "2026-11-26T17:23:03+00:00",
-          "summary": "Battery life, wireless connectivity, and exposure to weather are familiar challenges when designing outdoor IoT devices. With its new Window Bird Cam, Wyze takes a different approach to the smart bird feeder by moving the camera and its electronics indoors while keeping the feeder outside. The company has also introduced Bird Watch, an optional subscription […] The post Smart Bird Feeder: Wyze Introduces Window Bird Cam appeared first on eeNews Europe .",
-          "score": 7,
+          "published": "2026-11-27T19:17:00+00:00",
+          "summary": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands. The post Penguin Revives Retired DDR4 for AI Servers appeared first on EE Times .",
+          "score": 6,
           "priority": "Other developments",
           "interests": [
-            "Energy Storage"
+            "Semiconductors"
           ],
-          "event_id": "c1e44a2abfe1",
+          "event_id": "07cedf78b665",
           "coverage": []
         },
         {
@@ -940,19 +938,6 @@
           "coverage": []
         },
         {
-          "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
-          "url": "https://www.eetimes.com/siemens-adds-soc-verification-and-software-debug-with-two-planned-deals",
-          "source": "EE Times",
-          "category": "Electronics",
-          "published": "2026-11-26T18:00:00+00:00",
-          "summary": "The planned Breker and Lauterbach acquisitions would expand Siemens’s development tools, but an analyst expects integration benefits to take time. The post Siemens Adds SoC Verification and Software Debug with Two Planned Deals appeared first on EE Times .",
-          "score": 5,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "ae70399c606d",
-          "coverage": []
-        },
-        {
           "title": "IQM and QAI team up to bring quantum computing to Korean data centers",
           "url": "https://www.eenewseurope.com/en/iqm-and-qai-team-up-to-bring-quantum-computing-to-korean-data-centers/",
           "source": "eeNews Europe",
@@ -979,7 +964,7 @@
           "coverage": []
         }
       ],
-      "narrative": "11 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "10 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -989,7 +974,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:01.902449+00:00",
+      "last_success": "2026-11-27T23:11:05.321536+00:00",
       "error": ""
     },
     {
@@ -998,7 +983,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:14.492831+00:00",
+      "last_success": "2026-11-27T23:11:16.898227+00:00",
       "error": ""
     },
     {
@@ -1007,7 +992,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:57.701836+00:00",
+      "last_success": "2026-11-27T23:11:01.485756+00:00",
       "error": ""
     },
     {
@@ -1016,7 +1001,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:58.585779+00:00",
+      "last_success": "2026-11-27T23:11:02.241995+00:00",
       "error": ""
     },
     {
@@ -1025,7 +1010,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:58.396666+00:00",
+      "last_success": "2026-11-27T23:11:01.946810+00:00",
       "error": ""
     },
     {
@@ -1034,7 +1019,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:57.470941+00:00",
+      "last_success": "2026-11-27T23:11:01.231340+00:00",
       "error": ""
     },
     {
@@ -1043,7 +1028,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:57.261882+00:00",
+      "last_success": "2026-11-27T23:11:01.012492+00:00",
       "error": ""
     },
     {
@@ -1052,7 +1037,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:01.627691+00:00",
+      "last_success": "2026-11-27T23:11:05.097201+00:00",
       "error": ""
     },
     {
@@ -1061,7 +1046,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:55.988712+00:00",
+      "last_success": "2026-11-27T23:10:59.690754+00:00",
       "error": ""
     },
     {
@@ -1070,7 +1055,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:01.266673+00:00",
+      "last_success": "2026-11-27T23:11:04.800706+00:00",
       "error": ""
     },
     {
@@ -1079,7 +1064,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:00.851353+00:00",
+      "last_success": "2026-11-27T23:11:04.473096+00:00",
       "error": ""
     },
     {
@@ -1088,7 +1073,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:02.778502+00:00",
+      "last_success": "2026-11-27T23:11:06.249775+00:00",
       "error": ""
     },
     {
@@ -1097,7 +1082,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:02.669778+00:00",
+      "last_success": "2026-11-27T23:11:06.154886+00:00",
       "error": ""
     },
     {
@@ -1106,7 +1091,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:58.165732+00:00",
+      "last_success": "2026-11-27T23:11:01.761680+00:00",
       "error": ""
     },
     {
@@ -1115,7 +1100,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:06.795798+00:00",
+      "last_success": "2026-11-27T23:11:10.001418+00:00",
       "error": ""
     },
     {
@@ -1124,7 +1109,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:56.187940+00:00",
+      "last_success": "2026-11-27T23:10:59.894826+00:00",
       "error": ""
     },
     {
@@ -1133,7 +1118,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:03.332293+00:00",
+      "last_success": "2026-11-27T23:11:06.640589+00:00",
       "error": ""
     },
     {
@@ -1142,7 +1127,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:01.627634+00:00",
+      "last_success": "2026-11-27T23:11:05.097147+00:00",
       "error": ""
     },
     {
@@ -1151,7 +1136,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:00.225700+00:00",
+      "last_success": "2026-11-27T23:11:03.924970+00:00",
       "error": ""
     },
     {
@@ -1160,7 +1145,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:56.537641+00:00",
+      "last_success": "2026-11-27T23:11:00.257621+00:00",
       "error": ""
     },
     {
@@ -1169,7 +1154,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:11.061269+00:00",
+      "last_success": "2026-11-27T23:11:13.329414+00:00",
       "error": ""
     },
     {
@@ -1178,7 +1163,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:59.626509+00:00",
+      "last_success": "2026-11-27T23:11:03.358898+00:00",
       "error": ""
     },
     {
@@ -1187,7 +1172,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:56.910869+00:00",
+      "last_success": "2026-11-27T23:11:00.588338+00:00",
       "error": ""
     },
     {
@@ -1196,7 +1181,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:02.414778+00:00",
+      "last_success": "2026-11-27T23:11:05.712543+00:00",
       "error": ""
     },
     {
@@ -1205,7 +1190,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:56.069221+00:00",
+      "last_success": "2026-11-27T23:10:59.764786+00:00",
       "error": ""
     },
     {
@@ -1214,7 +1199,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:56.705235+00:00",
+      "last_success": "2026-11-27T23:11:00.403924+00:00",
       "error": ""
     },
     {
@@ -1223,7 +1208,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:59.948122+00:00",
+      "last_success": "2026-11-27T23:11:03.664218+00:00",
       "error": ""
     },
     {
@@ -1232,7 +1217,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:02.350491+00:00",
+      "last_success": "2026-11-27T23:11:05.631638+00:00",
       "error": ""
     },
     {
@@ -1241,7 +1226,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:01.626710+00:00",
+      "last_success": "2026-11-27T23:11:05.096240+00:00",
       "error": ""
     },
     {
@@ -1250,7 +1235,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T16:03:56.464281+00:00",
+      "last_success": "2026-11-27T23:11:00.177051+00:00",
       "error": ""
     },
     {
@@ -1259,8 +1244,26 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T16:04:00.559116+00:00",
+      "last_success": "2026-11-27T23:11:04.194923+00:00",
       "error": ""
+    },
+    {
+      "source": "arXiv Signal Processing",
+      "kind": "feed",
+      "status": "error",
+      "count": 0,
+      "failures": 2,
+      "last_success": "2026-11-26T17:28:54.020412+00:00",
+      "error": "No RSS/Atom entries found (check source endpoint)"
+    },
+    {
+      "source": "arXiv Systems and Control",
+      "kind": "feed",
+      "status": "error",
+      "count": 0,
+      "failures": 2,
+      "last_success": "2026-11-26T17:28:54.004441+00:00",
+      "error": "No RSS/Atom entries found (check source endpoint)"
     },
     {
       "source": "AGBI",
@@ -1297,24 +1300,6 @@
       "failures": 1,
       "last_success": null,
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
-    },
-    {
-      "source": "arXiv Signal Processing",
-      "kind": "feed",
-      "status": "error",
-      "count": 0,
-      "failures": 1,
-      "last_success": "2026-11-26T17:28:54.020412+00:00",
-      "error": "No RSS/Atom entries found (check source endpoint)"
-    },
-    {
-      "source": "arXiv Systems and Control",
-      "kind": "feed",
-      "status": "error",
-      "count": 0,
-      "failures": 1,
-      "last_success": "2026-11-26T17:28:54.004441+00:00",
-      "error": "No RSS/Atom entries found (check source endpoint)"
     }
   ],
   "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
