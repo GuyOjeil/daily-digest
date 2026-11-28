@@ -332,6 +332,19 @@ def main():
     keep_today=(not wa) and last_sent==NOW.strftime('%Y-%m-%d') and kept.exists() and kept.read_text(encoding='utf-8').startswith('Electrical Engineering news:')
     if keep_today: wa_page=kept.read_text(encoding='utf-8')
     else: wa_page=wa or 'No new stories since the last message. Check again tomorrow.\n'
+    # The website shows the SAME stories as the WhatsApp message of the day.
+    keys=('title','url','source','category','published')
+    today_key=NOW.strftime('%Y-%m-%d')
+    if fresh: report['today']={'date':today_key,'stories':[{k:e.get(k,'') for k in keys} for e in fresh]}
+    else:
+        try:
+            old=json.loads((ROOT/'docs'/'data.json').read_text(encoding='utf-8')).get('today')
+            if old and old.get('date')==today_key: report['today']=old
+        except Exception: pass
+        if 'today' not in report and keep_today:  # first run after this change: rebuild from the saved message
+            lines=[l.split('. ',1)[1].rstrip('.').strip() for l in wa_page.splitlines() if l[:1].isdigit() and '. ' in l]
+            match=[e for l in lines for e in events if ' '.join(e['title'].split()).replace('*','').replace('_','').startswith(l[:60])][:5]
+            if match: report['today']={'date':today_key,'stories':[{k:e.get(k,'') for k in keys} for e in match]}
     md=dashboard.markdown(report)
     (ROOT/'digest').mkdir(exist_ok=True)
     (ROOT/'digest'/'latest.md').write_text(md,encoding='utf-8')
