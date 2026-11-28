@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-27T23:10:59.185446+00:00",
+  "generated": "2026-11-28T02:27:21.934909+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-26T23:10:59.185446+00:00",
+  "window_start": "2026-11-27T02:27:21.934909+00:00",
   "stats": {
-    "events": 38,
+    "events": 39,
     "high": 0,
     "sources_reporting": 9,
     "categories": 5,
-    "records_inserted": 18,
+    "records_inserted": 2,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -771,7 +771,7 @@
     },
     {
       "name": "Electronics",
-      "count": 10,
+      "count": 11,
       "high": 0,
       "top": [
         {
@@ -938,6 +938,19 @@
           "coverage": []
         },
         {
+          "title": "GTA: Grand Three Assumptions",
+          "url": "https://www.eetimes.com/gta-grand-three-assumptions",
+          "source": "EE Times",
+          "category": "Electronics",
+          "published": "2026-11-28T02:00:00+00:00",
+          "summary": "GTA 6 broke sales records, but consoles running it rest on assumptions that failed: cheaper hardware, commodity memory, frozen platforms. The post GTA: Grand Three Assumptions appeared first on EE Times .",
+          "score": 5,
+          "priority": "Other developments",
+          "interests": [],
+          "event_id": "4a3d45f2a3e7",
+          "coverage": []
+        },
+        {
           "title": "IQM and QAI team up to bring quantum computing to Korean data centers",
           "url": "https://www.eenewseurope.com/en/iqm-and-qai-team-up-to-bring-quantum-computing-to-korean-data-centers/",
           "source": "eeNews Europe",
@@ -964,7 +977,7 @@
           "coverage": []
         }
       ],
-      "narrative": "10 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "11 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -974,7 +987,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:05.321536+00:00",
+      "last_success": "2026-11-28T02:27:27.305177+00:00",
       "error": ""
     },
     {
@@ -983,7 +996,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:16.898227+00:00",
+      "last_success": "2026-11-28T02:27:40.229489+00:00",
       "error": ""
     },
     {
@@ -992,7 +1005,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:01.485756+00:00",
+      "last_success": "2026-11-28T02:27:23.685118+00:00",
       "error": ""
     },
     {
@@ -1001,7 +1014,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:02.241995+00:00",
+      "last_success": "2026-11-28T02:27:24.400820+00:00",
       "error": ""
     },
     {
@@ -1010,7 +1023,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:01.946810+00:00",
+      "last_success": "2026-11-28T02:27:24.142382+00:00",
       "error": ""
     },
     {
@@ -1019,7 +1032,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:01.231340+00:00",
+      "last_success": "2026-11-28T02:27:23.458355+00:00",
       "error": ""
     },
     {
@@ -1028,7 +1041,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:01.012492+00:00",
+      "last_success": "2026-11-28T02:27:23.277450+00:00",
       "error": ""
     },
     {
@@ -1037,7 +1050,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:05.097201+00:00",
+      "last_success": "2026-11-28T02:27:27.121789+00:00",
       "error": ""
     },
     {
@@ -1046,7 +1059,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-27T23:10:59.690754+00:00",
+      "last_success": "2026-11-28T02:27:22.249385+00:00",
       "error": ""
     },
     {
@@ -1055,7 +1068,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:04.800706+00:00",
+      "last_success": "2026-11-28T02:27:26.829401+00:00",
       "error": ""
     },
     {
@@ -1064,7 +1077,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:04.473096+00:00",
+      "last_success": "2026-11-28T02:27:26.431933+00:00",
       "error": ""
     },
     {
@@ -1073,7 +1086,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:06.249775+00:00",
+      "last_success": "2026-11-28T02:27:29.434360+00:00",
       "error": ""
     },
     {
@@ -1082,7 +1095,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:06.154886+00:00",
+      "last_success": "2026-11-28T02:27:29.369674+00:00",
       "error": ""
     },
     {
@@ -1091,7 +1104,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:01.761680+00:00",
+      "last_success": "2026-11-28T02:27:23.956738+00:00",
       "error": ""
     },
     {
@@ -1100,7 +1113,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:10.001418+00:00",
+      "last_success": "2026-11-28T02:27:33.547233+00:00",
       "error": ""
     },
     {
@@ -1109,7 +1122,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:10:59.894826+00:00",
+      "last_success": "2026-11-28T02:27:22.426863+00:00",
       "error": ""
     },
     {
@@ -1118,7 +1131,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:06.640589+00:00",
+      "last_success": "2026-11-28T02:27:30.215671+00:00",
       "error": ""
     },
     {
@@ -1127,7 +1140,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:05.097147+00:00",
+      "last_success": "2026-11-28T02:27:27.121747+00:00",
       "error": ""
     },
     {
@@ -1136,7 +1149,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:03.924970+00:00",
+      "last_success": "2026-11-28T02:27:25.962284+00:00",
       "error": ""
     },
     {
@@ -1145,7 +1158,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:00.257621+00:00",
+      "last_success": "2026-11-28T02:27:22.721395+00:00",
       "error": ""
     },
     {
@@ -1154,7 +1167,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:13.329414+00:00",
+      "last_success": "2026-11-28T02:27:36.859697+00:00",
       "error": ""
     },
     {
@@ -1163,7 +1176,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:03.358898+00:00",
+      "last_success": "2026-11-28T02:27:25.387437+00:00",
       "error": ""
     },
     {
@@ -1172,7 +1185,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:00.588338+00:00",
+      "last_success": "2026-11-28T02:27:23.038720+00:00",
       "error": ""
     },
     {
@@ -1181,7 +1194,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:05.712543+00:00",
+      "last_success": "2026-11-28T02:27:29.114728+00:00",
       "error": ""
     },
     {
@@ -1190,7 +1203,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:10:59.764786+00:00",
+      "last_success": "2026-11-28T02:27:22.329072+00:00",
       "error": ""
     },
     {
@@ -1199,7 +1212,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:00.403924+00:00",
+      "last_success": "2026-11-28T02:27:22.820711+00:00",
       "error": ""
     },
     {
@@ -1208,7 +1221,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:03.664218+00:00",
+      "last_success": "2026-11-28T02:27:25.677497+00:00",
       "error": ""
     },
     {
@@ -1217,7 +1230,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:05.631638+00:00",
+      "last_success": "2026-11-28T02:27:27.630476+00:00",
       "error": ""
     },
     {
@@ -1226,7 +1239,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:05.096240+00:00",
+      "last_success": "2026-11-28T02:27:27.120996+00:00",
       "error": ""
     },
     {
@@ -1235,7 +1248,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:00.177051+00:00",
+      "last_success": "2026-11-28T02:27:22.641555+00:00",
       "error": ""
     },
     {
@@ -1244,7 +1257,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-27T23:11:04.194923+00:00",
+      "last_success": "2026-11-28T02:27:26.197548+00:00",
       "error": ""
     },
     {
@@ -1252,7 +1265,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 2,
+      "failures": 3,
       "last_success": "2026-11-26T17:28:54.020412+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1261,7 +1274,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 2,
+      "failures": 3,
       "last_success": "2026-11-26T17:28:54.004441+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
