@@ -1,18 +1,35 @@
 {
-  "generated": "2026-11-28T02:27:21.934909+00:00",
+  "generated": "2026-11-28T08:42:05.595054+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-27T02:27:21.934909+00:00",
+  "window_start": "2026-11-27T08:42:05.595054+00:00",
   "stats": {
-    "events": 39,
+    "events": 42,
     "high": 0,
     "sources_reporting": 9,
     "categories": 5,
-    "records_inserted": 2,
+    "records_inserted": 4,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
   },
   "top": [
+    {
+      "title": "How cellular base stations may affect solar module performance",
+      "url": "https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-28T08:30:00+00:00",
+      "summary": "Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules. Their outdoor experiments revealed nonlinear effects depending on field intensity and antenna radiation patterns. The post How cellular base stations may affect solar module performance appeared first on pv magazine Global .",
+      "score": 11,
+      "priority": "Worth watching",
+      "interests": [
+        "Renewable Energy",
+        "Electronics",
+        "Research"
+      ],
+      "event_id": "a3fafc1529bc",
+      "coverage": []
+    },
     {
       "title": "The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant",
       "url": "https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant",
@@ -56,21 +73,6 @@
         "Renewable Energy"
       ],
       "event_id": "08480a583745",
-      "coverage": []
-    },
-    {
-      "title": "Australia’s rooftop solar installs record 890MW in Q3 2026, says CER",
-      "url": "https://www.pv-tech.org/australias-rooftop-solar-installs-record-890mw-q3-2026-cer/",
-      "source": "PV Tech",
-      "category": "Renewable Energy",
-      "published": "2026-11-27T06:04:04+00:00",
-      "summary": "Australia's rooftop solar sector installed 890MW in its strongest third quarter on record, according to the Clean Energy Regulator (CER).",
-      "score": 10,
-      "priority": "Worth watching",
-      "interests": [
-        "Renewable Energy"
-      ],
-      "event_id": "095adcaa22c8",
       "coverage": []
     },
     {
@@ -275,9 +277,26 @@
     },
     {
       "name": "Renewable Energy",
-      "count": 20,
+      "count": 23,
       "high": 0,
       "top": [
+        {
+          "title": "How cellular base stations may affect solar module performance",
+          "url": "https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-28T08:30:00+00:00",
+          "summary": "Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules. Their outdoor experiments revealed nonlinear effects depending on field intensity and antenna radiation patterns. The post How cellular base stations may affect solar module performance appeared first on pv magazine Global .",
+          "score": 11,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Electronics",
+            "Research"
+          ],
+          "event_id": "a3fafc1529bc",
+          "coverage": []
+        },
         {
           "title": "The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant",
           "url": "https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant",
@@ -306,26 +325,28 @@
             "Renewable Energy"
           ],
           "event_id": "4737d2a5e369",
-          "coverage": []
-        },
-        {
-          "title": "New record for UK rooftop solar, more growth predicted",
-          "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted",
-          "source": "pv magazine",
-          "category": "Renewable Energy",
-          "published": "2026-11-27T10:45:36+00:00",
-          "summary": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared first on pv magazine Global .",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "08480a583745",
           "coverage": []
         }
       ],
       "items": [
         {
+          "title": "How cellular base stations may affect solar module performance",
+          "url": "https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-28T08:30:00+00:00",
+          "summary": "Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules. Their outdoor experiments revealed nonlinear effects depending on field intensity and antenna radiation patterns. The post How cellular base stations may affect solar module performance appeared first on pv magazine Global .",
+          "score": 11,
+          "priority": "Worth watching",
+          "interests": [
+            "Renewable Energy",
+            "Electronics",
+            "Research"
+          ],
+          "event_id": "a3fafc1529bc",
+          "coverage": []
+        },
+        {
           "title": "The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant",
           "url": "https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant",
           "source": "pv magazine",
@@ -368,21 +389,6 @@
             "Renewable Energy"
           ],
           "event_id": "08480a583745",
-          "coverage": []
-        },
-        {
-          "title": "Australia’s rooftop solar installs record 890MW in Q3 2026, says CER",
-          "url": "https://www.pv-tech.org/australias-rooftop-solar-installs-record-890mw-q3-2026-cer/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-27T06:04:04+00:00",
-          "summary": "Australia's rooftop solar sector installed 890MW in its strongest third quarter on record, according to the Clean Energy Regulator (CER).",
-          "score": 10,
-          "priority": "Worth watching",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "095adcaa22c8",
           "coverage": []
         },
         {
@@ -545,6 +551,51 @@
           "coverage": []
         },
         {
+          "title": "Walking the walk is more important than the climate talk",
+          "url": "https://www.pv-magazine.com/2026/11/28/walking-the-walk-is-more-important-than-the-climate-talk",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-28T05:00:00+00:00",
+          "summary": "Nearly a quarter of countries have breached the Paris Agreement by not submitting new nationally determined contributions to the United Nations. This isn’t a one-off, or just exclusive to governments. Recent research found nearly 40% of companies missed or abandoned 2020 climate targets with no consequences. The post Walking the walk is more important than the climate talk appeared first on pv magazine Global .",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "6b0d1febd14f",
+          "coverage": []
+        },
+        {
+          "title": "Peru hits 1.24 GW of installed solar capacity across 22 plants",
+          "url": "https://www.pv-magazine.com/2026/11/28/peru-hits-1-24-gw-of-installed-solar-capacity-across-22-plants",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-28T08:40:00+00:00",
+          "summary": "Peru has 1,241 MW of installed PV capacity across 22 operational installations, with three southern regions accounting for 97.3% of the total. The post Peru hits 1.24 GW of installed solar capacity across 22 plants appeared first on pv magazine Global .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "25b7acd329ee",
+          "coverage": []
+        },
+        {
+          "title": "Germany’s solar generation tops 100 TWh in 2026",
+          "url": "https://www.pv-magazine.com/2026/11/28/germanys-solar-generation-tops-100-twh-in-2026",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-28T08:00:00+00:00",
+          "summary": "PV systems in Germany have generated more than 100 TWh of electricity in 2026, nearly tripling output over the past decade, according to data from Fraunhofer ISE. The post Germany’s solar generation tops 100 TWh in 2026 appeared first on pv magazine Global .",
+          "score": 6,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy"
+          ],
+          "event_id": "4f726fee9f27",
+          "coverage": []
+        },
+        {
           "title": "Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter",
           "url": "https://cleantechnica.com/2026/11/27/why-european-households-are-rushing-to-buy-solar-panels-ahead-of-a-dark-cold-winter/",
           "source": "CleanTechnica",
@@ -635,7 +686,7 @@
           "coverage": []
         }
       ],
-      "narrative": "20 distinct renewable energy developments appeared in this time window. Highest-ranked topics: The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom; New record for UK rooftop solar, more growth predicted. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: How cellular base stations may affect solar module performance; The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
@@ -987,7 +1038,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:27.305177+00:00",
+      "last_success": "2026-11-28T08:42:11.803408+00:00",
       "error": ""
     },
     {
@@ -996,7 +1047,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:40.229489+00:00",
+      "last_success": "2026-11-28T08:42:24.492358+00:00",
       "error": ""
     },
     {
@@ -1005,7 +1056,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:23.685118+00:00",
+      "last_success": "2026-11-28T08:42:08.026412+00:00",
       "error": ""
     },
     {
@@ -1014,7 +1065,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:24.400820+00:00",
+      "last_success": "2026-11-28T08:42:08.767307+00:00",
       "error": ""
     },
     {
@@ -1023,7 +1074,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:24.142382+00:00",
+      "last_success": "2026-11-28T08:42:08.515343+00:00",
       "error": ""
     },
     {
@@ -1032,7 +1083,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:23.458355+00:00",
+      "last_success": "2026-11-28T08:42:07.783416+00:00",
       "error": ""
     },
     {
@@ -1041,7 +1092,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:23.277450+00:00",
+      "last_success": "2026-11-28T08:42:07.447708+00:00",
       "error": ""
     },
     {
@@ -1050,7 +1101,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:27.121789+00:00",
+      "last_success": "2026-11-28T08:42:11.552131+00:00",
       "error": ""
     },
     {
@@ -1059,7 +1110,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:22.249385+00:00",
+      "last_success": "2026-11-28T08:42:05.973352+00:00",
       "error": ""
     },
     {
@@ -1068,7 +1119,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:26.829401+00:00",
+      "last_success": "2026-11-28T08:42:11.272957+00:00",
       "error": ""
     },
     {
@@ -1077,7 +1128,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:26.431933+00:00",
+      "last_success": "2026-11-28T08:42:10.902957+00:00",
       "error": ""
     },
     {
@@ -1086,7 +1137,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:29.434360+00:00",
+      "last_success": "2026-11-28T08:42:12.954782+00:00",
       "error": ""
     },
     {
@@ -1095,7 +1146,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:29.369674+00:00",
+      "last_success": "2026-11-28T08:42:12.888644+00:00",
       "error": ""
     },
     {
@@ -1104,7 +1155,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:23.956738+00:00",
+      "last_success": "2026-11-28T08:42:08.290159+00:00",
       "error": ""
     },
     {
@@ -1113,7 +1164,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:33.547233+00:00",
+      "last_success": "2026-11-28T08:42:16.950165+00:00",
       "error": ""
     },
     {
@@ -1122,7 +1173,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:22.426863+00:00",
+      "last_success": "2026-11-28T08:42:06.163605+00:00",
       "error": ""
     },
     {
@@ -1131,7 +1182,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:30.215671+00:00",
+      "last_success": "2026-11-28T08:42:13.381403+00:00",
       "error": ""
     },
     {
@@ -1140,7 +1191,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:27.121747+00:00",
+      "last_success": "2026-11-28T08:42:11.552074+00:00",
       "error": ""
     },
     {
@@ -1149,7 +1200,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:25.962284+00:00",
+      "last_success": "2026-11-28T08:42:10.378944+00:00",
       "error": ""
     },
     {
@@ -1158,7 +1209,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:22.721395+00:00",
+      "last_success": "2026-11-28T08:42:06.538754+00:00",
       "error": ""
     },
     {
@@ -1167,7 +1218,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:36.859697+00:00",
+      "last_success": "2026-11-28T08:42:20.674156+00:00",
       "error": ""
     },
     {
@@ -1176,7 +1227,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:25.387437+00:00",
+      "last_success": "2026-11-28T08:42:09.849591+00:00",
       "error": ""
     },
     {
@@ -1185,7 +1236,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:23.038720+00:00",
+      "last_success": "2026-11-28T08:42:06.890102+00:00",
       "error": ""
     },
     {
@@ -1194,7 +1245,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:29.114728+00:00",
+      "last_success": "2026-11-28T08:42:12.514531+00:00",
       "error": ""
     },
     {
@@ -1203,7 +1254,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:22.329072+00:00",
+      "last_success": "2026-11-28T08:42:06.051196+00:00",
       "error": ""
     },
     {
@@ -1212,7 +1263,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:22.820711+00:00",
+      "last_success": "2026-11-28T08:42:06.765030+00:00",
       "error": ""
     },
     {
@@ -1221,7 +1272,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:25.677497+00:00",
+      "last_success": "2026-11-28T08:42:10.169734+00:00",
       "error": ""
     },
     {
@@ -1230,7 +1281,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:27.630476+00:00",
+      "last_success": "2026-11-28T08:42:12.247627+00:00",
       "error": ""
     },
     {
@@ -1239,7 +1290,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:27.120996+00:00",
+      "last_success": "2026-11-28T08:42:11.551011+00:00",
       "error": ""
     },
     {
@@ -1248,7 +1299,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:22.641555+00:00",
+      "last_success": "2026-11-28T08:42:06.433721+00:00",
       "error": ""
     },
     {
@@ -1257,7 +1308,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T02:27:26.197548+00:00",
+      "last_success": "2026-11-28T08:42:10.584545+00:00",
       "error": ""
     },
     {
@@ -1265,7 +1316,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 3,
+      "failures": 4,
       "last_success": "2026-11-26T17:28:54.020412+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1274,7 +1325,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 3,
+      "failures": 4,
       "last_success": "2026-11-26T17:28:54.004441+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1315,5 +1366,45 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions."
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.",
+  "today": {
+    "date": "2026-11-28",
+    "stories": [
+      {
+        "title": "Elco launches propane air-to-water heat pumps for commercial applications",
+        "url": "https://www.pv-magazine.com/2026/11/27/elco-launches-propane-air-to-water-heat-pumps-for-commercial-applications",
+        "source": "pv magazine",
+        "category": "Renewable Energy",
+        "published": "2026-11-27T12:09:35+00:00"
+      },
+      {
+        "title": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie",
+        "url": "https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie",
+        "source": "pv magazine",
+        "category": "Renewable Energy",
+        "published": "2026-11-27T11:18:46+00:00"
+      },
+      {
+        "title": "Chinese PV Industry Brief: China hits 1.33 TW of cumulative solar capacity",
+        "url": "https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity",
+        "source": "pv magazine",
+        "category": "Renewable Energy",
+        "published": "2026-11-27T11:06:15+00:00"
+      },
+      {
+        "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
+        "url": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar",
+        "source": "Energy Storage News",
+        "category": "Energy Storage",
+        "published": "2026-11-27T09:10:31+00:00"
+      },
+      {
+        "title": "Co-locating solar and storage integral to minimise ‘disruptive’ impacts on Central and Eastern European grids",
+        "url": "https://www.pv-tech.org/co-locating-solar-storage-integral-minimise-disruptive-impacts-central-eastern-european-grids/",
+        "source": "PV Tech",
+        "category": "Renewable Energy",
+        "published": "2026-11-27T15:50:35+00:00"
+      }
+    ]
+  }
 }

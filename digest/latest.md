@@ -1,14 +1,20 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-28T02:27:21.934909+00:00  
+**Generated:** 2026-11-28T08:42:05.595054+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 39 · **High-signal candidates:** 0 · **Sources reporting:** 9
+**Distinct events:** 42 · **High-signal candidates:** 0 · **Sources reporting:** 9
 
 ## Executive brief
 
 The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
+
+### [How cellular base stations may affect solar module performance](https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance)
+
+**Renewable Energy · Worth watching · Score 11 · pv magazine**
+
+Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules. Their outdoor experiments revealed nonlinear effects depending on field intensity and antenna radiation patterns. The post How cellular b
 
 ### [The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant](https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant)
 
@@ -27,12 +33,6 @@ India added 4.7GW of new rooftop solar PV capacity in Q3 2026, more than double 
 **Renewable Energy · Worth watching · Score 10 · pv magazine**
 
 More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared
-
-### [Australia’s rooftop solar installs record 890MW in Q3 2026, says CER](https://www.pv-tech.org/australias-rooftop-solar-installs-record-890mw-q3-2026-cer/)
-
-**Renewable Energy · Worth watching · Score 10 · PV Tech**
-
-Australia's rooftop solar sector installed 890MW in its strongest third quarter on record, according to the Clean Energy Regulator (CER).
 
 ### [Australia opens 5GW renewable energy tender under Capacity Investment Scheme](https://www.pv-tech.org/australia-opens-5gw-renewable-energy-tender-under-capacity-investment-scheme/)
 
@@ -96,9 +96,15 @@ There is a stark difference between the histories of the two companies named 202
 
 Lawmakers in Italy are paving the way to again have nuclear power as part of the country's energy mix. The post Italy Taking Steps to Revive Use of Nuclear Power appeared first on POWER Magazine .
 
-## Renewable Energy — 20 distinct findings, 0 high-signal
+## Renewable Energy — 23 distinct findings, 0 high-signal
 
-20 distinct renewable energy developments appeared in this time window. Highest-ranked topics: The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom; New record for UK rooftop solar, more growth predicted. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: How cellular base stations may affect solar module performance; The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+
+### [How cellular base stations may affect solar module performance](https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance)
+
+**Renewable Energy · Worth watching · Score 11 · pv magazine**
+
+Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules. Their outdoor experiments revealed nonlinear effects depending on field intensity and antenna radiation patterns. The post How cellular b
 
 ### [The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant](https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant)
 
@@ -111,12 +117,6 @@ In other news, Australia and Germany are exploring hydrogen-based aviation, whil
 **Renewable Energy · Worth watching · Score 10 · PV Tech**
 
 India added 4.7GW of new rooftop solar PV capacity in Q3 2026, more than double the figure added in the same period last year, according to figures from Mercom India.
-
-### [New record for UK rooftop solar, more growth predicted](https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted)
-
-**Renewable Energy · Worth watching · Score 10 · pv magazine**
-
-More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared
 
 ## Energy Storage — 5 distinct findings, 0 high-signal
 
