@@ -1,12 +1,12 @@
 # Daily Electrical Engineering News Digest
 
-**Generated:** 2026-11-28T08:42:05.595054+00:00  
+**Generated:** 2026-11-28T10:58:41.353267+00:00  
 **Window: last 24 hours (UTC, rolling)**  
-**Distinct events:** 42 · **High-signal candidates:** 0 · **Sources reporting:** 9
+**Distinct events:** 39 · **High-signal candidates:** 0 · **Sources reporting:** 9
 
 ## Executive brief
 
-The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
+The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (10). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.
 
 ## Top stories
 
@@ -28,11 +28,11 @@ In other news, Australia and Germany are exploring hydrogen-based aviation, whil
 
 India added 4.7GW of new rooftop solar PV capacity in Q3 2026, more than double the figure added in the same period last year, according to figures from Mercom India.
 
-### [New record for UK rooftop solar, more growth predicted](https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted)
+### [New model optimizes perovskite-silicon tandem solar cells for satellites](https://www.pv-magazine.com/2026/11/28/new-model-optimizes-perovskite-silicon-tandem-solar-cells-for-satellites)
 
-**Renewable Energy · Worth watching · Score 10 · pv magazine**
+**Renewable Energy · Other developments · Score 9 · pv magazine**
 
-More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared
+South Korean-led researchers have identified optimal perovskite absorber thicknesses and bandgaps for tandem solar cells operating in different satellite orbits. Their simulations indicate that bromide-rich perovskites offer superior current matching, greater thickness tolerance, and projected effic
 
 ### [Australia opens 5GW renewable energy tender under Capacity Investment Scheme](https://www.pv-tech.org/australia-opens-5gw-renewable-energy-tender-under-capacity-investment-scheme/)
 
@@ -58,11 +58,11 @@ Wood Mackenzie expects EU funding restrictions on projects using inverters from 
 
 In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar project, while TrendForce has reported further declines in wafer and cell prices. 
 
-### [‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar](https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar)
+### [Romanian solar and storage: What gets financed and built?](https://www.pv-magazine.com/2026/11/28/romanian-solar-and-storage-what-gets-financed-and-built)
 
-**Energy Storage · Other developments · Score 9 · Energy Storage News**
+**Renewable Energy · Other developments · Score 8 · pv magazine**
 
-Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.
+Romania’s growing solar and storage market offers significant investment opportunities, but ready-to-build status alone does not guarantee bankability. Investors must assess grid connection conditions, outstanding development obligations and revenue assumptions to determine which projects can secure
 
 ### [Co-locating solar and storage integral to minimise ‘disruptive’ impacts on Central and Eastern European grids](https://www.pv-tech.org/co-locating-solar-storage-integral-minimise-disruptive-impacts-central-eastern-european-grids/)
 
@@ -96,9 +96,9 @@ There is a stark difference between the histories of the two companies named 202
 
 Lawmakers in Italy are paving the way to again have nuclear power as part of the country's energy mix. The post Italy Taking Steps to Revive Use of Nuclear Power appeared first on POWER Magazine .
 
-## Renewable Energy — 23 distinct findings, 0 high-signal
+## Renewable Energy — 24 distinct findings, 0 high-signal
 
-23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: How cellular base stations may affect solar module performance; The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+24 distinct renewable energy developments appeared in this time window. Highest-ranked topics: How cellular base stations may affect solar module performance; The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [How cellular base stations may affect solar module performance](https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance)
 
@@ -118,15 +118,9 @@ In other news, Australia and Germany are exploring hydrogen-based aviation, whil
 
 India added 4.7GW of new rooftop solar PV capacity in Q3 2026, more than double the figure added in the same period last year, according to figures from Mercom India.
 
-## Energy Storage — 5 distinct findings, 0 high-signal
+## Energy Storage — 2 distinct findings, 0 high-signal
 
-5 distinct energy storage developments appeared in this time window. Highest-ranked topics: ‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar; This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus; BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
-
-### [‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar](https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar)
-
-**Energy Storage · Other developments · Score 9 · Energy Storage News**
-
-Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.
+2 distinct energy storage developments appeared in this time window. Highest-ranked topics: This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus; Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus](https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm)
 
@@ -134,15 +128,15 @@ Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in t
 
 Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason: Tesla won’t have enough AI5 chips for its cars until 2028. According to Commercial Times , Tesla’s chip design partner Glob
 
-### [BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss](https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss)
+### [Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating](https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating)
 
-**Energy Storage · Other developments · Score 8 · Energy Storage News**
+**Energy Storage · Other developments · Score 5 · Energy Storage News**
 
-Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.
+The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.
 
-## Electronics — 11 distinct findings, 0 high-signal
+## Electronics — 10 distinct findings, 0 high-signal
 
-11 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
+10 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance.
 
 ### [NuVolta Technical Sharing: PCB Grounding Design and Return Path](https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path)
 

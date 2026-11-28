@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-28T08:42:05.595054+00:00",
+  "generated": "2026-11-28T10:58:41.353267+00:00",
   "window_hours": 24,
-  "window_start": "2026-11-27T08:42:05.595054+00:00",
+  "window_start": "2026-11-27T10:58:41.353267+00:00",
   "stats": {
-    "events": 42,
+    "events": 39,
     "high": 0,
     "sources_reporting": 9,
     "categories": 5,
-    "records_inserted": 4,
+    "records_inserted": 5,
     "fetched": 360,
     "sources_failed": 6,
     "source_checks": 37
@@ -61,18 +61,19 @@
       "coverage": []
     },
     {
-      "title": "New record for UK rooftop solar, more growth predicted",
-      "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted",
+      "title": "New model optimizes perovskite-silicon tandem solar cells for satellites",
+      "url": "https://www.pv-magazine.com/2026/11/28/new-model-optimizes-perovskite-silicon-tandem-solar-cells-for-satellites",
       "source": "pv magazine",
       "category": "Renewable Energy",
-      "published": "2026-11-27T10:45:36+00:00",
-      "summary": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared first on pv magazine Global .",
-      "score": 10,
-      "priority": "Worth watching",
+      "published": "2026-11-28T09:33:00+00:00",
+      "summary": "South Korean-led researchers have identified optimal perovskite absorber thicknesses and bandgaps for tandem solar cells operating in different satellite orbits. Their simulations indicate that bromide-rich perovskites offer superior current matching, greater thickness tolerance, and projected efficiencies of up to 29%. The post New model optimizes perovskite-silicon tandem solar cells for satellites appeared first on pv magazine Global .",
+      "score": 9,
+      "priority": "Other developments",
       "interests": [
-        "Renewable Energy"
+        "Renewable Energy",
+        "Research"
       ],
-      "event_id": "08480a583745",
+      "event_id": "5d849afe9b6e",
       "coverage": []
     },
     {
@@ -139,19 +140,19 @@
       "coverage": []
     },
     {
-      "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
-      "url": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar",
-      "source": "Energy Storage News",
-      "category": "Energy Storage",
-      "published": "2026-11-27T09:10:31+00:00",
-      "summary": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
-      "score": 9,
+      "title": "Romanian solar and storage: What gets financed and built?",
+      "url": "https://www.pv-magazine.com/2026/11/28/romanian-solar-and-storage-what-gets-financed-and-built",
+      "source": "pv magazine",
+      "category": "Renewable Energy",
+      "published": "2026-11-28T09:30:00+00:00",
+      "summary": "Romania’s growing solar and storage market offers significant investment opportunities, but ready-to-build status alone does not guarantee bankability. Investors must assess grid connection conditions, outstanding development obligations and revenue assumptions to determine which projects can secure financing and enter operation. The post Romanian solar and storage: What gets financed and built? appeared first on pv magazine Global .",
+      "score": 8,
       "priority": "Other developments",
       "interests": [
-        "Renewable Energy",
-        "Energy Storage"
+        "Power Systems",
+        "Renewable Energy"
       ],
-      "event_id": "94a537c7acb5",
+      "event_id": "e1eace766447",
       "coverage": []
     },
     {
@@ -277,7 +278,7 @@
     },
     {
       "name": "Renewable Energy",
-      "count": 23,
+      "count": 24,
       "high": 0,
       "top": [
         {
@@ -377,18 +378,19 @@
           "coverage": []
         },
         {
-          "title": "New record for UK rooftop solar, more growth predicted",
-          "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted",
+          "title": "New model optimizes perovskite-silicon tandem solar cells for satellites",
+          "url": "https://www.pv-magazine.com/2026/11/28/new-model-optimizes-perovskite-silicon-tandem-solar-cells-for-satellites",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-27T10:45:36+00:00",
-          "summary": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar. The post New record for UK rooftop solar, more growth predicted appeared first on pv magazine Global .",
-          "score": 10,
-          "priority": "Worth watching",
+          "published": "2026-11-28T09:33:00+00:00",
+          "summary": "South Korean-led researchers have identified optimal perovskite absorber thicknesses and bandgaps for tandem solar cells operating in different satellite orbits. Their simulations indicate that bromide-rich perovskites offer superior current matching, greater thickness tolerance, and projected efficiencies of up to 29%. The post New model optimizes perovskite-silicon tandem solar cells for satellites appeared first on pv magazine Global .",
+          "score": 9,
+          "priority": "Other developments",
           "interests": [
-            "Renewable Energy"
+            "Renewable Energy",
+            "Research"
           ],
-          "event_id": "08480a583745",
+          "event_id": "5d849afe9b6e",
           "coverage": []
         },
         {
@@ -452,6 +454,22 @@
             "Semiconductors"
           ],
           "event_id": "5fcf07126c7f",
+          "coverage": []
+        },
+        {
+          "title": "Romanian solar and storage: What gets financed and built?",
+          "url": "https://www.pv-magazine.com/2026/11/28/romanian-solar-and-storage-what-gets-financed-and-built",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-28T09:30:00+00:00",
+          "summary": "Romania’s growing solar and storage market offers significant investment opportunities, but ready-to-build status alone does not guarantee bankability. Investors must assess grid connection conditions, outstanding development obligations and revenue assumptions to determine which projects can secure financing and enter operation. The post Romanian solar and storage: What gets financed and built? appeared first on pv magazine Global .",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Power Systems",
+            "Renewable Energy"
+          ],
+          "event_id": "e1eace766447",
           "coverage": []
         },
         {
@@ -535,19 +553,36 @@
           "coverage": []
         },
         {
-          "title": "Juniper Green Energy signs 150MW hybrid project PPA with NTPC",
-          "url": "https://www.pv-tech.org/juniper-green-energy-signs-150mw-hybrid-project-ppa-with-ntpc/",
-          "source": "PV Tech",
+          "title": "Integrating agrivoltaics with batteries for rural energy and food security in West Africa",
+          "url": "https://www.pv-magazine.com/2026/11/28/integrating-agrivoltaics-with-batteries-for-rural-energy-and-food-security-in-west-africa",
+          "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-27T10:09:16+00:00",
-          "summary": "Indian IPP Juniper Green Energy has signed a 25 year PPA with state-owned utility NTPC for a 150MW wind-solar hybrid project.",
-          "score": 8,
+          "published": "2026-11-28T10:58:00+00:00",
+          "summary": "Agrivoltaics offers a sustainable solution to competing land-use demands by integrating solar energy generation and agriculture, enhancing food security, water efficiency and rural livelihoods. Combined with battery energy storage, it can strengthen energy reliability, economic viability and climate resilience in rural West Africa, particularly in Nigeria and Ghana. The post Integrating agrivoltaics with batteries for rural energy and food security in West Africa appeared first on pv magazine Global .",
+          "score": 7,
           "priority": "Other developments",
           "interests": [
-            "Power Systems",
-            "Renewable Energy"
+            "Renewable Energy",
+            "Energy Storage"
           ],
-          "event_id": "58bb5151bb6a",
+          "event_id": "15128f528701",
+          "coverage": []
+        },
+        {
+          "title": "Chinese inverter maker bundles DC-coupled storage for commercial sites",
+          "url": "https://www.pv-magazine.com/2026/11/28/chinese-inverter-maker-bundles-dc-coupled-storage-for-commercial-sites",
+          "source": "pv magazine",
+          "category": "Renewable Energy",
+          "published": "2026-11-28T08:50:00+00:00",
+          "summary": "GoodWe now links up to four liquid-cooled 261 kWh battery cabinets to a hybrid inverter and static transfer switch in a DC-coupled system that gives commercial and industrial (C&I) sites just over 1 MWh of storage. The post Chinese inverter maker bundles DC-coupled storage for commercial sites appeared first on pv magazine Global .",
+          "score": 7,
+          "priority": "Other developments",
+          "interests": [
+            "Renewable Energy",
+            "Energy Storage",
+            "Power Electronics"
+          ],
+          "event_id": "e8c5f38e11dd",
           "coverage": []
         },
         {
@@ -656,60 +691,29 @@
           "coverage": []
         },
         {
-          "title": "Strong El Niño coincides with uneven October solar resource across South America",
-          "url": "https://www.pv-magazine.com/2026/11/27/strong-el-nino-coincides-with-uneven-october-solar-resource-across-south-america",
+          "title": "Leading the energy transition: stereotypes, AI and what stays human",
+          "url": "https://www.pv-magazine.com/2026/11/28/leading-the-energy-transition-stereotypes-ai-and-what-stays-human",
           "source": "pv magazine",
           "category": "Renewable Energy",
-          "published": "2026-11-27T10:45:00+00:00",
-          "summary": "In a new weekly update for pv magazine , Solcast, a DNV company, reports that solar irradiance was above average across much of the northern part of South America last month, while areas in the south-east recorded substantial deficits. The post Strong El Niño coincides with uneven October solar resource across South America appeared first on pv magazine Global .",
-          "score": 6,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy"
-          ],
-          "event_id": "fc2b20fd5c7d",
-          "coverage": []
-        },
-        {
-          "title": "Vena Energy secures US$113 million loan for 114MW Indonesia portfolio",
-          "url": "https://www.pv-tech.org/vena-energy-us113-million-loan-114mw-indonesia-portfolio/",
-          "source": "PV Tech",
-          "category": "Renewable Energy",
-          "published": "2026-11-27T10:48:30+00:00",
-          "summary": "Vena Energy has secured a US$113 million green loan from BNP Paribas and Standard Chartered to refinance Indonesian renewable assets.",
+          "published": "2026-11-28T08:45:00+00:00",
+          "summary": "This week, Women in Solar+ Europe (WiSEu) and Solar+ Leaders reflect on two workshops held in Madrid during Genera that examined how bias shapes everyday leadership decisions in the energy transition. The WiSEu breakfast workshop explored who gets heard in meetings, who receives credit for their work and who gets the chance to progress. The Solar+ Leaders workshop asked what happens when AI agents join a team, and how leaders decide what to delegate and who is accountable for the outcome. Both discussions came back to a question that matters for the sector’s ability to deliver: how can leaders recognise the assumptions behind their decisions before those assumptions shape the way their teams work? The post Leading the energy transition: stereotypes, AI and what stays human appeared first on pv magazine Global .",
           "score": 5,
           "priority": "Other developments",
           "interests": [
             "Renewable Energy"
           ],
-          "event_id": "22f3c37ae229",
+          "event_id": "ae38d1fa0d96",
           "coverage": []
         }
       ],
-      "narrative": "23 distinct renewable energy developments appeared in this time window. Highest-ranked topics: How cellular base stations may affect solar module performance; The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "24 distinct renewable energy developments appeared in this time window. Highest-ranked topics: How cellular base stations may affect solar module performance; The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant; Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Energy Storage",
-      "count": 5,
+      "count": 2,
       "high": 0,
       "top": [
         {
-          "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
-          "url": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar",
-          "source": "Energy Storage News",
-          "category": "Energy Storage",
-          "published": "2026-11-27T09:10:31+00:00",
-          "summary": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "94a537c7acb5",
-          "coverage": []
-        },
-        {
           "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
           "url": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm",
           "source": "Electrek",
@@ -722,69 +726,6 @@
             "Semiconductors"
           ],
           "event_id": "1418111e47b7",
-          "coverage": []
-        },
-        {
-          "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
-          "url": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss",
-          "source": "Energy Storage News",
-          "category": "Energy Storage",
-          "published": "2026-11-27T09:44:08+00:00",
-          "summary": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Energy Storage"
-          ],
-          "event_id": "2099be566820",
-          "coverage": []
-        }
-      ],
-      "items": [
-        {
-          "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
-          "url": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar",
-          "source": "Energy Storage News",
-          "category": "Energy Storage",
-          "published": "2026-11-27T09:10:31+00:00",
-          "summary": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
-          "score": 9,
-          "priority": "Other developments",
-          "interests": [
-            "Renewable Energy",
-            "Energy Storage"
-          ],
-          "event_id": "94a537c7acb5",
-          "coverage": []
-        },
-        {
-          "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
-          "url": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm",
-          "source": "Electrek",
-          "category": "Energy Storage",
-          "published": "2026-11-27T14:48:15+00:00",
-          "summary": "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason: Tesla won’t have enough AI5 chips for its cars until 2028. According to Commercial Times , Tesla’s chip design partner Global Unichip (GUC) is giving its limited TSMC 3nm capacity for 2027 to Google and Microsoft data center chips first. That leaves Tesla with a relatively small AI5 allocation. more…",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Semiconductors"
-          ],
-          "event_id": "1418111e47b7",
-          "coverage": []
-        },
-        {
-          "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
-          "url": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss",
-          "source": "Energy Storage News",
-          "category": "Energy Storage",
-          "published": "2026-11-27T09:44:08+00:00",
-          "summary": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
-          "score": 8,
-          "priority": "Other developments",
-          "interests": [
-            "Energy Storage"
-          ],
-          "event_id": "2099be566820",
           "coverage": []
         },
         {
@@ -801,28 +742,45 @@
           ],
           "event_id": "0449b514035c",
           "coverage": []
+        }
+      ],
+      "items": [
+        {
+          "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+          "url": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm",
+          "source": "Electrek",
+          "category": "Energy Storage",
+          "published": "2026-11-27T14:48:15+00:00",
+          "summary": "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason: Tesla won’t have enough AI5 chips for its cars until 2028. According to Commercial Times , Tesla’s chip design partner Global Unichip (GUC) is giving its limited TSMC 3nm capacity for 2027 to Google and Microsoft data center chips first. That leaves Tesla with a relatively small AI5 allocation. more…",
+          "score": 8,
+          "priority": "Other developments",
+          "interests": [
+            "Semiconductors"
+          ],
+          "event_id": "1418111e47b7",
+          "coverage": []
         },
         {
-          "title": "‘Among the most powerful’: Alpiq seeks approval for 1.2GWh BESS in Switzerland",
-          "url": "https://www.energy-storage.news/alpiq-1-2gwh-bess-switzerland-niedergosgen",
+          "title": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating",
+          "url": "https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating",
           "source": "Energy Storage News",
           "category": "Energy Storage",
-          "published": "2026-11-27T09:13:02+00:00",
-          "summary": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
+          "published": "2026-11-27T11:20:23+00:00",
+          "summary": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
           "score": 5,
           "priority": "Other developments",
           "interests": [
             "Energy Storage"
           ],
-          "event_id": "5365d652f8b2",
+          "event_id": "0449b514035c",
           "coverage": []
         }
       ],
-      "narrative": "5 distinct energy storage developments appeared in this time window. Highest-ranked topics: ‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar; This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus; BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "2 distinct energy storage developments appeared in this time window. Highest-ranked topics: This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus; Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     },
     {
       "name": "Electronics",
-      "count": 11,
+      "count": 10,
       "high": 0,
       "top": [
         {
@@ -931,19 +889,6 @@
           "coverage": []
         },
         {
-          "title": "Huawei’s Next Big AI Move: HBM Workaround",
-          "url": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround",
-          "source": "EE Times",
-          "category": "Electronics",
-          "published": "2026-11-27T08:56:46+00:00",
-          "summary": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year. The post Huawei’s Next Big AI Move: HBM Workaround appeared first on EE Times .",
-          "score": 7,
-          "priority": "Other developments",
-          "interests": [],
-          "event_id": "38b9c265383d",
-          "coverage": []
-        },
-        {
           "title": "Penguin Revives Retired DDR4 for AI Servers",
           "url": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers",
           "source": "EE Times",
@@ -1028,7 +973,7 @@
           "coverage": []
         }
       ],
-      "narrative": "11 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
+      "narrative": "10 distinct electronics developments appeared in this time window. Highest-ranked topics: NuVolta Technical Sharing: PCB Grounding Design and Return Path; VinFast’s Net-Zero Strategy Targets Electrification and Energy Efficiency; Quantum computer scaling advances. These are relevance signals, not independently verified breakthroughs; consult the linked sources for evidence and actual performance."
     }
   ],
   "health": [
@@ -1038,7 +983,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:11.803408+00:00",
+      "last_success": "2026-11-28T10:58:45.892366+00:00",
       "error": ""
     },
     {
@@ -1047,7 +992,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:24.492358+00:00",
+      "last_success": "2026-11-28T10:58:57.080721+00:00",
       "error": ""
     },
     {
@@ -1056,7 +1001,7 @@
       "status": "ok",
       "count": 0,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:08.026412+00:00",
+      "last_success": "2026-11-28T10:58:42.613736+00:00",
       "error": ""
     },
     {
@@ -1065,7 +1010,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:08.767307+00:00",
+      "last_success": "2026-11-28T10:58:42.936926+00:00",
       "error": ""
     },
     {
@@ -1074,7 +1019,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:08.515343+00:00",
+      "last_success": "2026-11-28T10:58:42.830553+00:00",
       "error": ""
     },
     {
@@ -1083,7 +1028,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:07.783416+00:00",
+      "last_success": "2026-11-28T10:58:42.449828+00:00",
       "error": ""
     },
     {
@@ -1092,7 +1037,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:07.447708+00:00",
+      "last_success": "2026-11-28T10:58:42.319718+00:00",
       "error": ""
     },
     {
@@ -1101,7 +1046,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:11.552131+00:00",
+      "last_success": "2026-11-28T10:58:45.812654+00:00",
       "error": ""
     },
     {
@@ -1110,7 +1055,7 @@
       "status": "ok",
       "count": 30,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:05.973352+00:00",
+      "last_success": "2026-11-28T10:58:41.546710+00:00",
       "error": ""
     },
     {
@@ -1119,7 +1064,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:11.272957+00:00",
+      "last_success": "2026-11-28T10:58:45.538163+00:00",
       "error": ""
     },
     {
@@ -1128,7 +1073,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:10.902957+00:00",
+      "last_success": "2026-11-28T10:58:45.131892+00:00",
       "error": ""
     },
     {
@@ -1137,7 +1082,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:12.954782+00:00",
+      "last_success": "2026-11-28T10:58:46.425695+00:00",
       "error": ""
     },
     {
@@ -1146,7 +1091,7 @@
       "status": "ok",
       "count": 35,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:12.888644+00:00",
+      "last_success": "2026-11-28T10:58:46.381605+00:00",
       "error": ""
     },
     {
@@ -1155,7 +1100,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:08.290159+00:00",
+      "last_success": "2026-11-28T10:58:42.758744+00:00",
       "error": ""
     },
     {
@@ -1164,7 +1109,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:16.950165+00:00",
+      "last_success": "2026-11-28T10:58:50.472185+00:00",
       "error": ""
     },
     {
@@ -1173,7 +1118,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:06.163605+00:00",
+      "last_success": "2026-11-28T10:58:41.655784+00:00",
       "error": ""
     },
     {
@@ -1182,7 +1127,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:13.381403+00:00",
+      "last_success": "2026-11-28T10:58:46.724113+00:00",
       "error": ""
     },
     {
@@ -1191,7 +1136,7 @@
       "status": "ok",
       "count": 198,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:11.552074+00:00",
+      "last_success": "2026-11-28T10:58:45.812596+00:00",
       "error": ""
     },
     {
@@ -1200,7 +1145,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:10.378944+00:00",
+      "last_success": "2026-11-28T10:58:44.639681+00:00",
       "error": ""
     },
     {
@@ -1209,7 +1154,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:06.538754+00:00",
+      "last_success": "2026-11-28T10:58:41.874541+00:00",
       "error": ""
     },
     {
@@ -1218,7 +1163,7 @@
       "status": "ok",
       "count": 8,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:20.674156+00:00",
+      "last_success": "2026-11-28T10:58:53.786326+00:00",
       "error": ""
     },
     {
@@ -1227,7 +1172,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:09.849591+00:00",
+      "last_success": "2026-11-28T10:58:44.103619+00:00",
       "error": ""
     },
     {
@@ -1236,7 +1181,7 @@
       "status": "ok",
       "count": 15,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:06.890102+00:00",
+      "last_success": "2026-11-28T10:58:42.070784+00:00",
       "error": ""
     },
     {
@@ -1245,7 +1190,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:12.514531+00:00",
+      "last_success": "2026-11-28T10:58:46.191401+00:00",
       "error": ""
     },
     {
@@ -1254,7 +1199,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:06.051196+00:00",
+      "last_success": "2026-11-28T10:58:41.585515+00:00",
       "error": ""
     },
     {
@@ -1263,7 +1208,7 @@
       "status": "ok",
       "count": 3,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:06.765030+00:00",
+      "last_success": "2026-11-28T10:58:41.982856+00:00",
       "error": ""
     },
     {
@@ -1272,7 +1217,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:10.169734+00:00",
+      "last_success": "2026-11-28T10:58:44.350531+00:00",
       "error": ""
     },
     {
@@ -1281,7 +1226,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:12.247627+00:00",
+      "last_success": "2026-11-28T10:58:46.149183+00:00",
       "error": ""
     },
     {
@@ -1290,7 +1235,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:11.551011+00:00",
+      "last_success": "2026-11-28T10:58:45.811641+00:00",
       "error": ""
     },
     {
@@ -1299,7 +1244,7 @@
       "status": "ok",
       "count": 10,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:06.433721+00:00",
+      "last_success": "2026-11-28T10:58:41.823386+00:00",
       "error": ""
     },
     {
@@ -1308,7 +1253,7 @@
       "status": "ok",
       "count": 5,
       "failures": 0,
-      "last_success": "2026-11-28T08:42:10.584545+00:00",
+      "last_success": "2026-11-28T10:58:44.914676+00:00",
       "error": ""
     },
     {
@@ -1316,7 +1261,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 4,
+      "failures": 5,
       "last_success": "2026-11-26T17:28:54.020412+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1325,7 +1270,7 @@
       "kind": "feed",
       "status": "error",
       "count": 0,
-      "failures": 4,
+      "failures": 5,
       "last_success": "2026-11-26T17:28:54.004441+00:00",
       "error": "No RSS/Atom entries found (check source endpoint)"
     },
@@ -1366,7 +1311,7 @@
       "error": "404 Client Error: Not Found for url: https://www.tdworld.com/rss"
     }
   ],
-  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (9), Energy Storage (1). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.",
+  "executive": "The highest-ranked developments in the last 24 hours concentrate on Renewable Energy (10). Scores reflect relevance, source type and headline signals, not independently established impact. Read the linked evidence before making decisions.",
   "today": {
     "date": "2026-11-28",
     "stories": [
